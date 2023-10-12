@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Goke.Core", "Goke.Core\Goke.Core.csproj", "{47C86CE1-C8AC-4B69-8276-20DEE1DB26D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goke.FakeGen", "Goke.FakeGen\Goke.FakeGen.csproj", "{1360C106-1E1C-476E-ACF0-FDA4247ACF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C86CE1-C8AC-4B69-8276-20DEE1DB26D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C86CE1-C8AC-4B69-8276-20DEE1DB26D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C86CE1-C8AC-4B69-8276-20DEE1DB26D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C86CE1-C8AC-4B69-8276-20DEE1DB26D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1360C106-1E1C-476E-ACF0-FDA4247ACF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1360C106-1E1C-476E-ACF0-FDA4247ACF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1360C106-1E1C-476E-ACF0-FDA4247ACF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1360C106-1E1C-476E-ACF0-FDA4247ACF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A7473D-F94E-4E36-BD80-F1A929B3B168}
+	EndGlobalSection
+EndGlobal
