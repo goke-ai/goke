@@ -226,8 +226,13 @@ namespace SchoolApi.Data
 
 		public static T GetFrom<T>(List<T>? choices)
 		{
-			// SetTrueRandSeed();
-			if (choices?.Count <= 0)
+            if (choices is null)
+            {
+				throw new ArgumentNullException();
+            }
+
+            // SetTrueRandSeed();
+            if (choices.Count <= 0)
 			{
 				throw new Exception("Empty");
 			}
@@ -239,8 +244,14 @@ namespace SchoolApi.Data
 
 		public static int GetNUMBER(List<int> choices)
 		{
-			// SetTrueRandSeed();
-			if (choices?.Count <= 0)
+            if (choices is null)
+            {
+                throw new ArgumentNullException();
+            }
+
+
+            // SetTrueRandSeed();
+            if (choices.Count <= 0)
 			{
 				throw new Exception("Empty");
 			}
@@ -260,10 +271,15 @@ namespace SchoolApi.Data
 			return x;
 		}
 
-		public static double GetDECNUMBER(List<double> choices)
+		public static double GetDECNUMBER(List<double>? choices)
 		{
+            if (choices is null)
+            {
+                throw new ArgumentNullException();
+            }
+			
 			//SetTrueRandSeed();
-			if (choices?.Count <= 0)
+            if (choices.Count <= 0)
 			{
 				throw new ArgumentNullException();
 			}
@@ -273,10 +289,14 @@ namespace SchoolApi.Data
 			return choices[i];
 
 		}
-		public static decimal GetDECNUMBER(List<decimal> choices)
+		public static decimal GetDECNUMBER(List<decimal>? choices)
 		{
+            if (choices is null)
+            {
+                throw new ArgumentNullException();
+            }
 			//SetTrueRandSeed();
-			if (choices?.Count <= 0)
+            if (choices.Count <= 0)
 			{
 				throw new ArgumentNullException();
 			}

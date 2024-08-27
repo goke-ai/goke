@@ -17,7 +17,7 @@ namespace Goke.Core
 			return $"{Convert.ToBase64String(span)}";
 		}
 
-		public static byte[] ToBytes(string url)
+		public static byte[]? ToBytes(string url)
 		{
 			var commaPos = url.IndexOf(',');
 			if (commaPos >= 0)
@@ -29,7 +29,7 @@ namespace Goke.Core
 			return null;
 		}
 
-		public static string ToData(string url)
+		public static string? ToData(string url)
 		{
 			var commaPos = url.IndexOf(',');
 			if (commaPos >= 0)
@@ -41,7 +41,7 @@ namespace Goke.Core
 			return null;
 		}
 
-		public static string ToFormat(string url)
+		public static string? ToFormat(string url)
 		{
 			var commaPos1 = url.IndexOf(':');
 			var commaPos2 = url.IndexOf(';');
@@ -53,7 +53,7 @@ namespace Goke.Core
 			return null;
 		}
 
-		public static string ToFileExtension(string url)
+		public static string? ToFileExtension(string url)
 		{
 			var commaPos1 = url.IndexOf(':');
 			var commaPos2 = url.IndexOf(';');

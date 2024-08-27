@@ -2,13 +2,13 @@
 using System.IO;
 using System.Security.Cryptography.X509Certificates;
 
-namespace Goke.Core
+namespace Goke.Core.Authentication
 {
 	public static class Certificate
 	{
-		public static X509Certificate2 LoadCert(string filename, string password, string thumbPrint/*, ILogger<Startup> logger*/)
+		public static X509Certificate2? LoadCert(string filename, string password, string thumbPrint/*, ILogger<Startup> logger*/)
 		{
-			X509Certificate2 cert;
+			X509Certificate2? cert;
 			if (string.IsNullOrWhiteSpace(thumbPrint))
 			{
 				cert = LoadFileCert(filename, password);
@@ -21,9 +21,9 @@ namespace Goke.Core
 			return cert;
 		}
 
-		public static X509Certificate2 LoadStoreCert(string thumbPrint/*, ILogger<Startup> logger*/)
+		public static X509Certificate2? LoadStoreCert(string thumbPrint/*, ILogger<Startup> logger*/)
 		{
-			X509Certificate2 cert = null;
+			X509Certificate2? cert = null;
 			using (X509Store certStore = new X509Store(StoreName.My, StoreLocation.CurrentUser))
 			{
 				certStore.Open(OpenFlags.ReadOnly);
@@ -43,9 +43,9 @@ namespace Goke.Core
 			return cert;
 		}
 
-		public static X509Certificate2 LoadFileCert(string filename, string password)
+		public static X509Certificate2? LoadFileCert(string filename, string password)
 		{
-			X509Certificate2 cert = null;
+			X509Certificate2? cert=null;
 			// Fallback to local file for development
 			if (cert == null)
 			{
