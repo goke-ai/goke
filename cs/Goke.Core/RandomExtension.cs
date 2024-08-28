@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,7 +19,7 @@ namespace Goke.Core
             return list[i];
         }
 
-        public static T Choice<T>(this Random random, params T[] values)
+        public static T Choice<T>(this Random random, params T[] values) where T : struct 
         {
             if (values is null || values.Length == 0)
             {

@@ -8,28 +8,45 @@ namespace Goke.Core
 {
     public class Statistics
     {
-        public static double? PercentRelativeError(double? experiment, double? actual)
+        // Method to calculate the relative error
+        public static List<double> RelativeError(List<double> actual, List<double> predicted)
         {
-            if (actual == null || experiment is null) return null;
+            if (actual == null || predicted == null || actual.Count == 0 || predicted.Count == 0 || actual.Count != predicted.Count)
+            {
+                throw new ArgumentException("The lists cannot be null, empty, and must have the same number of elements.");
+            }
 
-            return Math.Abs((experiment.Value - actual.Value) / actual.Value) * 100;
+            return actual.Zip(predicted, (a, p) => Math.Abs((a - p) / a)).ToList();
         }
 
-
-        public static double PercentRelativeError(double experiment, double actual)
+        // Method to calculate the relative error
+        public static double RelativeError(double actual, double predicted)
         {
-            return Math.Abs((experiment - actual) / actual) * 100;
+            return Math.Abs((actual - predicted) / actual);
         }
 
-        public static double PercentRelativeError(string? experiment, string? actual)
+        public static double? PercentRelativeError(double? actual, double? predicted)
         {
-            experiment = experiment?.Trim();
-            var x = String.Compare(experiment, actual) == 0 ? 1.0 : 0;
+            if (actual == null || predicted is null) 
+                return null;
+
+            return RelativeError(actual.Value, predicted.Value) * 100.0;
+        }
+
+        public static double PercentRelativeError(double actual, double predicted)
+        {
+            return RelativeError(actual, predicted) * 100.0;
+        }
+
+        public static double PercentRelativeError(string? actual, string? predicted)
+        {
+            predicted = predicted?.Trim();
+            var x = String.Compare(predicted, actual) == 0 ? 1.0 : 0;
             if (x == 0)
             {
-                x = String.Compare(experiment, actual, true) == 0 ? 0.5 : 0;
+                x = String.Compare(predicted, actual, true) == 0 ? 0.5 : 0;
             }
-            return PercentRelativeError(x, 1.0);
+            return PercentRelativeError(1.0, x);
         }
 
         public static IList<double> Normalize(IList<double> values)
