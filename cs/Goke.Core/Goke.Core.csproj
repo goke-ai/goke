@@ -11,4 +11,10 @@
     <PackageReference Include="Microsoft.AspNetCore.Cryptography.KeyDerivation" Version="7.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="periodic_table.json">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
