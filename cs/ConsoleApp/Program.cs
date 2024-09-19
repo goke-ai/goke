@@ -79,4 +79,9 @@ List<Chemistry.Element>? elements = await JsonSerializer.DeserializeAsync<List<C
 Console.WriteLine($"Element 20: {elements?[19]}");
 
 
+Console.WriteLine($"Text: {Text.GeneratePin()}");
+Console.WriteLine($"Text: {Text.MakePinReadable(Text.GeneratePin())}");
+Console.WriteLine($"Text: {Text.MakePinReadable(Text.GeneratePin(),3)}");
+
+
 

@@ -8,10 +8,15 @@ namespace Goke.Core
 {
     public class Text
     {
-        public static readonly char[] SPECIAL = "!@#%^&*()_+-=[]{}|;:,.<>?".ToCharArray();
+        //public static readonly char[] SPECIAL = "!@#%^&*()_+-/=[]{}|;:,.<>?`~".ToCharArray();
+        //public static readonly char[] UPPERALPHABETH = "ABCDEFGHIJKLMNPQRSTUVWXYZ".ToCharArray();
+        //public static readonly char[] LOWERALPHABETH = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
+        //public static readonly char[] NUMBER = "0123456789".ToCharArray();
+
+        public static readonly char[] SPECIAL = "@#%&+=<>?".ToCharArray();
         public static readonly char[] UPPERALPHABETH = "ABCDEFGHIJKLMNPQRSTUVWXYZ".ToCharArray();
-        public static readonly char[] LOWERALPHABETH = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
-        public static readonly char[] NUMBER = "0123456789".ToCharArray();
+        public static readonly char[] LOWERALPHABETH = "abcdefghijklmnpqrstuvwxyz".ToCharArray();
+        public static readonly char[] NUMBER = "123456789".ToCharArray();
 
         public static string Generate(
             int specialLength = 4,
@@ -23,9 +28,7 @@ namespace Goke.Core
             var length = specialLength + upperAlphabethLength + lowerAlphabethLength + numberLength;
 
 
-            Random random = new Random();
-
-            StringBuilder pin = new StringBuilder();
+            StringBuilder pin = new();
 
             //
             int k = 0;
@@ -34,36 +37,36 @@ namespace Goke.Core
             // 
             for (int i = 0; i < numberLength; i++)
             {
-                k = random.Next(NUMBER.Length);
+                k = Random.Shared.Next(NUMBER.Length);
                 s = NUMBER[k];
-                k = random.Next(pin.Length);
+                k = Random.Shared.Next(pin.Length);
                 pin = pin.Insert(k, s);
             }
 
             // 
             for (int i = 0; i < specialLength; i++)
             {
-                k = random.Next(SPECIAL.Length);
+                k = Random.Shared.Next(SPECIAL.Length);
                 s = SPECIAL[k];
-                k = random.Next(1, pin.Length);
+                k = Random.Shared.Next(1, pin.Length);
                 pin = pin.Insert(k, s);
             }
 
             // 
             for (int i = 0; i < upperAlphabethLength; i++)
             {
-                k = random.Next(UPPERALPHABETH.Length);
+                k = Random.Shared.Next(UPPERALPHABETH.Length);
                 s = UPPERALPHABETH[k];
-                k = random.Next(pin.Length);
+                k = Random.Shared.Next(pin.Length);
                 pin = pin.Insert(k, s);
             }
 
             // 
             for (int i = 0; i < lowerAlphabethLength; i++)
             {
-                k = random.Next(LOWERALPHABETH.Length);
+                k = Random.Shared.Next(LOWERALPHABETH.Length);
                 s = LOWERALPHABETH[k];
-                k = random.Next(pin.Length);
+                k = Random.Shared.Next(pin.Length);
                 pin = pin.Insert(k, s);
             }
 
@@ -83,9 +86,9 @@ namespace Goke.Core
         public static string GeneratePin()
         {
             var pin = Generate(specialLength: 1, numberLength: 12, upperAlphabethLength: 1, lowerAlphabethLength: 1);
-
             return pin;
         }
+
         public static string GeneratePin(int length)
         {
 
@@ -94,6 +97,22 @@ namespace Goke.Core
             return pin;
         }
 
+        public static string MakePinReadable(string pin, int segment=4)
+        {
+            int length = pin.Length;
+            int reminderLength = length % segment;
+            int textLength = length / segment;
+
+            var n = textLength - (reminderLength == 0 ? 1:0);
+
+            for (int i = 0; i < n; i++)
+            {
+                var k = (segment * (i + 1)) + i;
+                pin = pin.Insert(k, " ");
+            }
+
+            return pin;
+        }
 
     }
 }
