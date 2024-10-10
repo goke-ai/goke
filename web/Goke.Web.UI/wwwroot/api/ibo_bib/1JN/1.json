@@ -1,0 +1,130 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1JN",
+    "translationId": "ibo_bib",
+    "name": "1 Jọn",
+    "commonName": "1 Jọn",
+    "title": "1 Jọn",
+    "order": 62,
+    "numberOfChapters": 5,
+    "sha256": "ea310d2a165c76a384aa06e137a37569aaa6fd23cb84dae068da754740d59b11",
+    "firstChapterApiLink": "/api/ibo_bib/1JN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1JN/5.json",
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwu nke ndụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ihe anyị na-edere unu banyere ya bụ ihe ahụ na-adịrị site na mmalite, nke anyị nụrụ, nke anyị jikwa anya anyị hụ, nke anyị lekwasịrị anya, na nke aka anyị metụrụ. Anyị na-ekwu ihe banyere Okwu nke ndụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndụ ahụ pụtara ihe. Anyị ahụla ya ma gbaakwa ama banyere ya. Ya mere, ihe anyị na-ekwu okwu ya, na ihe anyị na-akọrọ unu bụ banyere ndụ ebighị ebi ahụ nke ya na Nna nọ na mbụ; nke e mere ka ọ pụta ìhè nye anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Anyị na-ekwusara unu ihe anyị hụrụ na nke anyị nụrụ, ka unu soro anyị nwee nnwekọ. Nʼezie nnwekọ anyị bụ nke anyị na Nna na nke Ọkpara ya bụ Jisọs Kraịst, na-enwekọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Anyị na-edere unu ihe ndị a nʼihi ime ka ọṅụ anyị zuo oke."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ìhè na Ọchịchịrị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nke a bụ ozi ahụ anyị nụrụ site nʼaka ya, nke anyị na-ekwusakwara unu. Chineke bụ ìhè, ọchịchịrị ọbụla adịghịkwa nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere ọ bụrụ na anyị asị na anyị na ya nọ nʼezi nnwekọ ma na-ebi nʼime ọchịchịrị, ọ bụ okwu ụgha ka anyị na-ekwu. Eziokwu ahụ adịghịkwa nʼime anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma ọ bụrụ na anyị na-ebi ndụ anyị nʼìhè, dị ka ya onwe ya si nọọ nʼìhè, mgbe ahụ anyị na ibe anyị na-enwe ezi nnwekọ. Ọbara Jisọs bụ Ọkpara ya na-asachapụkwa anyị mmehie anyị niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma ọ bụrụ na anyị asị na anyị adịghị eme mmehie, anyị na-eduhie onwe anyị, na-ajụkwa ịnabata eziokwu ahụ nʼime anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma ọ bụrụ na anyị ekwupụta mmehie anyị, onye ahụ kwesiri ntụkwasị obi na onye ezi omume, ọ ga-agbaghara anyị mmehie anyị niile, sachapụkwa anyị site nʼajọ omume anyị niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ bụrụ na anyị asị na anyị emeghị mmehie ọbụla, anyị na-akpọ ya onye na-ekwu okwu ụgha, okwu ya enwekwaghị ọnọdụ nʼime anyị."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/1JN/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1JN/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2PE/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

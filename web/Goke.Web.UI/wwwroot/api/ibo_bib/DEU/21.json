@@ -1,0 +1,253 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "ibo_bib",
+    "name": "Diuteronomi",
+    "commonName": "Diuteronomi",
+    "title": "Diuteronomi",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "4d8340735e00d5ed0d0ad6648ecebcc35379f88a7fb67b090d4c46057ed796af",
+    "firstChapterApiLink": "/api/ibo_bib/DEU/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DEU/34.json",
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ amaghị ihe kpatara ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ị batara nʼala ahụ Onyenwe anyị Chineke gị na-enye gị inweta, biri nʼime ya, ọ bụrụ na ị hụ otu onye e gburu egbu ka ọ tọgbọ nʼime ọhịa, ma ị maghị onye gburu ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ndị okenye gị, na ndị ikpe ga-apụta, tụọ ịdị anya nke obodo niile dị gburugburu ọhịa ahụ, site nʼebe ahụ onye ahụ e gburu egbu tọgbọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ndị okenye obodo ahụ ga-ewere nwa nne ehi a na-ejibeghị rụọ ọrụ, maọbụ nyara yoku ọbụla"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "ha ga-eduru ya gaa na ndagwurugwu nke mmiri na-eru nʼime ya, ndagwurugwu a na-egwuzebeghị mgbe ọbụla ịrụ ọrụ ubi nʼime ya, nke a na-akụghị mkpụrụ nʼime ya, gbajie olu nwaagbọghọ ehi ahụ nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ndị nchụaja, ụmụ Livayị, ga-abịa, nʼihi na Onyenwe anyị Chineke gị ahọpụtala ha ka ha bụrụ ndị na-ejere ya ozi. Ha ka ọ họpụtakwara ikwupụta ngọzị nʼaha Onyenwe anyị, na ikpe niile metụtara mmerụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, ndị okenye niile nke obodo ndị ahụ dịkarịsịrị ozu ahụ nso, ga-akwọ aka ha nʼelu nwaagbọghọ ehi ahụ,",
+          {
+            "noteId": 483
+          },
+          "nke ahụ a gbajiri olu nʼime ndagwurugwu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ha ga-ekwupụta sị, “Aka anyị dị ọcha, ọ bụghị anyị gburu nwoke a, anyị amakwaghị onye gburu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Onyenwe anyị, kpuchiere ndị gị Izrel mmehie ha, bụ ndị gị ị gbapụtara. Agụla ndị gị dịka ndị ikpe mara nʼihi ọnwụ nwoke a na-emeghị ihe ọjọọ.” Otu a ka a ga-esi kpuchie mmehie nʼihi mwụfu ọbara ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼụzọ dị otu a, ka ị ga-esi wezugara onwe gị ikpe ọmụma gaara abụ nke gị nʼihi ọbara onye ahụ nwụrụ anwụ, ebe ọ bụ na i meela ihe ziri ezi nʼanya Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịlụ ndị inyom a dọtara nʼagha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ị pụrụ ibuso ndị iro gị agha, ọ bụrụ na Onyenwe anyị Chineke gị emee ka i merie ndị iro gị, dọta ụfọdụ nʼime ha nʼagha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "ọ bụrụ na ị hụ nwaagbọghọ mara mma nke masịrị gị nʼetiti ndị a dọtara nʼagha, i nwere ike iduru ya ka ọ bụrụ nwunye gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ị ga-akpọbata ya nʼụlọ gị, mee ka ọ kpụcha agịrị isi ya, bekwaa mbọ ya niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "yipụ uwe ahụ o yi mgbe e jidere ya. Ọ ga-anọdụ nʼụlọ gị ruo ụjụ nʼihi nna ya na nne ya otu ọnwa. Emesịa, i nwere ike ịbakwuru ya ghọọ di ya, ya onwe ya ga-aghọkwa nwunye gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ bụrụ na ihe ya amasịkwaghị gị, ị ga-ahapụ ya ka ọ gaa ebe ọbụla ọ chọrọ. Ị gaghị ere ya nʼọnụ ego ọbụla maọbụ kpasi ya agwa dịka ohu, ebe ọ bụ na ị wedala ya nʼala site nʼịhụ ọtọ ya anya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke ruru ọkpara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụrụ na nwoke lụrụ ndị inyom abụọ, ma hụ otu nʼime ha nʼanya karịa nke ọzọ, ọ bụrụkwa na ndị inyom abụọ ahụ mụtaara ya ụmụ ndị ikom, ma nwanyị ahụ ọ kpọrọ asị buuru ụzọ mụta nwa nwoke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "mgbe nwoke ahụ na-eke ihe onwunwe ya, ọ gaghị ewere oke ruuru ọkpara ya, nke nwanyị ahụ ọ kpọrọ asị mụtara kenye nwa nwoke nke nwanyị ahụ ọ hụrụ nʼanya mụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọ ga-anabata nwa nwoke nke nwanyị ahụ ọ na-ahụghị nʼanya mụtara dị ka ọkpara, nye ya, oke abụọ site nʼihe niile o nwere. Nʼihi na nwoke ahụ bụ mmalite ume ya, ọnọdụ nke ị bụ ọkpara bụkwa nke ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nwa isiike"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụrụ na nwoke amụta nwa nwoke na-eme isiike, nke na-enupu isi, onye na-adịghị ege nna ya na nne ya ntị, ọ bụladị mgbe ha dọrọ ya aka na ntị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nne ya na nna ya ga-eduru ya gaa nʼihu ndị okenye, nʼọnụ ụzọ ama obodo ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ha ga-agwa ndị okenye obodo ahụ, “Nwa anyị nwoke a na-eme isiike, na-enupu isi, ọ dịghị ege ntị nʼolu anyị. Ọ bụ onye mmefu na onye na-aṅụbiga mmanya oke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ndị ikom niile nke obodo ahụ ga-ewere nkume tugbuo ya. Nʼụzọ dị otu a, unu ga-ekpochapụ ihe ọjọọ ahụ nʼetiti unu. Ndị Izrel niile ga-anụ ihe mere, ụjọ ga-atụkwa ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Iwu dị iche iche"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ọ bụrụ na nwoke ọbụla emee ihe ọjọọ kwesiri ọnwụ, ọ bụrụ na e kpee ya ikpe ọnwụ, kwụgbuo ya nʼosisi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "unu agaghị ahapụ ozu ya ka ọ dịgide nʼelu osisi abalị ahụ niile. Hụnụ na e liri ya nʼotu ụbọchị ahụ, nʼihi na onye ọbụla a kwụbara nʼelu osisi bụ onye Chineke bụrụ ọnụ. Emerụla ala ahụ Onyenwe anyị Chineke gị na-enye gị dịka ihe nketa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 483,
+        "caller": "+",
+        "text": "Omume dị otu a, zipụtara na ha bụ ndị aka ha dị ọcha nʼọnwụ onye ahụ e gburu.",
+        "reference": {
+          "chapter": 21,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/DEU/21.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DEU/22.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DEU/20.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

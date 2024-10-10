@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "ibo_bib",
+    "name": "Zekaraya",
+    "commonName": "Zekaraya",
+    "title": "Zekaraya",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "0798dc9eb2c236da0eb14448602b21b711c26e8d167849c0d6042ef847b0f04a",
+    "firstChapterApiLink": "/api/ibo_bib/ZEC/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ZEC/14.json",
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Akwụkwọ a fụkọrọ afụkọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ọzọkwa, eleliri m anya elu, ma hụ akwụkwọ a fụkọrọ afụkọ nke na-efegharị efegharị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ sịrị m, “Gịnị ka ị na-ahụ?” Azara m, “Ahụrụ m akwụkwọ a fụkọrọ afụkọ nke na-efegharị efegharị. Ogologo ya dị mita iri, obosara ya dịkwa mita ise.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ gwara m, “Nke a bụ ọbụbụ ọnụ nke na-apụ na-ejezu nʼala ahụ niile. Nʼihi na dịka e si detuo ya, nʼotu akụkụ ya, a ga-esi nʼala a chụpụ ndị na-ezu ohi. Dịka e si deekwa ya nʼakụkụ nke ọzọ ya, onye ọ bụla na-aṅụ iyi ụgha ka a ga-esitekwa nʼala ahụ chụpụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ezipụla m ya, otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwubiri, ‘Ọ ga-abanye nʼụlọ onye ọ bụla na-ezu ohi, na nʼụlọ ndị ji aha m na-aṅụ iyi ụgha. Ọ ga-anọgide nʼụlọ ahụ mebie ya kpamkpam. Ọ ga-emebi osisi na nkume niile e ji wuo ụlọ ahụ.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nwanyị nọ nʼime nkata"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, mmụọ ozi ahụ na-agwa m okwu bịakwutere m sị, “Lelie anya gị elu hụrụ ihe na-aga ịpụta ìhè.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Asịrị m, “Gịnị ka ọ bụ?” Ọ sịrị, “Ọ bụ nkata.”",
+          {
+            "noteId": 1867
+          },
+          "O kwukwara, “Nke a bụ mmehie nke ndị niile bi nʼala a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ngwangwa, e kpughepụrụ okwuchi nkata ahụ, ma lee, ahụrụ m otu nwanyị nọdụrụ ọdụ nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ sịrị, “Nke a bụ ajọ omume.” O nughachiri ya azụ nʼime nkata ahụ werekwa okwuchi nkata ahụ kpuchie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, eleliri m anya hụ ụmụ nwanyị abụọ ọzọ, ndị ikuku na-efe nku ha. Ha nwere nku dịka nku ụgbala. Ha buliri nkata ahụ elu nʼetiti eluigwe na ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ajụrụ m mmụọ ozi ahụ na-agwa m okwu, “Ebee ka ha bu nkata ahụ na-aga?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ gwara m, “Ha bu ya na-aga Babilọn",
+          {
+            "noteId": 1868
+          },
+          "ebe ha ga-ewuru ya ụlọ. Mgbe ha wuchara ụlọ ahụ, ha ga-adọba nkata ahụ nʼelu ihe ndọkwasị.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1867,
+        "caller": "+",
+        "text": "Maọbụ, ihe ọtụtụ Efa.",
+        "reference": {
+          "chapter": 5,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1868,
+        "caller": "+",
+        "text": "Ya bụ, Shaịna",
+        "reference": {
+          "chapter": 5,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ZEC/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ZEC/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ZEC/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

@@ -1,0 +1,398 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 51,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ dịrị onyeisi abụ. Abụ Ọma Devid. Mgbe Netan bụ onye amụma bịakwutere Devid nʼoge ya na Batsheba kwara iko."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere maka mgbaghara mmehie"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "O Chineke, meere m ebere,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi ịhụnanya gị nke na-adịgide adịgide;",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi oke ọmịiko gị,",
+            "poem": 1
+          },
+          {
+            "text": "hichapụ njehie m niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Sachapụ mmehie m niile,",
+            "poem": 1
+          },
+          {
+            "noteId": 1622
+          },
+          {
+            "text": "ma mee m ka m dị ọcha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Nʼihi na amaara m njehie m niile,",
+            "poem": 1
+          },
+          {
+            "text": "mmehie m dịkwa nʼihu m mgbe niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ bụkwa naanị gị ka m mehiere megide,",
+            "poem": 1
+          },
+          {
+            "text": "mee ihe ahụ bụ ihe ọjọọ nʼihu gị,",
+            "poem": 2
+          },
+          {
+            "text": "nke mere na ị bụ onye na-ekpe ikpe ziri ezi mgbe ị na-ekwu okwu,",
+            "poem": 1
+          },
+          {
+            "text": "na onye ezi omume mgbe ị na-ekpe ikpe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nʼezie, onye mmehie ka m bụ site nʼoge amụrụ m;",
+            "poem": 1
+          },
+          {
+            "text": "bụrụkwa onye mmehie site nʼoge nne m tụrụ ime m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nʼezie, ị na-achọ eziokwu nʼakụkụ niile zoro ezo;",
+            "poem": 1
+          },
+          {
+            "text": "ị na-akụziri m amamihe nʼakụkụ niile zoro ezo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Were hisọp",
+            "poem": 1
+          },
+          {
+            "noteId": 1623
+          },
+          {
+            "text": "sachaa m, aga m adị ọcha;",
+            "poem": 1
+          },
+          {
+            "text": "sachaa m ka m dị ọcha karịa snoo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Mee ka m nụrụ olu obi ụtọ na ọṅụ;",
+            "poem": 1
+          },
+          {
+            "text": "ka okpukpu ndị i gwepịara ṅụrịkwaa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Zopu ihu gị nʼebe mmehie m niile dị,",
+            "poem": 1
+          },
+          {
+            "text": "hichapụkwa mmehie m niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Kee obi dị ọcha nʼime m, O Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "nwogharịa ezi mmụọ nʼime m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Achụpụla m nʼihu gị,",
+            "poem": 1
+          },
+          {
+            "text": "anapụkwala m Mmụọ Nsọ gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Nyeghachikwa m ọṅụ nke nzọpụta gị,",
+            "poem": 1
+          },
+          {
+            "text": "ma jiri ezi mmụọ kwagide m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Mgbe ahụ, aga m enwe ike izi ndị njehie ụzọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "ndị mmehie ga-echegharị lọghachikwute gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "O Chineke, zọpụta m site nʼikpe ọmụma nke mwụfu ọbara,",
+            "poem": 1
+          },
+          {
+            "text": "Chineke, gị bụ Chineke Onye nzọpụta m,",
+            "poem": 2
+          },
+          {
+            "text": "ire m ga-abụ abụ banyere ezi omume gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "O, Onyenwe m, meghee ọnụ m,",
+            "poem": 1
+          },
+          {
+            "text": "ka m kwupụta otuto gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Ị naghị enwe mmasị nʼaja, ma ọ bụghị ya, agaara m eweta ya.",
+            "poem": 1
+          },
+          {
+            "text": "Ị naghị enwe mmasị nʼaja nsure ọkụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Aja Chineke chọrọ bụ mmụọ tiwara etiwa,",
+            "poem": 1
+          },
+          {
+            "text": "O Chineke, ị naghị elefu anya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼobi tiwara etiwa na nke nwere ezi nchegharị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Ka ọ masị gị inye Zayọn ọganihu;",
+            "poem": 1
+          },
+          {
+            "text": "i wulie mgbidi niile nke Jerusalem.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Mgbe ahụ, a ga-enwe ezi aja,",
+            "poem": 1
+          },
+          {
+            "text": "aja nsure ọkụ nke ga-atọ gị ụtọ;",
+            "poem": 2
+          },
+          {
+            "text": "mgbe ahụ, a ga-achụkwa aja ọtụtụ oke ehi nʼelu ebe ịchụ aja gị.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1622,
+        "caller": "+",
+        "text": "Aịz 43:25; Aịz 44:22; Kọl 2:14.",
+        "reference": {
+          "chapter": 51,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1623,
+        "caller": "+",
+        "text": "Nʼoge mmemme idebe ihe ọcha, ọ bụ ahịhịa hisọp ka a na-eji efesa ọbara.",
+        "reference": {
+          "chapter": 51,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/51.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/52.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/50.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

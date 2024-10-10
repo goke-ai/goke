@@ -1,0 +1,143 @@
+﻿.disabled {
+    --_form-disabled-border-color: var(--form-disabled-border-color, var(--clr-body-bg));
+    pointer-events: none;
+    opacity: 0.4;
+    border-color: var(--_form-disabled-border-color);
+}
+
+
+.wizard {
+    position: relative;
+    --wizard-height: calc(100vh - 6rem);
+}
+
+.wizard-page {
+    height: calc(var(--_wizard-height)* 1);
+}
+
+.wizard-controller {
+    position: absolute;
+    bottom: 0;
+    /*left: 40%;*/
+    width: 100%;
+}
+
+.lab {
+    height: 90%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lab-menu {
+    width: 100%;
+}
+
+.lab-left, .lab-right, .lab-bottom {
+}
+
+.lab-center {
+    width: 100%;
+    min-height: 80%;
+    position: relative;
+
+    outline: 1px solid gold;
+}
+
+.lab-center-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    max-width: 780px;
+    margin-inline: auto;
+
+    outline: 1px solid gold;
+}
+
+.lab-toolbar {
+    width: 80vw;
+    overflow: auto;
+    white-space: nowrap;
+    display: flex;
+    outline: 1px solid gold;
+}
+
+
+.tile > * {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    text-wrap: balance;
+}
+
+.tile img {
+}
+
+.tile {
+    --_tile-width: 6em;
+    display: inline-block;
+    padding: 0;
+    margin: 0.2em;
+    width: var(--_tile-width);
+    font-size: 0.6rem;
+    text-align: center;
+    line-height: 1.2;
+}
+
+    .tile img {
+        height: var(--_tile-width);
+    }
+
+
+@media (min-width: 641px) {
+    .wizard {
+        --wizard-height: calc(100vh - 2em);
+    }
+
+    .lab-center {
+        min-height: 70%;
+    }
+
+    .tile {
+        --_tile-width: 8em;
+        font-size: 0.8rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .wizard {
+        --wizard-height: calc(100vh - 3em);
+    }
+
+    .lab-left, .lab-right {
+        position: absolute;
+        top: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .lab-left {
+        position: absolute;
+        left: 0
+    }
+
+    .lab-right {
+        position: absolute;
+        right: 0
+    }
+
+    .tile {
+        width: 10em;
+    }
+}
+
+@media (min-width: 1440px) {
+
+    .tile {
+        font-size: 1rem;
+    }
+}

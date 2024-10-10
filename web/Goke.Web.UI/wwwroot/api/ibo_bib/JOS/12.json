@@ -1,0 +1,256 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "ibo_bib",
+    "name": "Joshua",
+    "commonName": "Joshua",
+    "title": "Joshua",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "8e1d5caf9da7743a3c9001a4bcf4880157d1b5427a9bdf5550f365a0b3315c7a",
+    "firstChapterApiLink": "/api/ibo_bib/JOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOS/24.json",
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọnụọgụgụ ndị eze e meriri"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ ndị eze ala ndị ahụ ndị Izrel lara nʼiyi, bụ ala ndị ahụ ha nwetara nʼakụkụ ọwụwa anyanwụ osimiri Jọdan. Obodo niile a lara nʼiyi bụ ndị dị site na ndagwurugwu iyi Anọn ruo nʼugwu Hemon ha na akụkụ ọwụwa anyanwụ Araba."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Saịhọn, eze ndị Amọrait, onye bi na Heshbọn. Ala ya gbatịrị site nʼAroea, nʼakụkụ ndagwurugwu Anọn, na nʼetiti ndagwurugwu iyi Anọn, ruo iyi Jabọk, nke bụ oke ala ụmụ Amọn. Ọkara ala Gilead, nke dị nʼugwu iyi Jabọk bụkwa ala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ bụkwa Saịhọn na-achị akụkụ ọwụwa anyanwụ Araba site nʼosimiri Kineret ruo nʼosimiri Araba (ya bụ, Osimiri Nnu), ruo Bet-Jeshimọt, gbadaakwa akụkụ ndịda ndịda ruo na mgbada ugwu Pisga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ha merikwara Ọg, eze Bashan, onye bụ otu nʼime ndị eze ikpeazụ ndị agbụrụ Refaim. Isi alaeze ya dị nʼAshtarọt na Edrei."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ chịrị nʼugwu Hemon, Saleka, ala Bashan niile ruo nʼoke ha na ndị Geshua na Maaka nwere, nakwa ọkara nke Gilead, bụ oke ala Saịhọn, bụ eze Heshbọn."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ bụ Mosis onyeozi Onyenwe anyị, na ụmụ Izrel, lara eze abụọ ndị a nʼiyi. Mosis nyekwara ebo Ruben, na ebo Gad, na ọkara ebo Manase ala ha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị a bụ aha ndị eze niile Joshua na ụmụ Izrel meriri, nʼofe osimiri Jọdan, nʼakụkụ ọdịda anyanwụ, site na Baal-Gad nke dị na ndagwurugwu Lebanọn, ruo nʼugwu Halak nke dị na mgbago nʼụzọ Sia. Joshua nyere ebo Izrel niile ala ha ndị a dịka ihe nketa, nʼusoro dịka ebo ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ala ndị ọzọ bụkwa ala ugwu ugwu ahụ, na ala dị na mgbada ugwu ọdịda anyanwụ, na ala Araba, na ala ndị dị na mgbada ugwu, na ọzara, nakwa Negev. Ndị a bụ ala ndị Het, na ndị Amọrait, na ndị Kenan, ndị Periz, na ndị Hiv, na ndị Jebus.",
+          {
+            "lineBreak": true
+          },
+          "Ndị a bụ ndị eze ahụ:"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Eze Jeriko, otu eze Ai (nke dị nso na Betel), otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "eze Jerusalem, otu eze Hebrọn, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Eze Jamut, otu eze Lakish, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "eze Eglọn, otu eze Gaza, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "eze Debịa, otu eze Geda, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "eze Homa, otu eze Arad, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "eze Libna, otu eze Adulam, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "eze Makeda, otu eze Betel, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "eze Tapụọa, otu eze Hefa, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "eze Afek, otu eze Lasharọn, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "eze Madọn, otu eze Hazọ, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "eze Shịmrọn Meron, otu eze Akshaf, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "eze Teanak, otu eze Megido, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "eze Kedesh, otu eze Jokneam, nʼime Kamel, otu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "eze Doa, (nʼime obodo Naftod), otu eze Goiim, nʼime Gilgal,",
+          {
+            "noteId": 1163
+          },
+          "otu na"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "eze Tịaza, otu.",
+          {
+            "lineBreak": true
+          },
+          "Ha niile dị ndị eze iri atọ na otu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1163,
+        "caller": "+",
+        "text": "Ka o doo anyị anya nʼobodo Gilgal nke a, abụghị otu ihe ya na nke dị nso nʼobodo Jeriko.",
+        "reference": {
+          "chapter": 12,
+          "verse": 23
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOS/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

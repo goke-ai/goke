@@ -1,0 +1,96 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAL",
+    "translationId": "ibo_bib",
+    "name": "Malakaị",
+    "commonName": "Malakaị",
+    "title": "Malakaị",
+    "order": 39,
+    "numberOfChapters": 4,
+    "sha256": "34e7ec0fce01f5275ae72e4debfb89a0caad115bbe29e59867e6056313c83113",
+    "firstChapterApiLink": "/api/ibo_bib/MAL/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAL/4.json",
+    "totalNumberOfVerses": 55
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe ọmụma na ime ka ọgbụgba ndụ sie ike"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "“Nʼezie, ụbọchị ahụ na-abịa, ọ ga-erekwa ọkụ dịka ebe a funyere ọkụ buru ibu. Mgbe ndị nganga, ndị na-eme ihe ọjọọ, ga-abụ igbugbo ọka, ụbọchị ahụ na-abịa ga-erechapụ ha,” otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwuru. “Ọ dịkwaghị mgbọrọgwụ maọbụ alaka ọbụla ga-afọdụrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ma unu bụ ndị na-atụ egwu aha m ka anyanwụ nke ezi omume ga-achawapụta wetakwara unu ọgwụgwọ nke si nʼime nku ya. Unu ga-apụkwa, na-awụgharị dịka ụmụ ehi eji nri zujuo afọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, unu ga-azọpịakwa ndị ajọ omume. Ha ga-aghọkwa ntụ nʼokpuru ọbụ ụkwụ unu, nʼụbọchị ahụ m ga-eme ihe ndị a,” otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Chetanụ iwu Mosis, bụ odibo m, ya bụ iwu na ụkpụrụ ndị ahụ dị iche iche m nyere ya na Horeb, maka Izrel niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "“Lee, aga m ezitere unu Ịlaịja onye amụma, tupu ụbọchị ukwu ahụ dị oke egwu bụ ụbọchị Onyenwe anyị abịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ ga-eme ka obi ndị bụ nna chigharịkwute ụmụ ha, meekwa ka obi ndị bụ ụmụ chigharịkwutekwa nna ha; ka m ghara ịbịa ma jiri ịbụ ọnụ laa ala ahụ nʼiyi.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/MAL/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAL/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

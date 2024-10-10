@@ -1,0 +1,270 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "ibo_bib",
+    "name": "Joshua",
+    "commonName": "Joshua",
+    "title": "Joshua",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "8e1d5caf9da7743a3c9001a4bcf4880157d1b5427a9bdf5550f365a0b3315c7a",
+    "firstChapterApiLink": "/api/ibo_bib/JOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOS/24.json",
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Aghụghọ ndị Gibiọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe eze ndị niile bi nʼakụkụ ọdịda anyanwụ osimiri Jọdan, nụrụ banyere ihe ndị a, ya bụ, ndị niile bi nʼala ugwu ugwu nʼọdịda anyanwụ ndagwurugwu, na ndị bi ogologo akụkụ osimiri Mediterenịa ruo Lebanọn, eze ndị Het na nke ndị Amọrait na nke ndị Kenan na nke ndị Periz na nke ndị Hiv na nke ndị Jebus,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ha niile zukọtara ibu agha megide Joshua na ụmụ Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma mgbe ndị Gibiọn",
+          {
+            "noteId": 1158
+          },
+          "nụrụ ihe Joshua mere Jeriko na Ai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "ha sitere nʼaghụghọ chọọ ụzọ ha ga-esi zọpụta onwe ha. Ha zipụrụ ndị ozi, ndị bokwasịrị ịnyịnya ibu ha akpa mere ochie, na karama akpụkpọ mere ochie, nke a duchiri ebe dị iche iche nʼahụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ndị ahụ yikwasịrị nʼụkwụ ha akpụkpọụkwụ kara nka nke a kwachiri akwachi, na uwe mere nnọọ ochie. Achịcha niile ha ji bụ nri ha, kpọrọ nkụ maakwa ebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ha bịaruru nʼebe ndị Izrel mara ụlọ ikwu ha na Gilgal, ha jekwuuru Joshua, gwa ya na ndị Izrel okwu sị ha, “Anyị si nʼala dị anya bịa. Ugbu a, biko anyị chọrọ ka anyị na unu gbaa ndụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị ikom Izrel zaghachiri sị ndị Hiv",
+          {
+            "noteId": 1159
+          },
+          "ahụ, “Olee otu anyị si amata na unu ebighị anyị nso? Ma eleghị anya unu bi anyị nso, anyị na unu ọ ga-esi aṅaa gbaa ndụ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ha zara Joshua sị ya, “Anyị bụ ndị ohu unu.” Ma Joshua jụrụ ha ajụjụ sị, “Olee ndị unu bụ? Ebee ka unu si bịa?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha zara ya sị, “Ala anyị, ebe ndị ohu gị si bịa dị anya nke ukwuu. Anyị bịara nʼihi na anyị anụla akụkọ banyere Onyenwe anyị Chineke unu, na ihe niile o mere nʼIjipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Anyị anụkwala ihe niile o mere eze abụọ ndị Amọrait, ndị nọ nʼọwụwa anyanwụ Jọdan, Saịhọn eze Heshbọn, na Ọg eze Bashan, onye chịrị nʼAshtarọt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ndị okenye anyị na ndị niile bi nʼala anyị sịrị anyị, ‘Werenụ ihe unu ji aga njem, jekwurunụ ndị Izrel sị ha, “Anyị bụ ndị ohu unu, kwerenụ ka anyị na unu gbaa ndụ.” ’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Lee achịcha ndị a bụ nke anyị ji mgbe anyị hapụrụ ala anyị. Ha dị ọkụ mgbe anyị hapụrụ ụlọ anyị ịbịa njem a, nʼihi na e si nʼebe a na-eghe ya wepụta ya, ma ugbu a, dịka unu hụrụ, ha akpọọla nkụ, bidokwa ịma ebu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "A gbajuru karama akpụkpọ anyị ndị a mmanya ọhụrụ mgbe anyị hapụrụ, ma ugbu a, karama ndị a adọwaala. Uwe anyị, na akpụkpọụkwụ anyị, emeela ochie nʼihi ịga ije dị anya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị ikom Izrel ritụrụ ụfọdụ nʼime ihe oriri ha ji bịa, ma ha ajụtaghị ihe bụ uche Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ahụ, Joshua na ndị ahụ gbara ndụ udo ikwe ka ha dị ndụ. Ndịisi nzukọ Izrel mesiri ọgbụgba ndụ ahụ ike site nʼịṅụ iyi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ụbọchị atọ gasịrị site na mgbe ụmụ Izrel na ndị Gibiọn gbara ndụ, ndị Izrel nụrụ na ndị Gibiọn bụ ndị agbataobi ha, ndị bi ha nso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere, ndị Izrel buliri ije gaa ịchọpụta ebe ndị a si bịa, si otu a bịaruo obodo ha niile nʼụbọchị nke atọ. Aha obodo ha bụ Gibiọn, Kefira, Beerọt na Kiriat Jearim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma ndị Izrel ebusoghị ha agha nʼihi na ndịisi nzukọ Izrel ejirila aha Onyenwe anyị, Chineke Izrel ṅụọ iyi idebe ha ndụ. Ma nzukọ Izrel niile tamuru ntamu megide ndịisi ha nʼihi ọgbụgba ndụ a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma ndịisi Izrel kwuru sị, “Anyị aṅụọla iyi nʼihu Onyenwe anyị, Chineke Izrel sị, na anyị agaghị emetụ ha aka, ugbu a kwa anyị agaghị eme ha ihe ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma nke a ka anyị ga-eme. Anyị ga-ekwe ka ha dị ndụ, nʼihi na ọ bụrụ na anyị emezughị iyi anyị ṅụrụ, iwe Onyenwe anyị ga-adakwasị anyị niile.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere, ndịisi kwukwara sị, “Anyị ga-ahapụ ha ka ha dịrị ndụ, kama ha ga-aghọ ohu ndị Izrel, ndị ga na-awara anyị nkụ na ndị ga na-ekutere anyị mmiri.” Nʼụzọ dị otu a, e mere ka ha dịrị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Emesịa, Joshua ziri ozi kpọọ ndịisi obodo Gibiọn jụọ ha ajụjụ sị, “Gịnị mere unu ji ghọgbuo anyị site nʼịgwa anyị, ‘Anyị bi nʼebe dịpụrụ anya, site nʼebe unu bi,’ ebe ọ bụ na unu bi anyị nso?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ugbu a, unu ga-abụ ndị a bụrụ ọnụ. Site nʼụbọchị taa gaa nʼihu, unu aghọọla ndị ohu anyị, ndị ga na-awara anyị nkụ mgbe niile, na ndị ga na-ekutere anyị mmiri nke anyị ga-eji rụọ ọrụ nʼụlọnsọ Chineke m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ha zara Joshua sị, “Anyị mere nke a nʼihi na agwala anyị na Onyenwe anyị Chineke gị nyere Mosis iwu sị ya merie ala ndị a niile, ma kpochapụ ndị niile bi nʼime ya. Ọ bụ nke a mere ụjọ ji tụọ anyị. Ọ bụkwa ya mere anyị ji mee ihe dị otu a, nʼihi ichebe ndụ anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma ugbu a, anyị dị unu nʼaka. Unu nwere ike ime anyị ihe dị unu mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nʼihi nke a, Joshua ekweghị ka ndị Izrel gbuo ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Joshua mere ha ndị ọwa nkụ na ndị ose mmiri nye ụmụ Izrel, na ịhụkwa banyere ihe ndị dị mkpa nʼebe ịchụ aja Onyenwe anyị, nʼebe ahụ Onyenwe anyị ga-ahọpụta. Ọ bụkwa nke a ka ha bụ ruo taa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1158,
+        "caller": "+",
+        "text": "Ọ ga-ewe onye si Jerusalem na-aga Gibiọn, ije njem ruru iri kilomita.",
+        "reference": {
+          "chapter": 9,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 1159,
+        "caller": "+",
+        "text": "Ndị Hiv, bụkwa ndị a na-akpọ ndị Amọrait, si Mesopotamịa pụta. Jos 9:1; 10:5; 13:4",
+        "reference": {
+          "chapter": 9,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOS/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

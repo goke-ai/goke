@@ -1,0 +1,651 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe e wuzichara mgbidi ahụ, na mgbe m guzobesịrị ibo nʼọnụ ụzọ ya niile nʼọnọdụ ha, họpụtakwa ndị ọbụ abụ na ndị nche, na ndị Livayị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Enyefere m ọrụ ilekọta Jerusalem nʼaka nwanne m nwoke bụ Hanani, ya na Hananaya onye bụ onyeisi ụlọ ukwu ahụ e wusiri ike, nʼihi na ọ bụ nwoke na-ekwu eziokwu, bụrụkwa onye na-atụ egwu Chineke karịa ọtụtụ ndị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Agwara m ha, “Na-emeghenụ ọnụ ụzọ ama naanị mgbe chi bọziri nke ọma. Kpọchiekwa ha mgbe ndị nche ka nọ na nche. Họpụtakwanụ ndị bi na Jerusalem ka ha bụrụ ndị nche. Ụfọdụ ga-eche nʼebe a họpụtara ha, ụfọdụ ga-eche nʼakụkụ ụlọ nke aka ha.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọnụọgụgụ ndị lọtara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼoge a obodo ahụ buru ibu dịkwa mbara, ma ndị bi nʼime ya dị ole na ole nʼọnụọgụgụ, ụlọ ndị dị nʼime ya bụkwa ihe ewugharịbeghị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ya mere Chineke m tinyere ya nʼobi m ka m chịkọta ndị niile a na-asọpụrụ, ndị ọchịchị, na ndị niile bi nʼobodo, maka idebanye aha nʼakwụkwọ ezinaụlọ nʼezinaụlọ. Achọtara m ebe e depụtara usoro ndị mmadụ niile bụ ụzọ lọta Juda nʼoge gara aga. Nke a bụ ihe m chọpụtara edere nʼime ya:"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ndị a bụ ndị obodo niile a na-achị achị, bụ ndị sitere na ndọta nʼagha nke Nebukadneza, eze Babilọn, onye dọtara ha nʼagha buru ha laa nʼala ọzọ. Ha lọghachitere na Jerusalem nakwa Juda, onye ọbụla nʼobodo nke aka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndịisi ha na Zerubabel soo, bụ Jeshua, Nehemaya, Azaraya, Raamaya, Nahamani, Mọdekai, Bilshan, Misperet, Bigvai, Nehum na Baana.",
+          {
+            "lineBreak": true
+          },
+          "Ihe ndepụta ọnụọgụgụ ndị ikom Izrel bụ nke a:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị agbụrụ Parosh, puku abụọ, otu narị na iri asaa na abụọ (2,172),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "nke Shefataya, narị atọ na iri asaa na abụọ (372),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "nke Ara, narị isii na iri ise na abụọ (652),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "nke Pahat-Moab site nʼụmụ Jeshua na Joab, puku abụọ, na narị asatọ na iri na asatọ (2,818),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "nke Elam, otu puku, na narị abụọ na iri ise na anọ (1,254),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "nke Zatu, narị asatọ na iri anọ na ise (845),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "nke Zakai, narị asaa na iri isii (760),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "nke Binui, narị isii na iri anọ na asatọ (648),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "nke Bebai, narị isii na iri abụọ na asatọ (628),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "nke Azgad, puku abụọ, na narị atọ na iri abụọ na abụọ (2,322),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "nke Adonikam, narị isii na iri isii na asaa (667),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "nke Bigvai, puku abụọ, na iri isii na asaa (2,067),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "nke Adin, narị isii na iri ise na ise (655),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "nke Atea (site na Hezekaya), iri itoolu na asatọ (98),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "nke Hashum, narị atọ na iri atọ na asatọ (328),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "nke Bezai, narị atọ na iri abụọ na anọ (324),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "nke Harif, otu narị na iri na abụọ (112),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "nke Gibiọn, iri itoolu na ise (95)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ndị ikom Betlehem na Netofa, otu narị na iri asatọ na asatọ (188),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "ndị Anatot, otu narị na iri abụọ na asatọ (128),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "ndị Bet-Azmavet, iri anọ na abụọ (42),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "ndị Kiriat Jearim, Kefira na Beerọt, narị asaa na iri anọ na atọ (743),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "ndị Rema na Geba, narị isii na iri abụọ na otu (621),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "ndị Mikmash, otu narị na iri abụọ na abụọ (122),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "ndị Betel na Ai, otu narị na iri abụọ na atọ (123),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "ndị Nebo nke ọzọ, iri ise na abụọ (52),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "ndị agbụrụ Elam nke ọzọ, otu puku, narị abụọ na iri ise na anọ (1,254),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "ndị Harim, narị atọ na iri abụọ (320),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "ndị Jeriko, narị atọ na iri anọ na ise (345),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "ndị Lod, Hadid, na Ono, narị asaa na iri abụọ na otu (721),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "ndị Senaa, puku atọ, na narị itoolu na iri atọ (3,930)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ndị nchụaja: ndị agbụrụ Jedaya site nʼezinaụlọ Jeshua, narị itoolu na iri asaa na atọ (973),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "ndị Imea, otu puku, na iri ise na abụọ (1,052),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "ndị Pashua, otu puku, na narị abụọ na iri anọ na asaa (1,247),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "ndị Harim, otu puku, na iri na asaa (1,017)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ndị Livayị: ndị agbụrụ Jeshua site na Kadmiel nke ụmụ Hodavaya, iri asaa na anọ (74)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ndị ọbụ abụ: ndị agbụrụ Asaf, otu narị, na iri anọ na asatọ (148)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ndị nche ọnụ ụzọ ụlọnsọ ukwu: ndị agbụrụ Shalum, Atea, Talmon, Akub, Hatita na Shobai otu narị, na iri atọ na asatọ (138)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ndị na-eje ozi nʼụlọnsọ: ndị agbụrụ Ziha, Hasufa na ndị Tabaot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Keros, Sia, Padon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Lebana, Hagaba, Shalmai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Hanan, Gidel, Gaha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Reaya, Rezin, Nekoda,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Gazam, Ụza, Pasea,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Besai, Meunim, Nefusim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Bakbuk, Hakufa, Hahua,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Bazlut, Mehida, Hasha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Bakos, Sisera, Tema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Nezaya na Hatifa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Agbụrụ ndị na-ejere eze Solomọn ozi, ya bụ ndị agbụrụ Sotai, Soferat, Perida,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Jaala, Dakon, Gidel,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Shefataya, Hatil, Pokeret-Hazebaim na Amọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Ndị na-eje ozi nʼụlọnsọ na ụmụ ndị na-ejere eze Solomọn ozi, dị narị atọ na iri itoolu na abụọ (392)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Ndị a bụ ndị ọzọ sitere nʼobodo Tel Mela, Tel Hasha, Kerub, Adọn na Imea, nke dị nʼala Peshịa lọta. Ma ha enweghị ike igosi ezinaụlọ ebe agbụrụ ha si nʼIzrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "Ndị agbụrụ: Delaya, ndị Tobaya na ndị Nekoda, narị isii na iri anọ na abụọ (642)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Sitekwa nʼetiti ndị nchụaja: Ndị agbụrụ: Hobaya, Hakoz na Bazilai (nwoke lụrụ ada Bazilai onye Gilead a kpọọ ya aha nʼaha ha)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Ndị a chọrọ ebe e depụtara usoro ọmụmụ ha nʼakwụkwọ, ma ha achọtaghị ha nʼihi ya e wepụrụ ha nʼọrụ nchụaja dịka ndị na-adịghị ọcha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "Nʼihi nke a, onyeisi ọchịchị nyere iwu ka ha ghara iri ihe aja dịkarịsịrị nsọ, tutu ruo mgbe a ga-enwe onye nchụaja na-eji Urim na Tumim ajụta ase."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Nkpọkọta ọnụọgụgụ ndị niile lọtara dị iri puku anọ na abụọ, na narị atọ na iri isii (42,360),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "nke a agụnyeghị ndị ohu ndị ikom na ndị inyom dị puku asaa, na narị atọ na iri atọ na asaa (7,337), ndị ikom na ndị inyom, ndị ọbụ abụ",
+          {
+            "noteId": 1468
+          },
+          "dị narị abụọ, na iri anọ na ise (245)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "Ịnyịnya dị narị asaa na iri atọ na isii (736), ịnyịnya muul narị abụọ na iri anọ na ise (245),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "ịnyịnya kamel dị narị anọ na iri atọ na ise (435), ebe ịnyịnya ibu dị puku isii, na narị asaa na iri abụọ (6,720)."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "Ma ụfọdụ nʼime ndịisi ezinaụlọ nyere onyinye maka ọrụ ahụ. Onyeisi ọchịchị tinyere nʼụlọakụ otu puku darik ọlaedo (1,000),",
+          {
+            "noteId": 1469
+          },
+          "iri efere ọlaedo ise (50) na uwe ndị nchụaja narị ise na iri atọ (530)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "Ụfọdụ ndịisi ezinaụlọ tinyere nʼụlọakụ maka ije ozi ahụ, darik ọlaedo puku iri abụọ (20,000),",
+          {
+            "noteId": 1470
+          },
+          "na ọtụtụ minas ọlaọcha puku abụọ na narị abụọ (2,200).",
+          {
+            "noteId": 1471
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          "Nkpọkọta ọnụọgụgụ nke ndị mmadụ fọdụrụ nyere bụ, darik ọlaedo puku iri abụọ (20,000), na minas ọlaọcha puku abụọ (2,000), na uwe ndị nchụaja iri isii na asaa (67)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 73,
+        "content": [
+          "Ndị nchụaja, na ndị Livayị, na ndị nche ọnụ ụzọ, ndị ọbụ abụ na ndị na-eje ozi nʼụlọnsọ, tinyere ụfọdụ ndị mmadụ na ndị Izrel niile fọdụrụ, gara birikwa nʼobodo nke ha. Ezra agụọ site nʼakwụkwọ iwu Mgbe ọnwa asaa ruru, nʼoge a ndị Izrel niile e birila nʼobodo nke aka ha,"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1468,
+        "caller": "+",
+        "text": "Tinyere ndị Livayị na-abụ abụ, e nwere ọtụtụ ndị ọzọ na-abụ abụ nʼoge mmemme dị iche iche, dịka nʼoge ọlụlụ nwanyị, na nʼoge olili na ọnwụ Ezr 2:65",
+        "reference": {
+          "chapter": 7,
+          "verse": 67
+        }
+      },
+      {
+        "noteId": 1469,
+        "caller": "+",
+        "text": "Ya bụ kilogram asatọ na ụma anọ",
+        "reference": {
+          "chapter": 7,
+          "verse": 70
+        }
+      },
+      {
+        "noteId": 1470,
+        "caller": "+",
+        "text": "Darik ịdị arọ ya ruru narị kilogram na iri kilogram asaa",
+        "reference": {
+          "chapter": 7,
+          "verse": 71
+        }
+      },
+      {
+        "noteId": 1471,
+        "caller": "+",
+        "text": "Ịdị arọ ya ruru otu tọọnu na ụma abụọ",
+        "reference": {
+          "chapter": 7,
+          "verse": 71
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/7.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/8.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/6.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 73
+}

@@ -1,0 +1,172 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "ibo_bib",
+    "name": "Esta",
+    "commonName": "Esta",
+    "title": "Esta",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "5881b095ce54f80d61363ebb2cb7b87a73a9f707399baa21d7236502107718f7",
+    "firstChapterApiLink": "/api/ibo_bib/EST/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EST/10.json",
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Arịrịọ Esta rịọrọ eze"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼabalị nke atọ ya, Esta yiri uwe eze nwanyị ya, guzo nʼime ime ogige ụlọeze, nke chere ihu nʼụlọ nzukọ ukwu dị nʼụlọeze, ebe eze nọdụ nʼocheeze ya chee ihu nʼọnụ ụzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ọ hụrụ Esta bụ nwunye eze ka o na-eguzo nʼogige ahụ, ihe ya masịrị ya, ọ nabatakwara ya site na ị setịpụrụ ya mkpara ọlaedo nke dị nʼaka ya. Ya mere, Esta bịaruru nso metụkwa isi mkpara ọlaedo ahụ aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Eze jụrụ ya sị, “Gịnị ka ị chọrọ, eze nwanyị Esta? Gịnị bụ mkpa gị? Aga m emere gị ya, ọ bụladị ma ọ bụrụ inye gị otu ọkara alaeze m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Esta zara sị, “Ọ bụrụ na ọ masịrị eze, achọrọ m ka gị na Heman bịa rie oriri m kwadooro unu taa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Eze tụgharịrị gwa ndị ozi ya sị, “Gwanụ Heman ka o mee ngwangwa bịa ka anyị gaa mee ihe Esta rịọrọ.” Emesịa, eze na Heman bịara nʼoriri Esta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ha na-aṅụ mmanya, eze sịrị Esta, “Ugbu a, gwa m ihe ị chọrọ, aga m enye gị ya, ọ bụladị ma ọ bụrụ otu ọkara alaeze m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Esta zara sị, “Arịrịọ m na mkpa m bụ nke a,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "ọ bụrụ na m ahụtala amara nʼihu eze nʼezie, ọ bụrụkwa na ọ masịrị eze imere m ihe m na-arịọ, na ime ihe m na-achọ, ka ya na Heman sorokwa bịa echi nʼoriri ọzọ m ga-akwado. Echi ka m ga-akọkwara gị ihe niile.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Iwe ọkụ Heman megide Mọdekai"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Heman hapụrụ ebe oriri ahụ nʼoke obi ụtọ. Ma mgbe ọ hụrụ Mọdekai nʼọnụ ụzọ ama eze, hụkwa na o bilighị maọbụ maa jijiji nʼihu ya, iwe were ya nke ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼagbanyeghị nke a, Heman jisiri onwe ya ike, laa nʼụlọ ya. Ọ kpọkọtara ndị enyi",
+          {
+            "noteId": 533
+          },
+          "ya niile na Zeresh, nwunye ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "ọ nyara ha isi nʼihi oke akụnụba ya, na ọtụtụ ụmụ ndị ikom ya, nʼụzọ niile nke eze si nye ya nsọpụrụ ma bulikwaa ya elu karịa ndị ọzọ ọkwa ha dị elu na ndị ọrụ eze niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Heman kwukwara sị, “Nke a abụghị dị okwu, ọ bụ naanị mụ ka Esta nwunye eze, kpọrọ ka m soro eze bịa nʼoriri nke ọ kwadooro. Echi ka ọ kpọrọ m ka m soro eze bịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma ihe ndị a niile bụ ihe efu mgbe ọbụla m na-ahụ Mọdekai onye Juu ahụ ka ọ na-anọdụ ala nʼọnụ ụzọ ama ụlọeze.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ, Zeresh nwunye ya na ndị enyi ya niile, dụrụ ya ọdụ sị ya, “Ihe ị ga-eme bụ nke a: Kwadoo osisi e ji akwụgbu mmadụ, nke ịdị elu ya ga-adị iri mita abụọ na atọ. Nʼụtụtụ echi, rịọ eze ka o nye gị ike ịkwụgbu Mọdekai nʼelu ya. Mgbe e mere nke a, ọṅụ gị ga-ezukwa oke, mgbe ị ga-esorokwa eze gaa rie oriri a kpọrọ unu.” Okwu a masịrị Heman nke ukwuu. O nyere iwu ka a kwadoo osisi ahụ ngwangwa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 533,
+        "caller": "+",
+        "text": "Ndị hụrụ ya nʼanya",
+        "reference": {
+          "chapter": 5,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EST/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EST/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EST/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

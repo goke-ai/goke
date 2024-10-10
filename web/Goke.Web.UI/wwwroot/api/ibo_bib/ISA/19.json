@@ -1,0 +1,481 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma e buru banyere Ijipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ amụma megide Ijipt:",
+          {
+            "text": "Lee, Onyenwe anyị na-abịa imegide Ijipt,",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-anọkwasịkwa nʼeluigwe ojii nke na-agba ọsọ.",
+            "poem": 2
+          },
+          {
+            "text": "Arụsị ndị Ijipt niile na-ama jijiji nʼihu ya.",
+            "poem": 1
+          },
+          {
+            "text": "Ọzọ, nʼihi ụjọ obi ndị Ijipt na-agbaze nʼime onwe ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Aga m akpali ndị Ijipt mee ka ha lụọ ọgụ nʼetiti onwe ha.",
+            "poem": 1
+          },
+          {
+            "text": "Nwanne ga-emegide nwanne ya,",
+            "poem": 2
+          },
+          {
+            "text": "onye agbataobi ga-emegidekwa onye agbataobi ya;",
+            "poem": 2
+          },
+          {
+            "text": "obodo ga-emegide isi obodo;",
+            "poem": 2
+          },
+          {
+            "text": "otu a kwa, alaeze ga-emegidekwa alaeze.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ndị Ijipt ga-ada mba nʼime mmụọ ha,",
+            "poem": 1
+          },
+          {
+            "text": "aga m eme ka nzube ha niile bụrụ ihe efu,",
+            "poem": 2
+          },
+          {
+            "text": "ha ga-ajụta arụsị na mmụọ ndị nwụrụ anwụ ase,",
+            "poem": 1
+          },
+          {
+            "text": "jụọkwa ndị na-ajụta mmụọ ọjọọ ase na ndị dibịa afa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Onyenwe anyị, bụ Onyenwe anyị, Onye pụrụ ime ihe niile ekwuola ya sị,",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ nʼaka eze afọ tara mmiri,",
+            "poem": 2
+          },
+          {
+            "noteId": 880
+          },
+          {
+            "text": "nke na-adịghị eme ebere,",
+            "poem": 1
+          },
+          {
+            "text": "ka m ga-enyefe ndị Ijipt, ka ọ bụrụ onye ga-achị ha.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Mmiri dị nʼosimiri ga-atada;",
+            "poem": 1
+          },
+          {
+            "text": "ọ ga-atakwa takọrọkwa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ụzọ niile osimiri Ijipt ahụ si asọgharị",
+            "poem": 1
+          },
+          {
+            "text": "ga-atalata bido nʼisi isi.",
+            "poem": 2
+          },
+          {
+            "text": "Ahịhịa riidi niile na amị niile ga-akpọnwụsịkwa.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ahịhịa ndụ niile dị nʼakụkụ Naịl ga-akpọnwụ,",
+            "poem": 2
+          },
+          {
+            "text": "ifufe ga-efesakwa ha.",
+            "poem": 2
+          },
+          {
+            "text": "Mkpụrụ niile a kụrụ nʼebe ahụ ga-ala nʼiyi,",
+            "poem": 1
+          },
+          {
+            "text": "ihe niile ga-anwụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ndị ọkụ azụ ga-asụ ude, kwaa ụwa,",
+            "poem": 1
+          },
+          {
+            "text": "na ndị niile na-atụba nko azụ nʼime Naịl,",
+            "poem": 2
+          },
+          {
+            "text": "ndị na-agha ụgbụ nʼelu mmiri",
+            "poem": 1
+          },
+          {
+            "text": "ga-ata ahụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ndị nʼarụ ọrụ flakisi etiri eti ga-eru ụjụ,",
+            "poem": 1
+          },
+          {
+            "text": "na ndị na-akpa akwa ọcha ka olileanya ha ga-agharịpụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Obi ụtọ agaghị adịkwara ndị na-esite nʼịkpa akwa enweta ego,",
+            "poem": 1
+          },
+          {
+            "text": "ha na ndị ọrụ dị iche iche a na-akwụ ụgwọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Naanị ndị nzuzu ka ndịisi Zoan bụ,",
+            "poem": 1
+          },
+          {
+            "text": "ndụmọdụ na-enweghị isi ka ndị na-adụ eze Ijipt ọdụ na-enye.",
+            "poem": 2
+          },
+          {
+            "text": "Ị ga-esi aṅaa gwa Fero,",
+            "poem": 1
+          },
+          {
+            "text": "“Abụ m otu nʼime ndị maara ihe,",
+            "poem": 2
+          },
+          {
+            "text": "onye si nʼagbụrụ ndị eze ochie”?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ebee ka ndị ikom gị ahụ maara ihe nọ ugbu a?",
+            "poem": 1
+          },
+          {
+            "text": "Ka ha gosi gị ma meekwa ka ị maara,",
+            "poem": 2
+          },
+          {
+            "text": "ihe Onyenwe anyị, Onye pụrụ ime ihe niile",
+            "poem": 1
+          },
+          {
+            "text": "zubere megide Ijipt.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Ndịisi obodo Zoan aghọọla ndị nzuzu,",
+            "poem": 1
+          },
+          {
+            "text": "ndịisi obodo Memfis",
+            "poem": 2
+          },
+          {
+            "noteId": 881
+          },
+          {
+            "text": "aghọkwaala ndị e duhiere eduhie;",
+            "poem": 2
+          },
+          {
+            "text": "ndị bụ nkume isi nkuku nke ndị ya niile",
+            "poem": 1
+          },
+          {
+            "text": "eduhiela ndị Ijipt ụzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Onyenwe anyị awụnyela nʼime ha",
+            "poem": 1
+          },
+          {
+            "text": "mmụọ nzuzu nke uche na-ezughị oke;",
+            "poem": 2
+          },
+          {
+            "text": "nke mere ka Ijipt na-adagharị nʼihe niile ọ na-eme",
+            "poem": 1
+          },
+          {
+            "text": "dịka onye ṅụbigara mmanya oke si adagharị nʼihe ọ gbọrọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Ọ dịghị ihe Ijipt nwere ike ime,",
+            "poem": 1
+          },
+          {
+            "text": "isi maọbụ ọdụ; alaka nkwụ maọbụ osisi achara.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼụbọchị ahụ, ndị ikom Ijipt ga-adị ka ndị inyom, ha ga na-ama jijiji nʼegwu nʼihi aka ahụ Onyenwe anyị, Onye pụrụ ime ihe niile weliri elu imegide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ala Juda ga-ewetara ndị Ijipt oke egwu, oke ụjọ ga-atụ onye ọbụla akpọtaara aha Juda, nʼihi ihe Onyenwe anyị, Onye pụrụ ime ihe niile na-ezube megide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼụbọchị ahụ, obodo ise nʼime ala Ijipt ga-asụ asụsụ Kenan, ṅụọ iyi irubere Onyenwe anyị, Onye pụrụ ime ihe niile isi. Otu nʼime obodo ndị a ka a ga-akpọ Obodo anwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼụbọchị ahụ, ebe ịchụrụ Onyenwe anyị aja ga-adị nʼetiti ala Ijipt.",
+          {
+            "noteId": 882
+          },
+          "A ga-ewukwa otu ogidi ncheta nye Onyenwe anyị nʼoke ala ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nke a ga-abụ ihe ama na ihe ngosi, na Onyenwe anyị, Onye pụrụ ime ihe niile nọkwa nʼIjipt. Mgbe ha kpọkuru Onyenwe anyị maka ndị na-emegbu ha, ọ ga-aza ha, ọ ga-ezitere ha onye nzọpụta, onye ga-azọpụta ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere, Onyenwe anyị ga-eme ka ndị Ijipt mara onye ọ bụ, nʼụbọchị ahụ, ha ga-amata Onyenwe anyị, jirikwa ịchụ aja na onyinye fee ya. Ha ga-ekwe Onyenwe anyị nkwa debekwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Onyenwe anyị ga-eti Ijipt ihe otiti, ma ọ ga-agwọkwa ha. Ndị Ijipt ga-alọghachikwute Onyenwe anyị, ọ ga-aṅakwa ntị nʼarịrịọ ha gwọọkwa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nʼụbọchị ahụ, a ga-enwe okporoụzọ atụliri atụli nke ga-esite na Ijipt ruo Asịrịa. Ndị Asịrịa ga-aga Ijipt, ndị Ijipt ga-agakwa Asịrịa, ndị Ijipt na ndị Asịrịa ga-eso fee ofufe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼụbọchị ahụ ka Izrel ga-abụ nke atọ imezu Ijipt na Asịrịa, bụrụ ngọzị nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Onyenwe anyị, Onye pụrụ ime ihe niile ga-agọzi ha, na-asị, “Ka ngọzị dịrị Ijipt, ndị m, dịrị Asịrịa nke bụ akaọrụ m, na Izrel ihe nketa nke m.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 880,
+        "caller": "+",
+        "text": "Eze Shabaka, onye Kush chịrị ala Ijipt na senchuri nke asaa. Aịz 20:4; Jer 46:26; Izk 29:19",
+        "reference": {
+          "chapter": 19,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 881,
+        "caller": "+",
+        "text": "Memfis bụ isi obodo ndị Ijipt nʼoge ochie. Izk 30:13; Hos 9:6",
+        "reference": {
+          "chapter": 19,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 882,
+        "caller": "+",
+        "text": "Jen 28:18; Ọpụ 24:4; Jos 22:10,26,27",
+        "reference": {
+          "chapter": 19,
+          "verse": 19
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/19.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/20.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/18.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

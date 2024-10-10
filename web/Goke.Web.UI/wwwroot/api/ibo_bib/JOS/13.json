@@ -1,0 +1,354 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "ibo_bib",
+    "name": "Joshua",
+    "commonName": "Joshua",
+    "title": "Joshua",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "8e1d5caf9da7743a3c9001a4bcf4880157d1b5427a9bdf5550f365a0b3315c7a",
+    "firstChapterApiLink": "/api/ibo_bib/JOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOS/24.json",
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ala fọdụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge a, Joshua aghọọla agadi nwoke,",
+          {
+            "noteId": 1164
+          },
+          "Onyenwe anyị kpọrọ ya sị ya, “Ugbu a, ị ghọọla agadi, ụbọchị ọgwụgwụ ndụ gị abịala nso, ma ọtụtụ ala fọdụrụ ndị a ga-emeri."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Ndị a bụ ala nke fọdụrụ unu ga-enweta:",
+          {
+            "lineBreak": true
+          },
+          "“ala ndị Filistia niile na ala ndị Geshua niile,",
+          {
+            "noteId": 1165
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "site nʼosimiri Shaịho dị nʼọnụ Ijipt ruo nʼoke ala Ekrọn, nʼakụkụ ugwu ya, nke a gụnyere ndị Kenan, na ndịisi ise ndị Filistia: ndị Gaza, ndị Ashdọd, ndị Ashkelọn, ndị Gat, na ndị Ekrọn; nakwa ala ndị Ava,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "site na ndịda ala ahụ niile dị nʼugwu; nʼala ndị Kenan, na Meara, nke bụ ala ndị Saịdọn, ruo nʼAfek, na oke ala ndị Amọrait;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "na ala ndị Gebal niile; na Lebanọn niile ruo nʼọwụwa anyanwụ, site Baal-Gad nʼokpuru ugwu Hemon ruo na mbata Hamat."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Ndị niile bi nʼala ugwu site na Lebanọn ruo Mizrefot Maim, ya bụ, ndị Saịdọn niile, Mụ onwe m ga-achụpụ ha site nʼihu ụmụ Izrel. Ihe dịrị gị bụ ike ala ahụ ka ọ bụrụ ihe nketa nye ndị Izrel, dịka mụ onwe m nyere gị iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ya mere, kere ebo itoolu, na ọkara Manase, ala ndị a niile, ka ọ bụrụ ihe nketa ha.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ala dị nʼọwụwa anyanwụ Jọdan"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọkara ebo Manase, na ebo Ruben, na Gad, enwetala ihe nketa ha nʼofe ọzọ nke Jọdan, nʼakụkụ ọwụwa anyanwụ, dịka Mosis onyeozi Onyenwe anyị nyere ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ala ha gbatịrị site nʼAroea nke dị na ndagwurugwu Anọn, na site nʼobodo dị nʼetiti ndagwurugwu ahụ, ruo nʼala dị larịị nke gbatịrị site na Medeba ruo Dibọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ gbatịkwara ruo nʼoke ala ndị Amọn, tinyere obodo niile nke Saịhọn, eze ndị Amọrait na-achị mgbe o bi na Heshbọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ gụnyekwara Gilead, nʼoke ala ndị Geshua, na ndị Maaka, na ugwu Hemon niile, na Bashan niile, ruokwa Saleka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya bụ, obodo niile nke Ọg eze ndị Bashan na-achị, mgbe isi alaeze ya dị nʼAshtarọt na Edrei. (Ọ bụ eze ikpeazụ nʼagbụrụ ndị Refaim.) Mosis busoro Saịhọn na Ọg agha, tigbuo ha, napụkwa ha ala ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma ndị Izrel achụpụghị ndị Geshua na ndị Maaka, ya mere, ha nọgidere na-ebi nʼetiti ụmụ Izrel ruo taa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O nweghị ala o kenyere ebo Livayị. Nʼihi na Onyenwe anyị kwere ha nkwa na ihe nketa ha ga-abụ ihe aja onyinye niile e si nʼọkụ na-ewetara Onyenwe anyị Chineke Izrel."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nke a bụ ala Mosis nyere ebo Ruben dịka agbụrụ ha si dị, ka ọ bụrụ ihe nketa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ala ha gbatịrị site nʼAroea, na ndagwurugwu iyi Anọn, sitekwa nʼobodo dị nʼetiti ndagwurugwu ahụ na ala dị larịị gabiga gafee Medeba,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "ruo Heshbọn, na obodo ndị ọzọ dị nʼala larịị ahụ, tinyere obodo Dibọn, na Bamot Baal, na Bet-Baal-Meon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "na Jahaz, na Kedemot, na Mefaat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "na Kiriatem, na Sibma, na Zeret Shaha, nke dị nʼugwu nta dị na ndagwurugwu ahụ;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "na Bet-Peoa, na Bet-Jeshimọt, nke dị nʼebe dị na mgbada ugwu Pisga;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "na obodo niile dị nʼala larịị ahụ, na ala Saịhọn niile, onye bụ eze ndị Amọrị nke chịrị na Heshbọn. Mosis lụgburu ya, lụgbukwaa ndịisi Midia bụ Evi, na nke Rekem, na nke Zua, na nke Hua, na nke Reba, ụmụ ndị eze ha na Saịhọn jikọtara aka buo agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Tinyere ndị ha gburu nʼọgbọ agha, ụmụ Izrel ji mma agha gbuo Belam nwa Beoa, onye na-agba aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ya mere, oke ala ebo Ruben dị nʼọnụ mmiri osimiri Jọdan. Obodo ukwu na obodo nta ndị a bụ ihe ha nwetara dịka ihe nketa ha. Ezinaụlọ ọbụla nwetakwara oke nke ha dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mosis nyekwara ebo Gad ala nke ha site nʼala ahụ ha lụgburu, dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị a bụ ala ebo Gad nwetara: ala ahụ niile dị na Jeza, na obodo Gilead niile, na ọkara ala ndị Amọn nke ruru Areoa, nʼakụkụ Raba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Na ala sitere Heshbọn ruo Ramat Mizpa, na Betonim, na sitekwa Mahanaim ruo oke ala Debịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼime ndagwurugwu ala ha bụ Bet-Haram, na Bet-Nimra, na Sukọt, na Zafọn, na ala fọdụrụ nʼalaeze Saịhọn eze Heshbọn, nke dị nʼakụkụ ọwụwa anyanwụ osimiri Jọdan nʼoke ala ya ruokwa nsọtụ osimiri Galili.",
+          {
+            "noteId": 1166
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Obodo ndị a na obodo nta ndị ọzọ bụ ihe nketa ụmụ Gad dịka agbụrụ ha si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Mosis nyekwara ikwu ọbụla dị nʼọkara ebo Manase ala nke ha, dịka mkpa ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ala ha ketara gbatịrị ruo Mahanaim. Ọ bụ ha nwekwa ala Bashan niile, na ala niile Ọg, eze Bashan, na-achị, tinyere iri obodo nta isii dị na Bashan, nke Jaịa wuru. Ha nwetakwara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "ọkara Gilead, na Ashtarọt, na Edrei bụ isi obodo alaeze Ọg nʼime Bashan. Ala ndị a niile ka e nyere ọkara ebo Manase, ya bụ ikwu niile e nwere site nʼụmụ Makia, ọkpara Manase."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ndị a bụ otu Mosis si keere ụmụ Izrel ala dị nʼakụkụ ọwụwa anyanwụ osimiri Jọdan, mgbe ụmụ Izrel mara ụlọ ikwu ha nʼobosara ala Moab, na ncherita ihu obodo Jeriko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ma Mosis enyeghị ebo Livayị ala ọbụla, nʼihi na ọ gwara ha na Onyenwe anyị, Chineke Izrel bụ ihe nketa ha nwere, dịka o kwere ha na nkwa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1164,
+        "caller": "+",
+        "text": "Nʼoge a, Joshua agbaala ihe dịka iri afọ itoolu, maọbụ narị afọ, ebe Kaleb ga-adị ihe dịka iri afọ asatọ na ise. Jos 14:10; 23:1-2; 24:29",
+        "reference": {
+          "chapter": 13,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1165,
+        "caller": "+",
+        "text": "Ndị Geshua biri nʼakụkụ ọnụ mmiri nʼoke ala Ijipt, na ndịda ala Filistia.",
+        "reference": {
+          "chapter": 13,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1166,
+        "caller": "+",
+        "text": "Osimiri Galili bụkwa Osimiri Kineret",
+        "reference": {
+          "chapter": 13,
+          "verse": 27
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOS/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

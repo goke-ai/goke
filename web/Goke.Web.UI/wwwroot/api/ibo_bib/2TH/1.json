@@ -1,0 +1,148 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2TH",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Tesalonaịka",
+    "commonName": "2 Ndị Tesalonaịka",
+    "title": "2 Ndị Tesalonaịka",
+    "order": 53,
+    "numberOfChapters": 3,
+    "sha256": "ca6b105806dc284cfeffcb5aec9279229249559c4d1bd44707d6bc4112e9a15e",
+    "firstChapterApiLink": "/api/ibo_bib/2TH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2TH/3.json",
+    "totalNumberOfVerses": 47
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pọl, na Saịlas, na Timoti dere akwụkwọ a,",
+          {
+            "lineBreak": true
+          },
+          "Na-edegara nzukọ dị nʼobodo Tesalonaịka nʼime Chineke Nna anyị, na nʼime Onyenwe anyị Jisọs Kraịst."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ka amara na udo nke sitere na Chineke Nna anyị, na Onyenwe anyị Jisọs Kraịst dịrị unu."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Inye ekele na ekpere"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ụmụnna, anyị aghaghị ikele Chineke ekele mgbe niile banyere unu. O kwesiri ka anyị mee otu a, nʼihi okwukwe unu na-abawanye. Ịhụnanya onye ọbụla nʼime unu nwere nʼebe ibe ya nọ na-abawanyekwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼihi nke a, anyị na-eji unu na-anya isi nʼetiti nzukọ Chineke niile. Anyị na-akọrọ ha otu unu si jiri ntachiobi nọgidesie ike nʼime nsogbu niile dakwasịrị unu, na otu unu si nwee okwukwe dị ukwuu, ọ bụladị nʼetiti oke mkpagbu a na-akpagbu unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ihe ndị a niile na-egosi na ikpe Chineke bụ nke ziri ezi, nke e ji eme unu ndị kwesiri alaeze Chineke, nke unu na-ata ahụhụ nʼihi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Chineke bụ onye ezi omume nʼezie. Ọ ga-eji mkpagbu kwụghachi ndị na-akpagbu unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọ ga-enyekwa unu bụ ndị a na-akpagbu na anyị onwe anyị ezumike. Ọ ga-eme nke a mgbe a ga-eme ka Onyenwe anyị Jisọs ya na ndị mmụọ ozi si nʼeluigwe pụta ìhè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ ga-abịa nʼụdị ire ọkụ taa ndị ahụ na-amaghị Chineke ahụhụ na ndị jụrụ ịnabata oziọma nke Onyenwe anyị Jisọs Kraịst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị a ga-ata ahụhụ mbibi ruo ebighị ebi, ebe ha na-agaghị ahụ ihu Onyenwe anyị na ebube nke ike ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "nʼụbọchị ahụ ọ ga-abịa ịnara ịja mma na otuto, nʼime ndị nsọ ya, ya na ka ọ bụrụ ihe ịtụnanya nʼebe ndị kweerenụ nọ, nʼihi na unu kwenyere ama nke oziọma ahụ anyị gbaara unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi nke a, anyị na-anọgide nʼekpere nʼihi unu, na-arịọ ka Chineke gụọ unu dịka ndị kwesiri ọkpụkpọ ọ kpọrọ unu, na-arịọkwa ka o site nʼike ya mee ka unu mezuo ebumnobi nke ihe dị mma, na ezi ọrụ niile nke okwukwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ka e nye aha Onyenwe anyị Jisọs otuto nʼime unu, unu onwe unu nʼime ya kwa, dị ka amara nke Chineke anyị na nke Onyenwe anyị Jisọs Kraịst si dị."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/2TH/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2TH/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1TH/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

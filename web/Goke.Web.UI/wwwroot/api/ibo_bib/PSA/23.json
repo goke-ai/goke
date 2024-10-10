@@ -1,0 +1,208 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma Devid."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Onyenwe anyị na-azụ anyị dị ka atụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Onyenwe anyị na-azụ m dịka atụrụ, ọ dịghị ihe akọrọ m.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ọ na-eme ka m dinaa ala nʼebe ahịhịa ndụ na-eto,",
+            "poem": 2
+          },
+          {
+            "text": "ọ na-edugharị m nʼakụkụ mmiri dị jụụ,",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "ọ na-atụte mkpụrụobi m.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ na-edu m nʼụzọ niile nke ezi omume",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi aha ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "A sịkwarị na m na-aga ije,",
+            "poem": 1
+          },
+          {
+            "text": "na ndagwurugwu nke ọchịchịrị ọnwụ,",
+            "poem": 2
+          },
+          {
+            "text": "agaghị m atụ egwu ihe ọjọọ ọbụla;",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ị nọnyeere m,",
+            "poem": 2
+          },
+          {
+            "text": "mkpọrọ gị na mkpanaka gị",
+            "poem": 1
+          },
+          {
+            "text": "na-akasị m obi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ị na-akwado tebul",
+            "poem": 1
+          },
+          {
+            "noteId": 1596
+          },
+          {
+            "text": "nʼihu m,",
+            "poem": 1
+          },
+          {
+            "text": "nʼanya ndị iro m.",
+            "poem": 2
+          },
+          {
+            "text": "I tere isi m mmanụ",
+            "poem": 1
+          },
+          {
+            "noteId": 1597
+          },
+          {
+            "text": "iko m na-ejubiga oke.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nʼezie, ịdị mma na ebere ga-agbaso m",
+            "poem": 1
+          },
+          {
+            "text": "ogologo ụbọchị niile nke ndụ m,",
+            "poem": 2
+          },
+          {
+            "text": "m ga-ebikwa nʼụlọ Onyenwe anyị",
+            "poem": 1
+          },
+          {
+            "text": "mgbe niile ebighị ebi.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1596,
+        "caller": "+",
+        "text": "Nʼoge ochie, ọ bụ nʼebe iri nri (tebul) ka enyi na enyi na-anọ agba ndụ, maọbụ nwe nkwekọrịta. Oriri a na-egosi na ọgbụgba ndụ bụ ihe ọṅụ na ezi mmekọrịta nke enyi na enyi. Eze ahụ nke na-azụ ndị ya dịka atụrụ, nabatara ohu ya bụ Devid nʼebe iri nri, dịka e dere ya nʼabụ ọma a.",
+        "reference": {
+          "chapter": 23,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 1597,
+        "caller": "+",
+        "text": "Mmanụ a na-ete nʼisi na-esi isi ụtọ, ọ bụ mmanụ a na-ete onye a kporo oriri iji kwanyere ya ugwu. Luk 7:46Ndị ọzụzụ atụrụ na-ejikwa ya achụ ụmụ ahụhụ na ndanda na-achọ ịrịbanye atụrụ ndị ha na-azụ nʼimi.",
+        "reference": {
+          "chapter": 23,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/23.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/24.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/22.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

@@ -1,0 +1,6 @@
+@Goke.Web.Server_HostAddress = http://localhost:5212
+
+GET {{Goke.Web.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

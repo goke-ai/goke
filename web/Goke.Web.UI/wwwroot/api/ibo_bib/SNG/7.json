@@ -1,0 +1,327 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "ibo_bib",
+    "name": "Abụ nke Abụ",
+    "commonName": "Abụ nke Abụ",
+    "title": "Abụ nke Abụ",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "6514d7dce5ded66021cc784856cb2aed328424d30f41fe6e5dd039e3c7ac7844",
+    "firstChapterApiLink": "/api/ibo_bib/SNG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/SNG/8.json",
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Lee ka ụkwụ gị si dị mma nʼime akpụkpọụkwụ",
+            "poem": 1
+          },
+          {
+            "text": "gị ada nwa eze.",
+            "poem": 2
+          },
+          {
+            "text": "Apata ụkwụ gị abụọ dị ezi mma dịka nkume oke ọnụahịa,",
+            "poem": 1
+          },
+          {
+            "text": "ọrụ aka nke ezigbo onye ọkwa ǹka.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Otubo gị mara mma",
+            "poem": 1
+          },
+          {
+            "text": "dịka iko nke a gbajuru mmanya.",
+            "poem": 2
+          },
+          {
+            "text": "Ukwu gị dị ka ukwu ọka",
+            "poem": 1
+          },
+          {
+            "text": "e ji okoko urodi gbaa gburugburu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ara gị abụọ dị ka ụmụ mgbada abụọ",
+            "poem": 1
+          },
+          {
+            "text": "nke otu nne mụrụ nʼotu oge.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Olu gị guzo kwem dị ka ụlọ elu e ji ọdụ wuo.",
+            "poem": 1
+          },
+          {
+            "text": "Anya gị abụọ dị ka ọdọ mmiri Heshbọn",
+            "poem": 1
+          },
+          {
+            "text": "nke dị nʼakụkụ ọnụ ụzọ ama Bat-Rabim.",
+            "poem": 2
+          },
+          {
+            "text": "Imi gị mara mma dị ka ụlọ elu Lebanọn",
+            "poem": 1
+          },
+          {
+            "text": "nke chere Damaskọs ihu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Isi gị guzo nʼahụ gị ka ugwu Kamel.",
+            "poem": 1
+          },
+          {
+            "text": "Agịrị isi nke isi gị dịkwa ogho odo odo.",
+            "poem": 2
+          },
+          {
+            "noteId": 1861
+          },
+          {
+            "text": "Ịma mma nke agịrị isi gị emela eze onye a dọtara nʼagha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Lee ka i si maa mma nke ukwuu, nʼezie, ị mara mma.",
+            "poem": 1
+          },
+          {
+            "text": "Ị dịkwa ụtọ nke ukwuu, gị onye m hụrụ nʼanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ị dị ogologo dịka osisi nkwụ;",
+            "poem": 1
+          },
+          {
+            "text": "ara gị abụọ dịkwa ka ụyọkọ mkpụrụ osisi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ekwuru m sị, “Aga m arịgoro elu osisi nkwụ ahụ,",
+            "poem": 1
+          },
+          {
+            "text": "jidekwa mkpụrụ ya aka.”",
+            "poem": 2
+          },
+          {
+            "text": "Ugbu a, ka ara gị abụọ dịkwa ka ụyọkọ mkpụrụ vaịnị,",
+            "poem": 1
+          },
+          {
+            "text": "ka isisi nke iku ume gị dịkwa ka mkpụrụ osisi apụl,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "ka okpo ọnụ gị dịka mmanya makarịsịrị na mma.",
+            "poem": 2
+          },
+          "Onye a hụrụ nʼanya",
+          {
+            "text": "Ka mmanya ahụ gbadaa nwayọọ nye onye m hụrụ nʼanya,",
+            "poem": 1
+          },
+          {
+            "text": "na-asọda nwayọọ nʼelu egbugbere ọnụ ya na eze ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Abụ m nke onye ahụ m hụrụ nʼanya,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụkwa m ka ọ chọrọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Bịa, onye m hụrụ nʼanya, ka anyị gaa nʼime obodo,",
+            "poem": 1
+          },
+          {
+            "text": "ka anyị nọọ ọnọdụ abalị nʼobodo nta.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ka anyị bilie ngwangwa nʼisi ụtụtụ pụọ jee nʼubi",
+            "poem": 1
+          },
+          {
+            "text": "lee ma osisi vaịnị ha amaala ifuru,",
+            "poem": 2
+          },
+          {
+            "text": "ma okoko ya agbawaala,",
+            "poem": 1
+          },
+          {
+            "text": "ma osisi pomegranet agbawaala okoko.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼebe ahụ ka m ga-egosi gị ịhụnanya m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Nʼebe ahụ ka ị ga-anọ nụ isi nke mandreki",
+            "poem": 1
+          },
+          {
+            "noteId": 1862
+          },
+          {
+            "text": "na-ewepụta;",
+            "poem": 1
+          },
+          {
+            "text": "mkpụrụ osisi niile na-atọ ụtọ ga-adịkwa nʼọnụ ụzọ anyị,",
+            "poem": 2
+          },
+          {
+            "text": "ma ndị ọhụrụ ma ndị ochie,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na edokọtaala m ha maka onye m hụrụ nʼanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1861,
+        "caller": "+",
+        "text": "Ihe akpara akpa nke e jiri mara onye a na-enye nsọpụrụ",
+        "reference": {
+          "chapter": 7,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 1862,
+        "caller": "+",
+        "text": "Dịka ndị mmadụ na-ekwu, mandreki na-eweta mkpali ọchịchọ mmekọrịta nʼahụ mmadụ, na-emekwa ka nwanyị tara ya tụrụ ime. Jen 30:14",
+        "reference": {
+          "chapter": 7,
+          "verse": 13
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/SNG/7.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/SNG/8.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/SNG/6.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

@@ -1,0 +1,287 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 60,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma nke dịrị onyeisi Abụ. Ọ bụ olu abụ eji ekwe “Okoko lili nke Ọgbụgba Ndụ.” Abụ miktam nke Devid maka izi ihe. Mgbe ọ lụsoro Aram Naharaim na Aram Zoba ọgụ, nakwa mgbe Joab lọghachitara, tigbuo narị ndị Edọm iri nʼabụọ na Ndagwurugwu Nnu."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere maka nnapụta"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "O Chineke, ị jụla anyị, ị tịwawo anyị nʼike;",
+            "poem": 1
+          },
+          {
+            "text": "i wesola anyị iwe, ugbu a, kpọghachi anyị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "I meela ka ala a maa jijiji, ị dọwakwala ya;",
+            "poem": 1
+          },
+          {
+            "text": "mezie ntiwa ya niile, nʼihi na ọ na-ama jijiji.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "I meela ka ndị gị gabiga ọnọdụ ihe isi ike;",
+            "poem": 1
+          },
+          {
+            "text": "i nyela anyị mmanya nke mere ka anyị na-adagharị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ma nye ndị na-atụ egwu gị, i weliela otu ọkọlọtọ",
+            "poem": 1
+          },
+          {
+            "text": "nke a ga-agbasa nʼihi eziokwu imegide ụta nke ndị iro. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Were aka nri gị zọpụta anyị ma nyere anyị aka,",
+            "poem": 1
+          },
+          {
+            "text": "ka a gbapụta ndị ị hụrụ nʼanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Chineke esitela nʼịdị nsọ ya kwuo, sị,",
+            "poem": 1
+          },
+          {
+            "text": "“Nʼọnọdụ ọṅụ nke mmeri, aga m ekesa Shekem,",
+            "poem": 2
+          },
+          {
+            "noteId": 1627
+          },
+          {
+            "text": "tụkwaa Ndagwurugwu Sukọt nʼihe ọtụtụ nyepụ ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Gilead bụ nke m,",
+            "poem": 1
+          },
+          {
+            "noteId": 1628
+          },
+          {
+            "text": "otu a kwa, Manase bụkwa nke m;",
+            "poem": 1
+          },
+          {
+            "noteId": 1629
+          },
+          {
+            "text": "Ifrem bụ okpu igwe m,",
+            "poem": 2
+          },
+          {
+            "text": "Juda bụ mkpara eze m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Moab bụ efere ịkwọ aka m,",
+            "poem": 1
+          },
+          {
+            "text": "aga m atụsa akpụkpọụkwụ m nʼelu Edọm;",
+            "poem": 2
+          },
+          {
+            "text": "nʼelu isi Filistia, ana m eti mkpu mmeri.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Onye ga-akpọrọ m gaa nʼobodo e wusiri ike?",
+            "poem": 1
+          },
+          {
+            "text": "Onye ga-edu m gaa Edọm?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ọ bụghị gị, O Chineke? Gị onye jụrụ anyị,",
+            "poem": 1
+          },
+          {
+            "text": "onye na-adịghị esokwa ndị agha anyị aga agha?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Nyere anyị aka ka anyị pụọ nʼaka ndị iro,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na inyeaka mmadụ bụ ihe efu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Site na Chineke, anyị ga-enwe mmeri,",
+            "poem": 1
+          },
+          {
+            "text": "ọ ga-azọpịa ndị iro anyị niile nʼala.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1627,
+        "caller": "+",
+        "text": "Shekem bụ isi obodo ọchịchị mbụ ndị Izrel. Jen 12:6",
+        "reference": {
+          "chapter": 60,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1628,
+        "caller": "+",
+        "text": "Gilead, bụ ala ndị dị nʼakụkụ ọwụwa anyanwụ obodo ahụ. Jos 13:24-32",
+        "reference": {
+          "chapter": 60,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 1629,
+        "caller": "+",
+        "text": "Manase, bụkwa ala ndị dị nʼakụkụ ọwụwa anyanwụ obodo ahụ. Jos 13:24-32",
+        "reference": {
+          "chapter": 60,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/60.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/61.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/59.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

@@ -1,0 +1,235 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Abija eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Abija malitere ịbụ eze Juda, nʼafọ iri na asatọ nke ọchịchị eze Jeroboam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ chịrị afọ atọ na Jerusalem. Aha nne ya bụ Maaka,",
+          {
+            "noteId": 205
+          },
+          "otu nʼime ụmụ nwanyị",
+          {
+            "noteId": 206
+          },
+          "Uriel, onye Gibea. Agha dịgidere nʼetiti Abija na Jeroboam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Abija họpụtara ndị ya dị ike nʼagha bụ ndị ọnụọgụgụ ha dị narị puku anọ, ma Jeroboam eze Izrel họpụtara ndị agha ọnụọgụgụ ha dị narị puku asatọ doo ha nʼusoro."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Abija guzoro nʼugwu Zemaraim nʼala ugwu ugwu Ifrem jiri oke olu sị “Jeroboam na ndị Izrel niile geenụ m ntị!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Unu amataghị na Onyenwe anyị Chineke nke Izrel esitela nʼọgbụgba ndụ nnu nyefee ọchịchị ala Izrel niile nʼaka Devid na ụmụ ụmụ ya ruo ebighị ebi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma Jeroboam, nwa Nebat, bụ onye ọrụ Solomọn nwa Devid, nupuru isi megide onyenwe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị efu niile na-abaghị uru chịkọtara onwe ha gbaa ya gburugburu guzogide Rehoboam nwa Solomọn, mgbe ọ bụ nwantakịrị na onye na-enweghị ike inwe mkpebi, onye nʼadịghịkwa ike iguzogide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“Ma ugbu a, unu ejikerela imegide alaeze Onyenwe anyị nke dị nʼaka ụmụ ụmụ Devid. Nʼezie, unu bu igwe ndị agha bara ụba, nʼetiti unu ka ụmụ ehi ọlaedo ahụ dịkwa, bụ nke Jeroboam mere ka ha buru chi unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma unu achụpụghị ndị nchụaja Onyenwe anyị, bụ ụmụ Erọn, chụpụkwa ndị Livayị ma meere onwe unu ndị nchụaja dịka ndị mba ọzọ na-eme? Onye ọbụla ji nwa oke ehi na ebule asaa bịa ido onwe ya nsọ na-aghọrọ unu onye nchụaja nye ihe ndị ahụ na-abụghị chi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“Ma banyere anyị, Onyenwe anyị bụ Chineke anyị, anyị ahapụbeghị ya. Ndị nchụaja na-ejere Onyenwe anyị ozi bụ ụmụ Erọn, ndị Livayị bụkwa ndị na-enyere ha aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ha na-achụ aja nye Onyenwe anyị kwa ụtụtụ na anyasị niile, na-esurekwa ihe nsure ọkụ na-esi isi ụtọ; ma na-edobekwa achịcha edoro nsọ nʼelu tebul ahụ dị ọcha. Ha na-amụnyekwa ọkụ nʼiheọkụ ndị ahụ dị nʼelu ihe ịdọba oriọna ọlaedo kwa abalị niile. Nʼihi na anyị onwe anyị na-edebe iwu Onyenwe anyị Chineke anyị; ma unu onwe unu ahapụla ya, gbakụta ya azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Chineke nọnyeere anyị. Ọ bụkwa onyendu anyị. Ndị nchụaja ya ga-eji ịfụ opi ike tie mkpu agha megide unu. Unu ndị Izrel, unu alụsokwala Onyenwe anyị bụ Chineke nna unu ha ọgụ nʼihi na mmeri agaghị abụ nke unu!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma Jeroboam ezipụlarị ụfọdụ ndị agha ya ka ha ga ndị agha Juda nʼazụ. Mgbe Jeroboam nọ nʼihu ndị Juda, ụfọdụ ndị agha ya nọkwa ndị Juda nʼazụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ndị agha Juda tụgharịrị hụ na agha dị ha nʼihu dịkwa nʼazụ, ha tikuru Onyenwe anyị mkpu nzọpụta, ndị nchụaja fụkwara opi ike ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị Juda tiri oke mkpu agha. Mgbe ha na-eti mkpu a, Chineke mere ka Abija na ndị Juda merie Jeroboam na ndị Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị agha Izrel gbara ọsọ nʼihu ndị Juda, Chineke nyefere ha nʼaka ndị Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Abija na ndị agha ya gburu narị puku ndị Izrel ise nʼụbọchị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ya mere, ntụkwasị obi nke Juda nwere nʼime Onyenwe anyị Chineke nna ha mere ka ha merie Jeroboam na ndị Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Abija chụkwara Jeroboam na ndị agha ya ọsọ dọta obodo ndị a nʼagha: Betel, na Jeshana, na Efrọn, na obodo niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jeroboam enwetakwaghị ike ya ọzọ oge niile Abija nọ dịka eze. Ma ọ dịghị anya Onyenwe anyị tidara ya tigbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ma Abija gara nʼihu bụrụ onye dị ike, ọ lụrụ nwunye iri na anọ, mụọ iri ụmụ nwoke abụọ na abụọ, na ụmụ ndị nwanyị iri na isii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Akụkọ niile banyere ọchịchị Abija, ihe o mere na ihe o kwuru, dị nʼakwụkwọ akụkọ nke Ido onye amụma dere."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 205,
+        "caller": "+",
+        "text": "Maọbụ, Mịkaya",
+        "reference": {
+          "chapter": 13,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 206,
+        "caller": "+",
+        "text": "Maọbụ, nwa nwa",
+        "reference": {
+          "chapter": 13,
+          "verse": 2
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CH/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

@@ -1,0 +1,352 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị tinyere aka, nʼakwụkwọ ahụ bụ:",
+          {
+            "lineBreak": true
+          },
+          "Onyeisi ọchịchị: Nehemaya nwa Hakalaya.",
+          {
+            "lineBreak": true
+          },
+          "Zedekaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị ọzọ bụ Seraya, Azaraya, Jeremaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Pashua, Amaraya, Malkija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Hatush, Shebanaya, Maluk,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Harim, Meremot, Ọbadaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Daniel, Gineton, Baruk,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Meshulam, Abija, Mijamin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Maazaya, Bilgai na Shemaya. Ndị a bụ ndị nchụaja."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị Livayị so tinye aka ha nʼakwụkwọ bụ, Jeshua nwa Azanaya, Binui otu nʼime ụmụ Henadad, Kadmiel,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "ndị so ha na-arụ ọrụ: Shebanaya, Hodia, Kelita, Pelaia, Hanan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mika, Rehob, Hashabaya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Zakua, Sherebaya, Shebanaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Hodia, Bani na Beninu."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndịisi ọchịchị tinyere aka ha bụ, Parosh, Pahat-Moab, Elam, Zatu, Bani,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Buni, Azgad, Bebai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Adonaịja, Bigvai, Adin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Atea, Hezekaya, Azoa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Hodia, Hashum, Bezai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Harif, Anatot, Nebai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Magpịash, Meshulam, Hezia,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Meshezabel, Zadọk, Jadua,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pelataya, Hanan, Anaia,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Hoshea, Hananaya, Hashub,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Halohesh, Pilha, Shobek,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Rehum, Hashabna, Maaseia,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ahaya, Hanan, Anan,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Maluk, Harim na Baana."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "“Ndị ọzọ fọdụrụ bụ ndị nchụaja, ndị Livayị, ndị nche, ndị ọbụ abụ, ndị na-eje ozi nʼụlọnsọ na ndị ahụ niile sitere nʼirube isi nʼiwu Chineke wezuga onwe ha site nʼebe ndị mba ọzọ ahụ bi ha gburugburu nọ, ha na ndị nwunye ha na ụmụ ha ndị ikom na ndị inyom, bụ ndị niile tozuru ịghọta ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ndị a niile sooro ụmụnne ha ndị Izrel a na-asọpụrụ, jikọtaa onwe ha nʼọbụbụ ọnụ na ịṅụ iyi ịgbaso iwu Chineke, nke o nyere site nʼaka Mosis, bụ ohu Chineke; na ilezi anya rube isi nʼihe niile enyere nʼiwu, ntụziaka niile na ụkpụrụ niile nke Onyenwe anyị bụ Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "“Anyị kpebikwara na ụmụ anyị ndị ikom na ndị inyom agaghị alụ di maọbụ nwunye site na mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "“Anyị kpebikwara na ọ bụrụ na ndị mba ọzọ eburu ngwa ahịa ha maọbụ mkpụrụ ubi ha bịa ire ya nʼụbọchị izuike, maọbụ nʼụbọchị ọzọ dị nsọ, anyị agaghị azụ ihe ọbụla. Anyị na-ekpebikwa na anyị agaghị arụ ọrụ ọbụla nʼafọ nke asaa niile, kwekọọkwa na anyị ga-agbaghara ụmụnna anyị niile ji anyị ụgwọ nʼafọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "“Anyị kwekọrịtakwara na anyị ga-atụ ụtụ otu ụzọ nʼime ụzọ atọ nke otu shekel afọ niile maka iji kwadoo ọrụ ụlọnsọ ukwu Chineke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "maka ime ka ihe ndị a dịrị nʼụlọnsọ ukwu ahụ: achịcha nsọ, onyinye ọka nke ụbọchị niile, aja nsure ọkụ na onyinye nke ụbọchị izuike, mmemme ọnwa ọhụrụ niile, ha na mmemme ndị ọzọ niile a kara aka, maka aja dị nsọ niile na aja ikpuchi mmehie ndị Izrel, maka ozi niile a na-aga nʼụlọnsọ Chineke anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "“Anyị bụ ndị nchụaja, ndị Livayị na ndị ọzọ, ejirila ife nza chọpụta mgbe ezinaụlọ ọbụla nʼetiti anyị ga-eji bubata nku nʼụlọ Chineke anyị nʼoge ya kwa afọ, maka ebe ịchụ aja nke Onyenwe anyị Chineke anyị dịka e dere ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "“Anyị kpebikwara na mmadụ niile nʼotu nʼotu ga na-ewebata mkpụrụ mbụ nke ihe ubi ya nʼụlọnsọ Onyenwe anyị, na mkpụrụ osisi ọbụla, maọbụ ihe ubi ndị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "“Dịka e dere ya nʼIwu, anyị ga-ewebata ụmụ ndị ikom mbụ anyị, na nwa mbụ nke igwe ehi, na igwe ewu na atụrụ anyị niile, nʼụlọ Chineke anyị. A ga-enye ha ndị nchụaja na-eje ozi nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "“Karịsịa, anyị ga-ewebata nʼụlọ ịchịkọba ihe nke ụlọnsọ Chineke anyị, nyekwa ha ndị nchụaja, ụtụ ọka mbụ anyị kwọrọ, ya na onyinye ndị ọzọ nke mkpụrụ ubi mbụ anyị, dịka mmanya vaịnị mbụ, mmanụ oliv mbụ na mkpụrụ osisi ndị ọzọ. Anyị kpebikwara inye ndị Livayị otu ụzọ nʼime ụzọ iri nke ihe niile anyị nwetara nʼubi anyị, nʼihi na ọ bụ ọrụ ndị Livayị ịnakọta otu ụzọ nʼụzọ iri site nʼobodo niile ebe anyị na-arụ ọrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ndị nchụaja bụ ụmụ ụmụ Erọn ga-eso ndị Livayị mgbe ha na-anakọta onyinye otu ụzọ nʼime ụzọ iri ndị a. Ha ga-ewekọta ihe ndị a niile webaa ha nʼụlọ Chineke anyị, ruo nʼime ọnụụlọ ịchịkọba ihe,",
+          {
+            "noteId": 1473
+          },
+          "nke ụlọakụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ndị Izrel na ndị Livayị, kwesiri iweta onyinye ọka ha, na mmanya vaịnị ọhụrụ, na mmanụ oliv nʼime ụlọ ịchịkọba ihe, nʼebe a na-edebe ngwongwo niile e ji eje ozi nʼụlọ ukwu ahụ, nke ndị nchụaja na-eje ozi, ndị nche na nke ndị ọbụ abụ. “Anyị agaghị agbakụtakwa ụlọ Chineke anyị azụ.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1473,
+        "caller": "+",
+        "text": "Ọtụtụ ọnụụlọ nchịkọba ihe dị nʼogige ụlọnsọ ukwu ahụ. Ọ bụ nʼebe a ka a na-edebe ngwongwo niile dị nsọ. Gụọ ebe ndị a; 1Ih 9:26; 2Ih 31:11; Neh 13:7; Mal 3:10.",
+        "reference": {
+          "chapter": 10,
+          "verse": 38
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/11.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

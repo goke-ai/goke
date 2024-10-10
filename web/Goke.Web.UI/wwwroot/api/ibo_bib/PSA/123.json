@@ -1,0 +1,144 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 123,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ nrigo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere maka ebere"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ana m eweli anya m abụọ elu ile gị,",
+            "poem": 1
+          },
+          {
+            "text": "gị onye ocheeze ya dị nʼeluigwe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Dịka ohu si elekwasị nna ya ukwu anya ya,",
+            "poem": 1
+          },
+          {
+            "text": "na dịka ohu nwanyị na-eje ozi si elekwasị nne ya ukwu anya, ịnata ozi ọ ga-eje,",
+            "poem": 2
+          },
+          {
+            "noteId": 1691
+          },
+          {
+            "text": "otu a ka anyị si na-elekwasị Onyenwe anyị bụ Chineke anyị anya,",
+            "poem": 1
+          },
+          {
+            "text": "ruo mgbe ọ ga-emere anyị ebere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Meere anyị ebere, O Onyenwe anyị, meere anyị ebere,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na anyị abụrụla ndị a na-akọcha akọcha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Nʼihi na nnagide anyị na-anagide",
+            "poem": 1
+          },
+          {
+            "text": "ịchị ọchị ndị nganga,",
+            "poem": 2
+          },
+          {
+            "text": "na ileda anya ndị mpako adịla ukwuu.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1691,
+        "caller": "+",
+        "text": "Nʼoge ochie, ndị nwere ohu adịghị e kwuru ha okwu mgbe a na-ezi ha ozi, kama ọ bụ aka ka nne ha ukwu maọbụ nna ha ukwu ji agwa ha ihe ha kwesiri ime.",
+        "reference": {
+          "chapter": 123,
+          "verse": 2
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/123.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/124.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/122.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 4
+}

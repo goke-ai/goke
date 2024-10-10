@@ -1,0 +1,274 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 76,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma dịrị onyeisi abụ. Nke eji ụbọ akwara akpọ. Abụ Ọma Asaf. Otu Abụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ike mmeri nke Chineke"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "A maara Chineke nʼobodo Juda;",
+            "poem": 1
+          },
+          {
+            "text": "aha ya dị ukwuu nʼobodo Izrel.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ụlọ ikwu ya dị na Salem,",
+            "poem": 1
+          },
+          {
+            "text": "ebe obibi ya dị na Zayọn",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ebe ahụ ka o tijisịrị àkụ niile na-egbu amụma,",
+            "poem": 1
+          },
+          {
+            "text": "na ọta niile, na mma agha niile, na ngwa agha niile. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ị jupụtara nʼìhè,",
+            "poem": 1
+          },
+          {
+            "text": "ị dị oke ebube karịa ọtụtụ ugwu nke anụmanụ jupụtara.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "A pụnarịla ndị nwere obi ike ihe ha,",
+            "poem": 1
+          },
+          {
+            "text": "ha na-arahụkwa ụra ikpeazụ ha;",
+            "poem": 2
+          },
+          {
+            "text": "o nweghị otu onye nʼime ndị dike nʼagha ndị a",
+            "poem": 1
+          },
+          {
+            "text": "pụrụ iweli aka ya abụọ elu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nʼihi ịba mba gị, O Chineke nke Jekọb,",
+            "poem": 1
+          },
+          {
+            "text": "ịnyịnya na ụgbọ agha na-anọ juu.",
+            "poem": 2
+          },
+          {
+            "noteId": 1653
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọ bụ naanị gị ka e kwesiri ịtụ egwu.",
+            "poem": 1
+          },
+          {
+            "text": "Onye pụrụ iguzo nʼihu gị mgbe i na-ewe iwe?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "I sitere nʼeluigwe mee ka a nụ olu ikpe ikpe gị.",
+            "poem": 1
+          },
+          {
+            "text": "Ụwa tụkwara egwu, dere duu,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "mgbe gị, O Chineke, biliri ikpe ikpe,",
+            "poem": 1
+          },
+          {
+            "text": "ịzọpụta ndị niile a na-akpagbu nʼala a. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Nʼezie, oke iwe gị megide ụmụ mmadụ na-ewetara gị otuto,",
+            "poem": 1
+          },
+          {
+            "noteId": 1654
+          },
+          {
+            "text": "ndị fọdụrụ mgbe oke iwe gị gabigasịrị, na-anọ juu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Kwenụ Onyenwe anyị Chineke nkwa ma mezuokwa ha;",
+            "poem": 1
+          },
+          {
+            "text": "ka ndị ala niile bụ agbataobi unu",
+            "poem": 2
+          },
+          {
+            "text": "wetara onye ahụ e kwesiri ịtụ egwu onyinye dị iche iche.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ọ na-eweda ndị na-achị achị nʼala;",
+            "poem": 1
+          },
+          {
+            "text": "ndị eze niile nke ụwa na-atụ ya egwu.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1653,
+        "caller": "+",
+        "text": "Ọpụ 15:1-6",
+        "reference": {
+          "chapter": 76,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1654,
+        "caller": "+",
+        "text": "Ọpụ 9:16-18; Rom 9:17",
+        "reference": {
+          "chapter": 76,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/76.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/77.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/75.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

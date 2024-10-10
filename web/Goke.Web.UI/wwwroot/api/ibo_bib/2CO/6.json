@@ -1,0 +1,292 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CO",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Kọrint",
+    "commonName": "2 Ndị Kọrint",
+    "title": "2 Ndị Kọrint",
+    "order": 47,
+    "numberOfChapters": 13,
+    "sha256": "3b9b8d874d26ecc425990ea184230068d28e211e81e87d323283cf821617634e",
+    "firstChapterApiLink": "/api/ibo_bib/2CO/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CO/13.json",
+    "totalNumberOfVerses": 257
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dịka ndị ha na ya na-arụkọ ọrụ nʼotu, anyị na-arịọ arịrịọ sị unu ahapụla ịnara amara a Chineke na-enye unu nʼefu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼihi na ọ na-ekwu,",
+          {
+            "text": "“Nʼoge m na-anara mmadụ nke ọma anụrụ m olu unu.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụkwa ụbọchị nzọpụta ka m nyeere unu aka.”",
+            "poem": 2
+          },
+          {
+            "noteId": 224
+          },
+          "Lee, ugbu a bụ oge a na-anabata mmadụ nke ọma, ugbu a bụ ụbọchị nzọpụta."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ahụhụ Pọl hụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Anyị etinyeghị ihe ịsọ ngọngọ nʼụzọ onye ọbụla ka ọ ghara iwetara ọrụ anyị ihe ịta ụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kama nʼime ihe niile, anyị na-agbalịsị ike ime ka ndị mmadụ mara na anyị bụ ndị na-ejere Chineke ozi. Anyị ji ndidi na ntachiobi na-edi nsogbu niile na mkpagbu niile na ahụhụ niile na-adakwasị anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "A na-eti anyị ihe otiti ọtụtụ mgbe. E tinyekwala anyị nʼime ụlọ mkpọrọ dị iche iche. Ọtụtụ mgbe ka igwe mmadụ tikwara anyị ihe otiti. Anyị na-adọgbu onwe anyị nʼọrụ. Ọtụtụ abalị anyị nọkwara nʼime ịmụ anya na-erighị nri,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "nʼime ịdị ọcha na ezi nghọta na ntachiobi nke anyị nwere, nʼinwe obiọma na ezi ịhụnanya nke ihu abụọ nʼadịghị na ya nʼime Mmụọ Nsọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "sitekwa nʼikwu eziokwu na site nʼike Chineke. Anyị buru ezi omume dịka ngwa agha nʼaka nri na nʼaka ekpe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ụfọdụ na-asọpụrụ anyị ma ndị ọzọ na-eme anyị ihe ihere. Ụfọdụ na-ata anyị ụta, ma ụfọdụ na-eto anyị. Ụfọdụ mmadụ na-agụ anyị dị ka ndị ụgha, ma anyị nọgidesịrị ike na-ekwu eziokwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụwa amaghị anyị, ma a maara anyị. Ọ bụ ezie na anyị na ọnwụ na-anọ nso mgbe niile, ma lee anyị ka dịkwa ndụ. A na-ata anyị ahụhụ, ma lee anyị anwụghị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Anyị na-anọ nʼihe mwute mgbe niile, ma lee ọṅụ juru anyị obi. Anyị bụ ndị ogbenye, ma anyị na-eme ka ọtụtụ mmadụ bụrụ ndị ọgaranya. Anyị enweghị ihe ọbụla, ma lee anyị nwere ihe niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ndị enyi anyị nọ na Kọrint, anyị agwala unu ihe niile dị anyị nʼobi, anyị emeghepụla obi anyị nye unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Anyị ji obi anyị niile hụ unu nʼanya, ma unu mechiri obi unu nʼebe anyị nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ugbu a, ana m ekwu dịka ana m agwa ụmụntakịrị. Na-emesonu anyị dịka anyị si emeso unu, meenụ ka obi unu saa mbara nʼebe anyị nọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị Kraịst na ndị na-ekweghị ekwe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Unu ekwela ka unu na ndị na-ekweghị ekwe nwee nkekọta ọbụla. Nʼihi na gịnị ka ezi omume na ajọ omume nwekọrọ? Olee ụdị mmekọ ìhè na ọchịchịrị ga-enwekọ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụ nwekọ dị aṅaa dị na-agbata Kraịst na ekwensu? Gịnịkwa ka onye kwere ekwe na onye na-ekweghị ekwe nwekọrọ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Gịnị bụ ihe jikọtara ụlọnsọ Chineke na arụsị? Nʼihi na anyị onwe anyị bụ ụlọnsọ Chineke dị ndụ. Dịka Chineke kwuru,",
+          {
+            "text": "“M ga-ebi nʼime ha.",
+            "poem": 1
+          },
+          {
+            "text": "Jegharịakwa nʼime ha.",
+            "poem": 2
+          },
+          {
+            "text": "M ga-abụkwa Chineke ha,",
+            "poem": 1
+          },
+          {
+            "text": "ma ha onwe ha ga-abụkwa ndị nke m.”",
+            "poem": 2
+          },
+          {
+            "noteId": 225
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere,",
+          {
+            "text": "“Sinụ nʼetiti ha pụta.",
+            "poem": 1
+          },
+          {
+            "text": "Nọpụkwanụ iche nʼebe ha nọ.",
+            "poem": 2
+          },
+          {
+            "text": "Otu a ka Onyenwe anyị kwuru.",
+            "poem": 2
+          },
+          {
+            "text": "Unu emetụkwala ihe ọbụla rụrụ arụ aka.",
+            "poem": 1
+          },
+          {
+            "text": "Mụ onwe m ga-akpọbatakwa unu.”",
+            "poem": 2
+          },
+          {
+            "noteId": 226
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma,",
+          {
+            "text": "“Aga m abụrụ unu Nna,",
+            "poem": 1
+          },
+          {
+            "text": "unu onwe unu ga-abụkwara m ụmụ m ndị ikom na ndị inyom.",
+            "poem": 2
+          },
+          {
+            "text": "Otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwuru.”",
+            "poem": 2
+          },
+          {
+            "noteId": 227
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 224,
+        "caller": "+",
+        "text": "Aịz 49:8",
+        "reference": {
+          "chapter": 6,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 225,
+        "caller": "+",
+        "text": "Lev 26:12; Jer 32:38; Izk 37:27",
+        "reference": {
+          "chapter": 6,
+          "verse": 16
+        }
+      },
+      {
+        "noteId": 226,
+        "caller": "+",
+        "text": "Aịz 52:11; Izk 20:34,41",
+        "reference": {
+          "chapter": 6,
+          "verse": 17
+        }
+      },
+      {
+        "noteId": 227,
+        "caller": "+",
+        "text": "2Sa 7:14; 7:8",
+        "reference": {
+          "chapter": 6,
+          "verse": 18
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2CO/6.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CO/7.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CO/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

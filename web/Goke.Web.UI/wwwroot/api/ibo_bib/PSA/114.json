@@ -1,0 +1,216 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 114,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Abụ ncheta ngabiga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Mgbe ụmụ Izrel si nʼala Ijipt pụta,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe ezinaụlọ Jekọb sitekwara nʼebe ndị asụsụ ha dị iche pụta,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Juda ghọrọ ebe nsọ Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "Izrel ghọrọ ala ọ na-achị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Osimiri hụrụ ya, gbaa ọsọ,",
+            "poem": 1
+          },
+          {
+            "noteId": 1680
+          },
+          {
+            "text": "osimiri Jọdan hụkwara ya chigharịa laa azụ",
+            "poem": 2
+          },
+          {
+            "noteId": 1681
+          },
+          {
+            "text": ";",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ugwu ukwu niile wụliri elu dịka ebule;",
+            "poem": 1
+          },
+          {
+            "text": "ugwu nta niile wụlikwara elu dịka ụmụ atụrụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Gịnị mere gị oke osimiri, i ji na-agba ọsọ?",
+            "poem": 1
+          },
+          {
+            "text": "Osimiri Jọdan, gịnị na-eme gị i ji chigharịa laa azụ?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Gịnị na-eme unu, ugwu ukwu niile unu ji na-awụli elu dịka ụmụ ebule?",
+            "poem": 1
+          },
+          {
+            "text": "Gịnị na-emekwa unu, ugwu nta niile, unu ji na-awụli elu dịka ụmụ atụrụ?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ka ụwa niile maa jijiji nʼihu Onyenwe anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ka ọ maakwa jijiji nʼihu Chineke nke Jekọb,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "onye mere ka oke nkume ghọọ ọdọ mmiri,",
+            "poem": 1
+          },
+          {
+            "text": "onye mere ka ọmụ nkume ghọọ isi iyi mmiri.",
+            "poem": 2
+          },
+          {
+            "noteId": 1682
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1680,
+        "caller": "+",
+        "text": "Ọpụ 14:21",
+        "reference": {
+          "chapter": 114,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 1681,
+        "caller": "+",
+        "text": "Jos 3:12-16",
+        "reference": {
+          "chapter": 114,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 1682,
+        "caller": "+",
+        "text": "Aịz 48:21; 1Kọ 10:4",
+        "reference": {
+          "chapter": 114,
+          "verse": 8
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/114.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/115.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/113.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

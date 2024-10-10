@@ -1,0 +1,449 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ziganụ ụmụ atụrụ dịka onyinye",
+            "poem": 1
+          },
+          {
+            "text": "nye onye na-achị ala ahụ",
+            "poem": 2
+          },
+          {
+            "text": "site na Sela, gafee nʼụzọ ọzara",
+            "poem": 1
+          },
+          {
+            "text": "ruo ugwu nke Ada Zayọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ndị inyom Moab",
+            "poem": 1
+          },
+          {
+            "text": "nọkwa nʼọnụ mmiri Anọn",
+            "poem": 2
+          },
+          {
+            "noteId": 867
+          },
+          {
+            "text": "na-akwụgharị",
+            "poem": 1
+          },
+          {
+            "text": "dịka ụmụ nnụnụ e si nʼakwụ ha chụpụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Moab na-asị, “Nwee mkpebi na mmụọ gị,”",
+            "poem": 1
+          },
+          {
+            "text": "“Kwubie okwu nʼihe ị kpebiri.",
+            "poem": 2
+          },
+          {
+            "text": "Mee ka onyinyo gị dịrị ka abalị",
+            "poem": 1
+          },
+          {
+            "text": "nʼetiti oke ehihie.",
+            "poem": 2
+          },
+          {
+            "text": "Zobe ndị gbapụrụ ọsọ ndụ,",
+            "poem": 1
+          },
+          {
+            "text": "ekpugheela onye na-achọ ebe nchebe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ka ndị Moab achụpụrụ achụpụ nọrọ nʼetiti unu,",
+            "poem": 1
+          },
+          {
+            "text": "ghọrọ ha ebe nchebe pụọ nʼaka onye mbibi ahụ.”",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Onye mmegbu ahụ nwere ọgwụgwụ,",
+            "poem": 1
+          },
+          {
+            "text": "mbibi ga-akwụsịkwa,",
+            "poem": 2
+          },
+          {
+            "text": "onye ahụ na-azọda mmadụ ga-agwụchakwa site nʼala ahụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "A ga-ehiwe otu ocheeze site nʼịhụnanya;",
+            "poem": 1
+          },
+          {
+            "text": "otu nwoke ga-anọkwasị nʼelu ya site nʼikwesị ntụkwasị obi,",
+            "poem": 2
+          },
+          {
+            "text": "otu onye sitere nʼụlọ ikwu Devid,",
+            "poem": 2
+          },
+          {
+            "text": "bụ, onye mgbe ọ na-ekpe ikpe, na-achọ ikpe ziri ezi,",
+            "poem": 1
+          },
+          {
+            "noteId": 868
+          },
+          {
+            "text": "na-emekwa ngwa ime ezi omume.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Anyị anụla akụkọ banyere Moab,",
+            "poem": 1
+          },
+          {
+            "text": "nụkwa ihe banyere nganga",
+            "poem": 2
+          },
+          {
+            "noteId": 869
+          },
+          {
+            "text": "ya na aghụghọ ya niile.",
+            "poem": 2
+          },
+          {
+            "text": "Obodo ahụ na-anya isi, nke nganga juru obi?",
+            "poem": 1
+          },
+          {
+            "text": "Ugbu a, lee na ịnya isi ha erijughị afọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ya mere, ndị Moab niile na-eti mkpu akwa,",
+            "poem": 1
+          },
+          {
+            "text": "ha na-ebetara Moab akwa.",
+            "poem": 2
+          },
+          {
+            "text": "Kwasie akwa ike, nwee mwute,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi achịcha e ji mkpụrụ osisi a mịkpọrọ amịkpọ mee nke Kia Hereset.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Lee ka ubi niile nke Heshbọn si tọgbọrọ nʼefu;",
+            "poem": 1
+          },
+          {
+            "text": "osisi vaịnị ha niile dị na Sibma akpọnwụsịala.",
+            "poem": 2
+          },
+          {
+            "text": "E, ndị eze mba dị iche iche azọdala",
+            "poem": 1
+          },
+          {
+            "text": "ọtụtụ osisi vaịnị ọma ndị a niile nʼụkwụ.",
+            "poem": 2
+          },
+          {
+            "text": "E, osisi vaịnị ndị gbatịrị ruo Jeza,",
+            "poem": 1
+          },
+          {
+            "text": "ruokwa nʼọzara,",
+            "poem": 2
+          },
+          {
+            "text": "nke mgbọrọgwụ ha gbasara",
+            "poem": 1
+          },
+          {
+            "text": "ruo nʼọnụ osimiri.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Nʼihi ya, ana m akwa akwa dị ka ndị Jeza",
+            "poem": 1
+          },
+          {
+            "noteId": 870
+          },
+          {
+            "text": "si akwa akwa",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi ubi vaịnị Sibma.",
+            "poem": 2
+          },
+          {
+            "text": "Anya mmiri akwa m ga-ede gị ahụ",
+            "poem": 1
+          },
+          {
+            "text": "gị Heshbọn, na gị Eleale,",
+            "poem": 2
+          },
+          {
+            "noteId": 871
+          },
+          {
+            "text": "nʼihi na e meela ka ụzụ mkpu ọṅụ nke na-ada",
+            "poem": 1
+          },
+          {
+            "text": "mgbe a na-ewe ihe ubi nʼime gị gharakwa ịdị ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ewepụla ọṅụ na obi ụtọ site nʼubi na-amị mkpụrụ ọma,",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị onye na-abụ maọbụ tie mkpu ọṅụ nʼubi vaịnị a gbara ogige;",
+            "poem": 2
+          },
+          {
+            "text": "ọ dịkwaghị onye na-azọchapụta mmanya m vaịnị nʼebe ịzọcha mmanya;",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na emeela m ka iti mkpu ọṅụ niile kwụsị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Mkpụrụobi m na-enwe mwute nʼihi Moab dịka ụbọ akwara,",
+            "poem": 1
+          },
+          {
+            "text": "ime mmụọ m kwa nʼihi Kia Heres.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Mgbe Moab ga-egosipụta onwe ya nʼebe ya dị elu,",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-eme naanị ka ike gwụ ya,",
+            "poem": 2
+          },
+          {
+            "text": "mgbe ọ ga-aga ikpe ekpere nʼihu mmụọ ya,",
+            "poem": 1
+          },
+          {
+            "text": "o nweghị uru nke a ga-abara ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ihe ndị a niile bụ okwu Onyenwe anyị kwuru banyere Moab na mbụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ma ugbu a Onyenwe anyị na-ekwu, sị, “Tupu afọ atọ agachaa, dịka onye e goro ọrụ",
+          {
+            "noteId": 872
+          },
+          "si agụ afọ, a ga-eleli ugwu niile Moab nwere, ya na igwe mmadụ ya bara ụba. Ndị fọdụkwara ndụ ga-adị naanị mmadụ ole na ole bụrụkwa ndị na-adịghị ike.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 867,
+        "caller": "+",
+        "text": "Mmiri Anọn nke dị nʼakụkụ ugwu oke ala ahụ, bụ iyi dị mkpa nʼala Moab Ọnụ 21:13-14",
+        "reference": {
+          "chapter": 16,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 868,
+        "caller": "+",
+        "text": "Aịz 9:6-7; Aịz 32:1; Dan 7:14; Luk 1:33; Mkp 11:15",
+        "reference": {
+          "chapter": 16,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 869,
+        "caller": "+",
+        "text": "Jer 48:29; Ọbd 3; Zef 2:8",
+        "reference": {
+          "chapter": 16,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 870,
+        "caller": "+",
+        "text": "Aịz 15:4",
+        "reference": {
+          "chapter": 16,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 871,
+        "caller": "+",
+        "text": "Ọnụ 32:3; Jer 48:34",
+        "reference": {
+          "chapter": 16,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 872,
+        "caller": "+",
+        "text": "Job 7:1; 14:6; Aịz 21:16",
+        "reference": {
+          "chapter": 16,
+          "verse": 14
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/16.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/17.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/15.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

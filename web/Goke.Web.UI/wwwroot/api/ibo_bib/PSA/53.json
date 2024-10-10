@@ -1,0 +1,192 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 53,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma nke dịrị onyeisi abụ. Nʼusoro Mahalat. Abụ maskil Devid."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nzuzu nke ndị na-emebi iwu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Onye nzuzu na-asị nʼime obi ya,",
+            "poem": 1
+          },
+          {
+            "text": "“Ọ dịghị Chineke ọbụla dị.”",
+            "poem": 2
+          },
+          {
+            "text": "Ha bụ ndị ajọ omume riri ahụ, ụzọ ha niile bụkwa ihe arụ;",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị onye ọbụla na-eme ezi ihe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Chineke sitere nʼeluigwe",
+            "poem": 1
+          },
+          {
+            "text": "na-ele ụmụ mmadụ anya,",
+            "poem": 2
+          },
+          {
+            "text": "ịhụ ma ọ ga-achọta onye ọbụla nwere nghọta,",
+            "poem": 1
+          },
+          {
+            "text": "onye nke na-achọ Chineke.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Onye ọbụla, nʼotu nʼotu ewezugala onwe ha, ha niile abụrụla ndị ajọ omume riri ahụ;",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị onye ọbụla na-eme ihe ziri ezi,",
+            "poem": 2
+          },
+          {
+            "text": "ọ dịghị ọ bụladị otu onye.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ndị niile na-eme ajọ ihe, ha amaghị ihe?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Ha na-eripịa ndị m dịka mmadụ si eri nri,",
+            "poem": 1
+          },
+          {
+            "text": "ha adịghị akpọkukwa Chineke.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ma nʼebe ahụ ka ha nọ, nʼọnọdụ oke egwu,",
+            "poem": 1
+          },
+          {
+            "text": "ebe ọ dịghị ihe egwu na-adịghị.",
+            "poem": 2
+          },
+          {
+            "text": "Chineke fesasịrị ọkpụkpụ ndị niile megidere gị;",
+            "poem": 1
+          },
+          {
+            "text": "i mere ka ihere mee ha, nʼihi na Chineke ajụla ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "O, a sịkwarị na nzọpụta Izrel ga-esi na Zayọn pụta!",
+            "poem": 1
+          },
+          {
+            "text": "Mgbe Chineke ga-akpọghachite ndị ya nʼọnọdụ ha,",
+            "poem": 2
+          },
+          {
+            "text": "ka Jekọb ṅụrịa ọṅụ, ka Izrel nwekwaa obi ụtọ!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/53.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/54.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/52.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

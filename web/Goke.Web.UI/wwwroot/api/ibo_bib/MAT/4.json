@@ -1,0 +1,411 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụnwa a nwara Jisọs nʼọzara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Emesịa, Mmụọ Nsọ duuru Jisọs baa nʼọzara ka ekwensu nwaa ya ọnwụnwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe o busiri ọnụ iri ụbọchị anọ ehihie na abalị, agụụ gụrụ ya nke ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ onye ọnwụnwa ahụ bịakwutere ya sị, “Ọ bụrụ na ị bụ Ọkpara Chineke, gwa nkume ndị a ka ha ghọọ achịcha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma Jisọs zara,",
+          {
+            "text": "“E dere ya nʼakwụkwọ nsọ sị, ‘Ọ bụghị naanị site na achịcha",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1300
+          },
+          {
+            "text": "ka mmadụ si adị ndụ, kama site nʼokwu niile si nʼọnụ Chineke pụta.’",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1301
+          },
+          {
+            "text": "”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, ekwensu duuru ya baa nʼobodo nsọ ahụ, mee ka o guzo nʼebe dịkarịsịrị elu nke ụlọnsọ ukwu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "sị ya, “Ọ bụrụ na ị bụ Ọkpara Chineke, site nʼebe a tụda onwe gị nʼala. Nʼihi na e dere ya nʼakwụkwọ nsọ sị,",
+          {
+            "text": "“ ‘Ọ ga-enye ndị mmụọ ozi ya iwu banyere gị,",
+            "poem": 1
+          },
+          {
+            "text": "ha ga-ebuli gị elu nʼaka ha",
+            "poem": 2
+          },
+          {
+            "text": "ka ị ghara ịkpọbi ụkwụ gị na nkume.’",
+            "poem": 2
+          },
+          {
+            "noteId": 1302
+          },
+          {
+            "text": "”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma Jisọs zara sị ya,",
+          {
+            "text": "“E deela ya nʼakwụkwọ nsọ sị, ‘Ị gaghị anwa Onyenwe gị na Chineke gị ọnwụnwa.’",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1303
+          },
+          {
+            "text": "”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọzọkwa, ekwensu kpọọrọ ya gaa nʼelu ugwu dị elu, gosi ya alaeze niile nke ụwa na ebube ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ sịrị ya, “Aga m enye gị ha niile ma ọ bụrụ na ị daa nʼala kpọọ isiala nye m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma Jisọs sịrị ya,",
+          {
+            "text": "“Si nʼebe m nọ pụọ, ekwensu. Nʼihi na akwụkwọ nsọ kwuru sị, ‘Ọ bụ naanị Onyenwe anyị Chineke gị ka ị ga-akpọ isiala nye, naanị ya ka ị ga-efekwa.’",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1304
+          },
+          {
+            "text": "”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ ekwensu hapụrụ ya laa. Ndị mmụọ ozi bịakwutere ya, nọnyere ya, na-ejere ya ozi."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs ebido ọrụ nkwusa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe Jisọs nụrụ na e tinyela Jọn nʼụlọ mkpọrọ, ọ pụrụ gaa Galili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Emesịa, ọ hapụrụ Nazaret gaa biri na Kapanọm, bụ obodo dị nʼakụkụ osimiri Galili. Ọ dị nso nʼoke ala Zebụlọn na Naftalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼụzọ dị otu a, amụma ahụ Aịzaya buru mezuru. Amụma nke sịrị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "“Ala Zebụlọn na ala Naftalị,",
+            "poem": 1
+          },
+          {
+            "text": "nke dị nʼakụkụ osimiri, nʼofe Jọdan,",
+            "poem": 2
+          },
+          {
+            "text": "Galili nke ndị mba ọzọ,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "ndị nọ nʼọchịchịrị",
+            "poem": 1
+          },
+          {
+            "text": "ahụla ìhè dị ukwuu.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị bi nʼala onyinyo ọnwụ",
+            "poem": 1
+          },
+          {
+            "text": "ka ìhè nwukwasịrị.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1305
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Site nʼoge ahụ gaa nʼihu Jisọs bidoro na-ekwusa na-asị,",
+          {
+            "text": "“Chegharịanụ, nʼihi na alaeze eluigwe dị nso.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọkpụkpọ ndị na-eso ụzọ ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma mgbe Jisọs na-agafe nʼakụkụ osimiri Galili, ọ hụrụ ụmụnne abụọ, Saimọn onye a na-akpọ Pita, na Andru nwanne ya, ndị ọrụ ha bụ ịkụ azụ, ebe ha nọ nʼụgbọ mmiri na-akụ azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọ sịrị ha,",
+          {
+            "text": "“Bịanụ soro m. Aga m eme unu ndị ọkụ na-akụta mmadụ.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ha hapụrụ ụgbụ azụ ha otu mgbe ahụ soro ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ọ gara nʼihu nke nta, ọ hụrụ ụmụnne abụọ ọzọ, Jemis nwa Zebedi na Jọn nwanne ya, ebe ha na nna ha Zebedi nọ nʼime ụgbọ mmiri na-ekezi ụgbụ azụ ha. Ọ kpọkwara ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "ngwangwa ha hapụrụ ụgbọ ha na nna ha soro ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs agwọọ ndị ọrịa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jisọs jegharịrị nʼobodo niile nke Galili, na-akụzi ihe nʼụlọ nzukọ niile ha, na-ekwusakwa oziọma nke alaeze ahụ. Ọ na-agwọkwa ọrịa na nrịa nrịa niile dị iche iche nʼetiti ndị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Akụkọ banyere ya gbasara jezuo akụkụ Siria niile. Mgbe ahụ ọtụtụ ndị mmadụ kpọtaara ya ndị niile ahụ na-esighị ike, ndị na-arịa ụdị ọrịa dị iche iche, ndị nwere ahụ mgbu, na ndị mmụọ ọjọọ na-esogbu, na ndị akwụkwụ, na ndị akụkụ ahụ ha kpọnwụrụ akpọnwụ. Ọ gwọkwara ha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọtụtụ mmadụ sitere na Galili, Dekapọlịs,",
+          {
+            "noteId": 1306
+          },
+          "Jerusalem, Judịa na nʼofe osimiri Jọdan, soro ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1300,
+        "caller": "+",
+        "text": "Achịcha nwere ike bụrụ nri",
+        "reference": {
+          "chapter": 4,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 1301,
+        "caller": "+",
+        "text": "Okwu a dịkwa nʼakwụkwọ Dit 8:3.",
+        "reference": {
+          "chapter": 4,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 1302,
+        "caller": "+",
+        "text": "Abụ 91:11,12",
+        "reference": {
+          "chapter": 4,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1303,
+        "caller": "+",
+        "text": "Gụọkwa ya nʼakwụkwọ Dit 6:16.",
+        "reference": {
+          "chapter": 4,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 1304,
+        "caller": "+",
+        "text": "Nke a dịkwa nʼakwụkwọ Dit 6:13.",
+        "reference": {
+          "chapter": 4,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 1305,
+        "caller": "+",
+        "text": "Aịz 9:1,2",
+        "reference": {
+          "chapter": 4,
+          "verse": 16
+        }
+      },
+      {
+        "noteId": 1306,
+        "caller": "+",
+        "text": "Dekapọlịs pụtara Obodo iri.",
+        "reference": {
+          "chapter": 4,
+          "verse": 25
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAT/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

@@ -1,0 +1,229 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 99,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Toonu Chineke dị nsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Onyenwe anyị bụ eze,",
+            "poem": 1
+          },
+          {
+            "text": "ka mba niile maa jijiji!",
+            "poem": 2
+          },
+          {
+            "text": "O wuru ocheeze ya nʼetiti cherubim,",
+            "poem": 1
+          },
+          {
+            "text": "ka elu ụwa maa jijiji.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Onyenwe anyị dị ukwuu nʼime Zayọn;",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụ onye e buliri elu karịa mba niile dị iche iche.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ka ha too aha gị nke dị ukwuu, dịkwa oke egwu,",
+            "poem": 1
+          },
+          {
+            "text": "ọ dị nsọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Eze bụ onye dị ike, ọ hụrụ ikpe ziri ezi nʼanya,",
+            "poem": 1
+          },
+          {
+            "text": "i meela ka ihe ziri ezi guzosie ike;",
+            "poem": 2
+          },
+          {
+            "text": "nʼime Jekọb ka i mere",
+            "poem": 1
+          },
+          {
+            "text": "ihe ziri ezi na ihe dị mma.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Bulienụ Onyenwe anyị Chineke anyị elu,",
+            "poem": 1
+          },
+          {
+            "text": "feenụ ofufe nʼihu ebe ihe ịtụkwasị ụkwụ ya;",
+            "poem": 2
+          },
+          {
+            "text": "ọ dị nsọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Mosis na Erọn so nʼetiti ndị nchụaja ya,",
+            "poem": 1
+          },
+          {
+            "text": "Samuel sokwa nʼetiti ndị kpọkuru aha ya;",
+            "poem": 2
+          },
+          {
+            "text": "ha kpọkuru Onyenwe anyị",
+            "poem": 1
+          },
+          {
+            "text": "ọ zakwara ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọ gwara ha okwu site nʼogidi igwe ojii.",
+            "poem": 1
+          },
+          {
+            "text": "Ha debere ụkpụrụ ya na iwu niile o nyere ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "O Onyenwe anyị, Chineke anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ị zara ha;",
+            "poem": 2
+          },
+          {
+            "text": "ị bụụrụ Izrel Chineke onye na-agbaghara mmehie,",
+            "poem": 1
+          },
+          {
+            "text": "nʼagbanyeghị na ị tara ha ahụhụ nʼihi mmehie ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Bulienụ Onyenwe anyị Chineke anyị elu;",
+            "poem": 1
+          },
+          {
+            "text": "na-efe ya ofufe nʼelu ugwu ya dị nsọ,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na onye dị nsọ ka Onyenwe anyị Chineke anyị bụ.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/99.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/100.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/98.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

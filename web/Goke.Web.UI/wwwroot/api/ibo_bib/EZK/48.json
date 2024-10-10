@@ -1,0 +1,333 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 48,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okike e kere ala ahụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "“Nke a bụ aha ebo niile, na ala ha ga-eketa:",
+          {
+            "lineBreak": true
+          },
+          "“Dan otu oke. Site na nsọtụ ugwu, nʼakụkụ ụzọ Hetlon ruo mbata Hamat. Haza Enan na oke ala ugwu Damaskọs, nke dị nʼakụkụ Hamat ga-abụ akụkụ oke ala ha site nʼakụkụ ọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Asha ga-enwe otu oke. Ọ ga-abụ nʼakụkụ oke ala Dan, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Naftalị ga-enwe otu oke. Ọ ga-abụ nʼakụkụ oke ala Asha, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Manase nwere otu oke. Ọ ga-abụ nʼakụkụ oke ala Naftalị, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ifrem ga-enwe otu oke. Ọ ga-abụ nʼakụkụ oke ala Manase, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ruben ga-enwe otu oke. Ọ ga-abụ nʼakụkụ oke ala Ifrem, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Juda ga-enwe otu oke. Ọ ga-abụ nʼakụkụ oke ala Ruben, site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“Ala nke ya na oke ala ndị Juda ga-agbatị site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ, ka ị ga-enye dịka onyinye pụrụ iche. Obosara ya ga-abụ ihe dị kilomita iri na atọ. Ogologo ya site nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ ga-aha ka ala otu ebo ketara. Ụlọnsọ ukwu ahụ ga-adịkwa nʼetiti ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Ogologo ebe a ewepụtara iche nye Onyenwe anyị ga-adị kilomita iri na atọ, obosara ya ga-abụ kilomita ise na ọkara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nke a ga-abụ ala dị nsọ e debere iche nye ndị nchụaja. Nʼakụkụ ugwu, ịdị ogologo ala ahụ ga-abụ kilomita iri na atọ. Nʼakụkụ ọdịda anyanwụ, ogologo ya bụ kilomita ise na ọkara. Ogologo nke akụkụ ndịda na nke ugwu bụ otu. Otu a kwa, ogologo nke akụkụ ọwụwa anyanwụ na ọdịda anyanwụ bụ otu. Ebe nsọ Onyenwe anyị ga-adị nʼetiti ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ ga-adịrị ndị nchụaja, bụ ụmụ Zadọk ndị e doro nsọ, ndị sitere nʼikwesị ntụkwasị obi jeere m ozi, ndị na-esiteghị nʼiso ụzọ m kpafuo dịka ndị Izrel na agbụrụ Livayị mere mgbe ha mehiere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ọ bụ onyinye pụrụ iche a na-enye ha site nʼala ahụ dị nsọ, bụ ala ahụ kachasị nsọ, nke ya na ala ndị Livayị nwekọrọ oke ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "“Nʼakụkụ ala ndị nchụaja, a ga-ekenye ndị Livayị ala nke ha. Ha ga-eketa ala nke ogologo ya bụ kilomita iri na atọ, nke obosara ya bụ kilomita ise na ọkara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O nweghị akụkụ ala nsọ a a ga-ere ere, maọbụ nye ya ndị ọzọ, nʼihi na ihe dị nsọ ka ọ bụ nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“Ala nke fọdụrụ, nke ogologo ya dị kilomita iri na atọ, nke obosara ya dị kilomita ise na ọkara ga-abụ ala ọha. A ga-ewu ebe obibi nʼelu ya, wukwaa ebe ịzụ anụ ụlọ. Obodo ga-adị nʼetiti ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "nke ogologo akụkụ ugwu ruru kilomita abụọ na ụma anọ, akụkụ ndịda ruru kilomita abụọ na ụma anọ, akụkụ ọwụwa anyanwụ ruru kilomita abụọ na ụma anọ, na akụkụ ọdịda anyanwụ rukwara kilomita abụọ na ụma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ogologo nke ala ebe ịta nri nke ga-agba obodo ahụ gburugburu ga-aha nʼotu. Ọ ga-adị narị mita na iri mita atọ na ise nʼugwu, na ndịda narị mita na iri mita atọ na ise, nʼọwụwa anyanwụ narị mita na iri mita atọ na ise, nʼakụkụ nʼọdịda anyanwụ narị mita na iri mita atọ na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma nke ga-afọdụ na ya, nʼakụkụ oke ala ahụ dị nsọ nke gara ogologo ya niile, ga-abụ nʼakụkụ ọwụwa anyanwụ kilomita ise na ọkara nʼakụkụ ọdịda anyanwụ ga-abụkwa kilomita ise na ọkara. Ihe omume ya ga-abụ nri nye ndị ọrụ nke obodo ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị ọrụ si nʼobodo, bụ ndị na-akọ ya ga-abụkwa ndị sị nʼebo niile nke Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ala ahụ niile, ma ala ahụ e doro nsọ, ma ala ndị obodo, ga-adị kilomita iri na atọ nʼakụkụ ya ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "“Ala niile fọdụrụ nʼakụkụ abụọ nke ala ahụ dị nsọ, na ala ndị obodo ga-abụ nke nwa eze. Ọ ga-agbatị ruo ọwụwa anyanwụ site nʼọtụtụ kilomita iri na atọ nke oke ahụ dọ nsọ ruo nʼoke ala ọwụwa anyanwụ, sitekwa na kilomita iri na atọ nʼakụkụ ọdịda anyanwụ ruo oke ala ọdịda anyanwụ. Akụkụ abụọ ndị a nke gbatịrị ruo nʼoke ala ndị obodo ga-abụ nke onye ọchịchị, ebe nsọ ahụ na ụlọ ukwu ahụ ga-adị nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ya mere, oke ala nke ndị Livayị na ala ndị obodo ga-adị nʼetiti ala nke nwa eze nwee. Oke ala nke nwa eze ahụ ga-adị nʼetiti oke ala Juda na oke ala Benjamin."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“Ala e nyere ebo fọdụrụ dị otu a:",
+          {
+            "lineBreak": true
+          },
+          "“Benjamin ga-enwe otu oke, nke sitere nʼọwụwa anyanwụ ruo nʼọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Simiọn ga-enwe otu oke; ha na ndị Benjamin ga-enwekọ otu oke ala nʼakụkụ ọwụwa anyanwụ na nʼakụkụ ọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Isaka ga-enwe otu oke; ha na ndị Simiọn ga-enwekọ oke ala nʼakụkụ ọwụwa anyanwụ, na nʼakụkụ ọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Zebụlọn ga-enwe otu oke; ha na ndị Isaka ga-enwekọ oke ala nʼakụkụ ọwụwa anyanwụ, na nʼakụkụ ọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Gad ga-enwe otu oke; ha na ndị Zebụlọn ga-enwekọ oke ala nʼakụkụ ọwụwa anyanwụ na nʼakụkụ ọdịda anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ma oke ala Gad nke chere ihu nʼakụkụ ndịda ga-esi na Tama ruo nʼiyi Meriba Kadesh, sorokwa ọdọ mmiri Ijipt ruo nʼosimiri Mediterenịa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "“Nke a bụ ala unu ga-ekenye ebo Izrel niile dịka oke ha. Ha ga-abụkwara ha ihe nketa.” Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọnụ ụzọ ama obodo ọhụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "“Ndị a ga-abụ ọnụ ụzọ ama e si apụ nʼobodo ahụ.",
+          {
+            "lineBreak": true
+          },
+          "“Nʼakụkụ nke ugwu, nke ịdị ogologo mgbidi ya bụ kilomita abụọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "ọnụ ụzọ ama obodo ahụ ga-abụ aha ebo niile nke Izrel. Ọnụ ụzọ ama atọ nʼakụkụ ugwu ga-abụ ọnụ ụzọ ama Ruben, ọnụ ụzọ ama Juda, na ọnụ ụzọ ama Livayị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼakụkụ ọwụwa anyanwụ, nke mgbidi ya dị kilomita abụọ nʼogologo, ọnụ ụzọ ama atọ ga-adị ya. Ha ga-aza ọnụ ụzọ ama Josef, ọnụ ụzọ ama Benjamin, na ọnụ ụzọ ama Dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼakụkụ ndịda, nke ogologo ya bụkwa kilomita abụọ, ọnụ ụzọ ama atọ ga-adị ya: ọnụ ụzọ ama Simiọn, ọnụ ụzọ ama Isaka, na ọnụ ụzọ ama Zebụlọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Nʼakụkụ ọdịda anyanwụ nke ịdị ogologo mgbidi ya bụ kilomita abụọ, ọnụ ụzọ ama atọ ga-adị ya: ọnụ ụzọ ama Gad, ọnụ ụzọ ama Asha, na ọnụ ụzọ ama Naftalị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "“Gburugburu obodo ahụ bụ kilomita iri.",
+          {
+            "lineBreak": true
+          },
+          "“Aha a ga-akpọ obodo ahụ site nʼoge ahụ gawa, ga-abụ, ‘Onyenwe anyị nọ nʼebe ahụ.’ ”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/48.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DAN/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/47.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

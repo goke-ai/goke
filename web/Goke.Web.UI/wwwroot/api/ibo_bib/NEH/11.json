@@ -1,0 +1,341 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị ọhụrụ ga-ebi na Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, ndịisi Izrel bi nʼobodo nsọ Jerusalem nʼoge a, ma e sitere nʼife nza họpụta otu ụzọ nʼime ụzọ iri nke ndị bi nʼobodo ndị ọzọ niile ka ha bịa biri na Jerusalem, bụ obodo nsọ ahụ, ebe ụzọ itoolu fọdụrụ bikwa nʼobodo nke aka ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị mmadụ toro ndị niile jiri afọ ofufu họrọ ịbịa soro biri na Jerusalem."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ndị a bụ ndịisi ala ahụ a na-achị achị ndị bịara biri na Jerusalem (ma ọtụtụ ndị Izrel, ndị nchụaja, ndị Livayị, ndị na-eje ozi nʼụlọnsọ na ụmụ ndị na-ejere Solomọn ozi biiri nʼobodo Juda, onye ọbụla nʼihe onwunwe ya nʼobodo ha dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ebe ndị ọzọkwa bụ ndị sitere na Juda na Benjamin, biiri na Jerusalem).",
+          {
+            "lineBreak": true
+          },
+          "Ndị sitere nʼagbụrụ Juda bụ ndị a: Ataia nwa Uzaya, nwa Zekaraya, nwa Amaraya, nwa Shefataya, nwa Mahalalel, nwa Perez;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "na Maaseia nwa Baruk, nwa Kol-Hoze, nwa Hazaia, nwa Adaya, nwa Joiarib, nwa Zekaraya, nwa onye Shilo.",
+          {
+            "noteId": 1474
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọnụọgụgụ ụmụ Perez niile bi na Jerusalem dị narị anọ, na iri isii na asatọ (468). Ha bụ ndị ikom gbara dimkpa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị sitere nʼagbụrụ Benjamin bụ, Salu nwa Meshulam, nwa Joed, nwa Pedaia, nwa Kolaya, nwa Maaseia, nwa Itiel, nwa Jeshaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "ya na ndị na-eso ya bụ ụmụ Gabai na Salai. Ọnụọgụgụ ha dị narị itoolu na iri abụọ na asatọ (928)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Juel nwa Zikri bụ onyeisi ha. Juda nwa Hasenua bụ onye na-eso ya, na onye na-achị akụkụ ọhụrụ nke obodo ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị sitere nʼetiti ndị nchụaja bụ, Jedaya nwa Joiarib, na Jakin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "na Seraya nwa Hilkaya, nwa Meshulam, nwa Zadọk, nwa Meraiot, nwa Ahitub onye na-elekọta ụlọ ukwuu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ọnụọgụgụ ndị ikom ha na ha na-arụkọ ọrụ nʼụlọ ukwu ahụ bụ narị asatọ na iri abụọ na abụọ (822). Adaya, nwa Jeroham, nwa Pelalaya, nwa Amzi, nwa Zekaraya, nwa Pashua nwa Malkija,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "na ndị ikom bụ ndịisi ezinaụlọ ndị so ya rụọ ọrụ dị narị abụọ na iri anọ na abụọ (242) nʼọnụọgụgụ, Amashaị nwa Azarel, nwa Ahazai, nwa Meshilemot, nwa Imea,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "na ndị otu ya nʼọrụ ndị bụkwa dimkpa, dị otu narị na iri abụọ na asatọ (128) nʼọnụọgụgụ. Onyeisi ha bụ Zabdiel nwa Hagedolin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Site na ndị Livayị: Shemaya nwa Hashub, nwa Azrikam, nwa Hashabaya, nwa Buni,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "na Shabetai, na Jozabad, mmadụ abụọ na ndị ndu ndị Livayị, ndị ọ bụ ha na-arụ ọrụ dị nʼezi nke ụlọ Chineke;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Matanaya nwa Mika, nwa Zabdi, nwa Asaf, bụ onyendu nke duru nʼekpere na ofufe ekele. Bakbukaya onye nke abụọ nʼetiti ndị otu ya, na Abda nwa Shamua, nwa Galal, nwa Jedutun, bụ ndị na-enyere ya aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọnụọgụgụ ndị Livayị niile nọ na obodo nsọ ahụ dị narị abụọ na iri asatọ na anọ (284)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị nche ọnụ ụzọ ama, Akub, Talmon na ndị otu ha dị otu narị na iri asaa na abụọ (172) nʼọnụọgụgụ, ha bụ ndị na-eche nche nʼọnụ ụzọ ama niile."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị fọdụrụ nʼIzrel, ha na ndị nchụaja, na ndị Livayị, nọ nʼobodo Juda niile, onye ọbụla nʼihe nketa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ndị ahụ niile na-eje ozi nʼụlọnsọ bi nʼugwu Ofel. Ndịisi ha bụ Ziha na Gishpa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Onye na-elekọta ndị Livayị bi na Jerusalem bụ Uzi, nwa Bani, nwa Hashabaya, nwa Matanaya, nwa Matanaia, nwa Mika. Uzi bụ otu onye si nʼikwu Asaf, ndị ọbụ abụ maka ije ozi nke ụlọ Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Eze họpụtara ndị ọbụ abụ nyekwa ha ọrụ ha kwesiri ịrụ ụbọchị niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Petahaya nwa Meshezabel, onye bụ otu nʼagbụrụ Zera, nwa Juda, bụ onyeozi eze banyere ihe niile gbasara ndị mmadụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Obodo ụfọdụ ebe ndị Juda bi bụ ndị a: Kiriat Aba, Dibọn, Jekabzeel na obodo nta ndị dị ha gburugburu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Jeshua, Molada, Bet-Pelet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Haza Shual, Bịasheba na obodo ya niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ziklag, Mekona na obodo ya niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "En-Rimọn, Zora, Jamut,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Zanoa, Adulam na obodo nta dị ha gburugburu, Lakish, ala dị ya gburugburu, Azeka na obodo ya niile. Nke a pụtara na ndị mmadụ bi site na Bịasheba ruo na Ndagwurugwu Hinom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ndị agbụrụ Benjamin biri na Geba, Mikmash, Aija, Betel na obodo dị ya gburugburu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Anatot, Nob, Ananaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Hazọ, Rema, Gitaim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Hadid, Zeboim, Nebalat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Lod, Ono na Ge Harashim.",
+          {
+            "noteId": 1475
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ụfọdụ nʼotu ndị Livayị, ndị ebe obibi ha dị na Juda ka e zigara isoro biri nʼebo Benjamin."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1474,
+        "caller": "+",
+        "text": "Maọbụ, Shela",
+        "reference": {
+          "chapter": 11,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 1475,
+        "caller": "+",
+        "text": "Maọbụ, Ndagwurugwu ndị na-akwa ǹka",
+        "reference": {
+          "chapter": 11,
+          "verse": 35
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

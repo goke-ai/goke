@@ -1,0 +1,358 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "ibo_bib",
+    "name": "Ndị Ikpe",
+    "commonName": "Ndị Ikpe",
+    "title": "Ndị Ikpe",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "95a9df0a510a3a753ad4f2c854a524222839cc364d9faaaefaf342ef3795e4ed",
+    "firstChapterApiLink": "/api/ibo_bib/JDG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JDG/21.json",
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Agha ndị Izrel lụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Joshua nwụrụ, ụmụ Izrel jụrụ Onyenwe anyị sị, “Olee ebo ga-ebu ụzọ gaa lụso ndị Kenan agha nʼihi anyị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Onyenwe anyị zara, “Ọ bụ ebo Juda. Enyefeela m ala ahụ nʼaka ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ndị Juda gwara ụmụ nwanne ha ndị ebo Simiọn sị, “Soronụ anyị banye nʼala ahụ anyị ketara site nʼife nza, ka anyị ga lụso ndị Kenan agha. Anyị ga-esokwara unu banye nʼala nke unu.” Ya mere, ndị ebo Simiọn",
+          {
+            "noteId": 948
+          },
+          "soro ha gaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe Juda busoro ha agha, Onyenwe anyị nyefere ndị Kenan, na ndị Periz nʼaka ha, mee ka ha gbuo puku ndị agha iri nʼime obodo Bezek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼebe ahụ ka ha zutere Adoni-Bezek, buso ya agha, tigbukwaa ndị Kenan na ndị Periz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma Adoni-Bezek gbapụrụ ọsọ zoo onwe ya, ma ha chụgidere ya, jide ya, gbupụ ya isi mkpụrụ aka ya abụọ na isi mkpụrụ ụkwụ ya abụọ.",
+          {
+            "noteId": 949
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ahụ, Adoni-Bezek sịrị, “Iri ndị eze",
+          {
+            "noteId": 950
+          },
+          "asaa ka m mesoro ụdị mmeso a unu mesoro m, ọ bụkwa nri si na tebul m dapụ ka ha riri. Ugbu a Chineke akwụghachila m ụgwọ ọrụ ọjọọ m.” Ha kpụụrụ ya gaa Jerusalem, ebe ọ nọ nwụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị Juda busoro obodo Jerusalem agha, were mma agha gbuchapụ mmadụ niile bi nʼime ya, ma gbaakwa obodo ahụ niile ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe nke a gasịrị, ndị agha Juda busoro ndị Kenan bi na ndịda ala ugwu ugwu ahụ, bụ Negev, ya na akụkụ ọdịda anyanwụ nʼebe dị ala ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha jekwuru ndị Kenan bi nʼobodo Hebrọn (nke a na-akpọ Kiriat Aaba na mbụ) merie Sheshai, na Ahiman, na Talmai."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Site nʼebe ahụ, ha jekwuru ndị bi na Debịa (nke a na-akpọ Kiriat Sefa, nʼoge mbụ)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Kaleb sịrị, “Nwoke ọbụla ga-aga busoo Kiriat Sefa agha ma merie ya ka m ga-akpọnye Aksa bụ nwa m nwanyị ka ọ bụrụ nwunye ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Otniel nwa Kenaz, nwanne nta Kaleb, lụgburu obodo ahụ nʼagha. Nʼihi nke a, Kaleb kpọnyere ya Aksa, bụ nwa ya nwanyị ka ọ bụrụ nwunye ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Otu ụbọchị, mgbe Aksa bịakwutere Otniel, ọ kwagidere ya ka ọ rịọọ ala ubi site nʼaka nna ya. Mgbe Aksa si nʼelu ịnyịnya ibu ya rịdata, Kaleb jụrụ ya sị, “Gịnị ka ị chọrọ ka m mere gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ zaghachiri, “Nyem onyinye pụrụ iche. Ebe ọ bụ na i nyela m ala Negev, biko nyekwa m isi mmiri ụfọdụ.” Nʼihi nke a, Kaleb nyere ya isi mmiri mgbago na isi mmiri nke ndịda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ụmụnna nwunye Mosis, onye Ken, si nʼobodo nkwụ nkwụ",
+          {
+            "noteId": 951
+          },
+          "soro ndị Juda, gaa biri nʼetiti ndị ahụ bi nʼọzara Juda, na Negev, nke dị nso nʼArad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị ikom Juda sooro ndị ikom Simiọn, ụmụnna ha, lụso ndị Kenan bi na Zefat agha, bibie obodo ahụ kpamkpam. Nʼihi nke a, a gụgharịrị obodo ahụ, kpọọ ya Homa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ndị agha Juda lụgbukwara obodo Gaza, na Ashkelọn, na Ekrọn, tinyere ala niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Onyenwe anyị nọnyeekwara ndị Juda mee ka ha kpochapụ ndị niile bi nʼobodo niile dị nʼala ugwu ugwu ahụ. Ma ha enweghị ike ịchụpụ ndị bi nʼala ndagwurugwu ahụ, nʼihi na ndị ahụ nwere ụgbọ agha igwe dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "E nyekwara Kaleb obodo Hebrọn, dịka Mosis kwere ya na nkwa. Kaleb chụpụrụ ụmụ Anak atọ site nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ndị ebo Benjamin enweghị ike chụpụ ndị Jebus bi na Jerusalem. Nʼihi nke a, ha soro ụmụ Benjamin biri ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma ndị sitere nʼebo Josef busoro obodo Betel agha. Onyenwe anyị nọnyeere ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ha zipuru ndị ikom ịga nyochapụta obodo Betel, nke a na-akpọ Luz,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "ndị nnyopụta ahụ hụrụ otu nwoke sị nʼobodo ahụ na-apụta. Ha gwara ya okwu sị ya, “Zi anyị ụzọ anyị ga-esi banye nʼime obodo a, anyị ga-ahụ na e mesoro gị mmeso dị mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ya mere, nwoke ahụ gosiri ha ụzọ, ha ji mma agha gbuo mmadụ niile bi nʼime obodo ahụ, ma ha hapụrụ nwoke ahụ na ezinaụlọ ya ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Emesịa, nwoke ahụ kpọọrọ ezinaụlọ ya gaa biri nʼala ndị Het wuoro onwe ya otu obodo nʼebe ahụ. Ọ kpọrọ aha obodo ahụ Luz, nke bụkwa aha obodo ahụ ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Manase achụpụghị ndị Bet-Shan na obodo nta ya ndị ọzọ, maọbụ Teanak na obodo nta ya ndị ọzọ, maọbụ Doa, maọbụ Ibleam, maọbụ Megido, tinyere obodo nta niile ndị ọzọ gbara ha gburugburu. Nʼihi na ndị Kenan bigidere nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe ụmụ Izrel dịrị ike karịa, ha manyere ndị Kenan ị rụrụ ha ọrụ, ma ha achụpụghị ha site nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ifrem enwekwaghị ike chụpụ ndị Kenan bi na Gaza. Ndị Kenan gara nʼihu biri nʼetiti ha nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Otu a kwa, ebo Zebụlọn achụpụghị ndị Kenan bi nʼala Kitrọn, maọbụ na Nahalol, kama ha mere ha ndị ohu na-arụ ọrụ ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ọzọkwa, ndị ebo Asha achụpụghị ndị niile bi nʼAkọ, na Saịdọn, na Ahlab, na Akzib, na Helba, na Afik, maọbụ Rehob."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ndị Asha binyere nʼetiti ndị Kenan bụ ndị bi nʼala ahụ, nʼihi na ha achụpụghị ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ndị ebo Naftalị achụpụghịkwa ndị bi na Bet-Shemesh, maọbụ ndị bi na Bet-Anat. Kama ndị Naftalị binyere ndị Kenan bi nʼala ahụ. Ma ndị bi na Bet-Shemesh, na Bet-Anat ghọrọ ndị ohu ndị Naftalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ma banyere ndị ebo Dan, ndị Amọrait chụpụrụ ha chụba ha nʼelu ugwu. Ha ekwenyeghị ka ha rịdata na ndịda ugwu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ma ndị Amọrait nọgidesịrị ike nʼugwu Heres, na Aijalon, na Shaalbim, ma mgbe ike ebo Josef bara ụba, ha meriri ha, mee ha ndị ohu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Oke ala ụmụ ndị Amọrait malitere na mgbago Akrabim ruo, ma gafeekwa ebe a na-akpọ Sela."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 948,
+        "caller": "+",
+        "text": "Ebo Simiọn na ebo Juda si nʼagbụrụ Lịa Nkp 1:17",
+        "reference": {
+          "chapter": 1,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 949,
+        "caller": "+",
+        "text": "I gbupụ isi mkpụrụ aka, na mkpịsịụkwụ nke ndị e jidere nʼagha, bụ ihe a na-ejighị kpọrọ ihe na mba ndị dị nʼetiti ọwụwa anyanwụ. Mgbe e gbupụrụ isi mkpụrụ aka na mkpịsịụkwụ onye agha, onye dị otu a agaghị e nwe ike jide ngwa agha ọzọ, maọbụ gaa ije.",
+        "reference": {
+          "chapter": 1,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 950,
+        "caller": "+",
+        "text": "Ala Kenan bụ mba e kewara na mpaghara na mpaghara, maọbụ nʼobodo nta nʼobodo nta. Mpaghara, maọbụ obodo nta ọbụla nwere eze na-achị ya. Ọtụtụ obodo ndị a gbara isi obodo ahụ gburugburu.",
+        "reference": {
+          "chapter": 1,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 951,
+        "caller": "+",
+        "text": "Nke a bụ Jeriko",
+        "reference": {
+          "chapter": 1,
+          "verse": 16
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JDG/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JDG/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/24.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

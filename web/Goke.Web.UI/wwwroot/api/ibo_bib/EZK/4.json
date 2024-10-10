@@ -1,0 +1,186 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị iro gbara Jerusalem gburugburu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "“Ugbu a, gị nwa nke mmadụ, were otu ọkpụrụkpụ aja, tọgbọ ya nʼihu gị. Sepụtakwa obodo Jerusalem nʼelu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Seekwa ihe nnọchigide nʼagha megide ya, wuokwa ụlọ ndị agha gburugburu ya, wukọta ụlọ ikwu dị iche iche megide ya na ihe e ji akụdasị mgbidi ya niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Werekwa efere igwe debe nʼetiti gị na obodo ahụ dịka mgbidi e ji igwe wuo. Chee obodo ahụ ihu gị, ka ị chegide ya nke ọma nʼihi na ndị iro gbara ya gburugburu. Nke a ga-abụ ihe ama nye ndị Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Ugbu a, dinara ala nʼakụkụ aka ekpe gị, aga m enye gị ntaramahụhụ mmehie ndị Izrel, ị ga-ata ahụhụ mmehie ha ụbọchị niile nke ị ga-edina nʼakụkụ gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼihi na ana m enye gị narị ụbọchị atọ na iri ụbọchị itoolu, ọnụọgụgụ nke a na ọnụọgụgụ nke afọ ntaramahụhụ ha ga-abụ otu, ọ bụ oge ha. Otu a ka ị ga-esi buru mmehie Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Mgbe i mesịrị nke a, ị ga-edina ala nke ugboro abụọ, ma ọ ga-abụ nʼakụkụ aka nri gị, ị ga-eburu ntaramahụhụ mmehie ndị Juda. Ọ bụ iri abalị anọ, otu ụbọchị ga-anọchi anya otu afọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Chee ihu gị nʼebe nnọchibido Jerusalem, gbara aka nkịtị buo amụma megide ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Aga m eke gị eriri ahụ gị niile, ka ị ghara inwe ike tụgharịa site nʼotu akụkụ gaa nʼakụkụ nke ọzọ tutu ụbọchị nnọchigide gị ahụ niile ezuo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Ma gị were ọka wiiti na ọka balị, werekwa akịdị na lentil, na ọka milet na spelti. Tinyekọta ha nʼotu ite were ha meere onwe gị achịcha. Nʼụbọchị ole ahụ niile nke ị ga-edina nʼakụkụ gị, narị ụbọchị atọ na iri ụbọchị itoolu, ọ bụ ya ka ị ga-eri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A ga-atụ ihe oriri gị atụ, nri nke ị ga-eri otu mgbe ga-abụ narị gram abụọ na iri gram atọ; naanị otu mgbe ka ị ga-eri nri nʼụbọchị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ga-ekupụtakwa mmiri ị ga-aṅụ, ị ga-aṅụ mmiri naanị otu ugboro nʼụbọchị, otu udu mmiri e kere ụzọ isii.",
+          {
+            "noteId": 598
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ị ga-eri ya dịka ogbe achịcha ọka balị, ị ga-eghe ya nʼelu nsị mmadụ kpọrọ nkụ mgbe ndị mmadụ nọ na-ele gị anya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Onyenwe anyị kwuru, “Otu a ka ndị Izrel ga-esi rie nri rụrụ arụ, nʼetiti mba dị iche iche ebe m ga-achụga ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ, asịrị m, “E e, Onye kachasị ihe niile elu, bụ Onyenwe anyị lee, emerụbeghị m onwe m site na nwantakịrị m ruo ugbu a, eribeghị ihe ọbụla nwụrụ nʼonwe ya, maọbụ nke anụ ọhịa dọgburu, anụ na-adịghị ọcha abatụbeghị m nʼọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ sịrị, “Ọ dị mma, aga m enye gị nsị ehi nʼọnọdụ nke mmadụ, nʼelu ya ka ị ga-akwado achịcha gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, ọ gwara m, “Nwa nke mmadụ, lee, aga m eme ka nri kọ na Jerusalem; ha ga-eji nchegbu rie nri a tụpụtara atụpụta, jirikwa egwu ṅụọ mmiri e kupụtara ekupụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Aga m eme ka ihe oriri na mmiri ọṅụṅụ kọọ ha. Ha ga na-elerịta onwe ha anya nʼoke egwu, ha ga-anwụkwa nʼihi mmehie ha.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 598,
+        "caller": "+",
+        "text": "Nke a bụ otu ụzọ site nʼụzọ isii nke e kere otu lita mmiri.",
+        "reference": {
+          "chapter": 4,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

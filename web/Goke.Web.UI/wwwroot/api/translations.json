@@ -1,0 +1,82 @@
+[
+  {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJV",
+    "englishName": "King James (Authorized) Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "2995affbde2fa4c0107d68ac973bf9efd1b07a56e24d02de75bcc257024a4b29",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  {
+    "id": "hau_bib",
+    "name": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™",
+    "website": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "shortName": "BIB",
+    "englishName": "Littafi Mai Tsarki",
+    "language": "hau",
+    "textDirection": "ltr",
+    "sha256": "f7b98712d68944c90ac6eda799ede1e61c24c14e7b2140ccb01e230d07e049ba",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/hau_bib/books.json",
+    "numberOfBooks": 65,
+    "totalNumberOfChapters": 1177,
+    "totalNumberOfVerses": 30730,
+    "languageName": "Hausa",
+    "languageEnglishName": "Hausa"
+  },
+  {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "Bible Nsọ",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "Bíbélì Mímọ́",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  }
+]

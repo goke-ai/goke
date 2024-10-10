@@ -1,0 +1,612 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "ibo_bib",
+    "name": "Jọn",
+    "commonName": "Jọn",
+    "title": "Oziọma Jọn",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "246d26c1aa6a0b17c44834ecd64e3ce234ce4312c35223f4e11e125d88fd8d58",
+    "firstChapterApiLink": "/api/ibo_bib/JHN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JHN/21.json",
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Meri etee Jisọs Mmanụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ụbọchị isii tupu e mee Mmemme Ngabiga, Jisọs gara Betani bụ obodo Lazarọs, onye ahụ ọ mere ka o site nʼọnwụ bilie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼebe ahụ, ha siiri Jisọs nri, ọ bụkwa Mata na-eje ozi isi nri ahụ, Lazarọs bụ otu onye nʼime ndị sooro ya nọdụ na nri ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Meri weere mmanụ otite dị ọkara lita nke ezigbo naad, mmanụ isi ụtọ dị oke ọnụahịa, ọ wụkwasara ya Jisọs nʼụkwụ, jirikwa agịrị isi ya hichaa ụkwụ ya. Nke a mere ka ụlọ ahụ jupụta nʼisi ụtọ nke mmanụ otite ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma Judas Iskarịọt, otu nʼime ndị na-eso ụzọ ya, onye ahụ ga-arara ya nye, kwuru,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "“Gịnị mere na-ereghị mmanụ otite a narị denarị atọ,",
+          {
+            "noteId": 1079
+          },
+          "were ego ya nye ndị ogbenye?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O kwughị nke a nʼihi na ihe banyere ndị ogbenye na-emetụ ya nʼobi kama nʼihi na ọ bụ onye ohi; dị ka onye na-ejide akpa ego ha, mgbe ụfọdụ, ọ na-amanye aka nʼego ahụ zubiri ego."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jisọs sịrị,",
+          {
+            "text": "“Hapụ ya aka, ọ zụtara ya ka ọ na-akwado maka ụbọchị olili m.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Unu nwere ndị ogbenye nʼetiti unu mgbe niile, ma mụ na unu agaghị anọ mgbe niile.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma mgbe igwe ndị Juu nụrụ na ọ nọ nʼebe ahụ, ha bịara, ọ bụghị naanị ka ha hụ ya, kama ka ha hụkwa Lazarọs onye o mere ka o si na ndị nwuru anwụ bilie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ya mere, ndịisi nchụaja gbakwara izu igbukwa Lazarọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na ọ bụ nʼihi ya ka ọtụtụ ndị Juu ji na-ahapụ ha ma na-ekwerekwa na Jisọs."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs abịa na Jerusalem dị ka Eze"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼechi ya oke igwe mmadụ ahụ ndị bịara mmemme nụrụ na Jisọs na-abịa Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ha weere igu nkwụ pụọ izute ya na-eti mkpu,",
+          {
+            "text": "“Hozanna!”",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "“Onye a gọziri agọzi ka onye ahụ bụ nke na-abịa nʼaha Onyenwe anyị!”",
+            "poem": 1
+          },
+          {
+            "noteId": 1080
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "“Ngọzị dịrị eze Izrel!”",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jisọs hụrụ nwa ịnyịnya ibu, nọkwasị nʼelu ya, dị ka e dere ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "“Atụla egwu, gị ada Zayọn!",
+            "poem": 1
+          },
+          {
+            "text": "Lee, eze gị ka ọ na-abịa.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ nọkwasịrị nʼelu nwa ịnyịnya ibu.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1081
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Na mbụ ndị na-eso ụzọ ya aghọtaghị ihe ndị a niile. Ma mgbe e nyesịrị Jisọs otuto, ka ha chetara na-edererị ihe ndị a banyere ya, na e mekwara ya rịị ihe ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Igwe mmadụ ahụ bụ ndị ya na ha nọ mgbe o si nʼili kpọpụta Lazarọs, mee ka o sị nʼọnwụ bilie, gara nʼihu na-agba ama ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọtụtụ mmadụ pụrụ izute ya nʼihi na ha nụrụ akụkọ ọrụ ihe ịrịbama niile ọ rụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ya mere, ndị Farisii sịrịtara onwe ha, “Unu ahụla na o nweghị ihe unu pụrụ ime, leenụ ka ụwa niile na-eso ya.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs gbara ama ọnwụ ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma ụfọdụ ndị Griik so nʼime ndị ahụ bịara ife ofufe nʼoge mmemme ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ha bịakwutere Filip onye si Betsaida dị na Galili, gwa ya sị, “Nna anyị ukwu, anyị chọrọ ịhụ Jisọs.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Filip pụrụ gaa gwa Andru, ya na Andru sooro gaa gwa Jisọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jisọs zara sị,",
+          {
+            "text": "“Oge awa ahụ eruola mgbe a ga-enye Nwa nke Mmadụ otuto.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Nʼezie, nʼezie, agwa m unu, ọ bụrụ na mkpụrụ ọka wiiti adaghị nʼala nwụọ, ọ ga-anọ naanị ya. Ma ọ bụrụ na ọ nwụọ, ọ ga-amị ọtụtụ mkpụrụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "Ndị ọbụla hụrụ ndụ ha nʼanya ga-atụfu ya, ebe ndị ọbụla kpọrọ ndụ ha asị nʼụwa a, ga-edebe ya ruo mgbe ebighị ebi.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Onye ọbụla na-ejere m ozi aghaghị iso m; ebe m nọ ka onye na-ejere m ozi ga-anọkwa. Onye ọbụla na-ejere m ozi ka Nna m ga-asọpụrụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "“Ugbu a, mkpụrụobi m jupụtara nʼihe mgbu. Gịnịkwa ka m ga-ekwu, Nna, zọpụta m nʼawa nke a? Mba! Ọ bụ nʼihi nke a ka m ji bịa nʼoge awa a.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "Nna, nye aha gị otuto.”",
+            "wordsOfJesus": true
+          },
+          "Mgbe ahụ, otu olu siri nʼeluigwe bịa, “Enyela m ya otuto, m ga-enyekwa ya otuto ọzọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Igwe ndị mmadụ guzo nʼebe ahụ, ndị nụrụ ya na-ekwu, “Ọ bụ egbe eluigwe gbara.” Ndị ọzọ na-asị, “Ọ bụ mmụọ ozi na-agwa ya okwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jisọs zara ma sị,",
+          {
+            "text": "“Olu a abịaghị nʼihi m kama ọ bịara nʼihi unu.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "Ugbu a bụ oge a ga-ekpe ụwa a ikpe. Ugbu a ka a ga-achụpụ onye ahụ na-achị ụwa a.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Ma mụ onwe m, mgbe e si nʼụwa welie m elu, aga m adọta mmadụ niile nye onwe m.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O kwuru nke a iji gosi ụdị ọnwụ nke ọ gaje ịnwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Igwe mmadụ ahụ zara ya, “Anyị anụla site nʼakwụkwọ iwu na Kraịst ahụ ga-adị ndụ ruo mgbe ebighị ebi. Ma gịnị mere i ji asị na,",
+          {
+            "text": "‘A ghaghị iweli Nwa nke Mmadụ elu’",
+            "wordsOfJesus": true
+          },
+          "? Onye bụ ‘Nwa nke mmadụ a’?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jisọs sịrị ha,",
+          {
+            "text": "“Ìhè ga-enwuru unu naanị nwa oge nta. Jegharịanụ nʼìhè a, ugbu a unu nwere ya, tupu ọchịchịrị abịakwasị unu. Onye na-ejegharị nʼọchịchịrị amaghị ebe ọ na-aga.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          {
+            "text": "Kwerenụ nʼìhè ahụ ugbu a unu nwere ya ka unu ghọọ ụmụ nke ìhè.”",
+            "wordsOfJesus": true
+          },
+          "Mgbe Jisọs kwusiri nke a ọ hapụrụ ha pụọ ga zoo onwe ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị Juu gara nʼihu na-ekweghị ekwe ha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Nʼagbanyeghị ọrụ ịrịbama niile ọ rụrụ nʼetiti ha, ha ekwereghị na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nke a bụ imezu ihe Aịzaya onye amụma kwuru,",
+          {
+            "text": "“Onyenwe anyị, onye kweere ozi anyị",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụkwa nʼahụ onye ka e kpugheere ogwe aka Onyenwe anyị?”",
+            "poem": 2
+          },
+          {
+            "noteId": 1082
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ma ha enweghị ike kwere, nʼihi na Aịzaya kwukwara nʼebe ọzọ, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          {
+            "text": "“O meela ka ha kpuo ìsì,",
+            "poem": 1
+          },
+          {
+            "text": "mekwa ka obi ha kpọchie",
+            "poem": 2
+          },
+          {
+            "text": "Ka ha ghara iji anya ha hụ ụzọ",
+            "poem": 1
+          },
+          {
+            "text": "maọbụ jiri obi ha ghọta ihe ọbụla",
+            "poem": 2
+          },
+          {
+            "text": "Ka ha gharakwa ichigharị, ka m gwọọ ha.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1083
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Aịzaya kwuru ihe ndị a nʼihi na ọ hụrụ ebube ya, ma kwuo banyere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Otu ọ dị, ọtụtụ nʼime ndịisi kweere na ya, ma ha ekwupụtaghị nke a. Nʼihi na ha tụrụ egwu na ndị Farisii ga-achụpụ ha site nʼụlọ ekpere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Nʼihi na ha hụrụ otuto mmadụ nʼanya karịa otuto Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Jisọs tiri mkpu sị,",
+          {
+            "text": "“Onye ọbụla kwere na m, ọ bụghị na m ka o kwere, kama ọ bụ na onye nke zitere m.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          {
+            "text": "Nʼihi na onye ọbụla hụrụ m ahụla onye nke zitere m.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          {
+            "text": "Abịara m nʼime ụwa dị ka ìhè ka onye ọbụla nke kwere na m ghara ịnọ nʼọchịchịrị.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          {
+            "text": "“Ma ọ bụrụ na onye ọbụla anụ okwu m ma ju ime ya, ọ bụghị m na-ekpe ya ikpe. Nʼihi na abịara m ịzọpụta ụwa, ọ bụghị ikpe ụwa ikpe.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          {
+            "text": "Onye ọbụla jụrụ m ma jụkwa okwu m, nwere onye ga-ekpe ya ikpe. Okwu niile m kwuru ga-ama ya ikpe nʼụbọchị ikpeazụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          {
+            "text": "Okwu ndị a esiteghị nʼaka m. Ha sitere nʼaka Nna ahụ onye zitere m ma nyekwa m iwu ihe m ga-ekwu na otu m ga esi kwuo ya.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          {
+            "text": "Ama m na iwu ya bụ ndụ ebighị ebi, nʼihi ya, ihe ọbụla Nna gwara m ka m na-ekwu.”",
+            "wordsOfJesus": true
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1079,
+        "caller": "+",
+        "text": "Narị denarị atọ ruru ụgwọ ọnwa onye ọrụ ga-anata nʼotu afọ.",
+        "reference": {
+          "chapter": 12,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 1080,
+        "caller": "+",
+        "text": "Abụ 118:25,26",
+        "reference": {
+          "chapter": 12,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 1081,
+        "caller": "+",
+        "text": "Zek 9:9",
+        "reference": {
+          "chapter": 12,
+          "verse": 15
+        }
+      },
+      {
+        "noteId": 1082,
+        "caller": "+",
+        "text": "Aịz 53:1",
+        "reference": {
+          "chapter": 12,
+          "verse": 38
+        }
+      },
+      {
+        "noteId": 1083,
+        "caller": "+",
+        "text": "Aịz 6:10",
+        "reference": {
+          "chapter": 12,
+          "verse": 40
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JHN/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JHN/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JHN/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 50
+}

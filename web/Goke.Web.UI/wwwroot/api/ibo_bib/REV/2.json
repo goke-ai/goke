@@ -1,0 +1,463 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "ibo_bib",
+    "name": "Mkpughe",
+    "commonName": "Mkpughe",
+    "title": "Mkpughe",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "dfefef3cfcaa9573108355d9ba3837388620df1f01ef2f2fb8a32916a3bd58a5",
+    "firstChapterApiLink": "/api/ibo_bib/REV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/REV/22.json",
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nzukọ dị nʼEfesọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "“Dee akwụkwọ nye mmụọ ozi ụlọ nzukọ dị nʼEfesọs, sị ya:",
+            "wordsOfJesus": true
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Ihe ndị a bụ okwu si nʼọnụ onye ahụ na-ejide kpakpando asaa nʼaka ya, ma na-ejegharịkwa nʼetiti ihe ịdọba oriọna ọlaedo asaa ndị ahụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Amaara m ihe niile banyere ọrụ gị niile. Ahụkwala m ịrụsị ọrụ ike gị na ntachiobi gị. Amaara m na ị dịghị anagide ndị ajọ omume, na ị nwaleela ndị ahụ niile na-akpọ onwe ha ndị ozi, ma ha abụghị ndị ozi nʼezie, chọpụtakwa na ha bụ ndị ụgha.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "I jirila ntachiobi nagide nhụju anya nʼihi aha m, ma ike agwụghị gị.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ma enwere m ihe ndị a megide gị. Ị hapụla ịhụnanya mbụ ahụ i nwere.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Cheta ọnọdụ i si na ya daa. Chegharịa, mekwa ihe ndị ahụ ị na-eme na mbụ. Ọ bụrụ na i meghị otu a, aga m abịa wepụ ihe ịdọba oriọna gị site nʼọnọdụ ya.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ọ bụladị otu a, o nwere ihe ụfọdụ dị mma banyere gị. Ị kpọrọ ọrụ ọjọọ nke ndị Nikolaitan asị, dịka mụ onwe m si kpọọ ya asị.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Onye ọbụla nwere ntị, ya nụrụ ihe Mmụọ Nsọ na-agwa nzukọ. Onye ahụ na-emeri emeri ka m ga-enye ike iri mkpụrụ sitere nʼosisi ndụ ahụ nke dị na paradaịs nke Chineke.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nzukọ dị na Smyrna"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "“Dee akwụkwọ nye mmụọ ozi ụlọ nzukọ dị na Smyrna, sị ya:",
+            "wordsOfJesus": true
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Ihe ndị a bụ okwu ahụ bụ Mmalite na Ọgwụgwụ ihe niile. Onye nwụrụ anwụ ma dịkwa ndụ ọzọ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Amaara m mkpagbu gị niile na ịda ogbenye gị. Ma nʼezie, ị bụ ọgaranya. Amaara m ihe banyere nkwutọ niile ndị ahụ na-akpọ onwe ha ndị Juu na-ekwutọ gị, ma ha abụghị ndị Juu, nʼezie ha bụ ụlọ nzukọ ekwensu.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Atụkwala egwu nʼihi ihe ahụ gaje ịbịakwasị gị. Nʼihi na ekwensu nʼonwe ya gaje ime ka a tụba ụfọdụ nʼime ndị gị nʼụlọ mkpọrọ, ka o jiri ya nwalee gị. A ga-akpagbu unu abalị iri. Ma gosi onwe gị onye kwesiri ntụkwasị obi, ọ bụladị ruo mgbe ọnwụ ga-abịakwasị gị. Emesịa, a ga m enye gị okpueze ahụ, bụ ndụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Onye ọbụla nwere ntị ya nụrụ ihe Mmụọ Nsọ na-agwa nzukọ niile. Onye ọbụla na-emeri emeri, ọnwụ nke ugboro abụọ agaghị emekpa ya ahụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nzukọ dị nʼobodo Pegamọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "“Dee akwụkwọ nye mmụọ ozi ụlọ nzukọ dị Pegamọm, sị ya:",
+            "wordsOfJesus": true
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Ndị a bụ okwu si nʼọnụ onye ahụ ji mma agha ahụ dị nkọ nke nwere ihu abụọ nʼaka ya.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Amaara m ebe i bi, bụ obodo ebe ekwensu nwere ocheeze ya. Ma ị na-anọgidesi ike nʼaha m. Ị jụrụ ịgọnarị okwukwe gị nʼime m, ọ bụladị nʼoge Antipas onyeama m kwesiri ntụkwasị obi, bụ onye e gburu nʼobodo unu, ebe ekwensu bi.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Ma enwere m ihe ole ma ole megide gị. I nwere ụfọdụ mmadụ ebe ahụ, ndị jidesiri nkuzi Belam ike, bụ onye kuziiri Balak ka o raa ụmụ Izrel ụra nke mere ka ha mehie, rie ihe a chụrụ nʼaja nye arụsị, kwaakwa iko.",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1724
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Nʼotu aka ahụ, i nwekwara ụfọdụ mmadụ ndị jidesiri nkuzi Nikolaitan ike.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Ya mere, chegharịa! Ma ọ bụghị otu a, aga m abịakwute gị ọsịịsọ jiri mma agha dị m nʼọnụ buso ha agha.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Onye ọbụla nwere ntị, ya nụrụ ihe Mmụọ Nsọ na-agwa nzukọ niile. Ọ bụ naanị onye na-emeri emeri ka m ga-enye ụfọdụ nʼime achịcha mánà ahụ e zoro ezo. Aga m enyekwa onye ahụ ezi nkume ọcha ahụ, nke edekwasịrị aha ọhụrụ nʼelu ya, nke onye ọbụla ọzọ na-agaghị amata, karịa onye ahụ natara ya.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nzukọ dị nʼobodo Tiatira"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "“Dee akwụkwọ nye mmụọ ozi ụlọ nzukọ dị na Tiatira, sị ya:",
+            "wordsOfJesus": true
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Ndị a bụ okwu sitere nʼaka Ọkpara Chineke, onye anya ya na-enwuba nʼebe niile dị ka ire ọkụ. Ụkwụ ya kwa na-egbu maramara dị ka bronz a nụchara nke ọma.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Amaara m ọrụ gị niile, na ịhụnanya gị, na okwukwe gị. Amakwaara m ije ozi gị na ntachiobi gị, na-ahụkwa na ị na-arụ ọrụ ugbu a karịa ka i mere na mbụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Ma enwere m ihe ndị a megide gị. Ị na-anabata nwanyị ahụ a na-akpọ Jezebel, onye na-ekwupụta na ya bụ onye amụma nwanyị",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1725
+          },
+          {
+            "text": "nye ya ohere ka o were nkuzi asị na-eduhie ndị ohu m ụzọ, ka ha kwaa iko, riekwa ihe e ji chụọrọ arụsị aja.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Enyela m ya ohere ka o si na mmehie ya chegharịa, ma ọ jụrụ ichegharị site na ndụ ịkwa iko.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Lee, aga m etinye ya nʼute ahụhụ, meekwa ka ndị ya na ha na-akwa iko taa ahụhụ dị ukwuu. Ọ bụ naanị ma ha chegharịrị ka ihe ndị a na-agaghị abịakwasị ha.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Ma nʼebe ụmụ ya nọ, aga m etigbu ha ka ha nwụọ. Nzukọ niile ga-amata na abụ m onye na-enyocha mmụọ na mkpụrụobi niile. Aga m akwụghachikwa onye ọbụla nʼime unu ụgwọ ọrụ kwesiri ọrụ ya.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Ugbu a, ana m agwa unu ndị fọdụrụ na Tiatira, unu ndị na-agbasoghị ozizi ya, ndị na-amụtabekwaghị ihe ndị ahụ ekwensu kpọrọ ihe nzuzo dị omimi,",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1726
+          },
+          {
+            "text": "‘O nweghị ibu arọ ọzọ m ga-ebokwasị unu,",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          {
+            "text": "ma ọ bụghị, unu jidesienụ ihe unu nwere aka ike tutu ruo mgbe m ga-abịa.’",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          {
+            "text": "Ma onye ọbụla na-emeri emeri, na-anọgidekwa na-eme uche m ruo ọgwụgwụ ihe niile, ka m ga-enye ikike nʼebe mba niile nọ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Onye ahụ, ‘ga-eji mkpara igwe chịa ha, dịka mgbe a kụwachara ite aja na mpekele na mpekele.’",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1727
+          },
+          {
+            "text": "Ọ bụladị ka Nna m si nye m ike,",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          {
+            "text": "a ga-enye onye nke meririnụ kpakpando ụtụtụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "Onye ọbụla nwere ntị, ya nụrụ ihe Mmụọ Nsọ na-agwa nzukọ niile.",
+            "wordsOfJesus": true
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1724,
+        "caller": "+",
+        "text": "Ọ bụ Belam kuziri Balak ụzọ ọ ga-esi rara ndị Izrel nye na nnupu isi megide iwu Chineke nyere ha banyere ife arụsị, nʼakwụkwọ Ọnụ 31:15-16, ịkwa iko na ịlụ di maọbụ nwunye site na mba ọzọ. Iwu ndị a dị nʼakwụkwọ Dit 7:3-11.",
+        "reference": {
+          "chapter": 2,
+          "verse": 14
+        }
+      },
+      {
+        "noteId": 1725,
+        "caller": "+",
+        "text": "Onye amụma nwanyị Ọ bụ onye amụma ụgha nʼihi na ihe ọ na-akụzi megidere iwu Chineke.",
+        "reference": {
+          "chapter": 2,
+          "verse": 20
+        }
+      },
+      {
+        "noteId": 1726,
+        "caller": "+",
+        "text": "Ihe nzuzo dị omimi E nwere ọdị iche nʼetiti ihe omimi Mmụọ Nsọ na-ekpughe dị ka e dere nʼakwụkwọ 1Kọ 2:10,site nʼihe omimi ndị ọzọ. Ya mere, o ji dị mkpa na mmadụ ga-akpachapụ anya mgbe ọbụla onye dị otu na-achọ ịmata ụfọdụ ihe omimi, ka ọ rịọ inyeaka mmụọ nsọ.",
+        "reference": {
+          "chapter": 2,
+          "verse": 24
+        }
+      },
+      {
+        "noteId": 1727,
+        "caller": "+",
+        "text": "Abụ 2:9",
+        "reference": {
+          "chapter": 2,
+          "verse": 27
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/REV/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/REV/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/REV/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

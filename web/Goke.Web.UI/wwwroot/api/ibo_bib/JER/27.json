@@ -1,0 +1,248 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Juda ga-aghọ onye na-ejere Nebukadneza ozi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Na mmalite ọchịchị Zedekaya, nwa Josaya eze Juda, okwu ndị a si nʼọnụ Onyenwe anyị rute Jeremaya ntị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ihe ndị a ka Onyenwe anyị gwara m, “Jiri akpụkpọ anụ dị warawara na ụfọdụ okporo igwe, meere onwe gị ụdị agbụ ahụ a na-amanye ụmụ ehi nʼolu,",
+          {
+            "noteId": 1021
+          },
+          "nyakwasị ya nʼolu gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, zigara ndị eze Edọm, na Moab, na Amọn, na Taịa, na Saịdọn ozi site nʼọnụ ndị ozi ha bịara Jerusalem iwetara Zedekaya eze Juda ozi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Zie ha ozi ha ga-ezi ndị nwe ha, sị, ‘Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel kwuru, sị, “Zienụ ndị nna unu ukwu ozi a, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ bụ site nʼike aka m, na site nʼogwe aka m, nke e setịrị eseti, ka m ji mee ụwa, na mmadụ, na anụmanụ dị nʼime ya. Mụ onwe m ka ọ dịkwara ikpebi itinye ha niile nʼaka onye ọbụla m họpụtara dịka o si dị m mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ugbu a, ana m ewere alaeze unu niile nyefee ya nʼaka onye na-ejere m ozi bụ Nebukadneza eze Babilọn; aga m emekwa ka ọ bụladị ụmụ ajọ anụ ọhịa mee ihe o nyere nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mba niile ga-akpọ isiala nye ya; ha ga-akpọkwa isiala nye nwa ya na nwa nwa ya, tutu ruo mgbe m kpebiri na oge ha ezuola. Mgbe ahụ, aga m eme ka ọtụtụ mba na ọtụtụ ndị eze merie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“ ‘ “Ma ọ bụrụkwa na mba maọbụ alaeze ọbụla ajụ ife Nebukadneza, bụ eze Babilọn, maọbụ jụ ijere ya ozi dịka ohu,",
+          {
+            "noteId": 1022
+          },
+          "aga m eji mma agha na ụnwụ na ọrịa na-efe efe, taa mba ahụ ahụhụ, tutu ruo mgbe m bibiri ya site nʼaka ya. Otu a ka Onyenwe anyị kwubiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ya mere, unu aṅala ndị amụma unu, na ndị na-ajụ mmụọ ase, na ndị na-akọwara unu nrọ, na ndị mmụọ ọjọọ si nʼọnụ ha ekwu okwu, na ndị mgbaasị ntị. Unu aṅala ha ntị mgbe ha na-asị unu, ‘Unu agaghị abụ ndị ohu eze Babilọn.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi na ọ bụ naanị amụma ụgha ka ha na-eburu unu, okwu ụgha nke ga-eme ka e site nʼala unu wezuga unu, bulaa unu ala dị anya. Aga m esi nʼala unu chụsaa unu. Unu ga-alakwa nʼiyi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma ọ bụrụ na mba ọbụla ekwere ịbụ ohu eze Babilọn, kwenyekwa ife ya ofufe, mba ahụ ka m ga-eme ka ọ nọgide nʼala nke aka ya. Ọ ga-akọ ala ahụ, birikwa nʼime ya. Otu a ka Onyenwe anyị kwubiri.” ’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Otu ozi ahụ ka m ziri Zedekaya, bụ eze Juda. Asịrị m, “Were olu",
+          {
+            "noteId": 1023
+          },
+          "gị nyefee eze Babilọn nʼaka dịka ohu, feekwa ya na ndị ya, ị ga-adịkwa ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi gịnị ka gị na ndị gị ga-eji nwụọ site na mma agha, na site nʼụnwụ na ọrịa na-efe efe, dịka nke Onyenwe anyị kwurula banyere mba ọbụla nke na-agaghị efe eze Babilọn?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Egela ntị nʼokwu ndị amụma na-agwa gị sị, ‘Unu agaghị efe eze Babilọn,’ nʼihi na ọ bụ okwu ụgha ka ha na-agwa unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "‘Ọ bụghị m zitere ha,’ otu a ka Onyenwe anyị kwupụtara. ‘Ha ji aha m na-ebu amụma ụgha. Nʼihi ya, aga m achụpụ unu, unu ga-alakwa nʼiyi, unu na ndị amụma ahụ na-eburu unu amụma.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, agwara m ndị nchụaja na ndị mmadụ niile okwu sị ha, “Ihe ndị a ka Onyenwe anyị kwuru: Unu egela ndị amụma ahụ ntị, bụ ndị na-asị unu, ‘Na mgbe na-adịghị anya a ga-ebughachi ngwongwo ahụ e si nʼụlọnsọ Onyenwe anyị bulaa Babilọn.’ Ọ bụ amụma ụgha ka ha na-eburu unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Unu egela ha ntị. Feenụ eze Babilọn, nʼihi na ọ bụ naanị site nʼụzọ ahụ ka unu ga-esi dịrị ndụ. Nʼihi gịnị ka unu ga-eji kwenye ka obodo a ghọọ mkpọmkpọ ebe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụrụ nʼezie na ọ bụ okwu Onyenwe anyị si nʼọnụ ndị amụma a na-apụta, ha rịọọnụ Onyenwe anyị, Onye pụrụ ime ihe niile arịrịọ ka ọ hapụ ikwe ka e bukọrọ ngwongwo fọdụrụ nʼime ụlọnsọ nakwa ndị fọdụrụ nʼụlọeze Juda, na nʼime Jerusalem bulaa Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi na ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwuru banyere ogidi niile ndị ahụ, na Oke osimiri bronz ahụ, na ihe ndọkwasị niile, na ihe niile fọdụrụ nʼobodo a,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "nke Nebukadneza, bụ eze Babilọn na-eburughị mgbe o sitere na Juda na Jerusalem, dọkpụrụ Jehoiakin nwa Jehoiakim, bụ eze Juda, na ndị niile a na-asọpụrụ bulaa Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "E, ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile bụ Chineke Izrel kwuru banyere ihe niile fọdụrụ nʼụlọnsọ Onyenwe anyị, na ndị fọdụrụ nʼụlọeze Juda na nʼime Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "‘A ga-eburu ha niile bulaa ha Babilọn. Ebe ahụ ka ha ga-anọkwa tutu ruo mgbe m ga-abịa leta ha,’ ka Onyenwe anyị kwubiri. ‘Mgbe ahụ, aga m ebulatakwa ha, kpọghachitekwa ha nʼebe a.’ ”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1021,
+        "caller": "+",
+        "text": "Lit. Yoku",
+        "reference": {
+          "chapter": 27,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1022,
+        "caller": "+",
+        "text": "Ka o si chọọ",
+        "reference": {
+          "chapter": 27,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 1023,
+        "caller": "+",
+        "text": "Ya bụ, onwe",
+        "reference": {
+          "chapter": 27,
+          "verse": 12
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/27.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/28.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/26.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

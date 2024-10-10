@@ -1,0 +1,530 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "ibo_bib",
+    "name": "Luk",
+    "commonName": "Luk",
+    "title": "Oziọma Luk",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "4c81eab176adfa631f02c92f55c886d74ff19d2e290a73b3f4358267cf873057",
+    "firstChapterApiLink": "/api/ibo_bib/LUK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LUK/24.json",
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọmụmụ Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge ahụ, Siza Ọgọstọs nyere iwu ka a gụọ ọnụ, detuo aha mmadụ niile bi nʼụwa dum.",
+          {
+            "noteId": 1243
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "(Nke a bụ ịgụ ọnụ na ide aha nke mbụ e mere mgbe Kwirinus bụ onye na-achị Siria.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onye ọbụla gara nʼobodo ya, ka e denye aha ya nʼakwụkwọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere Josef hapụrụ Nazaret nke dị na Galili, gaa Betlehem nke dị na Judịa, nke bụkwa obodo Devid, nʼihi na o si nʼụlọ na agbụrụ Devid pụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ya na Meri, nwaagbọghọ o kwere nkwa ịlụ, nke dịkwa ime, soro gaa ka o denye aha ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ha nọ ebe ahụ, oge ọ ga-eji mụọ nwa ya zuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọ mụrụ nwa nwoke mbụ ya. O ji akwa kee ya, nibe ya nʼime ebe a na-enye anụ ụlọ nri, nʼihi na ha enwetaghị ebe ndina nʼụlọ ndị ije."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị ọzụzụ atụrụ na ndị Mmụọ Ozi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma e nwere ndị ọzụzụ atụrụ",
+          {
+            "noteId": 1244
+          },
+          "bi nʼọhịa nʼakụkụ ebe ahụ, ndị na-eche igwe atụrụ ha nche nʼabalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mmụọ ozi nke Onyenwe anyị pụtara ihe nye ha. Ebube Onyenwe anyị mụwara gburugburu ha, oke egwu tụrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma mmụọ ozi ahụ sịrị ha, “Unu atụla egwu. Ana m ewetara unu oziọma nke oke ọṅụ nke ga-adịrị mmadụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na taa, nʼobodo Devid ka a mụrụ Onye nzọpụta nye unu; ọ bụ Kraịst, Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a ga-abụrụ unu ihe ịrịbama, unu ga-ahụ nwata ọhụrụ e kechiri nʼakwa, dina nʼime ebe a na-enye anụ ụlọ nri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Na mberede, igwe ndị mmụọ ozi nke eluigwe pụtara soro mmụọ ozi a, bido na-eto Chineke na-asị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "“Otuto dịrị Chineke nʼebe kachasị elu nke eluigwe.",
+            "poem": 1
+          },
+          {
+            "text": "Udo nʼelu ụwa nye ndị niile ihe ha dị Chineke ezi mma.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ndị mmụọ ozi ahụ hapụrụ ha, laghachi nʼeluigwe, ndị ọzụzụ atụrụ ahụ sịrịtara onwe ha, “Bịanụ ka anyị jeruo Betlehem, ka anyị jiri anya anyị hụ ihe ndị a merenụ, nke Onyenwe anyị mere ka anyị mara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ha gara ọsịịsọ hụ Meri na Josef, na nwata ahụ ka o dina nʼime ebe a na-enye anụ ụlọ nri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ha hụrụ nke a, ha mere ka a mata ihe niile a gwara ha banyere nwantakịrị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ihe ndị ọzụzụ atụrụ a kwuru juru ndị niile nụrụ ya anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma Meri debere ihe ndị a niile nʼobi ya, na-atụgharị ihe banyere ha nʼobi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị ọzụzụ atụrụ ahụ laghachiri, na-eto Chineke na-ebulikwa aha ya elu nʼihi ihe niile ha nụrụ ma hụkwa, nke dịkwa ka a gwara ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ụbọchị asatọ gasịrị, mgbe oge ruru ibi nwata ahụ ugwu, ha gụkwara ya aha. Aha ha nyere ya bụ Jisọs, aha ahụ mmụọ ozi nyere tupu a dị ime ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "I kubata Jisọs nʼime ụlọnsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe oge zuru maka mmemme nke ịdị ọcha dị ka iwu Mosis siri dị, ha kutere ya na Jerusalem iche ya nʼihu Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "(dịka e dere ya nʼiwu nke Onyenwe anyị, “Nwa mbụ ọbụla nke bụ nwoke ka a ga-edo nsọ nye Onyenwe anyị”",
+          {
+            "noteId": 1245
+          },
+          "),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "ha chụrụ aja dị ka e nyere nʼiwu Onyenwe anyị: “Ụmụ kpalakwukwu abụọ maọbụ ụmụ nduru abụọ.”",
+          {
+            "noteId": 1246
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma lee, e nwere otu nwoke bi na Jerusalem aha ya bụ Simiọn, onye jupụtara na Mmụọ Nsọ. Ọ bụ onye ezi omume bụrụkwa onye ji obi ya niile na-efe Chineke. Ọ bụkwa onye na-ele anya maka nkasiobi nke ndị Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ma Mmụọ Nsọ Chineke mere ka ọ mata na ọ gaghị anwụ ruo mgbe ọ hụrụ Kraịst nke Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Site nʼodudu nke Mmụọ Nsọ, ọ batara nʼụlọnsọ ukwu, ma mgbe nne na nna nwata ahụ bụ Jisọs kubatara ya dị ka omenaala iwu si dị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Simiọn kuuru ya nʼaka, kelee Chineke sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          {
+            "text": "“Gị, Onye kachasị ihe niile elu, bụ Onyenwe dị ka i kwere na nkwa,",
+            "poem": 1
+          },
+          {
+            "text": "ugbu a zilaga nwaodibo gị nʼudo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          {
+            "text": "Nʼihi na anya m ahụla nzọpụta gị,",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          {
+            "text": "nke i kwadoro nʼihu mba niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          {
+            "text": "Ìhè nke ga-egosi ndị mba ọzọ ụzọ,",
+            "poem": 1
+          },
+          {
+            "text": "na ebube nke ndị gị Izrel.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O juru nne na nna nwantakịrị ahụ anya ịnụ ihe ndị a e kwuru banyere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe ahụ, Simiọn gọziri ha, sịkwa Meri nne ya, Lee, “Nwatakịrị a bụ onye e zitere ka ọ bụrụ ọdịda na mbili nye ọtụtụ mmadụ nʼIzrel, ọ ga-abụkwa ihe ama nke ọtụtụ ga-ekwujọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ọ bụkwa site nʼụzọ dị otu a ka a ga-ekpughe echiche nke dị ọtụtụ nʼobi. Mma agha ga-adụwakwa mkpụrụobi nke gị onwe gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "O nwekwara onye amụma nwanyị, aha ya bụ Ana, ada Fanuel nke si nʼebo Asha. Ọ bụ ezigbo agadi nwanyị na-enweghị di, nʼihi na di ya nwụrụ mgbe ha biri naanị afọ asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ọ nọọla dị ka nwanyị na-enweghị dị iri afọ asatọ na anọ. Ọ hapụghị ụlọnsọ, kama ọ nọgidere nʼefe ofufe ehihie na abalị, na-ibu ọnụ na-ekpe ekpere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nʼoge ahụ ọ bịarutere nʼebe ha nọ, nye Chineke ekele, kwuo okwu banyere nwantakịrị ahụ nye ndị niile na-ele anya maka mgbapụta Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Mgbe ha mesịrị ihe niile otu ọ dị nʼiwu Onyenwe anyị, ha laghachiri obodo ha bụ Nazaret nke dị nʼime Galili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ma nwata ahụ toro bụrụ onye dị ike; o jupụtara nʼamamihe, amara Chineke dịnyekwaara ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs agaa nʼụlọnsọ ukwuu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Nʼafọ niile, ndị mụrụ ya na-aga Jerusalem nʼihi Mmemme Ngabiga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Mgbe o ruru afọ iri na abụọ, ha gara maka mmemme dị ka omenaala si dị.",
+          {
+            "noteId": 1247
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Mgbe e mesịrị mmemme ahụ, ka ndị mụrụ ya na-alaghachi, nwata ahụ bụ Jisọs nọdụrụ na Jerusalem. Ndị ha amataghị na o soghị ha na-alọta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ha chere na o sonyere nʼetiti njem. Ha gara ije otu ụbọchị tupu ha a malite ịchọ ya nʼetiti ndị ikwu na ibe, na ndị enyi ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ma mgbe ha na-ahụghị ya, ha laghachiri Jerusalem na-achọkwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ka ụbọchị atọ gasịrị, ha hụrụ ya nʼụlọnsọ ukwu ebe ọ nọdụrụ nʼetiti ndị ode akwụkwọ, na-ege ha ntị na-ajụkwa ha ajụjụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Nghọta na ọsịsa ya juru ndị niile nụrụ okwu ya anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Mgbe ndị mụrụ ya hụrụ ya, ọ tụrụ ha nʼanya, ma nne ya sịrị ya, “Nwa m, gịnị mere i ji mesoo anyị mmeso dị otu a? Mụ na nna gị nọ na-achọgharị gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ọ jụrụ ha sị,",
+          {
+            "text": "“Gịnị mere unu ji na-achọ m? Unu amaghị na aghaghị m ịnọ nʼụlọ Nna m?”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ma ha aghọtaghị ihe ọ gwara ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Mgbe ahụ, o sooro ha laghachi Nazaret ma na-erubekwara ha isi. Ma nne ya dobere ihe ndị a niile nʼobi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Jisọs na-aga nʼihu nʼamamihe na ogologo, ya na ihuọma nʼebe Chineke na nke mmadụ nọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1243,
+        "caller": "+",
+        "text": "Ụwa dum na-ekwu maka Rom mgbe ochie maọbụ mba niile ndị Rom na-achị.",
+        "reference": {
+          "chapter": 2,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1244,
+        "caller": "+",
+        "text": "Ndị ọzụzụ atụrụ Maọbụ, ndị na-elekọta atụrụ.",
+        "reference": {
+          "chapter": 2,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 1245,
+        "caller": "+",
+        "text": "Ọpụ 13:2,12",
+        "reference": {
+          "chapter": 2,
+          "verse": 23
+        }
+      },
+      {
+        "noteId": 1246,
+        "caller": "+",
+        "text": "Lev 12:8",
+        "reference": {
+          "chapter": 2,
+          "verse": 24
+        }
+      },
+      {
+        "noteId": 1247,
+        "caller": "+",
+        "text": "Ọ bụ naanị Luk dere banyere Jisọs isonyere ndị mụrụ ya gaa maka mmemme a.",
+        "reference": {
+          "chapter": 2,
+          "verse": 42
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/LUK/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LUK/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/LUK/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 52
+}

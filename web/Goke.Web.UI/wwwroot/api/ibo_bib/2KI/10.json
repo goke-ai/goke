@@ -1,0 +1,365 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Eze",
+    "commonName": "2 Ndị Eze",
+    "title": "2 Ndị Eze",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "ef5236a4bf8f2ef841995e04d82bf4f37b3f368a02d2b12f0ec9671c38f7b59d",
+    "firstChapterApiLink": "/api/ibo_bib/2KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2KI/25.json",
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọgwụgwụ ezinaụlọ Ehab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, e nwere ụmụ Ehab ndị ikom ọnụọgụgụ ha dị iri asaa ndị nọ na Sameria,",
+          {
+            "noteId": 262
+          },
+          "Jehu dere akwụkwọ ozi ziga Sameria, zigara ndịisi obodo Jezril, zigakwara ndị okenye na ndị na-elekọta ụmụ Ehab ndị ahụ. Ọ sịrị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Ugbu a, mgbe akwụkwọ a rutere unu aka, ebe unu na ụmụ ndị ikom nna unu ukwu nọ, ebe unu nwekwara ụgbọ agha na ịnyịnya, na obodo e wusiri ike na ngwa agha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "họpụtanụ onye kachasị inwe ugwu ma kwesikwa nʼime ụmụ ndị ikom nna unu ukwu, mee ka ọ nọkwasị nʼocheeze nna ya. Mgbe ahụ, buo agha chebe ụlọ nna unu ukwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma ha tụrụ egwu nʼebe ọ dị ukwuu, sị, “Lee, eze abụọ",
+          {
+            "noteId": 263
+          },
+          "enweghị ike iguzogide ya, anyị onwe anyị ga-esi aṅaa guzogide ya?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ya mere, onye ọ dị nʼaka ilekọta ezinaụlọ eze, onyeisi obodo, ndị okenye na ndị niile na-elekọta ụmụ Ehab, dere akwụkwọ a zigara Jehu, sị ya, “Jehu, anyị niile bụ ndị ohu gị. Anyị jikeere ime ihe niile i gwara anyị. Anyị agaghị ahọpụta onye ọbụla dịka eze; gị onwe gị mee ihe ọbụla ị chere na ọ bụ ya kachasị mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, Jehu degaara ha akwụkwọ nke ugboro abụọ sị ha, “Ọ bụrụ na unu dịnyeere m, ọ bụrụkwa na unu ga-erube isi nye m, chịrịnụ isi ụmụ ndị ikom nna unu ukwu, bịakwute m nʼotu oge a echi na Jezril.” Nʼoge ahụ, ụmụ eze iri ndị ikom asaa nọ nʼaka ndịisi obodo ahụ, ndị na-azụlite ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe akwụkwọ ozi ahụ rutere ha, ndị ikom ahụ kpọrọ ụmụ ndị ikom eze dị iri asaa nʼọnụọgụgụ gbuo ha niile, chịrị isi ha tinye na nkata zigara ya Jehu na Jezril."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe onyeozi bịarutere, ọ gwara Jehu sị, “Ha ebutala isi ụmụ ndị ikom eze.” Mgbe ahụ, Jehu nyere iwu sị, “Tụkọbanụ ha ọnụ nʼoke abụọ, nʼọnụ ụzọ e si abata obodo, tutu ruo ụtụtụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼụtụtụ ya, Jehu pụrụ, guzoro nʼihu ndị niile gbakọrọ nʼebe ahụ gwa ha okwu sị, “Ndị Izrel, unu bụ ndị ezi omume. Ọ bụ mụ onwe m gbara izu ọjọọ megide nna m ukwu, gbuo ya, ma onye gburu ndị a niile?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Matanụ nke ọma na o nweghị okwu ọbụla Onyenwe anyị kwuru megide ezinaụlọ Ehab nke na-agaghị emezu. Onyenwe anyị emeela ihe o kwere nkwa na ọ ga-eme site nʼọnụ ohu ya Ịlaịja.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Emesịa, Jehu gburu ndị ikwu Ehab fọdụrụ nʼobodo Jezril, ha na ndịisi niile, na ndị enyi ya niile, na ndị nchụaja ya niile. Ọ dịkwaghị otu onye ikwu Ehab ọ hapụrụ ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Emesịakwa, Jehu hapụrụ Jezril gaa Sameria. Mgbe ọ na-aga nʼụzọ, ọ bịaruru ebe a na-akpọ Ebe Izuike Ndị ọzụzụ atụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼebe ahụ, o zutere ndị ụmụnna Ahazaya, eze Juda, jụọ sị, “Olee ndị ka unu bụ?” Ha zara, “Anyị bụ ndị ikwu Ahazaya, eze Juda, anyị bịara ka anyị jụọ maka ọdịmma ndị ezinaụlọ eze na nne eze.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O nyere iwu sị, “Jidenụ ha na ndụ.” Ha jidere ha na ndụ, gbukwaa ha niile nʼakụkụ olulu miri nke Bet-Eked. Ọnụọgụgụ ha dị iri anọ na abụọ. O nweghị onye ọbụla ọ hapụrụ ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe o si nʼebe ahụ pụọ, o zutere Jehonadab nwa Rekab,",
+          {
+            "noteId": 264
+          },
+          "ka ọ na-abịa izute ya. Jehu kelere ya, sị, “Obi gị, o ziri ezi nwee nkwekọrịta, dịka obi m dị nʼebe ị nọ?” Jehonadab zara sị ya, “E.” Jehu sịrị, “Ọ bụrụ na o si otu a dịrị, kwe m nʼaka.” Jehonadab kwere ya nʼaka. Jehu nʼonwe ya nyeere ya aka ka ọ rigota nʼụgbọ agha ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, Jehu sịrị ya, “Ugbu a, soro m bịa lee ụdị ịnụ ọkụ nʼobi m nwere maka ọrụ Onyenwe anyị.” Ha abụọ sooro nʼụgbọ agha Jehu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ha bịaruru Sameria, Jehu gburu ndị enyi na ndị ikwu Ehab niile, ndị fọdụrụ site nʼikwu Ehab, o bibiri ha dịka okwu Onyenwe anyị kwuru site nʼọnụ onye amụma Ịlaịja."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ogbugbu ndị nchụaja Baal"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Emesịa, Jehu kpọkọtara ndị obodo ahụ niile sị ha, “Ehab fere Baal ofufe nke nta, Jehu ga-efe ya ebe ọ dị ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ugbu a, kpọkọtaanụ ndị amụma Baal niile, ndị niile na-efe ya, na ndị nchụaja ya niile. Hụnụ na onye ọbụla nʼime ha bịara, nʼihi na a ga-eme oke mmemme ịchụ aja nye Baal. Onye ọbụla e lere anya ya nʼebe ahụ, ma a hụghị ya, agaghị adị ndụ.” Ma Jehu ji aghụghọ nʼihi ka ọ laa ndị a na-efe Baal nʼiyi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jehu sịrị, “Kpọsaanụ na a ga-enwe oke mkpọkọta dị nsọ nye Baal.” Ya mere, ha kwusara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "O zipụrụ ozi nye ndị bi nʼakụkụ Izrel niile. Ndị niile na-efe Baal bịazuru. Ọ dịghị onye fọdụrụ nke na-abịaghị. Ha jupụtara nʼụlọnsọ ukwu Baal",
+          {
+            "noteId": 265
+          },
+          "site nʼotu isi ya ruo nʼisi nke ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Jehu sịrị onye na-elekọta ụlọ ebe a na-edebe uwe ndị na-efe ofufe na-eyi, “Chịpụta uwe nye ndị niile na-efe Baal.” Ya mere, ọ chịpụtaara ha uwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ahụ, Jehu na Jehonadab nwa Rekab, banyere nʼebe nzukọ Baal. Jehu sịrị ndị nʼefe Baal, “Chọzienụ nke ọma ka unu hụ na o nweghị onye ọbụla na-efe Onyenwe anyị nọ nʼebe a, karịakwa naanị ndị na-efe Baal.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe ha malitere ịchụ aja na isure ihe nsure ọkụ, Jehu emeelarị ka iri ndị agha asatọ gbaa ụlọ ahụ niile gburugburu. O nyelarị iwu sị, “Ọ bụrụ na unu ekwere ka otu onye si nʼime ụlọ a gbapụ, unu ga-eji ndụ unu kwụghachi ụgwọ onye dị otu ahụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ngwangwa Jehu chụchasịrị aja nsure ọkụ, ọ pụrụ gwa ndị agha ya, na ndịisi ha okwu sị, “Baanụ nʼime ụlọ gbuo ndị niile nọ nʼebe ahụ. Unu ekwela ka otu onye nʼime ha gbapụ.” Ha jiri mma agha gbuo ndị ahụ nọ nʼime ụlọ Baal, tụpụta ozu ha nʼezi. Emesịa, ndị agha Jehu banyere nʼime ime ụlọ ebe ịchụ aja Baal,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "ha bupụtara ogidi nsọ e ji efe Baal, kpọọ ha ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ha kwaturu ogidi nsọ Baal, kwatukwaa ụlọ ịchụ aja ya. Ya mere e megharịrị ya ka ọ bụrụ ebe ọha mmadụ na-aga ogwe ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jehu kpochapụrụ ofufe Baal nʼala Izrel niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ma otu ọ dị, o siteghị na mmehie Jeroboam nwa Nebat wezuga onwe ya. Mmehie nke Jeroboam mere ka Izrel mehie, ya bụ, mmehie nke ife arụsị ụmụ ehi e ji ọlaedo kpụọ, dị na Betel na Dan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Onyenwe anyị gwara Jehu sị, “Nʼihi na i mere nke ọma mezuo ihe niile ziri ezi nʼanya m, nʼebe ezinaụlọ Ehab nọ, nʼusoro ihe niile dị nʼuche m ime, ụmụ ụmụ gị ga-anọkwasị nʼocheeze Izrel, ruo nʼọgbọ nke anọ ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma Jehu akpachapụghị anya iji obi ya niile debe iwu Onyenwe anyị, Chineke Izrel. O siteghị na mmehie Jeroboam wezuga onwe ya, bụ mmehie ahụ o mere ka Izrel mee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼoge ahụ, Onyenwe anyị malitere ime ka ndị Izrel bido ịdị nta. Hazael eze Aram, buru agha merie ọtụtụ akụkụ Izrel,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "nke dị nʼọwụwa anyanwụ osimiri Jọdan, na ala niile nke Gilead (nʼoke ala ndị Gad, na nke ndị Ruben, na Manase), site nʼAroea nke dị nʼakụkụ ndagwurugwu Anọn, ruo Gilead na Bashan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Akụkọ gbasara ọchịchị eze Jehu, na ihe niile o mere, na ịkpa ike ya niile, e deghị ha nʼakwụkwọ akụkọ ndị eze Izrel?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Jehu sooro ndị nna nna ya ha dina nʼọnwụ, e lie ya na Sameria. Nwa ya bụ Jehoahaz nọchiri anya ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ma ụbọchị niile Jehu bụ eze Izrel nʼime Sameria dị iri afọ abụọ na asatọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 262,
+        "caller": "+",
+        "text": "Sameria, bụ isi obodo alaeze Ugwu, site nʼoge eze Omri chịrị Izrel. 1Ez 16:24",
+        "reference": {
+          "chapter": 10,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 263,
+        "caller": "+",
+        "text": "Eze abụọ a na-ekwu banyere ha nʼebe a, bụ Joram na Ahazaya. 2Ez 9:23-28",
+        "reference": {
+          "chapter": 10,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 264,
+        "caller": "+",
+        "text": "Ndị Rekab, bụ ndị sitere nʼagbụrụ Rekab, onye sitere nʼagbụrụ ndị Kena. Ha bụ agbụrụ na-ebi ndụ ogologo nʼihi na anyị nụrụ ihe banyere ha nʼakwụkwọ onye amụma Jer 35:5-10Ha nʼebi nʼụlọ ikwu, bụrụkwa ndị nwere ezi ịnụ ọkụ nʼobi banyere ihe Chineke. Jetro, ọgọ nwoke Mosis si nʼagbụrụ a. Ọpụ 3:1; 4:18; 18:5; Ọnụ 10:29",
+        "reference": {
+          "chapter": 10,
+          "verse": 15
+        }
+      },
+      {
+        "noteId": 265,
+        "caller": "+",
+        "text": "Ehab bụ onye wuru ebe a, nke a na-anọ achụrụ arụsị Baal aja na Sameria. 1Ez 16:32",
+        "reference": {
+          "chapter": 10,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2KI/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2KI/11.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

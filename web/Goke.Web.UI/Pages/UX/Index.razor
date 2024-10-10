@@ -1,0 +1,1148 @@
+﻿@page "/ux"
+
+
+<PageTitle>UX</PageTitle>
+
+<h1>Components</h1>
+
+<h2>Lorem ipsum dolor sit amet consectetur.</h2>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim est nesciunt, cum fugit veniam
+    animi in
+    modi perspiciatis? Aliquid officia eaque aliquam eveniet eum illum in nihil similique amet at.
+
+    <br />
+    <a href="https://goke.me">https://goke.me </a>
+</p>
+
+<div class="card .max-screen">
+    <div class="card-header">Max Screen</div>
+    <div class="card-body">
+        Add class <i>'max-screen'</i> to any element on the Page. The page become max-screen with no padding nor
+        page centered.
+
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Media content</div>
+    <div class="card-body">
+        <div class="media-content">
+            <div class="content-table">
+                <label>TOC <input type="checkbox" class="content-table-controller visually-hidden"></label>
+                <ul>
+                    <li><a>Chapter 1</a></li>
+                    <li><a>Chapter 2</a></li>
+                    <li><a>Chapter 3</a></li>
+                    <li><a>Chapter 4</a></li>
+                    <li><a>Chapter 5</a></li>
+                    <li><a>Chapter 6</a></li>
+                    <li><a>Chapter 7</a></li>
+                    <li><a>Chapter 8</a></li>
+                    <li><a>Chapter 9</a></li>
+                    <li><a>Chapter 10</a></li>
+                    <li><a>Chapter 11</a></li>
+                </ul>
+            </div>
+            <div class="content">
+                <div class="content-wrapper">
+                    <div class="content-page">
+                        <video width="1000" controls>
+                            <source src="../assets/medias/video1.mp4" type="video/mp4">
+                            <source src="../assets/medias/video1.ogg" type="video/ogg">
+                            Your browser does not support the video tag.
+                        </video>
+                    </div>
+                    <div class="content-navigator">
+                        <button type="button" class="default no-border" title="Search">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#angle-left"></use>
+                            </svg>
+                        </button>
+                        <button type="button" class="default no-border" title="Search">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#pause"></use>
+                            </svg>
+                        </button>
+                        <button type="button" class="default no-border" title="Search">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#play"></use>
+                            </svg>
+                        </button>
+                        <button type="button" class="default no-border" title="Search">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#stop"></use>
+                            </svg>
+                        </button>
+                        <button type="button" class="default no-border" title="Search">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#angle-right"></use>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-header">Wizard</div>
+    <div class="card-body" style="height: 60vh;">
+        <!-- +wizard -->
+        <div class="wizard" style="--wizard-height: 45vh">
+            <div class="wizard-body">
+                <div class="wizard-page">
+                    <h3>Header 1</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                    <form action="">
+                        <div class="form-row-">
+                            <input type="radio" name="gender" id="male">
+                            <input type="radio" name="gender" id="female">
+                            <input type="text">
+                        </div>
+                        <div class="form-row-">
+                            <input type="radio" name="gender" id="male">
+                            <input type="radio" name="gender" id="female">
+                            <input type="text" value="disabled" disabled>
+                        </div>
+                        <div class="form-row-">
+                            <input type="radio" name="gender" id="male">
+                            <input type="radio" name="gender" id="female">
+                            <input type="text">
+                        </div>
+                    </form>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium dignissimos numquam dolores
+                    labore modi aliquid harum quisquam iure tenetur similique molestias, quis fuga magnam minus ratione
+                    unde optio sint odio! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
+                    dignissimos numquam dolores
+                    labore modi aliquid harum quisquam iure tenetur similique molestias, quis fuga magnam minus ratione
+                    unde optio sint odio! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium
+                    dignissimos numquam dolores
+                    labore modi aliquid harum quisquam iure tenetur similique molestias, quis fuga magnam minus ratione
+                    unde optio sint odio!
+                </div>
+                <div class="wizard-page">
+                    <h3>Header 2</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+
+                    <form action="">
+                        <div class="form-row-">
+                            <label for="name">Name</label> <input type="text" id="name">
+                        </div>
+                        <div class="form-row-">
+                            <label for="name">Name</label> <input type="text" id="name" value="disabled" disabled>
+                        </div>
+                        <div class="form-row-">
+                            <label for="name">Name</label> <input type="text" id="name">
+                        </div>
+                    </form>
+                </div>
+                <div class="wizard-page">
+                    <h3>Header 3</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                </div>
+                <div class="wizard-page">
+                    <h3>Header 4</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                </div>
+                <div class="wizard-page">
+                    <h3>Header 5</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                </div>
+            </div>
+            <div class="wizard-controller ">
+                <div class="wizard-controller-labels show-text show-radio">
+                    <label class="wizard-page-controller-label">
+                        <span>Page 1</span>
+                        <input type="radio" name="wizard-page" id="wizardpage1" class="wizard-page-controller" checked>
+                    </label>
+                    <label class="wizard-page-controller-label">
+                        <span>Page 2</span>
+                        <input type="radio" name="wizard-page" id="wizardpage2" class="wizard-page-controller">
+                    </label>
+                    <label class="wizard-page-controller-label">
+                        <span>Page 3</span>
+                        <input type="radio" name="wizard-page" id="wizardpage3" class="wizard-page-controller">
+                    </label>
+                    <label class="wizard-page-controller-label">
+                        <span>Page 4</span>
+                        <input type="radio" name="wizard-page" id="wizardpage4" class="wizard-page-controller">
+                    </label>
+                    <label class="wizard-page-controller-label">
+                        <span>Page 5</span>
+                        <input type="radio" name="wizard-page" id="wizardpage5" class="wizard-page-controller">
+                    </label>
+                </div>
+            </div>
+
+        </div>
+        <!-- -wizard -->
+
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-header">Carousel</div>
+    <div class="card-body" style="height: 30em;">
+
+        <!-- +carousel -->
+        <div class="carousel" style="--carousel-height: 20em">
+            <div class="carousel-body">
+                <div class="carousel-page">
+                    <h3>Header 1</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                </div>
+
+                <div class="carousel-page">
+                    <h3>Header 2</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                </div>
+
+                <div class="carousel-page">
+                    <h3>Header 3</h3>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                    odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                    recusandae cupiditate sit?
+                </div>
+
+            </div>
+
+            <div class="carousel-controller">
+                <div class="carousel-controller-labels show-text show-radio">
+                    <label class="carousel-page-controller-label">
+                        <span>Page 1</span>
+                        <input type="radio" name="carousel-page" id="carouselpage1" class="carousel-page-controller"
+                               checked>
+                    </label>
+                    <label class="carousel-page-controller-label">
+                        <span>Page 2</span>
+                        <input type="radio" name="carousel-page" id="carouselpage2" class="carousel-page-controller">
+                    </label>
+                    <label class="carousel-page-controller-label">
+                        <span>Page 3</span>
+                        <input type="radio" name="carousel-page" id="carouselpage3" class="carousel-page-controller">
+                    </label>
+                </div>
+            </div>
+        </div>
+        <!-- -carousel -->
+
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Accordion</div>
+    <div class="card-body">
+        <div class="accordion">
+            <div class="accordion-header">
+                <label class="accordion-controller" for="accordion_controller1">
+                    Header 1
+                </label>
+                <input class="accordion-controller" id="accordion_controller1" name="accordion_controller1"
+                       type="checkbox" checked />
+            </div>
+            <div class="accordion-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                recusandae cupiditate sit?
+            </div>
+
+            <div class="accordion-header">
+                <label class="accordion-controller" for="accordion_controller2">
+                    Header 2
+                </label>
+                <input class="accordion-controller" id="accordion_controller2" name="accordion_controller2"
+                       type="checkbox" />
+            </div>
+            <div class="accordion-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                recusandae cupiditate sit?
+            </div>
+
+            <div class="accordion-header">
+                <label class="accordion-controller" for="accordion_controller3">
+                    Header 3
+                </label>
+                <input class="accordion-controller" id="accordion_controller3" name="accordion_controller3"
+                       type="checkbox" />
+            </div>
+            <div class="accordion-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+                odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+                recusandae cupiditate sit?
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Dialog</div>
+    <div class="card-body">
+        <style>
+            .dialog-wrapper {
+                display: none;
+            }
+
+            input#opendialog[type="checkbox"]:checked ~ .dialog-wrapper {
+                display: block;
+            }
+        </style>
+
+        <label for="opendialog">Click to Open Dialog: </label>
+        <input type="checkbox" name="opendialog" id="opendialog">
+
+        <div class="dialog-wrapper">
+            <div class="overlay">
+                <div class="overlay-content">
+                    <div class="dialog">
+                        <div class="dialog-header">
+                            Dialog Title
+                            <button type="button" class="default no-border" title="Close" @@onclick="Cancel">
+                                <svg class="icon">
+                                    <use xlink:href="./images/icons.svg#xmark-solid"></use>
+                                </svg>
+                            </button>
+                        </div>
+                        <div class="dialog-body">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem vel tempora perferendis hic
+                            eum!
+                            Est culpa necessitatibus cumque ex blanditiis corporis suscipit sit enim quis eos, iusto quasi
+                            debitis laborum!
+                            <div>
+                                <div class="tile">Refresh! to close.</div>
+                            </div>
+                        </div>
+                        <div class="dialog-footer">@@Footer</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Multi-Selector</div>
+    <card-body>
+        <div class="multiselector">
+            <div>
+                <label for="@@item.Value1">
+                    <input type="checkbox" id="@@item.Value1" />
+                    Item 1
+                </label>
+            </div>
+            <div>
+                <label for="@@item.Value2">
+                    <input type="checkbox" id="@@item.Value2" />
+                    Lorem ipsum dolor sit amet.
+                </label>
+            </div>
+            <div>
+                <label for="@@item.Value3">
+                    <input type="checkbox" id="@@item.Value3" />
+                    Lorem ipsum dolor sit amet consectetur.
+                </label>
+            </div>
+        </div>
+    </card-body>
+</div>
+
+<div class="card">
+    <div class="card-header">Item Selector</div>
+    <card-body>
+        <div class="item-selector">
+            <div class="grid-row-wrapper">
+                <div class="item">Item 1</div>
+                <div class="selector">
+                    <input type="checkbox" id="@@item.Value" checked="@@item.Selected" />
+                </div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div class="item">Lorem ipsum dolor sit amet consectetur.</div>
+                <div class="selector">
+                    <input type="checkbox" id="@@item.Value" checked="@@item.Selected" />
+                </div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div class="item">Lorem ipsum, dolor sit amet consectetur adipisicing.</div>
+                <div class="selector">
+                    <input type="checkbox" id="@@item.Value" />
+                </div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div class="item">Lorem ipsum dolor sit.</div>
+                <div class="selector">
+                    <input type="checkbox" id="@@item.Value" checked="@@item.Selected" />
+                </div>
+            </div>
+        </div>
+    </card-body>
+</div>
+
+<div class="card" style="position: relative; height: 25em;">
+    <div class="card-header">Messenger</div>
+    <div class="card-body">
+        The messages attach itself to right.
+
+        <div class="message info" style="top: calc(4em * 1);">
+            Hello User 1
+        </div>
+        <div class="message primary" style="top: calc(4em * 2);">
+            I am a message and i rotate my colors.
+        </div>
+        <div class="message error" style="top: calc(4em * 3);">
+            Error User 3: Lorem ipsum dolor sit amet consectetur.
+        </div>
+        <div class="message success" style="top: calc(4em * 4);">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae?
+        </div>
+
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-header">Tiles</div>
+    <div class="card-body">
+        <div class="tile">
+            Sessions
+            <a href="#">
+                <div class="tile-note">
+                    10
+                </div>
+            </a>
+        </div>
+
+        <a href="#">
+            <div class="tile">
+                Student Courses
+                <div class="tile-note" style="
+                  --_width: 3.5em;
+                  --_height: 3em;
+                  --_top: 50%;
+                  --_right: 0%;
+                  ">
+                    100
+                </div>
+            </div>
+        </a>
+
+        <div class="tile">
+            Program Student Courses
+            <a href="#">
+                <div class="tile-note" style="
+                  --_height: 3.5em;
+                  --_top: 70%;
+                  --_right: 100%;
+                  ">
+                    1000
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <img src="images/background.jpg" alt="">
+    <div class="card-body">
+        at maiores fugit quam eum illo obcaecati temporibus laudantium earum dolore ab quis? Impedit
+        illum praesentium eligendi?
+    </div>
+</div>
+
+<div class="card-secondary">
+    <img src="images/planets-collide-wide-wallpaper-22488.jpg" alt="">
+    <div class="card-body">
+        Quis saepe error consequatur dicta distinctio minima asperiores sunt? Consequuntur incidunt
+        adipisci eius numquam omnis corporis qui ab! Magni incidunt, eius dignissimos placeat
+        numquam ut cum reiciendis architecto minus soluta.
+    </div>
+</div>
+
+<h1>Lorem ipsum dolor sit.</h1>
+<h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h2>
+<h3>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa dolores commodi corporis
+    incidunt veritatis suscipit.
+</h3>
+<p>
+    Quis saepe error consequatur dicta distinctio minima asperiores sunt? Consequuntur incidunt
+    adipisci
+    eius numquam omnis corporis qui ab! Magni incidunt, eius dignissimos placeat numquam ut cum
+    reiciendis architecto minus soluta.
+    Unde possimus commodi impedit rem minus aut pariatur libero magni illum consequuntur id laborum
+    aliquam, rerum accusantium fuga voluptate ipsa assumenda dolores ab maxime, et accusamus eius?
+    Tempore, quod voluptatum!
+</p>
+
+<div class="card">
+    <div class="card-header">
+        Button
+    </div>
+    <div class="card-body">
+        <div>
+            <button>Blank button</button>
+            <button class="primary">Primary Button</button>
+            <button class="secondary">Secondary Button</button>
+            <button class="default">Default Button</button>
+        </div>
+        <div style="padding-block:0.2em">
+            <button style="--_clr-icon-fg: var(--clr-body)">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#pen-solid"></use>
+                </svg>
+                <span>Blank button</span>
+            </button>
+            <button class="primary">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#plus-solid"></use>
+                </svg>
+                <span>Primary Button</span>
+            </button>
+            <button class="secondary">
+                <svg aria-hidden="true">
+                    <use xlink:href="sprites.svg#xmark-solid"></use>
+                </svg>
+                Secondary Button
+            </button>
+            <button type="button" class="default">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#trash-solid"></use>
+                </svg>
+                Default Button
+            </button>
+        </div>
+
+        <div style="padding-block:0.2em">
+            <button style="--_clr-icon-fg: var(--clr-body); --size:2em;">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#pen-solid"></use>
+                </svg>
+                <span>Blank button</span>
+            </button>
+            <button class="primary">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#plus-solid"></use>
+                </svg>
+                <span>Primary Button</span>
+            </button>
+            <button class="secondary">
+                <svg aria-hidden="true">
+                    <use xlink:href="sprites.svg#xmark-solid"></use>
+                </svg>
+                Secondary Button
+            </button>
+            <button type="button" class="default">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#trash-solid"></use>
+                </svg>
+                Default Button
+            </button>
+        </div>
+
+        <div style="padding-block:0.2em">
+            <button class="link">Link Blank button</button>
+            <button class="primary link">Link Primary Button</button>
+            <button class="secondary link">Link Secondary Button</button>
+            <button class="default link">Link Default Button</button>
+        </div>
+
+    </div>
+    <div class="card-footer">
+        foot
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-header">
+        Pagination
+    </div>
+    <div class="card-body">
+        <div>
+            Pagination:
+            <div class="pagination">
+                <ul>
+                    <li class="mobile"><a href="#">1</a></li>
+                    <li class="mobile"><a href="#">&Lang; </a></li>
+                    <li class="mobile"><a href="#">&langle;</a></li>
+                    <li><a href="#">6</a></li>
+                    <li><a href="#">7</a></li>
+                    <li class="mobile"><a class="active" href="#">8</a></li>
+                    <li><a href="#">9</a></li>
+                    <li><a href="#">10</a></li>
+                    <li class="mobile"><a href="#">&rangle; </a></li>
+                    <li class="mobile"><a href="#">&Rang;</a></li>
+                    <li class="mobile"><a href="#">100</a></li>
+                </ul>
+            </div>
+            <div class="pagination">
+                <ul>
+                    <li class="mobile"><a href="#">1</a></li>
+                    <li class="mobile"><a href="#">&Lang; </a></li>
+                    <li class="mobile"><a href="#">&langle;</a></li>
+                    <li><a class="active" style="--radius: 1vh" href="#">6</a></li>
+                    <li><a href="#">7</a></li>
+                    <li class="mobile"><a class="active" style="--radius: 50vh" href="#">8</a></li>
+                    <li><a href="#">9</a></li>
+                    <li><a class="active" style="--radius: 0.5rem" href="#">10</a></li>
+                    <li class="mobile"><a href="#">&rangle; </a></li>
+                    <li class="mobile"><a href="#">&Rang;</a></li>
+                    <li class="mobile"><a href="#">100</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        foot
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Table</div>
+    <div class="card-body">
+        <table class="mobile-col-2 mobile-col-5 mobile-col-6" style="--_clr-icon-fg: var(--clr-accent);">
+            <thead>
+                <tr>
+                    <th>
+                        <button type="button" class="default no-border" title="Search">
+                            <label for="opensearch1">
+                                <svg class="icon">
+                                    <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                                </svg>
+                                <input type="checkbox" id="opensearch1">
+                            </label>
+                        </button>
+                        <a>Header 1</a>
+                        <div class="search">
+                            <input type="text" placeholder="Search Header 1">
+                        </div>
+                    </th>
+                    <th>
+                        <button type="button" class="default no-border" title="Search">
+                            <label for="opensearch2">
+                                <svg class="icon">
+                                    <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                                </svg>
+                                <input type="checkbox" id="opensearch2">
+                            </label>
+                        </button>
+                        <a>Header 2</a>
+                        <div class="search">
+                            <input type="text" placeholder="Search Header 2">
+                        </div>
+                    </th>
+                    <th>
+                        <button type="button" class="default no-border" title="Search">
+                            <label for="opensearch3">
+                                <svg class="icon">
+                                    <use xlink:href="sprites.svg#bars-solid"></use>
+                                </svg>
+                                <input type="checkbox" id="opensearch3">
+                            </label>
+                        </button>
+                        <a>Header 3</a>
+                        <div class="search">
+                            <input type="text" placeholder="Search Header 3">
+                        </div>
+                    </th>
+                    <th>
+                        <button type="button" class="default no-border" title="Search">
+                            <label for="opensearch4">
+                                <svg class="icon">
+                                    <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                                </svg>
+                                <input type="checkbox" id="opensearch4">
+                            </label>
+                        </button>
+                        <a>Header 4</a>
+                        <div class="search">
+                            <input type="text" placeholder="Search Header 4">
+                        </div>
+                    </th>
+                    <th>
+                        <button type="button" class="default no-border" title="Search">
+                            <label for="opensearch5">
+                                <svg class="icon">
+                                    <use xlink:href="sprites.svg#bars-solid"></use>
+                                </svg>
+                                <input type="checkbox" id="opensearch5">
+                            </label>
+                        </button>
+                        <a>Header 5</a>
+                        <div class="search">
+                            <input type="text" placeholder="Search Header 5">
+                        </div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, rerum?</td>
+                    <td>Lorem ipsum dolor sit amet.</td>
+                    <td>Cell 4</td>
+                    <td>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                            <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                        </svg>
+                        <button>
+                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                                <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                            </svg>
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td></td>
+                    <td></td>
+                    <td>Cell 4</td>
+                    <td>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                            <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                        </svg>
+                        <button>
+                            <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                                <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                            </svg>
+                        </button>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header">Table</div>
+    <div class="card-body">
+        <table class="mobile-col-2 mobile-col-5 mobile-col-6" style="--_clr-icon-fg: var(--clr-accent);">
+            <tr>
+                <th>Header 1 </th>
+                <th>Header 2 </th>
+                <th>Header 3</th>
+                <th>Header 4</th>
+                <th>Header 5</th>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                        <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                    </svg>
+                    <button>
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                            <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                        </svg>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                        <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                    </svg>
+                </td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                        <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                    </svg>
+                </td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>
+                    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
+                        <path d="M1.41 0l-1.41 1.41.72.72 1.78 1.81-1.78 1.78-.72.69 1.41 1.44.72-.72 1.81-1.81 1.78 1.81.69.72 1.44-1.44-.72-.69-1.81-1.78 1.81-1.81.72-.72-1.44-1.41-.69.72-1.78 1.78-1.81-1.78-.72-.72z" />
+                    </svg>
+                </td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-body">
+        <table class="mobile-col-1-3">
+            <tr>
+                <th>Header 1</th>
+                <th>Header 2</th>
+                <th>Header 3</th>
+                <th>Header 4</th>
+                <th>Header 5</th>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+            <tr>
+                <td>The husband is from etiosa local govet</td>
+                <td>Wife is sandy</td>
+                <td>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </td>
+                <td>Cell 4</td>
+                <td>Cell 5</td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div class="card-secondary">
+    <div class="card-header">Grid Table</div>
+    <div class="card-body">
+        <div class="grid-table" style="--_col-num: 5">
+            <div class="grid-row-wrapper">
+                <div class="grid-th">
+                    <button type="button" class="default no-border" title="Search">
+                        <label for="opensearchHeader1">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                            </svg>
+                            <input type="checkbox" id="opensearchHeader1">
+                        </label>
+                    </button>
+                    <a>Header 1</a>
+                    <div class="search">
+                        <input type="text" placeholder="Search Header 1">
+                    </div>
+                </div>
+                <div class="grid-th">
+                    <button type="button" class="default no-border" title="Search">
+                        <label for="opensearchHeader2">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                            </svg>
+                            <input type="checkbox" id="opensearchHeader2">
+                        </label>
+                    </button>
+                    <a>Header 2</a>
+                    <div class="search">
+                        <input type="text" placeholder="Search Header 2">
+                    </div>
+                </div>
+                <div class="grid-th">
+                    <button type="button" class="default no-border" title="Search">
+                        <label for="opensearchHeader3">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                            </svg>
+                            <input type="checkbox" id="opensearchHeader3">
+                        </label>
+                    </button>
+                    <a>Header 3</a>
+                    <div class="search">
+                        <input type="text" placeholder="Search Header 3">
+                    </div>
+                </div>
+                <div class="grid-th">
+                    <button type="button" class="default no-border" title="Search">
+                        <label for="opensearchHeader4">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                            </svg>
+                            <input type="checkbox" id="opensearchHeader4">
+                        </label>
+                    </button>
+                    <a>Header 4</a>
+                    <div class="search">
+                        <input type="text" placeholder="Search Header 4">
+                    </div>
+                </div>
+                <div class="grid-th">
+                    <button type="button" class="default no-border" title="Search">
+                        <label for="opensearchHeader5">
+                            <svg class="icon">
+                                <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+                            </svg>
+                            <input type="checkbox" id="opensearchHeader5">
+                        </label>
+                    </button>
+                    <a>Header 5</a>
+                    <div class="search">
+                        <input type="text" placeholder="Search Header 5">
+                    </div>
+                </div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div>1</div>
+                <div>Wife is sandy</div>
+                <div>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </div>
+                <div>Cell 4</div>
+                <div>Cell 5</div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div>2</div>
+                <div>Wife is sandy</div>
+                <div>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </div>
+                <div>Cell 4</div>
+                <div>Cell 5</div>
+            </div>
+            <div class="grid-row-wrapper">
+                <div>3</div>
+                <div>Wife is sandy</div>
+                <div>
+                    Cell Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores, iure
+                    nostrum expedita id soluta, est eaque rem et, molestiae quas nesciunt aperiam
+                    debitis eius earum ea ipsam laboriosam modi animi.
+                </div>
+                <div>Cell 4</div>
+                <div>Cell 5</div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <div class="item-selector">
+            <div class="item">item 1 description</div>
+            <div class="selector"><input type="checkbox" name="item1" id="item1" title="item1"></div>
+            <div class="item">item 2 description for apple pie</div>
+            <div class="selector"><input type="checkbox" name="item2" id="item2" title="item2"></div>
+            <div class="item">item 3 description</div>
+            <div class="selector"><input type="checkbox" name="item3" id="item3" title="item3"></div>
+            <div class="item"></div>
+            <div class="selector"><button type="button" class="primary">Submit</button></div>
+        </div>
+    </div>
+</div>
+
+<div class="card-secondary card-body">
+    <div class="flex-group">
+        <div class="card">
+            <img src="" alt="" style="width: 100%; height: 200px; background-color: rgb(115, 84, 84);">
+            <div class="card-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Aspernatur incidunt sint quos ullam aliquid praesentium odit, nulla corrupti ratione
+                perferendis! Porro aliquid quas, quisquam temporibus atque voluptatibus facere
+                assumenda ullam!
+            </div>
+        </div>
+        <div class="card-secondary">
+            <div class="card-body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
+                exercitationem, reiciendis excepturi fugit praesentium eum vel explicabo expedita
+                accusamus debitis perferendis veritatis nisi! Repellat distinctio quas officiis?
+                Explicabo, eos mollitia.
+            </div>
+            <img src="" alt="" style="width: 100%; height: 200px; background-color: rgb(115, 84, 84);">
+
+        </div>
+        <div class="card">
+            <div class="card-body">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam
+                voluptatum, amet alias dicta hic perferendis aliquid.
+            </div>
+            <img src="" alt="" style="width: 100%; height: 200px; background-color: rgb(115, 84, 84);">
+            <div class="card-body">
+                Accusantium, magni earum doloremque quibusdam odio, consequatur mollitia excepturi
+                omnis enim libero assumenda! Corporis.
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="card-secondary  card-body">
+    <form action="/submit_form" method="POST">
+        <div class="form-row">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+
+        <div class="form-row">
+            <label for="name">Disabled Name</label>
+            <input type="text" id="disabledname" name="disabledname" value="Disabled Name" required disabled>
+        </div>
+
+        <div class="form-row">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+
+        <div class="form-row">
+            <label>Gender</label>
+            <div class="form-row-col-2">
+                <div>
+                    <input type="radio" id="male" name="gender" value="male" required>
+                    <label for="male">Male</label>
+                </div>
+                <div>
+                    <input type="radio" id="female" name="gender" value="female" required>
+                    <label for="female">Female</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <label>Interests</label>
+            <div class="form-row-col-2">
+                <div>
+                    <input type="checkbox" id="reading" name="interests" value="reading">
+                    <label for="reading">Reading</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="gaming" name="interests" value="gaming">
+                    <label for="gaming">Gaming</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="cooking" name="interests" value="cooking">
+                    <label for="cooking">Cooking</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <label for="comments">Comments of governors</label>
+            <textarea id="comments" name="comments" rows="4" cols="40"></textarea>
+        </div>
+
+        <div class="form-row">
+            <label for="country">Country</label>
+            <select id="country" name="country">
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+                <option value="uk">UK</option>
+                <option value="germany">Germany</option>
+                <option value="australia">Australia</option>
+                <!-- Add more options as needed -->
+            </select>
+        </div>
+
+        <div class="form-row">
+            <div></div>
+            <div>
+                <button class="primary" type="submit">Submit</button>
+                <button class="default" type="reset">Reset</button>
+                <button class="secondary" type="button">Cancel</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+@code {
+
+
+}

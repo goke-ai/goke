@@ -1,0 +1,414 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "ibo_bib",
+    "name": "Hosiya",
+    "commonName": "Hosiya",
+    "title": "Hosiya",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "be95de0597e0aba372c720c5d9f574ebf665cd1b20944f3b30f6ff1fb3b64cf2",
+    "firstChapterApiLink": "/api/ibo_bib/HOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe ọmụma megide Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "“Nụrụnụ nke a, unu ndị nchụaja!",
+            "poem": 1
+          },
+          {
+            "text": "Geenụ ntị, unu ụlọ Izrel!",
+            "poem": 2
+          },
+          {
+            "text": "Geenụ ntị, unu ndị ezinaụlọ eze.",
+            "poem": 1
+          },
+          {
+            "text": "Nʼihi na ọ bụ unu ka ikpe ahụ gbasara.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na unu abụrụla ihe ị maa nʼọnya na Mizpa,",
+            "poem": 1
+          },
+          {
+            "text": "na ụgbụ agbasara nʼelu Taboa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ndị nnupu isi ahụ abamiela ime nʼigbu mmadụ,",
+            "poem": 1
+          },
+          {
+            "text": "aga m ata ha niile ahụhụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Amaara m ihe niile gbasara Ifrem,",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịkwaghị ihe zoro ezo banyere Izrel nʼebe m nọ.",
+            "poem": 2
+          },
+          {
+            "text": "Gị Ifrem, ugbu a ị gbawala akwụna;",
+            "poem": 1
+          },
+          {
+            "text": "gị Izrel, emerụọkwala gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "“Omume ha agaghị ekwe",
+            "poem": 1
+          },
+          {
+            "text": "ka ha laghachikwute Chineke ha,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na mmụọ nke ịkwa iko ewerela ute biri nʼime ha,",
+            "poem": 1
+          },
+          {
+            "text": "ha amaghịkwa Onyenwe anyị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Mpako niile nke Izrel na-agba ama megide ha,",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụladị Izrel na Ifrem na-asọ ngọngọ nʼime mmehie ha,",
+            "poem": 2
+          },
+          {
+            "text": "Juda, nʼonwe ya, soo ha na-asọ ngọngọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Mgbe ha ga-eji igwe ewu na atụrụ ha na igwe ehi ha,",
+            "poem": 1
+          },
+          {
+            "text": "gaa ịchọ Onyenwe anyị,",
+            "poem": 2
+          },
+          {
+            "text": "ha agaghị achọta ya.",
+            "poem": 1
+          },
+          {
+            "text": "Nʼihi na o sitela nʼebe ha nọ wezuga onwe ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ha bụ ndị na-ekwesighị ntụkwasị obi nye Onyenwe anyị.",
+            "poem": 1
+          },
+          {
+            "text": "Ha mụrụ ụmụ a kwatara nʼiko.",
+            "poem": 2
+          },
+          {
+            "text": "Ugbu a, mmemme ọnwa ọhụrụ ha",
+            "poem": 1
+          },
+          {
+            "text": "ga-eripịa ha na ala ubi ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "“Fụọ opi ike na Gibea,",
+            "poem": 1
+          },
+          {
+            "text": "fụkwaa mpi anụ na Rema.",
+            "poem": 2
+          },
+          {
+            "text": "Tie mkpu agha na Bet-Aven.",
+            "poem": 1
+          },
+          {
+            "text": "Lee anya nʼazụ gị, Benjamin.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "A ga-ebibi Ifrem kpamkpam",
+            "poem": 1
+          },
+          {
+            "text": "nʼụbọchị ahụ m ga-ata ha ahụhụ.",
+            "poem": 2
+          },
+          {
+            "noteId": 815
+          },
+          {
+            "text": "Nʼetiti ebo nke Izrel niile,",
+            "poem": 1
+          },
+          {
+            "text": "ka m na-ekwusa ka amara na ọ bụ okwu kwesiri ntụkwasị obi.",
+            "poem": 2
+          },
+          {
+            "noteId": 816
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ndị ndu Juda adịla ka ndị ahụ",
+            "poem": 1
+          },
+          {
+            "text": "na-ewezuga oke ala,",
+            "poem": 2
+          },
+          {
+            "text": "aga m awụkwasị ha iwe m",
+            "poem": 1
+          },
+          {
+            "text": "dịka uju mmiri ozuzo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Ifrem bụ onye a na-emegbu emegbu,",
+            "poem": 1
+          },
+          {
+            "text": "onye e ji ike na-azọpịa,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ọ kpacha anya na-achụso ihe efu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Adị m ka nla nye Ifrem,",
+            "poem": 1
+          },
+          {
+            "text": "dịkwa ka ihe na-eweta ire ure dịịrị ndị Juda.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "“Mgbe Ifrem hụrụ ụdị ọrịa ọ na-arịa,",
+            "poem": 1
+          },
+          {
+            "text": "Juda ahụkwa ọnya dị ya nʼahụ,",
+            "poem": 2
+          },
+          {
+            "text": "mgbe ahụ Ifrem gakwuru ndị Asịrịa,",
+            "poem": 1
+          },
+          {
+            "text": "ma zigakwara eze ukwu ahụ ozi.",
+            "poem": 2
+          },
+          {
+            "text": "Ma ọ pụghị ịgwọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "maọbụ gwọọ ọnya gị niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Nʼihi na-aga m adị ka ọdụm nye Ifrem",
+            "poem": 1
+          },
+          {
+            "text": "dịkwa ka nwa ọdụm nye Juda.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m adọkasị anụ ahụ ha ma hapụ ha pụọ.",
+            "poem": 1
+          },
+          {
+            "text": "Aga m ebupụ ha pụọ, na-enweghị onye ga-abịa ịzọpụta ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Aga m alaghachi azụ nʼọnọdụ m,",
+            "poem": 1
+          },
+          {
+            "text": "ruo mgbe ha kweere na ikpe mara ha,",
+            "poem": 2
+          },
+          {
+            "text": "ma chọọ ihu m;",
+            "poem": 2
+          },
+          {
+            "text": "nʼọnọdụ mmekpa ahụ ha,",
+            "poem": 1
+          },
+          {
+            "text": "ha ga-achọsi m ike.”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 815,
+        "caller": "+",
+        "text": "Maọbụ, nʼụbọchị ntaramahụhụ",
+        "reference": {
+          "chapter": 5,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 816,
+        "caller": "+",
+        "text": "Ya bụ, okwu nʼaghaghị imezu",
+        "reference": {
+          "chapter": 5,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/HOS/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/HOS/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/HOS/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

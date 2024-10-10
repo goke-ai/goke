@@ -1,0 +1,200 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "ibo_bib",
+    "name": "Mkpughe",
+    "commonName": "Mkpughe",
+    "title": "Mkpughe",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "dfefef3cfcaa9573108355d9ba3837388620df1f01ef2f2fb8a32916a3bd58a5",
+    "firstChapterApiLink": "/api/ibo_bib/REV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/REV/22.json",
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Akwụkwọ kọwara ihe na-aga ime"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, ahụrụ m akwụkwọ e dere ihe ihu na azụ, nke a fụkọrọ afụkọ, kakwasịkwa ya akara asaa, ka ọ dị nʼaka nri onye ahụ nọkwasịrị nʼelu ocheeze ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ahụkwara m otu mmụọ ozi dị ukwuu, ka ọ na-ekwusa okwu nʼoke olu na-asị, “Ọ bụ onye kwesiri ịnyakapụ akara ndị a ma saghee akwụkwọ ahụ a fụkọrọ afụkọ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma ọ dịghị onye ọbụla pụrụ ịsaghe akwụkwọ ahụ maọbụ ilenye ya anya a hụrụ nʼeluigwe, maọbụ nʼụwa, maọbụ nʼokpuru ụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Akwara m akwa nʼobi ilu nʼihi na ọ dịghị onye ọbụla a hụrụ tozuru oke ịsaghe akwụkwọ ahụ maọbụ ileba anya nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, otu onye nʼime ndị okenye ahụ gwara m sị, “Akwala akwa. Lee, Ọdụm ebo Juda, bụ mgbọrọgwụ Devid, emeriela. Ọ pụrụ ịnyakapụ akara asaa ahụ ma saghekwaa akwụkwọ ahụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, ahụrụ m Nwa Atụrụ na-eguzo nʼetiti ocheeze ahụ dịka e gburu ya egbu. Anụ anọ ahụ dị ndụ na ndị okenye ahụ gbara ya gburugburu. O nwekwara mpi asaa na anya asaa, nke bụ mmụọ asaa nke Chineke, ndị e zipụrụ nʼime ụwa niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọ gara nʼihu were akwụkwọ ahụ site nʼaka nri onye ahụ na-anọkwasị nʼelu ocheeze ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ọ weere ya, anụ anọ ahụ dị ndụ na iri ndị okenye abụọ na anọ ndị ahụ dara nʼala nʼihu Nwa Atụrụ ahụ. Ha niile nʼotu nʼotu jikwa ụbọ akwara na efere e ji ọlaedo mee, nke ihe jupụtara nʼime ha bụ ụda na-esi isi ụtọ, bụ ekpere ndị nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha na-abụ abụ ọhụrụ na-asị,",
+          {
+            "text": "“I kwesiri ịnara akwụkwọ ahụ",
+            "poem": 1
+          },
+          {
+            "text": "na ịnyakapụ akara ya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na e gburu gị,",
+            "poem": 1
+          },
+          {
+            "text": "ma site nʼọbara gị, ị gbataara Chineke ndị mmadụ,",
+            "poem": 2
+          },
+          {
+            "text": "ndị si nʼebo niile, na asụsụ niile, na ndị niile, na mba niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ị chịkọtaala ha, mee ha otu alaeze na ndị nchụaja na-ejere Chineke anyị ozi.",
+            "poem": 1
+          },
+          {
+            "text": "Ha ga-achịkwa achị nʼụwa.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ, elere m anya, hụ ma nụkwa olu nke ọtụtụ ndị mmụọ ozi, nke ọnụọgụgụ ha ruru puku kwụrụ puku, na nde kwụrụ nde. Ha gbara ocheeze ahụ gburugburu, na anụ anọ ahụ dị ndụ na ndị okenye ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ha na-abụ abụ nʼoke olu na-asị,",
+          {
+            "text": "“O kwesiri bụ Nwa Atụrụ ahụ e gburu egbu",
+            "poem": 1
+          },
+          {
+            "text": "ịnara ike na akụnụba na amamihe na ike",
+            "poem": 2
+          },
+          {
+            "text": "na nsọpụrụ na otuto na ngọzị.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, anụrụ m ka ihe niile nọ nʼeluigwe na ndị nọ nʼụwa na ndị nọ nʼokpuru ụwa, na ndị nọ nʼokpuru oke osimiri na-eti mkpu abụ na-asị,",
+          {
+            "text": "“Ka ngọzị, na nsọpụrụ niile, na otuto niile, na ike niile",
+            "poem": 1
+          },
+          {
+            "text": "dịrị onye ahụ na-anọkwasị nʼocheeze ahụ, na Nwa Atụrụ ahụ",
+            "poem": 2
+          },
+          "ruo mgbe niile ebighị ebi!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Anụ anọ ahụ dị ndụ zakwara sị, “Amen!” Ndị okenye ahụ dakwara nʼala nʼihu ya kpọọ isiala nye ya."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/REV/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/REV/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/REV/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

@@ -1,0 +1,174 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1TH",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Tesalonaịka",
+    "commonName": "1 Ndị Tesalonaịka",
+    "title": "1 Ndị Tesalonaịka",
+    "order": 52,
+    "numberOfChapters": 5,
+    "sha256": "c0d190223b8602ff2b097bf657bfe07b5fe2b12ea89f150b541c1e39c6c23b05",
+    "firstChapterApiLink": "/api/ibo_bib/1TH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1TH/5.json",
+    "totalNumberOfVerses": 89
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Akwụkwọ ozi a si nʼaka Pọl, Saịlas",
+          {
+            "noteId": 190
+          },
+          "na Timoti.",
+          {
+            "lineBreak": true
+          },
+          "Na-abịara nzukọ dị na Tesalonaịka, ndị e jikọtara ha na Chineke Nna, na Onyenwe anyị Jisọs Kraịst.",
+          {
+            "lineBreak": true
+          },
+          "Ka amara na udo dịrị unu."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Inye ekele nʼihi okwukwe ndị Tesalonaịka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Anyị na-ekele Chineke ekele mgbe niile, na-echetakwa unu nʼekpere anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe niile ka anyị na-echeta nʼekpere nye Chineke bụ Nna, ihe gbasara ọrụ unu nke sitere nʼokwukwe, ya na ịrụsị ọrụ ike unu nke sitere nʼịhụnanya, na iguzosi ike unu nke sitere nʼolileanya unu nwere nʼOnyenwe anyị Jisọs Kraịst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ụmụnna anyị, anyị maara na Chineke hụrụ unu nʼanya nke ukwuu, họpụta unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼihi na ọbụghị naanị nke okwu ọnụ ka oziọma anyị rutere unu, kama ọ bụkwa nʼike, na nʼime Mmụọ Nsọ nakwa mmetụta nke dị omimi. Unu maara ụdị ndụ",
+          {
+            "noteId": 191
+          },
+          "anyị biri nʼetiti unu nʼihi unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nke a mere unu ji bụrụ ndị na-eṅomi anyị na Onyenwe anyị. Nʼihi na unu jiri ọṅụ nke Mmụọ Nsọ na-enye nabata oziọma ahụ, nʼagbanyeghị ọtụtụ ahụhụ dị ukwuu nke o wetaara unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼụzọ dị otu a, unu ghọrọ ihe ilere anya nye ndị niile kwere ekwe nọ na Masidonia na Akaịa.",
+          {
+            "noteId": 192
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ugbu a, e sitela na ndụ unu mee ka oziọma Onyenwe anyị gbasaa gabiga Masidonia na Akaịa. Nʼihi na a na-anụ ihe banyere okwukwe unu nwere na Chineke nʼebe niile. Ya mere, ọ dịkwaghị mkpa ka anyị kwuo ihe banyere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼihi na ha onwe ha na-ebu ụzọ gwa anyị ihe banyere nnabata unu nabatara anyị, na otu unu si site nʼikpere arụsị tụgharịa, bido ife Chineke dị ndụ, onye bụkwa ezi Chineke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "na i chere Ọkpara ya onye ga-esi nʼeluigwe, onye o sitere na ndị nwụrụ anwụ kulite, Jisọs, onye na-anapụta anyị nʼiwe nke na-abịa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 190,
+        "caller": "+",
+        "text": "Nʼasụsụ Griik Silvenọs bụ otu ọzọ e si akpọ Saịlas.",
+        "reference": {
+          "chapter": 1,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 191,
+        "caller": "+",
+        "text": "Ụdị mmadụ anyị bụ nʼetiti unu",
+        "reference": {
+          "chapter": 1,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 192,
+        "caller": "+",
+        "text": "Akaịa bụkwa Griis.",
+        "reference": {
+          "chapter": 1,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1TH/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1TH/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/COL/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

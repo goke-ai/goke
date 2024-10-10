@@ -1,0 +1,341 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Eze",
+    "commonName": "2 Ndị Eze",
+    "title": "2 Ndị Eze",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "ef5236a4bf8f2ef841995e04d82bf4f37b3f368a02d2b12f0ec9671c38f7b59d",
+    "firstChapterApiLink": "/api/ibo_bib/2KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2KI/25.json",
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nlọghachi nwanyị Shunem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ịlaisha gwara nwanyị ahụ o mere ka nwa ya si nʼọnwụ bilie okwu sị ya, “Bilie, gị na ezinaụlọ gị, gaa nʼobodo ọzọ ebe unu ga-anọ dịka ọbịa nʼihi na Onyenwe anyị ekwuola na oke ụnwụ ga-adakwasị ala Izrel afọ asaa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nwanyị ahụ mere dịka onye nke Chineke gwara ya, o biliri, ya na ezinaụlọ ya gaa biri nʼala ndị Filistia",
+          {
+            "noteId": 255
+          },
+          "afọ asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ụnwụ ahụ gwụsịrị nʼafọ nke asaa, o si nʼala ndị Filistia lọta nʼIzrel. Mgbe ọ lọtara, o jekwuuru eze ka o nyere ya aka inwetaghachi ụlọ ya na ala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe nwanyị ahụ bịakwutere eze, eze nọ na-agwa Gehazi bụ onye na-ejere onye nke Chineke ozi okwu sị ya, “Biko, kọọrọ m akụkọ ihe ukwu niile Ịlaisha mere.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe Gehazi na-akọrọ eze otu Ịlaisha si mee ka nwantakịrị nwụrụ anwụ dị ndụ ọzọ, nwanyị ahụ, onye bụ nne nwantakịrị ahụ, batara nʼime ụlọeze. Mgbe ahụ, Gehazi kwuru sị, “Onyenwe m eze, onye a bụ nwanyị ahụ, leekwa nwa ya nwoke, onye Ịlaisha mere ka ọ dị ndụ ọzọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Eze jụrụ nwanyị ahụ ajụjụ sị ya, “Ọ bụ eziokwu?” Nwanyị ahụ kọọrọ eze akụkọ ihe niile mere. Mgbe ahụ, eze dunyere ya otu onyeisi nʼime ndị ozi ya ka o nyere ya aka inwetaghachi ihe ya niile, ya na ụgwọ ruru ya nʼihi mkpụrụ ubi ya niile ha ghọrọ mgbe ahụ o bi nʼala ndị Filistia."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Hazael egbuo Ben-Hadad"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ihe ndị a gasịrị Ịlaisha gara Damaskọs, isi obodo ndị Siria. Nʼoge a, Ben-Hadad eze Aram, na-arịa ọrịa. “A gara gwa eze na onye nke Chineke abịala nʼebe ahụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe eze nụrụ ya, ọ kpọrọ Hazael sị ya, “Were onyinye ịnata ihuọma nʼaka gị wegara onye nke Chineke, site nʼaka ya jụta Onyenwe anyị ase. Jụọ ya, ‘M ga-esi nʼọrịa a bilie?’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Hazael weere iri ịnyịnya kamel anọ buru ezi ihe niile si nʼala Damaskọs,",
+          {
+            "noteId": 256
+          },
+          "wetara Ịlaisha onyinye ndị a sị ya, “Nwa gị Ben-Hadad, eze Aram, zitere ka m jụọ gị sị, ‘M ga-esi nʼọrịa a bilie?’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ịlaisha zara sị ya, “Laa, gaa gwa ya sị ya, ‘Ị ga-esi nʼọrịa bilie.’ Ma Onyenwe anyị egosila m na, nʼezie, ọ ga-anwụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe Ịlaisha nọ na-ekwu okwu a, o legidere Hazael anya nʼihu tutu ruo mgbe ihere mere ya. Mgbe ahụ, onye nke Chineke kwara akwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ahụ, Hazael jụrụ Ịlaisha ajụjụ sị, “Ọ bụ gịnị mere onyenwe m ji akwa akwa?” Ịlaisha zara sị ya, “Nʼihi na amaara m ihe ọjọọ ị ga-eme ụmụ Izrel nʼoge dị nʼihu. Ị ga-akpọ obodo niile ha e wusiri ike ọkụ, jiri mma agha gbuo ụmụ okorobịa ha. Ị ga-atụpịa ụmụntakịrị na-aṅụ ara, bọwakwaa afọ ndị inyom dị ime.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Hazael sịrị, “Olee otu ọrụ gị, bụ nkịta efu, ga-esi nwee ike imezu ihe ukwuu a?” Ịlaisha zara, “Onyenwe anyị egosila m na ị ga-abụ eze Aram.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe Hazael, si nʼebe Ịlaisha nọ laa, ọ bịakwutere nna ya ukwu. Mgbe Ben-Hadad jụrụ ya sị, “Gịnị ka Ịlaisha gwara gị?” Hazael zara sị, “Ọ gwara m na ị ga-esi nʼọrịa bilie.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma nʼechi ya, Hazael chịịrị akwa na-egbo oyi, banye ya na mmiri jiri ya baa nʼebe eze dina, gbasaa ya nʼihu eze, tutu ruo mgbe ọ nwụrụ. Emesịa, Hazael ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jehoram eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼafọ nke ise nke ọchịchị Joram nwa Ehab eze Izrel, mgbe Jehoshafat bụ eze Juda, ka Jehoram nwa Jehoshafat malitere ọchịchị ya dịka eze Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọ dị iri afọ atọ na abụọ mgbe ọ malitere ịbụ eze, ọ chịrị afọ asatọ na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "O soro ụzọ ndị eze Izrel dịka ụlọ Ehab mere, nʼihi na ọ lụrụ ada Ehab. O mere ihe dị njọ nʼanya Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma nʼagbanyeghị nke a, nʼihi ohu ya bụ Devid Onyenwe anyị achọghị ibibi Juda. Nʼihi na o kwere nkwa ime ka oriọna dịịrị Devid na ụmụ ụmụ ruo mgbe ebighị ebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nʼoge Jehoram bụ eze, ka Edọm si nʼokpuru Juda nupu isi, họpụtara onwe ha eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere, Jehoram",
+          {
+            "noteId": 257
+          },
+          "duuru ụgbọ agha ya niile gaa nʼobodo Zaịa. O biliri nʼabalị tigbuo ndị Edọm ahụ gbara ya na ndị ọchịagha ụgbọ agha ya gburugburu; ma ndị agha ya gbaghachiri azụ, laa nʼụlọ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ya mere, Edọm ka na-enupu isi megide Juda, ruo taa. Obodo Libna nupukwara isi nʼotu oge ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Akụkọ ihe niile Jehoram mere, e deghị ha nʼakwụkwọ akụkọ ihe ndị eze Juda mere nʼụbọchị ndụ ha?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Joram sooro ndị nna nna ya ha dina nʼọnwụ, e lie ya nʼebe e liri nna ya ha nʼobodo Devid. Ahazaya nwa ya ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ahazaya eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nʼafọ nke iri na abụọ nke ọchịchị Joram nwa Ehab, bụ eze Izrel, ka Ahazaya nwa Jehoram, bụ eze Juda malitere ịchị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ahazaya gbara iri afọ abụọ na abụọ mgbe ọ malitere ịbụ eze, ọ chịrị otu afọ na Jerusalem. Aha nne ya bụ Atalaya,",
+          {
+            "noteId": 258
+          },
+          "nwa nwa Omri, eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "O soro ụzọ niile nke ndị ezinaụlọ Ehab, mee ihe dị njọ nʼanya Onyenwe anyị dịka ezinaụlọ Ehab mere, nʼihi na ọ lụrụ nwanyị si nʼezinaụlọ Ehab."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ahazaya sooro Joram nwa Ehab, gaa ibuso Hazael eze Aram",
+          {
+            "noteId": 259
+          },
+          "agha na Ramọt Gilead. Ndị Aram merụrụ Joram ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ya mere, eze Joram lọghachitere na Jezril, ka a gwọọ ya mmerụ ahụ ndị Aram merụrụ ya na Ramọt, nʼagha nke ya na Hazael eze Aram lụrụ. Mgbe ahụ, Ahazaya nwa Jehoram eze Juda, gara Jezril ileta Joram nwa Ehab, nʼihi na e merụrụ ya ahụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 255,
+        "caller": "+",
+        "text": "Ọ bụghị naanị nʼala Filistia na-emepụta nri karịa ala ugwu ugwu Izrel, kama ndị agha Siria adịghị e buso ha agha mgbe mgbe, dịka ha na-eme ndị Izrel.",
+        "reference": {
+          "chapter": 8,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 256,
+        "caller": "+",
+        "text": "Damaskọs, bụ isi obodo dị mkpa ebe a na-azụ ahịa, nke dị nʼetiti mba Ijipt, na Eshịa nke mpaghara Tọki na Mesopotamịa.",
+        "reference": {
+          "chapter": 8,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 257,
+        "caller": "+",
+        "text": "Joram, nke a bụ ịkpọbiri aha a na nkenke",
+        "reference": {
+          "chapter": 8,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 258,
+        "caller": "+",
+        "text": "Atalaya, bụ nwunye Joram, bụrụkwa nwa eze Ehab, onye Jezebel mụrụ ya. 2Ih 21:6",
+        "reference": {
+          "chapter": 8,
+          "verse": 26
+        }
+      },
+      {
+        "noteId": 259,
+        "caller": "+",
+        "text": "Maọbụ, Siria",
+        "reference": {
+          "chapter": 8,
+          "verse": 28
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2KI/8.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2KI/9.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/7.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

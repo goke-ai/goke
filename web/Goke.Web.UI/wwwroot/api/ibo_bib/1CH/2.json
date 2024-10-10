@@ -1,0 +1,491 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "ibo_bib",
+    "name": "1 Ihe E Mere",
+    "commonName": "1 Ihe E Mere",
+    "title": "1 Ihe e mere",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "6f785bd6ba0698a2222fc70c06769c18b5f67b2229bf615cd8d7c99368b4c3ac",
+    "firstChapterApiLink": "/api/ibo_bib/1CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1CH/29.json",
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Izrel mụrụ ụmụ ndị ikom ndị a: Ruben, Simiọn, Livayị, Juda, Isaka, na Zebụlọn,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Dan, Josef, Benjamin, Naftalị, Gad na Asha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị Juda"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ruokwa ụmụ Hezrọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Juda mụtara ụmụ ndị ikom atọ site na nwunye ya Bat-shua, onye Kenan. Aha ha bụ Ịa, Onan na Shela. Ma Ịa ọkpara Juda bụ nnọọ mmadụ ọjọọ nʼihu Onyenwe anyị, nʼihi ya, Onyenwe anyị gburu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Juda mụtakwara ụmụ nwoke abụọ ọzọ, Perez na Zera, site na Tama nwunye nwa ya nwoke. Ụmụ ndị nwoke niile Juda dị ise."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ụmụ ndị ikom Perez bụ, Hezrọn na Hamul."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Zera mụrụ: Zimri, na Etan, na Heman, na Kalkol, na Dara. Ha dị ndị ikom ise nʼọnụọgụgụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ekan nwa Kami, bụ onye ahụ tinyere ndị Izrel na nsogbu, site nʼihe o mere nke gbasara ihe e doro nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Etan mụrụ Azaraya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Hezrọn mụtara Jerameel, Ram na Kaleb."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Ram nwa Hezrọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ram mụrụ Aminadab, Aminadab amụọ Nashọn onyendu a maara ama na Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nashọn mụrụ Salma, Salma amụọ Boaz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Boaz amụta Obed, Obed amụọ Jesi."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nwa nwoke mbụ Jesi mụrụ bụ Eliab; nke abụọ bụ Abinadab, nke atọ bụ Shimea."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nke anọ bụ Netanel, nke ise bụ Radai,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "nke isii Ozem, nke asaa Devid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ mụkwara ụmụ nwanyị abụọ site nʼaka nwunye ya, ndị aha ha bụ Zeruaya na Abigel. Zeruaya mụrụ Abishai, na Joab, na Asahel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Abigel, nwunye Jeta onye Ishmel mụrụ Amasa."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Kaleb nwa Hezrọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Kaleb nwa Hezrọn lụrụ ụmụ nwanyị abụọ, Azuba na Jeriọt. Ọ mụrụ ụmụ ndị ikom ndị a Jesha, Shobab na Adọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe Azuba nwụrụ, Kaleb lụrụ nwunye ọzọ. Aha ya bụ Efrat, onye mụtaara ya Hua."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Hua mụrụ Uri, Uri mụtara Bezalel."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe Hezrọn gbara iri afọ isii, ọ lụrụ ada Makia onye mụtaara ya Segub. Makia bụ nna Gilead."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Segub mụrụ Jaịa, onye chịrị iri obodo abụọ na atọ na Gilead."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma Geshua na Aram dọtara obodo Jaịa nʼagha, dọtakwa Kenat nʼagha, ya na iri obodo nta isii ndị ọzọ gbara ya gburugburu. Ndị a niile bụ ụmụ Makia nna Gilead."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe Hezrọn nwụrụ nʼobodo Kaleb Efrata, Abija nwunye Hezrọn mụtaara ya Ashua, onye bụ nna Tekoa."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jerameel nwa Hezrọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Jerameel ọkpara Hezrọn mụtara Ram, onye bụ ọkpara ya, mụọkwa Buna, na Oren, na Ozem, na Ahija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nwunye Jerameel nke abụọ, aha ya bụ Atara, mụtara Onam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ram ọkpara Jerameel mụtara ụmụ ndị ikom ndị a: Maaz, na Jamin, na Eka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ụmụ Onam mụrụ bụ Shamai, na Jada. Shamai mụkwara Nadab, na Abishua."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Abishua na nwunye ya Abihail mụrụ Aban, na Molid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ụmụ Nadab mụrụ bụ Seled, na Apaim. Seled nwụrụ na-amụtaghị nwa ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma Apaim mụtara Ishi. Ishi mụrụ Sheshan, Sheshan amụtakwa Alai."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Jada nwanne Shamai mụtara ụmụ ndị ikom abụọ, Jeta na Jonatan. Jeta amụtaghị nwa ọbụla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "ma Jonatan mụtara ụmụ ndị ikom abụọ: Pelet na Zaza. Ndị a bụ ụmụ Jerameel."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Sheshan mụtara ọtụtụ ụmụ nwanyị, ma o nweghị nwa nwoke. O nwere otu ohu bụ onye Ijipt, aha ya bụ Jaha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "O weere ada ya nwanyị nye odibo ya bụ Jaha, ka ọ bụrụ nwunye ya. Ọ mụtara ya otu nwa nwoke aha ya bụ Atai."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Atai mụrụ Netan, Netan mụrụ Zabad,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Zabad amụọ Eflal. Nwa Eflal bụ Obed,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "ma Obed mụrụ Jehu. Jehu amụọ Azaraya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Azaraya bụ nna Helez, Helez mụrụ Eleasa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Eleasa mụrụ Sismai, Sismai amụọ Shalum."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Shalum bụ nna Jekamaya, ebe Jekamaya mụrụ Elishama."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ikwu Kaleb"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ụmụ ndị ikom Kaleb nwanne Jerameel bụ Mesha onye bụ ọkpara ya, nna Zif, onye mụrụ Maresha nna Hebrọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Hebrọn mụrụ ndị a: Kora, Tapụọa, Rekem na Shema."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Shema mụrụ Raham, onye bụ nna Jokean. Rekem mụrụ Shamai."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ọkpara Shamai bụ Maon, onye mụrụ Bet Zoa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Efaa, iko nwanyị Kaleb, mụtaara ya Haran, Moza na Gazez. Haran mụtakwara nwa ọ kpọrọ aha ya Gazez."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Jadia mụtara ndị ikom ndị a: Regem, Jotam, Gesham, Pelet, Efaa na Shaaf."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Maaka, iko nwanyị ọzọ Kaleb nwere mụtaara ya ndị a: Sheba na Tiahana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "ọ mụtakwara Shaaf, onye bụ nna Madmanna, Sheva nna Makbena, tinyere Gibea. Aha nwa nwanyị Kaleb mụtara bụ Aksa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ndị a bụ ụmụ Kaleb.",
+          {
+            "lineBreak": true
+          },
+          "Ụmụ Hua, ọkpara Efrata mụrụ bụ, Shobal, nna Kiriat Jearim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Salma nna Betlehem, na Haref, nna Bet-Gadea."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Ụmụ Shobal nna Kiriat Jearim mụrụ bụ Haroe, onye mụrụ ọkara ndị ikwu Menuhot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Ya mụtakwara ndị ikwu Kiriat Jearim, ndị Itra, ndị Put, ndị Shumat na ndị Mishra. Nʼime ndị a ka ndị Zorat na ndị Eshtaol si pụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Salma mụtara ikwu ndị a: Betlehem, ndị Netofa, ndị Atrot Bet Joab, ụfọdụ ndị Manaha na ndị Zoa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ụfọdụ ha bụ ikwu ndị ode akwụkwọ, ndị bi nʼobodo Jabez: ndị Tirait, na ndị Shimea, na ndị Suka. Ndị a niile bụ ndị Ken, ndị sitere nʼagbụrụ Hamat, nna ndị ikwu Rekab."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/1CH/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1CH/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1CH/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 55
+}

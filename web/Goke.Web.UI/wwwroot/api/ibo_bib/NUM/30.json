@@ -1,0 +1,180 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ikwe nkwa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mosis kpọkọtara ndị ndu ebo Izrel niile gwa ha sị: “Ihe ndị a ka Onyenwe anyị nyere nʼiwu:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe nwoke ọbụla kwere Onyenwe anyị nkwa, maọbụ ṅụọ iyi ime ihe ọbụla, ọ gaghị emebi nkwa dị otu a. Kama ọ ga-emezu ihe niile dịka o kwuru ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“Ọ bụrụ na nwaagbọghọ nọ nʼụlọ nna ya ekwe Onyenwe anyị nkwa maọbụ ṅụọ iyi ime ihe ọbụla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "ọ bụrụ na nna ya anụ mgbe ọ na-ekwe nkwa maọbụ ṅụọ iyi ime ihe ahụ, ma gba ya nkịtị,",
+          {
+            "noteId": 1519
+          },
+          "onye dị otu a aghaghị imezu nkwa niile ndị ahụ o kwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma ọ bụrụ na nna ya ajụ mgbe ọ nụrụ banyere ya na ọ gaghị emezu nkwa dị otu ahụ, mgbe ahụ, nkwa ahụ maọbụ iyi ọ ṅụrụ ga-abụ ihe efu. Onyenwe anyị ga-agbaghakwara ya, nʼihi na nna ya jụrụ na ọ ga-emezu nkwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Ọ bụrụ na o mesịa lụọ dị, mgbe ọ ṅụsịrị iyi, maọbụ kwee nkwa nzuzu o kwesiri imezu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "di ya nụ banyere ya ma gba ya nkịtị nʼụbọchị ahụ ọ nụrụ ya, nkwa ahụ ga-eguzogide, ọ ga-emezu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma ọ bụrụ na di ya ajụ ịnabata nkwa ahụ, maọbụ ọṅụṅụ iyi nzuzu ahụ, ọjụjụ di ya jụrụ nkwa ahụ ga-eme ka iyi ahụ maọbụ nkwa ahụ ghara ịdị ire. Onyenwe anyị ga-agbaghakwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Ma nkwa ọbụla nke nwanyị di ya nwụrụ maọbụ nwanyị ya na di ya kewara, ihe ọbụla nke o ji ọnụ ya kwuo ka ọ ghaghị imezu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“Ma ọ bụrụ na nwanyị ya na di ya bi e kwee nkwa maọbụ site na kwagide ṅụọ iyi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "di ya nụ ihe banyere ya, ma gba nkịtị maọbụ ogbochighị ya, mgbe ahụ, ịṅụ iyi na nkwa ndị ahụ niile nke o kwere ga-eguzo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma ọ bụrụ na di ya jụrụ ikwenye ka nkwa ahụ dịgide nʼụbọchị mbụ ọ nụrụ ya, nkwa ahụ maọbụ ọṅụṅụ iyi ahụ aghọọla ihe efu. Onyenwe anyị ga-agbaghakwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere, di ya nwere ike ịjụ, maọbụ mesie nkwa ahụ, maọbụ iyi ahụ ọ ṅụrụ ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ bụrụ na di ya ekwughị ihe ọbụla site nʼotu ụbọchị ruo nʼụbọchị ọzọ, mgbe ahụ, o gosiri na o kwenyere ka nwunye ya mezuo nkwa maọbụ iyi ndị ahụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụrụ na o mesịa jụ na nwunye ya agaghị emezu nkwa ahụ ọ kwere, ikpe ọmụma niile dị nʼihi emezughị nkwa ahụ dị ya nʼisi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị a bụ usoro iwu Onyenwe anyị nyere Mosis banyere mmekọrịta nke nwoke na nwunye ya. Ọ metụtakwara nna na nwa ya nwanyị onye bi nʼụlọ ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1519,
+        "caller": "+",
+        "text": "Ma o kwughị ihe ọbụla",
+        "reference": {
+          "chapter": 30,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/30.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/31.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/29.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

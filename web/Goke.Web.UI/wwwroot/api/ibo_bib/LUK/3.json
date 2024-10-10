@@ -1,0 +1,386 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LUK",
+    "translationId": "ibo_bib",
+    "name": "Luk",
+    "commonName": "Luk",
+    "title": "Oziọma Luk",
+    "order": 42,
+    "numberOfChapters": 24,
+    "sha256": "4c81eab176adfa631f02c92f55c886d74ff19d2e290a73b3f4358267cf873057",
+    "firstChapterApiLink": "/api/ibo_bib/LUK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LUK/24.json",
+    "totalNumberOfVerses": 1151
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nkwusa nke Jọn omee baptizim"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼafọ nke iri na ise nke ọchịchị Tiberiọs Siza, mgbe Pọntiọs Pailet bụ onye na-achị Judịa, ebe Herọd bụkwa onye na-achị akụkụ Galili, ma nwanne ya nwoke bụ Filip na-achị akụkụ Iturịa na Trakona, Laisania bụkwa onye na-achị akụkụ Abilin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "mgbe ahụ Anas na Kaịfas bụ ndịisi nchụaja, okwu Chineke bịakwutere Jọn nwa Zekaraya nʼime ọzara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ gara nʼime obodo niile gbara Jọdan gburugburu na-ekwusa banyere baptizim nke nchegharị maka mgbaghara mmehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Dịka e dere ya nʼakwụkwọ Aịzaya onye amụma sị,",
+          {
+            "text": "“Otu onye na-eti mkpu nʼọzara na-asị,",
+            "poem": 1
+          },
+          {
+            "text": "‘Dozienụ ụzọ maka Onyenwe anyị,",
+            "poem": 1
+          },
+          {
+            "text": "meenụ ka okporoụzọ ya guzozie.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "A ga-ekpoju ndagwurugwu ọbụla,",
+            "poem": 1
+          },
+          {
+            "text": "ugwu ọbụla na ugwu nta ọbụla ka a ga-emekwa ka ọ dị ala.",
+            "poem": 2
+          },
+          {
+            "text": "Ụzọ gbagọrọ agbagọ ka a ga-eme ka o guzozie nke ọma,",
+            "poem": 1
+          },
+          {
+            "text": "meekwa ka ụzọ ọjọọ niile dị larịị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Mmadụ niile ga-ahụkwa nzọpụta Chineke.’ ”",
+            "poem": 1
+          },
+          {
+            "noteId": 1248
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jọn sịrị igwe mmadụ ndị na-apụta ka o mee ha baptizim sị, “Unu ụmụ ajụala! Onye dọrọ unu aka na ntị sị unu gbanarị ọnụma nke na-abịa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mịanụ mkpụrụ na-egosipụta nchegharị unu. Unu amalitekwala na-asị onwe unu, ‘Anyị nwere Ebraham dịka nna.’ Nʼihi na agwa m unu na Chineke pụrụ isite na nkume ndị a mepụtara Ebraham ụmụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ bụladị ugbu a, atụkwasịla anyụike na mgbọrọgwụ osisi, osisi ọbụla nke na-adịghị amị ezi mkpụrụ ka a ga-egbutu tụba ya nʼime ọkụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma igwe mmadụ ahụ jụrụ ya sị, “Gịnị ka anyị kwesiri ime?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ zara ha sị, “Onye ọbụla nwere uwe abụọ, ya nye onye ọ na-adịghị nke o nwere otu. Onye nwere nri ya meekwa otu ahụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ọ bụladị ndị ọna ụtụ bịakwara ka e mee ha baptizim. Ha sịrị ya, “Onye ozizi, gịnị ka anyị kwesiri ime?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ọ sịrị ha, “Unu anatala karịa otu unu kwesiri ịnata.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị agha bịakwara jụọ ya sị, “Gịnịkwa ka anyị kwesiri ime?” Ọ sịrị ha, “Unu ejikwala ike apụnara ndị mmadụ ego ha; unu ebokwala ndị mmadụ ebubo ụgha, ka afọ ju unu nʼụgwọ a na-akwụ unu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị mmadụ ji olileanya na-eche na-atulekwa nʼobi ha ma Jọn ọ bụ Kraịst ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma Jọn zara sị ha, “Eji m mmiri na-eme unu baptizim, ma otu onye dị ike karịa m ga-abịa, onye m na-erughị ịtọpụ eriri akpụkpọụkwụ ya. Ọ ga-eji Mmụọ Nsọ na ọkụ mee unu baptizim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ihe ịfụcha ọka ya dị nʼaka ya, iji zachaa ebe ịzọcha ọka ya nke ọma, ka e kponye ezi mkpụrụ ọka wiiti nʼime ọba, ma kpoba igbugbo ọka nʼime ọkụ nke a na-apụghị imenyụ emenyụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "O ji ọtụtụ okwu ọzọ dị iche iche dụọ ha ọdụ ma kwusaakwara ha oziọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma Eze Herọd, onye ọ tara ụta maka Herodịas nwunye nwanne ya nwoke, nakwa maka ihe ọjọọ dị iche iche ndị o mere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "tụkwasịkwara ihe nʼelu ihe ndị a niile, site na ịtụnye Jọn nʼụlọ mkpọrọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Baptizim na usoro ndị agbụrụ Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe e mechara ndị niile baptizim, ma mechakwa Jisọs baptizim, mgbe ọ na-ekpe ekpere, eluigwe meghere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mmụọ Nsọ sikwa nʼelu rịdata dị ka nduru, bekwasị ya, mgbe ahụ, otu olu sitere nʼeluigwe daa sị, “Ị bụ Ọkpara m, onye m hụrụ nʼanya, ihe gị dị m ezi mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Jisọs agbaala ihe dị ka iri afọ atọ mgbe o bidoro ọrụ ya. Ọ bụ nwa (dịka ndị mmadụ chere) Josef,",
+          {
+            "lineBreak": true
+          },
+          "onye bụ nwa Heli;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Heli abụrụ nwa Matat, nwa Livayị, nwa Meliki, nwa Janayi, nwa Josef;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "nwa Matatiyas, nwa Emọs, nwa Nehum, nwa Esili, nwa Nagayị;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "nwa Maat, nwa Matatiyas, nwa Semein, nwa Josek, nwa Joda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "nwa Joanan, nwa Resa, nwa Zerubabel, nwa Shealtiel, nwa Neri;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "nwa Meliki, nwa Adi, nwa Kosam, nwa Elmadam, nwa Er,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "nwa Joshua, nwa Elieza, nwa Jorim, nwa Matat, nwa Livayị;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "nwa Simiọn, nwa Juda, nwa Josef, nwa Jonam, nwa Eliakịm;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "nwa Melea, nwa Mena, nwa Matata, nwa Netan, nwa Devid;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "nwa Jesi, nwa Obed, nwa Boaz, nwa Salmọn, nwa Nashọn;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "nwa Aminadab, nwa Ram,",
+          {
+            "noteId": 1249
+          },
+          "nwa Hezrọn, nwa Perez, nwa Juda;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "nwa Jekọb, nwa Aịzik, nwa Ebraham, nwa Tera, nwa Nahọ;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "nwa Serug, nwa Reu, nwa Peleg, nwa Eba, nwa Shela;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "nwa Kenan, nwa Aafaksad, nwa Shem, nwa Noa, nwa Lamek;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "nwa Metusela, nwa Enọk, nwa Jared, nwa Mahalalel, nwa Kenan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "nwa Enọsh, nwa Set, nwa Adam, nwa Chineke."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1248,
+        "caller": "+",
+        "text": "Aịz 40:3-5",
+        "reference": {
+          "chapter": 3,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1249,
+        "caller": "+",
+        "text": "Nʼakwụkwọ ụfọdụ i nwere ike ihu nwa Admin, nwa Anai.",
+        "reference": {
+          "chapter": 3,
+          "verse": 33
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/LUK/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LUK/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/LUK/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

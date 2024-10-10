@@ -1,0 +1,225 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "ibo_bib",
+    "name": "Job",
+    "commonName": "Job",
+    "title": "Job",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "0476775f2650430f77f43155db2df45d68a0275926893fff0c7a54fb940729a8",
+    "firstChapterApiLink": "/api/ibo_bib/JOB/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOB/42.json",
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwu Job"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Job zara Onyenwe anyị sị:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Amara m na ị pụrụ ime ihe niile;",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị atụmatụ gị nke a pụrụ ikposa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ị jụrụ sị, ‘Onye bụ onye nke a ji okwu ihe ọmụma na-adịghị na ya na-eme ka atụmatụ m ghara ịpụta ihe?’",
+            "poem": 1
+          },
+          {
+            "text": "Nʼezie, ekwuru m banyere ihe ndị m na-aghọtaghị,",
+            "poem": 2
+          },
+          {
+            "text": "ihe ndị dị oke ebube karịa m ịmata.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "“Ị sịrị, ‘Gee ntị ugbu a, aga m ekwu okwu;",
+            "poem": 1
+          },
+          {
+            "text": "m ga-ajụ gị ajụjụ,",
+            "poem": 2
+          },
+          {
+            "text": "gị onwe gị ga-azakwa m.’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ntị m nụrụ ihe banyere gị",
+            "poem": 1
+          },
+          {
+            "text": "ma ugbu a, ejirila m anya abụọ hụ gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ya mere, ana m akpọ onwe m asị,",
+            "poem": 1
+          },
+          {
+            "text": "na echegharịkwa nʼime ntụ na uzuzu.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Okwu mmechi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe Onyenwe anyị gwasịrị Job okwu, ọ tụgharịrị gwa Elifaz onye Teman okwu sị ya, “Ana m ewesa gị na ndị enyi gị abụọ iwe, nʼihi na ihe unu kwuru banyere m ezighị ezi dịka nke ohu m Job kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ugbu a, werenụ oke ehi asaa na ebule asaa, jekwuru ohu m bụ Job ka o jiri ha chụọrọ unu aja nsure ọkụ, ohu m bụ Job ga-ekpekwara unu ekpere. Aga m anabatakwa ekpere ọ ga-ekpe nʼihi unu. Agaghị m alakwa unu nʼiyi nʼihi okwu nzuzu unu. Unu ekwughị ihe ziri ezi banyere m dịka ohu m Job si kwuo.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ya mere, Elifaz onye Teman, na Bildad, onye Shu, na Zofa, onye Naaman mere dịka Onyenwe anyị si nye ha nʼiwu. Onyenwe anyị nabatakwara ekpere nke Job kpere nʼihi ndị enyi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe Job kpesịrị ekpere maka ndị enyi ya, Onyenwe anyị mekwara ka ọ baa ụba ọzọ. O nyekwara ya okpukpo abụọ nke ihe niile o nwere na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ, ụmụnne ya ndị ikom na ụmụnne ya ndị inyom, na ndị enyi ya niile bịara soro ya rie oriri nʼụlọ ya, na-akasị ya obi nʼihi iru ụjụ ya niile. Ha kasịkwara ya obi nʼihi ọnwụnwa niile Onyenwe anyị mere ka ọ bịakwasị ya. Ha niile nʼotu nʼotu nyere ya onyinye ọlaọcha na mgbaaka ọlaedo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gọziri Job nʼoge ikpeazụ nke ndụ ya karịa ka o si gọzie ya na mbụ. Job nwere puku atụrụ iri na anọ na puku ịnyịnya kamel isii na puku ehi abụọ na otu puku ịnyịnya ibu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Chineke mekwara ka ọ mụta ụmụ ndị ikom asaa, na ụmụ ndị inyom atọ ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị a bụ aha ụmụ ya ndị inyom: nke mbụ bụ Jimaịma, nke abụọ bụ Kezaya, ebe nke atọ bụ Kerin-Hapuk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nʼala ahụ niile, o nweghị ụmụ agbọghọ mara mma dịka ụmụ ndị inyom Job ndị a. Job mekwara ka ha bụrụ ndị ga-eso ụmụ ya ndị ikom keta oke nʼihe niile o nwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Job nọgidekwara ndụ narị afọ na iri afọ anọ ọzọ. Ọ hụrụ ụmụ ya, na ụmụ ha ruo ọgbọ nke anọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Job nwụrụ mgbe o mere ezigbo agadi, ụbọchị ndụ ya jukwara ya afọ."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/JOB/42.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOB/41.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

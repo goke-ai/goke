@@ -1,0 +1,172 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 120,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ nrigo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere maka nnapụta"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ana m akpọku Onyenwe anyị nʼime nsogbu m,",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-azakwa m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "O Onyenwe anyị, zọpụta m",
+            "poem": 1
+          },
+          {
+            "text": "site nʼegbugbere ọnụ okwu ụgha",
+            "poem": 2
+          },
+          {
+            "text": "na ire na-ekwu okwu aghụghọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Gịnị ka a ga-eme gị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụkwa gịnị ọzọ ka a gatụkwasịri gị,",
+            "poem": 2
+          },
+          {
+            "text": "gị ire aghụghọ?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ ga-eji àkụ dị nkọ nke dike nʼagha taa gị ahụhụ,",
+            "poem": 1
+          },
+          {
+            "text": "ya na icheku ọkụ osisi brum na-ere ere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ahụhụ dịịrị m nʼihi na m bi na Meshek,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na m bikwa nʼetiti ụlọ ikwu ndị Keda!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ogologo oge",
+            "poem": 1
+          },
+          {
+            "text": "ka m binyere ndị kpọrọ udo asị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Abụ m onye udo;",
+            "poem": 1
+          },
+          {
+            "text": "ma mgbe m kwuru okwu, okwu ha bụ okwu agha.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/120.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/121.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/119.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

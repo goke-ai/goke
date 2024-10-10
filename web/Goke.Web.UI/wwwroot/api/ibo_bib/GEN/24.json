@@ -1,0 +1,578 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Aịzik na Ribeka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, Ebraham aghọọla agadi nʼahụ ya ma nʼọnụọgụgụ afọ ya. Onyenwe anyị agọziela ya nʼụzọ niile"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ gwara onyeisi ndị ozi nʼụlọ ya, onye nke na-elekọta ihe niile o nwere sị ya, “Tinye aka gị nʼokpuru apata m.",
+          {
+            "noteId": 720
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Achọrọ m ka i jiri aha Onyenwe anyị Chineke nke eluigwe na ụwa, ṅụọra m iyi, na ị gaghị achọtara nwa m nwoke nwunye site nʼetiti ndị Kenan, ndị m bi nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kama na ị ga-aga nʼala nke m na ụmụnna m lụtara nwa m, bụ Aịzik, nwunye nʼetiti ụmụnna m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ohu ahụ jụrụ ya, “Ọ bụrụkwanụ na nwaagbọghọ ahụ achọghị isoro m lọghachi nʼebe a, m ga-akpọrọ nwa gị nwoke laghachi nʼobodo i si bịa?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebraham sịrị ya, “Lezie anya hụ na ị kpọghachighị nwa m nwoke nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onyenwe anyị, Chineke nke eluigwe, bụ onye kpọpụtara m site nʼụlọ nna m nakwa obodo nke aka m, onye ahụ gwara m okwu ma kwem nkwa site nʼịṅụ iyi nye sị, ‘Aga m enye ụmụ ụmụ gị ala a.’ Ọ ga-ezipụ mmụọ ozi ya ka ọ gaa nʼihu gị ka i nwee ike inwetara nwa m nwoke nwunye site nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma ọ bụrụ na nwanyị ahụ achọghị isoro gị lọghachi, mgbe ahụ, ị ga-abụ onye nwere onwe ya pụọ nʼiyi a ị ṅụrụ. Naanị na ị gaghị eme ka nwa m nwoke laghachi nʼebe ahụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ya mere, ohu ahụ tinyere aka ya nʼokpuru apata nna ya ukwu Ebraham, ṅụọ iyi banyere okwu ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Emesịa, ohu a duuru ịnyịnya kamel iri nʼime ndị nna ya ukwu nwere pụọ. O sitekwara nʼaka nna ya ukwu were ihe ọma dị iche iche maka njem a, gawa Aram Naharaim, rute nʼobodo Nahọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O mere ka ịnyịnya kamel ndị ahụ makpuru ala nʼakụkụ olulu mmiri dị nʼazụ obodo ahụ. Ọ bụ nʼoge anyasị, oge ụmụ nwanyị ji apụta iseta mmiri nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ahụ, o kpere ekpere sị, “Onyenwe anyị, Chineke nke nna m ukwu Ebraham, mee ka ihe gaara m nke ọma taa. Gosi nna m ukwu Ebraham obi ebere gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Lee, ana m eguzo nʼakụkụ isi iyi mmiri a, ụmụ nwanyị ndị obodo a na-abịa iseta mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kwere ka o si otu a dịrị na nwaagbọghọ nke m ga-asị, ‘Biko, zie ite gị ka m ṅụrụ mmiri.’ Ọ bụrụ na onye ahụ asị m, ‘Ṅụọ, aga m ekutekwa mmiri nke ịnyịnya kamel gị ga-aṅụ,’ ka onye ahụ bụrụ onye ị họpụtara ohu gị Aịzik. Nʼụzọ dị otu a ka m ga-esi mata na i gosila nna m ukwu obi ebere.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tupu o kpechaa ekpere a, lekwa Ribeka ada Betuel, nwa nwoke Milka, onye bụ nwunye Nahọ, nwanne Ebraham. Ọ na-apụta bukwasị ite nʼubu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ bụ nwaagbọghọ mara mma nke ukwuu, onye na-amatabeghị nwoke, nke nwoke ọbụla na-edinabeghị. Ọ gara nʼolulu mmiri kujuo ite ya si nʼebe ahụ na-arịgopụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ohu ahụ mere ngwangwa jekwuru ya sị ya, “Biko nyetụ m mmiri si nʼite mmiri gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ mere ngwangwa budata ite ahụ nʼaka ya, hulata ya si ya, “Ṅụọ, onyenwe m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe o nyechara ya mmiri, ọ sịrị, “Aga m ekutekwa mmiri nye ịnyịnya kamel gị ndị a ruo mgbe ha ṅụjuru afọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ngwangwa, ọ wụpụrụ mmiri dị nʼite ya nʼime ihe anụ ụlọ ji aṅụ mmiri, gbara ọsọ gaa kute mmiri ọzọ na-agbanye nʼime ihe ahụ. O kugidere mmiri tutu ruo mgbe ịnyịnya kamel ndị ahụ ṅụjuchara afọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ihe ndị a na-eme, ohu ahụ gbara nkịtị na-ele ya anya ịchọpụta ma Onyenwe anyị emeela ka ije ya bụrụ ihe gara nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ịnyịnya kamel ndị ahụ ṅụsịrị mmiri, nwoke ahụ wepụtara mgbanimi ọlaedo nke ọtụtụ ya bụ otu beka,",
+          {
+            "noteId": 721
+          },
+          "na mgbaaka ọlaedo abụọ nke ọtụtụ ha bụ shekel iri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ jụrụ ya sị, “Nwa onye ka ị bụ? Ohere ọ dị nʼụlọ nna gị ebe mụ na ịnyịnya kamel ndị a ga-anọ nʼabalị a?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ọ zara sị ya, “Abụ m nwa Betuel, nwa Milka nwunye Nahọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọ sịkwara, “Anyị nwere nri anụ ụlọ, nweekwa ebe ị ga-edina nʼabalị a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Nwoke ahụ hulatara ala kpọọ isiala nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Kwuo sị, “Ngọzị dịrị Onyenwe anyị, bụ Chineke nna m ukwu Ebraham, onye na-esitebeghị nʼebe nna m ukwu nọ wezuga ebere ya na ikwesi ntụkwasị obi ya. Ma banyere mụ onwe m, Onyenwe anyị e duola m nʼije a, kpọrọ m rute nʼụlọ ndị ikwu nna m ukwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nwaagbọghọ ahụ gbalara gaa kọọrọ ndị ezinaụlọ nne ya ihe ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ribeka nwere otu nwanne nwoke aha ya bụ Leban. Leban gbara ọsọ gbakwuje nwoke ahụ nʼisi iyi mmiri ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbe ọ hụrụ mgbanimi, na mgbaaka ndị ahụ nwanne ya nwanyị yi nʼaka ya, ma nụkwa ihe Ribeka kwuru banyere ihe nwoke ahụ gwara ya, o jekwuru nwoke ahụ, hụ ya ka ya na ịnyịnya kamel ya guzo nʼakụkụ olulu mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ọ sịrị ya, “Bịa, gị onye Onyenwe anyị gọziri. Gịnị mere i ji guzo nʼebe a. Edozielara m gị ụlọ ebe ị ga-edina na ebe ịnyịnya kamel ndị a ga-anọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ya mere, nwoke ahụ gara nʼụlọ, ebe Leban nyere aka butukwaara ya ibu nke ịnyịnya kamel ndị ahụ bu. E wetara nri nye ịnyịnya kamel ndị ahụ, wetara ya mmiri nke ya na ndị ikom so ya ji saa ụkwụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "E doziri ya ihe oriri, ma ọ zara sị, “Agaghị m eri ihe ọbụla tutu ruo mgbe m kwuru ihe m ji bịa.” Leban sịrị, “Ngwa, kwuonụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ya mere, ọ sịrị, “Abụ m ohu Ebraham."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Onyenwe anyị agọziela nna m ukwu, mee ya ka ọ bụrụ ọgaranya. O nyela ya igwe atụrụ, na igwe ehi, na ọlaọcha na ọlaedo, na ọtụtụ ndị ohu nwoke na nwanyị, na ịnyịnya kamel, na ịnyịnya ibu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Sera nwunye nna m ukwu mụtaara ya otu nwa nwoke mgbe o merela agadi. Ihe niile nna m ukwu nwere ka o nyefere nwa ahụ nʼaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Nna m ukwu mere ka m ṅụọra ya iyi sị, ‘Ị gaghị esite nʼetiti ụmụ ndị inyom Kenan ndị anyị bi nʼala ha lụtara nwa m nwoke nwunye."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kama ị ga-aga nʼezinaụlọ nna m, na nke ndị ikwu m chọtara nwa m nwoke nwunye.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "“Mgbe ahụ, ajụrụ m nna m ukwu, ‘Ọ bụrụkwanụ na nwanyị ahụ ekweghị iso m lọghachi?’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "“Ọ sịrị, ‘Onyenwe anyị, onye m na-ejegharị nʼihu ya, ga-eziga mmụọ ozi ya ka o soro gị gaa ime ka ije gị nwee isi, ka i nwee ike chọtara nwa m nwoke nwanyị site nʼetiti ndị ikwu m na ezinaụlọ nna m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ị ga-abụ onye nwere onwe gị site nʼiyi ị ṅụrụ ma ọ bụrụ na mgbe i gakwuru ndị ikwu m, ha jụrụ ịkpọnye gị nwanyị ahụ. Ị ga-abụ onye nwere onwe gị site nʼiyi ị ṅụrụ m.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "“Mgbe m rutere nʼisi iyi mmiri taa, ekwuru m sị, ‘Onyenwe anyị Chineke nna m ukwu Ebraham, ọ bụrụ na ọ masị gị, biko mee ka ije a m bịara bụrụ nke ga-aga nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Lee, ka m na-eguzo nʼakụkụ isi iyi mmiri a, ka nwaagbọghọ ahụ bịara ikuru mmiri nke m ga-asị, “Biko kwere ka m si nʼite gị ṅụrụtụ ntakịrị mmiri,”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "ma ọ bụrụ na ọ sị m, “Ṅụọ, aga m ekutekwa mmiri nye ịnyịnya kamel gị ndị a,” ka onye dị otu a bụrụ nwanyị ahụ Onyenwe anyị chọtaara Aịzik nwa nna m ukwu.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "“Tupu m kpesịa ekpere a nʼobi m, lekwa Ribeka ka o bụ ite mmiri ya nʼubu ya na-abịa. Ọ gbadara nʼisi iyi mmiri ahụ kute mmiri. Asịrị m ya, ‘Biko nye m mmiri ka m ṅụọ.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "“Ngwangwa, o sitere nʼubu ya budata ite, sị m, ‘Ṅụọ, aga m ekutekwa mmiri nke ịnyịnya kamel ndị a ga-aṅụ.’ Ya mere, aṅụrụ m, o nyekwara ịnyịnya kamel m ndị ahụ mmiri ha ṅụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "“Mgbe ahụ, ajụrụ m ya, ‘Nwa onye ka ị bụ?’ “Ọ sịrị m, ‘Abụ m nwa Betuel onye bụ nwa Nahọ nke Milka mụtaara ya.’ “Mgbe ahụ etinyere m ya mgbanimi ahụ nʼimi ya, tinyekwa ọlaaka ahụ nʼaka ya abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Ehulatara m ala kpọọ isiala nye Onyenwe anyị. Etoro m Onyenwe anyị, Chineke nke nna m ukwu Ebraham, onye duru m nʼezi ụzọ inweta nwa nwanne nna m ukwu dịka nwunye nwa ya nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ugbu a, ọ bụrụ na unu ga-egosi nna m ukwu obiọma na ikwesi ntụkwasị obi gwanụ m. Ọ bụrụkwanụ na ọ gaghị esi otu a dịrị, gwanụ m ka m mata ụzọ m ga-agbaso.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Leban na Betuel zara sị ya, “Ihe niile si nʼaka Onyenwe anyị. Anyị enweghị ike ịgwa gị okwu ọjọọ maọbụ nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Lee Ribeka, kpọrọ ya laa, ka ọ bụrụ nwunye nwa nna gị ukwu, dịka Onyenwe anyị kwuru.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Mgbe ohu Ebraham nụrụ ihe ha kwuru, ọ dara nʼala kpọọ isiala nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Mgbe ahụ kwa, ohu ahụ wepụtara ihe ịchọ mma ọlaedo, na ọlaọcha dị iche iche na uwe nye ha Ribeka. Ọ wepụtakwara onyinye ndị ọzọ dị oke ọnụahịa nye nwanne ya nwoke na nne ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Emesịa, mgbe ihe ndị a gasịrị, ya na ndị ikom so ya riri, ṅụọ, dinaakwa nʼabalị ahụ. Mgbe ha si nʼụra teta, o kwuru sị, “Zilaga m ka m lakwuru nna m ukwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ma Leban na nne ya zara sị ya, “Ka nwantakịrị nwanyị a nọnyere anyị ihe dịka ụbọchị iri tupu o soro gị laa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Ma ọ zara ha sị, “Unu egbochila anyị. Ebe ọ bụ na Onyenwe anyị emeela ka ije m bụrụ ihe gara nke ọma, zilaga m ka m laghachikwuru nna m ukwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Ha zara sị ya, “Ka anyị kpọọ nwantakịrị nwanyị ahụ jụọ ya ihe bụ uche ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "Ya mere ha kpọrọ Ribeka jụọ ya sị, “Ị ga-eso nwoke a gaa?” Ọ zara sị, “E, aga m aga.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Ya mere, ha zipụrụ nwanne ha nwanyị Ribeka, tinyere nwanyị lekọtara ya anya mgbe ọ dị na nwantakịrị, na ohu Ebraham na ndị ikom so ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Ha gọziri Ribeka sị ya,",
+          {
+            "text": "“Nwanne anyị nwanyị mụọ ọmụmụ,",
+            "poem": 1
+          },
+          {
+            "text": "mụruo puku kwụrụ puku,",
+            "poem": 2
+          },
+          {
+            "text": "ka mkpụrụ afọ gị nwetara onwe ha,",
+            "poem": 1
+          },
+          {
+            "text": "ọnụ ụzọ ama ndị iro ha.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Ribeka biliri, ya na ndị inyom na-ejere ya ozi, ha rigoro nʼelu ịnyịnya kamel ndị ahụ, soro nwoke ahụ. Ya mere, ohu ahụ duuru Ribeka laa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "Nʼoge a, Aịzik bịara nʼebe mbata obodo Bịa-Lahai-Rọị nʼihi na o bi na Negev."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Aịzik pụtara ịtụgharị uche nʼọhịa nʼoge uhuruchi. Ọ lepụrụ anya hụ ọtụtụ ịnyịnya kamel na-abịanụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Ribeka nʼonwe ya lepụkwara anya hụ Aịzik. O sitere nʼelu ịnyịnya kamel rịdata,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "jụọ ohu ahụ sị, “Onye bụ nwoke a si nʼọhịa na-abịa izute anyị?” Ohu ahụ zara sị ya, “Ọ bụ nna m ukwu” Nʼihi nke a, Ribeka weere akwa mkpudo ya kpuchie ihu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Ohu ahụ kọọrọ Aịzik akụkọ otu ije ya niile si gaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "Aịzik kpọbatara Ribeka nʼụlọ ikwu Sera,",
+          {
+            "noteId": 722
+          },
+          "nne ya. Ọ lụrụ Ribeka, onye ghọrọ nwunye ya. Aịzik hụrụ ya nʼanya, ma nweta nkasiobi nʼihi ọnwụ nne ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 720,
+        "caller": "+",
+        "text": "Nʼusoro ịṅụ iyi a, ọ pụtara na ọgbụgba ndụ a maọbụ nkwa ahụ, ga-adịgide nʼagbụrụ Ebraham niile. Jenesis 47:29.",
+        "reference": {
+          "chapter": 24,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 721,
+        "caller": "+",
+        "text": "Maọbụ, ọkara shekel",
+        "reference": {
+          "chapter": 24,
+          "verse": 22
+        }
+      },
+      {
+        "noteId": 722,
+        "caller": "+",
+        "text": "Cheta nʼoge a, Sera a nwụọlarị afọ atọ gara aga. Jen 17:17; 23:1; 25:20",
+        "reference": {
+          "chapter": 24,
+          "verse": 67
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/24.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/25.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/23.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 67
+}

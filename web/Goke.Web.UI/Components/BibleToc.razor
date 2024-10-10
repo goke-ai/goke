@@ -1,0 +1,79 @@
+﻿@using System.Text.Json
+@using Goke.Bible.Entities
+
+@inject NavigationManager NavigationManager
+@inject ILogger<BibleToc> Logger
+
+
+<h1>Table of Content</h1>
+
+<div>
+    @if (Books is null)
+    {
+        <div>Loading...</div>
+    }
+    else
+    {
+        foreach (var item in Books)
+        {
+            <div>
+                <div @onclick="() => OnSelectedBook(item)"
+                     style="cursor:pointer;"
+                     title="@item.Id #@item.Order| @item.NumberOfChapters">
+                    @item.Name
+                </div>
+
+                <div style='@(_selectedBook == item.Id ? "display:flex;":"display:none;");
+                            flex-wrap:wrap; gap:0.2em;
+                            padding-bottom:0.25em;
+                                    '>
+                    @for (var c = 1; c <= item.NumberOfChapters; c++)
+                    {
+                        var k = c;
+                        <button @onclick="() => OnSelectedChapter(k)">@k</button>
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+@code {
+    [Parameter]
+    public string? Translation { get; set; }
+    [Parameter]
+    public string? Book { get; set; }
+    [Parameter]
+    public int? ChapterNumber { get; set; }
+    [Parameter]
+    public List<Book>? Books { get; set; }
+    [Parameter]
+    public EventCallback<string> OnChangeBook { get; set; }
+    [Parameter]
+    public EventCallback<int> OnChangeChapter { get; set; }
+
+    string? _selectedBook;
+    private void OnSelectedBook(Book book)
+    {
+        if (_selectedBook == book.Id)
+        {
+            _selectedBook = null;
+        }
+        else
+        {
+            _selectedBook = book.Id;
+        }
+        OnChangeBook.InvokeAsync(_selectedBook);
+    }
+
+    int _selectedChapter;
+    private void OnSelectedChapter(int chapterNumber)
+    {
+        _selectedChapter = chapterNumber;
+
+        OnChangeChapter.InvokeAsync(_selectedChapter);
+
+        //NavigationManager.NavigateTo($"bible/{Translation}/{_selectedBook}/{_selectedChapter}");
+    }
+}

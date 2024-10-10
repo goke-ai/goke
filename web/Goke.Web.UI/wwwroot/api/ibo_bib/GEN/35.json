@@ -1,0 +1,291 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb alọghachi Betel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Chineke sịrị Jekọb, “Bilie, gaa Betel, birikwa nʼebe ahụ. Wuo ebe ịchụ aja nye Chineke, onye mere ka ị hụ ya mgbe ị na-agbanarị Ịsọ nwanne gị nwoke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ya mere, Jekọb gwara ndị ezinaụlọ ya na ndị niile so ya sị, “Wezuganụ chi ndị ala ọzọ dị nʼetiti unu. Doonụ onwe unu ọcha, gbanweekwanụ uwe unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Bilienụ, ka anyị gaa Betel, ebe m ga-ewu ebe ịchụ aja nye Chineke, onye zara m oku nʼụbọchị nsogbu m, ma nọnyekwara m na njem nke m gara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere, ha nyere Jekọb chi ndị ala ọzọ niile ha ji nʼaka, na ọla",
+          {
+            "noteId": 739
+          },
+          "niile dị ha na ntị. Jekọb chịịrị ha niile lie ha nʼokpuru osisi ook dị na Shekem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ha biliri ije. Egwu Chineke dakwasịrị obodo niile gbara ha gburugburu. Ọ dịghị ndị chụsoro ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jekọb na ndị niile so ya rutere Luz, nke a na-akpọkwa Betel nke dị na Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jekọb wuru ebe ịchụ aja nʼebe a, kpọọ aha ebe ahụ El Betel, nʼihi na ọ bụ nʼebe ahụ ka Chineke gosiri ya onwe ya mgbe ọ na-agbanarị Ịsọ nwanne ya nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe nke a gasịrị, Debọra, nwanyị lekọtara Ribeka mgbe ọ bụ nwantakịrị, nwụrụ. E liri ya nʼokpuru osisi ook dị na Betel. A kpọkwara ebe ahụ, “Osisi ook ebe ịkwa akwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Chineke gosiri Jekọb onwe ya ọzọ, mgbe o sitere na Padan Aram pụta, gọziekwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Chineke sịrị ya, “Aha gị bụ Jekọb ma a gaghị akpọkwa gị Jekọb ọzọ, kama aha gị ga-abụ Izrel.” Ya mere ọ kpọrọ ya Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Chineke sịrị ya, “Abụ m Chineke onye pụrụ ime ihe niile. Mụọ ọmụmụ, baakwa ụba nʼọnụọgụgụ. Otu mba na igwe mba ga-esi na gị pụta. Ndị eze ga-esitekwa gị nʼahụ pụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ala ahụ m nyere Ebraham na Aịzik ka m na-enyekwa gị. Aga m enyekwa ya ụmụ ụmụ gị ndị ga-esote gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Emesịa, Chineke si nʼebe ahụ ha nọ kparịtaa ụka pụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jekọb wuru ogidi nkume nʼebe ahụ Chineke nọ gwa ya okwu. Ọ wụsara onyinye ihe ọṅụṅụ wụkwasịkwa mmanụ nʼelu ogidi nkume ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Jekọb kpọrọ ebe ahụ ya na Chineke nọ kparịtaa ụka Betel."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ Rechel na Aịzik"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ha biliri ije, site na Betel. Ma mgbe ha ka nọ ebe dị anya site nʼobodo Efrat, Rechel mụrụ nwa, ma o nwere ihe mgbu ka ọ na-amụ nwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe o sitere nʼoke ihe mgbu na-amụpụta nwa ahụ, nwanyị na-aghọ nwa gwara ya, “Atụla egwu, nʼihi na ọ bụ nwa nwoke ọzọ ka ị mụtara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma tupu Rechel ekuo ume ikpeazụ, nʼihi na ọ na-anwụ, ọ kpọrọ aha nwa ọhụrụ ahụ Ben-Oni, ma nna ya kpọrọ ya Benjamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Rechel nwụrụ, e lie ya nʼakụkụ ụzọ gara Efrat, nke a na-akpọkwa Betlehem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jekọb wuru ogidi nʼelu ili ya, nke na-eguzokwa ruo taa, igosi ebe e liri Rechel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Izrel malitere ije ya, tutu ruo ebe o wuru ebe izuike ya nʼala dị nʼofe ọzọ nke Migdal Eda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe Izrel bi nʼala ahụ, Ruben gara dinakwuru Bilha, iko nwanyị nna ya. E mekwara ka Izrel nụ ihe a Ruben mere.",
+          {
+            "lineBreak": true
+          },
+          "Ụmụ ndị ikom Jekọb dị iri na abụọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ụmụ Lịa bụ, Ruben, ọkpara Jekọb. Simiọn, Livayị, Juda, Isaka na Zebụlọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ụmụ Rechel bụ, Josef na Benjamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ụmụ Bilha, odibo nwanyị Rechel bụ, Dan na Naftalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ụmụ Zilpa, odibo nwanyị Lịa bụ, Gad na Asha.",
+          {
+            "lineBreak": true
+          },
+          "Ụmụ ndị ikom ndị a ka a mụụrụ Jekọb na Padan Aram."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼikpeazụ, Jekọb bịakwutere nna ya Aịzik na Mamre nke dị nso na Kiriat Arba (ebe a na-akpọ Hebrọn). Ebe ahụ ka Ebraham na Aịzik biri na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nʼoge ahụ Aịzik gbara narị afọ na iri afọ asatọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ọ dịkwaghị anya site nʼoge a, Aịzik nwụrụ, mgbe o mere nnọọ agadi. Ụmụ ya ndị ikom abụọ, Ịsọ na Jekọb, liri ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 739,
+        "caller": "+",
+        "text": "Nʼoge ahụ, ndị mmadụ kwenyere na ọlantị ha na-eyi bụ ihe na-echekwa ha.",
+        "reference": {
+          "chapter": 35,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/35.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/36.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/34.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

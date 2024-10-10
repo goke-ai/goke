@@ -1,0 +1,58 @@
+﻿<li class="dropdown">
+    <NavLink class="nav-link" href="ux">
+        <span class="nav-item-wrapper">
+            <span class="icon">
+                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                    <use xlink:href="sprites.svg#icons-solid"></use>
+                </svg>
+            </span>
+            <span class="nav-item-text">
+                UX 
+                <DropDownIcon NavOrientation="@NavOrientation" />                
+            </span>
+        </span>
+    </NavLink>
+    <ul class="dropdown-list @PopStyle">
+        @* <li>
+            <NavLink class="nav-link" href="ux">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#face-smile-wink-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Ux
+                    </span>
+                </span>
+            </NavLink>
+        </li> *@
+        <li>
+            <NavLink class="nav-link" href="ux/forms">
+                        Forms
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="ux/layouts">
+                Layouts
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="ux/data">
+                Data
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="ux/screens">
+                Screens
+            </NavLink>
+        </li>
+    </ul>
+</li>
+@code {
+    [Parameter]
+    public string? PopStyle { get; set; }
+    [Parameter]
+    public string? NavOrientation { get; set; } = "Horizontal";
+
+}

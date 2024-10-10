@@ -1,0 +1,332 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nnwogha Jisọs nwoghara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ụbọchị isii gasịrị, Jisọs kpọọrọ Pita, na Jemis na Jọn nwanne ya, rigoro nʼugwu dị elu ebe naanị ha nọdụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼebe ahụ a gbanwere ọdịdị ya nʼihu ha, ihu ya na-enwupụ dị ka anyanwụ, uwe ya chapụkwara dị ka ìhè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼotu ntabi anya ahụ, ha hụrụ Mosis na Ịlaịja ka ha na ya na-ekwurịta okwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ahụ Pita sịrị Jisọs, “Onyenwe anyị. Ọ dị mma ka anyị niile nọdụ nʼebe a. Ọ bụrụ na ị ga-enye m ike, aga m ewu ụlọ ikwu atọ nʼebe a. Otu nʼime ụlọ ndị a ga-abụ nke gị, otu nke Mosis, nke ọzọ nke Ịlaịja.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ọ ka kpụ okwu nʼọnụ, igwe ojii nke na-enwu enwu kpuchiri ha, olu sitere nʼigwe ojii ahụ daa sị, “Onye a bụ Ọkpara m, onye m hụrụ nʼanya, onye ihe ya dị m ezi mma. Geenụ ya ntị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ndị na-eso ụzọ ya nụrụ olu a, ha dara nʼala nʼihi egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma Jisọs jekwuuru ha metụ ha aka sị ha,",
+          {
+            "text": "“Bilienụ, unu atụla egwu.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ha lelitere anya ha, o nwekwaghị onye ọzọ ha hụrụ ma ọ bụghị naanị Jisọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma mgbe ha si nʼelu ugwu ahụ na-arịdata, Jisọs nyere ha iwu, sị,",
+          {
+            "text": "“Unu agwala onye ọbụla ihe unu hụrụ tutu ruo mgbe Nwa nke Mmadụ ga-esi nʼọnwụ bilie.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị na-eso ụzọ ya jụrụ ya sị, “Gịnị mere ndị ozizi iwu ji na-ekwu na Ịlaịja aghaghị ibu ụzọ bịa?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ zara sị,",
+          {
+            "text": "“Ọ bụ ezie, Ịlaịja na-abịa, ọ ga-emekwa ka ihe niile dị ka ọ dị na mbụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ma Ịlaịja abịalarị, ma ndị mmadụ amataghị ya. Kama ndị mmadụ emeela ya ihe ọjọọ dị iche iche. Otu a kwa ka mụ onwe m bụ Nwa nke Mmadụ ga-esi ahụ ahụhụ site nʼaka ha.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ ndị na-eso ụzọ ya ghọtara na ọ bụ Jọn omee baptizim ka ọ na-ekwu banyere ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọ gwọrọ nwa akwụkwụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ha bịarutere nʼebe igwe mmadụ ahụ nọ, otu nwoke bịakwutere ya gbuo ikpere nʼihu ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "rịọọ ya sị, “Onyenwe m, biko, meere nwa m nwoke ebere, nʼihi na akwụkwụ na-adọ ya. Ọ na-ata oke ahụhụ, ọtụtụ mgbe ọ na-adaba nʼime ọkụ maọbụ nʼime mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma ekuteere m ya ndị na-eso ụzọ gị ka ha gwọọ ya, ma ha enweghị ike ime ka ahụ dị ya mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jisọs zara sị,",
+          {
+            "text": "“Unu ọgbọ a na-enweghị okwukwe, ndị na-adịghị erubekwa isi. Ruo ole mgbe ka mụ na unu ga-anọ? Ruo ole mgbe ka m ga-anọ na-anagide ekweghị ekwe unu? Kpọtaranụ m nwata ahụ nʼebe a.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jisọs baara mmụọ ọjọọ ahụ mba, mee ka o si nʼime nwata ahụ pụta. Otu mgbe ahụ, mmụọ ọjọọ ahụ pụtara, nwata ahụ bụ onye agwọkwara nʼotu oge ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe e mesịrị, ndị na-eso ụzọ Jisọs bịakwutere ya na nzuzo jụọ ya sị, “Gịnị mere o ji siere anyị ike ịchụpụ mmụọ ọjọọ ahụ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ọ sịrị ha,",
+          {
+            "text": "“Ọ bụ nʼihi na okwukwe unu nwere esighị ike. Nʼezie, agwa m unu, ọ bụrụ na unu e nwee okwukwe nke dị nta ka mkpụrụ mọstaadị, unu nwere ike ị sị ugwu a, ‘Site nʼebe a wezuga onwe gị,’ ọ ga-apụtakwa. Ọ dịghị ihe unu na-agaghị enwe ike ime.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Ma mmụọ ọjọọ dị otu a agaghị apụ, ma ọ bụghị naanị site nʼikpe ekpere na ibu ọnụ.”",
+            "wordsOfJesus": true
+          },
+          {
+            "noteId": 1349
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs ekwuo okwu ọnwụ ya ọzọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ha gbakọrọ na Galili, Jisọs gwara ha sị,",
+          {
+            "text": "“A ga-arara Nwa nke Mmadụ nye nʼaka ndị mmadụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Ha ga-egbukwa ya, ma nʼụbọchị nke atọ a ga-eme ka o si nʼọnwụ bilie.”",
+            "wordsOfJesus": true
+          },
+          "Nke a wutere ha nke ukwuu."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịtụ ụtụ ụlọnsọ ukwu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe ha bịaruru na Kapanọm, ndị na-ana ụtụ nʼihi ụlọnsọ",
+          {
+            "noteId": 1350
+          },
+          "bịakwutere Pita jụọ ya sị, “Onye ozizi unu ọ dịghị atụ ụtụ ụlọnsọ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Pita zara ha sị, “E, ọ na-atụ ụtụ.” Mgbe ọ batara nʼụlọ, Jisọs buru ụzọ jụọ ya sị,",
+          {
+            "text": "“Gịnị ka i chere banyere nke a Saimọn? Ọ bụ nʼaka ndị ole ka ndị eze ụwa si anakọta ụtụ taks? Ọ bụ nʼaka ụmụ ha, ka ọ bụ nʼaka ndị ọbịa?”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ma mgbe Pita zara ya sị, “Ọ bụ site nʼaka ndị ọbịa.” Jisọs sịrị ya,",
+          {
+            "text": "“Ọ dị mma. Iwu ejighị ndị bụ ụmụ.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Ma otu ọ dị, achọghị m ka anyị mee ka iwe wee ha. Gaa nʼosimiri ahụ tụnye nko azụ gị nʼime ya. Meghe ọnụ azụ mbụ ị ga-egbute. Ị ga-ahụ otu mkpụrụ ego nʼime ọnụ ya. Were ya nye ha, ka ọ bụrụ ụtụ nke mụ na gị.”",
+            "wordsOfJesus": true
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1349,
+        "caller": "+",
+        "text": "Ụfọdụ akwụkwọ na-edebanye okwu ndị a dịka ọ dị nʼakwụkwọ Mak 9:29.",
+        "reference": {
+          "chapter": 17,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 1350,
+        "caller": "+",
+        "text": "Didrakma abụọ bụ ọnụ ego ụtụ ụlọnsọ.",
+        "reference": {
+          "chapter": 17,
+          "verse": 24
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/17.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/18.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAT/16.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

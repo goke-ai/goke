@@ -1,0 +1,282 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma e buru banyere Kush"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ahụhụ ga-adịrị ala ahụ a na-anụ ụzụ ọtụtụ nku nʼime ya,",
+            "poem": 1
+          },
+          {
+            "noteId": 876
+          },
+          {
+            "text": "ala ahụ dị nʼofe iyi ukwu niile nke Kush.",
+            "poem": 2
+          },
+          {
+            "noteId": 877
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ala nke na-ezipụ ndị ozi ya site nʼosimiri,",
+            "poem": 1
+          },
+          {
+            "text": "bụ ndị na-eji ụgbọ mmiri papịrọs nʼaga nʼelu mmiri.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Gaanụ ngwangwa, unu ndị ozi dị nkọ",
+            "poem": 1
+          },
+          {
+            "text": "gakwuru ndị toro ogologo nke ahụ ha na-akwọ mụrụmụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "gakwuru ndị a na-atụ egwu nʼebe niile,",
+            "poem": 2
+          },
+          {
+            "text": "mba na-achọ okwu na ụka, nke na-azọpịakwa azọpịa,",
+            "poem": 1
+          },
+          {
+            "text": "ndị osimiri dị iche iche kewara ala ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Unu niile bi nʼelu ụwa dum,",
+            "poem": 1
+          },
+          {
+            "text": "na unu ndị nwere ebe obibi nʼụwa, geenụ m ntị.",
+            "poem": 2
+          },
+          {
+            "text": "Mgbe e buliri ọkọlọtọ elu nʼelu ugwu niile,",
+            "poem": 1
+          },
+          {
+            "text": "lee anya;",
+            "poem": 2
+          },
+          {
+            "text": "mgbe a fụrụ opi ike,",
+            "poem": 1
+          },
+          {
+            "text": "gee ntị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Nʼihi na ihe ndị a bụ ihe Onyenwe anyị gwara m,",
+            "poem": 1
+          },
+          {
+            "text": "“Aga m anọ jụụ na-elepụ anya site nʼebe obibi m,",
+            "poem": 2
+          },
+          {
+            "text": "dịka mgbe igirigi na-ada nʼoge okpomọkụ nke owuwe ihe ubi,",
+            "poem": 1
+          },
+          {
+            "text": "na dịka anyanwụ si acha nʼoge okpomọkụ.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nʼihi na tupu oge owuwe ihe ubi eruo, mgbe ifuru dapụsịrị,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe okoko na-aghọ mkpụrụ vaịnị nke ka na-achata achata,",
+            "poem": 2
+          },
+          {
+            "text": "ọ ga-eji mma oge gbuchapụ ụmụ alaka ya,",
+            "poem": 1
+          },
+          {
+            "text": "ọ ga-egbutu ma wezugakwa alaka ndị ahụ na-awasa awasa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "A ga-ahapụ ozu ndị agha ha",
+            "poem": 1
+          },
+          {
+            "text": "ka anụ ufe nke ugwu na ụmụ anụ ọhịa rie ha.",
+            "poem": 2
+          },
+          {
+            "text": "Ụmụ nnụnụ ga-eri anụ ha nʼoge okpomọkụ,",
+            "poem": 1
+          },
+          {
+            "text": "ma ụmụ anụ ọhịa ga-eri ha nʼoge oyi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma mgbe ahụ, a ga-ewetara Onyenwe anyị, Onye pụrụ ime ihe niile onyinye dị iche iche,",
+          {
+            "text": "site na ndị toro ogologo, ndị ahụ na-akwọ mụrụmụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "site na ndị a na-atụ egwu nʼebe niile,",
+            "poem": 2
+          },
+          {
+            "text": "bụ mba ndị okwu na ụka,",
+            "poem": 1
+          },
+          {
+            "noteId": 878
+          },
+          {
+            "text": "nke na-azọpịakwa azọpịa,",
+            "poem": 1
+          },
+          {
+            "text": "ndị osimiri dị iche iche kewara ala ha.",
+            "poem": 2
+          },
+          "A ga-eweta onyinye",
+          {
+            "noteId": 879
+          },
+          "a nʼUgwu Zayọn, nʼebe ahụ a na-akpọku aha Onyenwe anyị, Onye pụrụ ime ihe niile."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 876,
+        "caller": "+",
+        "text": "Maọbụ, ụzụ igurube",
+        "reference": {
+          "chapter": 18,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 877,
+        "caller": "+",
+        "text": "Nʼoge Aịzaya onye amụma, ndị Kush nʼachị Ijipt. Mgbe ha chọrọ ibuso ndị Asịrịa agha, ha rịọrọ ndị Palestin ka ha nyere ha aka.",
+        "reference": {
+          "chapter": 18,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 878,
+        "caller": "+",
+        "text": "Maọbụ, asụsụ dị iche",
+        "reference": {
+          "chapter": 18,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 879,
+        "caller": "+",
+        "text": "Abụ 72:10; Aịz 16:2; Zef 3:10",
+        "reference": {
+          "chapter": 18,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/18.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/19.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/17.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

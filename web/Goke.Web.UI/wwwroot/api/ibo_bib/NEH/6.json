@@ -1,0 +1,210 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Izuzu ọjọọ megide Nehemaya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe a gwara Sanbalat, na Tobaya, na Geshem onye Arab, na ndị iro anyị ndị ọzọ na m ewuzichaala mgbidi ahụ, na ọ dịkwaghị ntipu fọdụrụ na ya, ọ bụ ezie na nʼoge ahụ, etinyebeghị m ibo nʼọnụ ụzọ ama ya niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Sanbalat na Geshem zitere m ozi a, “Bịa ka anyị zụkọta nʼotu obodo nta nke dị nʼobosara ala Ono.” Ma ha na-achọ ụzọ imerụ m ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ya mere, azara m ha site nʼaka ndị ozi sị, “Ana m arụ ọrụ dị oke mkpa, agaghị enwe ike ịrịdata. Nʼihi gịnị ka ọrụ a ga-eji kwụsị mgbe m ga-ahapụ ya ịbịa nʼebe ị nọ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ha zitere ozi ahụ ugboro anọ, ma enyere m ha otu ọsịsa ahụ ugboro anọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Na nke ugboro ise, Sanbalat ziteere m onye na-ejere ya ozi, ya na akwụkwọ ozi nke e mechighị emechi o ji bịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nke a bụ ihe e dere nʼime ya; “Anụla ya na mba niile, Geshem kwukwara otu ihe ahụ, na gị na ndị Juu na-akwado inupu isi. Ọ bụ ya mere i ji na-ewu mgbidi ahụ. Ozi ahụ na-ekwukwa na gị onwe gị na-achọ ịbụ eze ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "na ị họpụtala ndị amụma ndị ga-ekwupụta na Jerusalem na ị bụ eze ndị Juda. Ugbu a, ozi a ga-eru ntị eze, ya mere, bịa ka mụ na gị kparịtaa ụka nʼetiti onwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma eziri m ya ozi sị, “O nweghị eziokwu ọbụla dị nʼihe ị na-ekwu, nʼihi na ha bụ ihe i chepụtara nʼobi gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nzube ha bụ ime ka ụjọ tụọ anyị. Ha na-echekwa sị, “Ha ga-ada mba nʼọrụ a ma hapụkwa ịrụcha ya.” Ma akpọkuru m Chineke sị ya, “Biko gbaa aka m ume.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Otu ụbọchị, a gara m nʼụlọ Shemaya, nwa Delaya, nwa Mehetabel, onye e mechibidoro ụzọ nʼụlọ ya. Ọ sịrị m, “Ka anyị zukọta nʼụlọ Chineke, nʼime ụlọnsọ, ka anyị mechiekwa ụzọ niile nke ụlọnsọ ahụ, nʼihi na ndị ikom na-abịa igbu gị, e, nʼabalị ka ha na-abịa igbu gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma azara m si; “O kwesiri ka mụ onwe m bụ onyeisi ọchịchị gbaa ọsọ? O kwesiri ka mmadụ dịka m",
+          {
+            "noteId": 1467
+          },
+          "gbaa ọsọ gbaba nʼụlọnsọ Chineke ịzọpụta ndụ ya? Agaghị m aga.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ahụ ka o doro m anya na Chineke agwaghị ya okwu ọbụla, kama na ọ bụ Tobaya na Sanbalat zụrụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "E goro ya ọrụ ka o yinye m egwu, ka m site na-ime otu a mehie, mgbe ahụ, ha ga-ahụ ihe ha ga-eji nye m aha ọjọọ, kwaa m emo."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "“Chineke m, cheta Tobaya na Sanbalat, nʼihi ihe ndị a niile ha mere, chetakwa Noadaya, bụ onye amụma nwanyị, na ndị amụma ndị ọzọ niile fọdụrụ, bụ ndị ahụ chọrọ ime ka m tụọ egwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "E wuchara mgbidi ahụ nʼụbọchị iri abụọ na ise nke ọnwa Elul, nʼime iri ụbọchị ise na abụọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọgwụgwụ ọrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ndị iro anyị niile nụrụ ya, mba niile ndị nọ anyị gburugburu tụrụ ụjọ, obi jụkwara ha oyi, nʼihi na ha matara na-arụrụ ọrụ a site nʼinyeaka Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọzọ, nʼụbọchị ndị ahụ ndị Juda a na-asọpụrụ na e zigara Tobaya ọtụtụ akwụkwọ ozi, akwụkwọ ozi Tobaya na-erutekwa ha aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼihi na ọtụtụ ndị Juda ṅụrụ iyi ịnọ ya nʼukwu, nʼihi na ọgọ ya nwoke nʼala Juda bụ Shekanaya nwa Ara. Ọzọkwa, Jehohanan nwa nwoke Tobaya na-alụ nwa nwanyị Meshulam, nwa Berekaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ha niile nọgidere na-agwa m otu Tobaya si bụrụ ezigbo mmadụ. Ma ha na-apụkwa gaa kọọrọ ya ihe niile m kwuru. Nʼihi ya Tobaya zitere ọtụtụ akwụkwọ ozi ime ka ụjọ tụọ m."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1467,
+        "caller": "+",
+        "text": "Ọ bụ naanị ndị nchụaja ka ọ dịrị ịbanye nʼEbe kachasị Nsọ nke ụlọnsọ ukwu ahụ. Ọnụ 18:22",
+        "reference": {
+          "chapter": 6,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/6.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/7.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

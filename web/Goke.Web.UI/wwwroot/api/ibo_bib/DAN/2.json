@@ -1,0 +1,452 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DAN",
+    "translationId": "ibo_bib",
+    "name": "Daniel",
+    "commonName": "Daniel",
+    "title": "Daniel",
+    "order": 27,
+    "numberOfChapters": 12,
+    "sha256": "7f57d3d7f1884d617956ca199c3bf471604f81f0278056103ded6f0a95aba889",
+    "firstChapterApiLink": "/api/ibo_bib/DAN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DAN/12.json",
+    "totalNumberOfVerses": 357
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nrọ Nebukadneza"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼime afọ nke abụọ nke ọchịchị ya, eze Nebukadneza rọrọ nrọ dị iche iche. Nrọ ndị a mere ka obi ya gbasasịa, ụra pụkwara ya nʼanya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ahụ, eze kpọrọ ndị majiki, ndị ha na mmụọ ọjọọ na-ekwu okwu, ndị mgbaasị na ndị ihe banyere ngagharị nke kpakpando doro anya ka ha bịa gwa ya ihe ahụ ọ rọrọ na nrọ. Mgbe ha bịara, guzo nʼihu eze,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "ọ sịrị ha, “Arọrọ m nrọ nke na-enye m nsogbu nʼobi. Achọrọ m ịma ihe ọ pụtara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ahụ, ndị ahụ na-enyocha kpakpando gwara eze ahụ okwu nʼasụsụ ndị Siria sị, “Ka gị eze dịrị ndụ ruo mgbe ebighị ebi, Ị ga-agwa ụmụodibo gị nrọ a ị rọrọ, anyị ga-akọwara gị ihe ọ pụtara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma eze zara ndị Kaldịa, “Nke a bụ ihe m kpebirila: Ọ bụrụ na unu agwaghị m ihe nrọ a na nkọwa ya bụ, aga m eme ka abọkasịa unu, tikpọkwa ụlọ unu, mee ka ha ghọọ mkpọmkpọ ebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma ọ bụrụ na unu gwa m ihe ahụ m rọrọ na nrọ ma kọwaakwa ya, aga m enye unu onyinye dị iche iche na ụgwọ ọrụ nsọpụrụ dị ukwuu. Ya mere, gwanụ m nrọ ahụ na nkọwa ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọzọkwa, ha zaghachiri, “Ka eze gwa ndị ohu ya ihe ọ rọrọ na nrọ, anyị ga-akọwakwa ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Eze zaghachiri, “Ama m na ọ bụ oge ka unu na-achọ inweta nʼihi na unu amatala na ihe a ka m kpebiri ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ bụrụ na unu agwaghị m nrọ ahụ naanị otu ntaramahụhụ dịịrị unu. Unu agbaala izu ịgwa m okwu ụgha na okwu nduhie na-ele anya na ọnọdụ ga-agbanwe. Ya mere, gwanụ m nrọ ahụ, m ga-amatakwa na unu pụrụ ịkọwara m ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị Kaldịa zara eze, “Ọ dịghị mmadụ ọbụla nʼelu ụwa a nke nwere ike ime ihe a eze na-achọ. Ọ dịghịkwa eze, nʼagbanyeghị ịdị ukwuu ya na ịdị ike ya, nke jụtụrụla ụdị ihe dị otu a eze na-ajụ nʼaka ndị mgbaasị, ndị na-agba aja ya, ndị ha na mmụọ ọjọọ na-ekwu okwu, na ndị Kaldịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ihe a ị chọrọ ka anyị mee bụ ihe na-agaghị ekwe omume. Ọ bụ naanị ndị mmụọ nwere ike ịkọrọ gị ihe ị rọrọ na nrọ. Ndị mmụọ anọkwaghị nʼetiti ndị mmadụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a mere ka eze jupụta nʼoke iwe na ọnụma, o nyere iwu ka e gbuchaa ndị amamihe niile nke Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe e kwupụtara iwu onye eze ka e gbuo ndị oke amamihe niile, ndị agha chọkwara ebe Daniel na ndị otu ya nọ ka ha gbuo ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe Ariok, onye bụ onyeisi ndị nche eze pụrụ igbu ndị ikom maara ihe na Babilọn, Daniel ji amamihe na ezi uche gwa ya okwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ jụrụ onyeozi eze, bụ Ariok, “Gịnị mere eze ji nye iwu dị ike dị otu a?” Mgbe ahụ, Ariok kọwaara ihe niile nye Daniel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, Daniel banyere nʼụlọeze, ịhụ ya. Ọ rịọrọ eze ka o nyetụ ya nwa oge iji kọwaakwara ya ihe nrọ ahụ pụtara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Emesịa, Daniel lara nʼụlọ nke ya gaa kọọrọ Hananaya, na Mishael, na Azaraya, ndị enyi ya ihe merenụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ gwara ha ka ha rịọọ maka ebere site nʼaka Chineke nke eluigwe banyere ihe nzuzo a, ka a hapụ igbu ya na ndị enyi ya na ndị amamihe fọdụrụ na Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼabalị, e mere ka Daniel mata ihe omimi ahụ site nʼọhụ. Mgbe ahụ, Daniel toro Chineke nke eluigwe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Daniel sịrị,",
+          {
+            "text": "“Otuto dịrị aha Chineke ruo mgbe ebighị ebi;",
+            "poem": 1
+          },
+          {
+            "text": "amamihe na ike dị nʼaka ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Ọ na-agbanwe oge na mgbe dị iche iche;",
+            "poem": 1
+          },
+          {
+            "text": "Ọ na-ebuli ndị eze na-akwatụkwa ha.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ na-enye onye maara ihe amamihe,",
+            "poem": 1
+          },
+          {
+            "text": "ma na-enyekwa onye nwere mmụọ nghọta ihe ọmụma.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Ọ na-ekpughe ihe dị omimi na ihe zoro ezo;",
+            "poem": 1
+          },
+          {
+            "text": "Ọ maara ihe dị nʼọchịchịrị,",
+            "poem": 2
+          },
+          {
+            "text": "ma ìhè binyekwara ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Ana m ekele gị, na-etokwa gị, Chineke nke nna m ha,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na i nyela m amamihe na ike.",
+            "poem": 2
+          },
+          {
+            "text": "I meela ka m mata ihe anyị rịọrọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "i mekwala ka anyị mata nrọ ahụ eze rọrọ.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Daniel Akọwaa nrọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼihi ya, Daniel jekwuru Ariok, onye ahụ eze nyere iwu igbu ndị ndụmọdụ niile dị na Babilọn, sị ya, “Egbukwala onye ọbụla nʼime ndị amamihe Babilọn. Kama duru m gaa nʼihu eze nʼihi na ejikeere m ịgwa ya ihe ahụ ọ chọrọ ịmata.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe ahụ, Ariok mere ngwangwa duru Daniel gaa nʼihu eze, sị ya, “Achọpụtala m otu onye nʼime ndị Juda a dọtara nʼagha nwere ike ịgwa eze ihe nrọ ya pụtara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Eze jụrụ Daniel (onye a na-akpọkwa Belteshaza), “I nwere ike ịgwa m ihe ahụ m rọrọ na nrọ, na ịkọwara m ihe ọ pụtara?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Daniel gwara eze, “O nweghị onye amamihe ọbụla, onye ọbụla ya na mmụọ na-ekwu okwu, onye mgbaasị ọbụla maọbụ onye na-enyocha kpakpando ọbụla pụrụ ịgwa eze ihe omimi a ị chọrọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ma o nwere Chineke nọ nʼeluigwe, onye na-ekpughe ihe omimi niile. O gosila Nebukadneza ihe ga-eme nʼụbọchị ndị dị nʼihu. Nrọ gị na ọhụ niile nke gara nʼuche gị mgbe ị dinara nʼihe ndina gị bụ ndị a:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "“Ihe ị rọrọ na nrọ, gị bụ eze, bụ ihe banyere ihe na-aga imezu nʼoge dị nʼihu. Onye ahụ na-ekpughe ihe nzuzo niile egosikwala gị ihe nke ga-eme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ma mụ onwe m, ekpugheghị ihe omimi a nye m nʼihi na m karịrị mmadụ ọbụla dị ndụ nʼamamihe, kama ọ bụ ka gị bụ eze mata nkọwa ya ma ghọtakwa ihe gabigara nʼuche gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "“Eze, ihe ị hụrụ nʼọhụ bụ nke a. Ị hụrụ mmadụ a kpụrụ akpụ. Mmadụ a a kpụrụ akpụ buru nnọọ ibu. Ọ na-egbukwa nweghenweghe, bụrụkwa ihe na-eyi onye ọbụla lekwasịrị ya anya egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "E ji ọlaedo a nụchara anụcha kpụọ isi mmadụ ahụ, jiri ọlaọcha kpụọ aka ya na obi ya. E jikwa bronz kpụọ afọ ya na apata ụkwụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ọ bụkwa igwe ka e ji kpụọ ogwe ụkwụ ya abụọ. Ma akụkụ ụkwụ ya, nke a na-azọ nʼala ka e ji igwe a gwara ya na ụrọ kpụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe ị na-ele anya, a wapụtara nkume, ma ọ bụghị aka mmadụ ka e ji wapụta ya. Nkume a kụrụ mmadụ ahụ a kpụrụ akpụ nʼukwu nkume na ụrọ ya, kụpịasịa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mgbe ahụ, e tijisịrị igwe ahụ na ụrọ ahụ, bronz ahụ na ọlaọcha ahụ nakwa ọlaedo ahụ niile. Ha dịka igbugbo ọka nke na-adị nʼebe a na-azọcha ọka nʼoge okpomọkụ. Ifufe fechapụsịrị ha na-ahapụghị ihe ngosi ọbụla. Ma nkume ahụ dakwasịrị ihe ahụ awuru awu mechara ghọọ ugwu dị ukwuu, nke jupụtara ụwa niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "“Eze, nke a bụ nrọ ahụ. Ugbu a ka anyị kọwaara gị ihe nrọ ahụ pụtara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Gị onwe gị, eze, bụ eze nke ọtụtụ ndị eze ọzọ nọ nʼokpuru ya, onye Chineke nke eluigwe nyere ike ọchịchị, nʼocheeze niile, na ike na otuto;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "nyefeekwa nʼaka gị ụmụ mmadụ niile na ụmụ anụmanụ bi nʼime ọhịa, na ụmụ nnụnụ nke igwe, e mere ka ị bụrụ eze ihe niile ndị a, gị bụ isi ahụ e ji ọlaedo kpụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "“Mgbe ị chịchara alaeze ọzọ ga-ebili, ma ọ gaghị adị ukwuu dịka nke gị, mgbe nke a gasịrị, alaeze ọzọ bụ nke atọ, nke ga-adị ka bronz ga-ebilikwa, ọ ga-achị ụwa niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "A ga-enwekwa alaeze nke anọ, nke ga-esi ike dịka igwe. Dịka igwe nke na-akụri ihe niile, ọ ga-egwepịa ma kụrikwaa ndị a niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ma ebe ị hụrụ na ọbụ ụkwụ ahụ na mkpịsịụkwụ ya niile na ụfọdụ nʼime ha bụ ụrọ ọkpụ ite na ụfọdụ bụkwa igwe, alaeze nke ekewara ekewa ka ọ ga-abụ, ma ọ ga-esitụ ike dịka igwe nke dị nʼime ya, nʼihi na ị hụrụ igwe ahụ na agwakọtara ya na ụrọ apịtị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Dịka mkpịsịụkwụ ya, nke ụfọdụ nʼime ya bụ igwe, ụfọdụ bụkwa ụrọ, na-egosi na akụkụ ụfọdụ nke alaeze ahụ ga-esi ike ma akụkụ ụfọdụ agaghị esi ike ntiwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Dịka otu ahụ ị hụrụ e siri gwakọta igwe na ụrọ ọnụ, otu a ka ọchịchị alaeze ndị a ga-achọ njikọta alaeze na ibe ya, ma nke a agaghị ekwe mee, dịka ọ gaghị ekwe omume bụ ịgwakọta igwe na ụrọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "“Nʼoge ahụ, ndị eze ndị a ga-anọ nʼọchịchị, Chineke nke eluigwe ga-eme ka alaeze ọzọ bido. Ọ bụkwa alaeze nke a na-apụghị imebi emebi. O nwekwaghị onye ọbụla pụrụ imeri alaeze ahụ. Ọ ga-ala alaeze ndị ọzọ nʼiyi, mee ka ha bụrụ ihe efu, ma ọ ga-adịrị na-aga nʼihu ruo ebighị ebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Dịka i siri hụ nkume ahụ dị ukwuu e sitere nʼugwu wapụta, nke a na-ejighị aka wapụta were kụrichaa igwe ahụ, bronz ahụ, ụrọ ahụ, ọlaọcha ahụ na ọlaedo ahụ. “Chineke dị ukwuu emeela ka eze mara ihe na-aga ime nʼoge dị nʼihu. Nrọ a bụ eziokwu, nkọwa ya kwesikwara ntụkwasị obi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Mgbe ahụ, eze Nebukadneza dara nʼala nʼihu Daniel nye ya nsọpụrụ. O nyekwara iwu ka eweta onyinye na ụda na-esi isi ụtọ were chụnyere ya aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Onye eze gwakwara Daniel, “Nʼezie, Chineke gị bụ Chineke kachasị chi niile. Ọ bụ ya na-achị eze niile bi nʼụwa, bụrụkwa Onye na-ekpughepụ ihe omimi niile, nʼihi na lee, i nwere ike ịkọwa ihe omimi nke a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Emesịa eze nyere Daniel ọkwa dị ukwuu, nyekwa ya ọtụtụ onyinye dị iche iche. O mere ya onyeisi na-achị ala Babilọn niile, meekwa ya onyeisi ndị ndụmọdụ eze niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ma dịka Daniel siri rịọ eze, o mekwara ka Shedrak, Mishak na Abednego bụrụ ndị na-elekọta ihe niile a na-eme eme nʼala Babilọn, Daniel nʼonwe ya nọdụrụ nʼogige eze."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/DAN/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DAN/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DAN/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 49
+}

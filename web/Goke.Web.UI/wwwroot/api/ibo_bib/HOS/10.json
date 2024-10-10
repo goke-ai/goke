@@ -1,0 +1,449 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "ibo_bib",
+    "name": "Hosiya",
+    "commonName": "Hosiya",
+    "title": "Hosiya",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "be95de0597e0aba372c720c5d9f574ebf665cd1b20944f3b30f6ff1fb3b64cf2",
+    "firstChapterApiLink": "/api/ibo_bib/HOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Izrel bụ osisi vaịnị dị mma,",
+            "poem": 1
+          },
+          {
+            "text": "nke na-amịta mkpụrụ nke ukwuu.",
+            "poem": 2
+          },
+          {
+            "text": "Dịka mkpụrụ ya na-aba ụba,",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka o si amụba ebe ịchụ aja ya.",
+            "poem": 2
+          },
+          {
+            "text": "Dịka ala ya na-abawanyekwa ụba",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka o si edoziri onwe ya nkume dị nsọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Obi ha dị aghụghọ,",
+            "poem": 1
+          },
+          {
+            "text": "ma ugbu a, ha ga-ata ahụhụ maka ikpe ọmụma ha.",
+            "poem": 2
+          },
+          {
+            "text": "Onyenwe anyị ga-akwatu ebe nchụaja ha,",
+            "poem": 1
+          },
+          {
+            "text": "ma mebikwaa ogidi nkume nsọ ha niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ma ugbu a, ha ga-asị,",
+            "poem": 1
+          },
+          {
+            "text": "“Anyị enweghị eze,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na anyị anaghị atụ Onyenwe anyị egwu,",
+            "poem": 1
+          },
+          {
+            "text": "ma olee ihe eze nwere ike ị mere anyị?”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ha na-ekwu okwu na-abaghị uru,",
+            "poem": 1
+          },
+          {
+            "text": "were ịṅụ iyi",
+            "poem": 2
+          },
+          {
+            "text": "na-agbakwa ndụ,",
+            "poem": 2
+          },
+          {
+            "text": "ya mere ikpe ikpe jiri jupụta nʼebe niile,",
+            "poem": 1
+          },
+          {
+            "text": "dịka ahịhịa ọjọọ nʼubi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ndị bi na Sameria ga-atụ ụjọ",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi chi nke nwa ehi a kpụrụ akpụ dị na Bet-Aven.",
+            "poem": 2
+          },
+          {
+            "noteId": 819
+          },
+          {
+            "text": "Ndị ya ga-eruru ya ụjụ,",
+            "poem": 1
+          },
+          {
+            "text": "otu a kwa ka ndị nchụaja ya",
+            "poem": 2
+          },
+          {
+            "text": "rụrụ arụ ga-esi ruoru ya ụjụ,",
+            "poem": 1
+          },
+          {
+            "text": "maka ebube nke a napụrụ ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ha ga-eburu ha gaa Asịrịa,",
+            "poem": 1
+          },
+          {
+            "text": "dịka onyinye ịnata ihuọma a ga-enye eze ukwu ahụ.",
+            "poem": 2
+          },
+          {
+            "text": "A ga-emenye Ifrem ihere nʼihu,",
+            "poem": 1
+          },
+          {
+            "text": "Izrel ga-ekpudokwa ihu nʼala maka mmekọrịta ya na ndị mba ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "A ga-ala eze Sameria nʼiyi",
+            "poem": 1
+          },
+          {
+            "text": "dịka irighiri osisi nʼelu mmiri niile,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "a ga-ebibicha ebe niile dị elu nke ihe ọjọọ, bụ Aven,",
+            "poem": 1
+          },
+          {
+            "noteId": 820
+          },
+          {
+            "text": "ọ bụ ya bụ mmehie ndị Izrel,",
+            "poem": 2
+          },
+          {
+            "text": "ogwu na uke ga-etolitekwa,",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe nchụaja ha.",
+            "poem": 2
+          },
+          {
+            "text": "Mgbe ahụ ha ga-asị, ugwu ukwu niile, “Kpuchite anyị!”",
+            "poem": 1
+          },
+          {
+            "text": "Sịkwa ugwu nta niile, “Dakwasị anyị!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "“Site nʼụbọchị nke Gibea, gị Izrel nọ na mmehie,",
+            "poem": 1
+          },
+          {
+            "text": "i nwebeghị ike site na mmehie ndị a wezuga onwe gị.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ bụ na agha agaghị eri ha",
+            "poem": 1
+          },
+          {
+            "text": "bụ ndị na-eme ajọọ omume na Gibea?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Aga m abịa buso ndị mmehie a agha, nye ya ahụhụ;",
+            "poem": 1
+          },
+          {
+            "text": "mba ndị ọzọ ga-ebilite megide ha,",
+            "poem": 2
+          },
+          {
+            "text": "taa ha ahụhụ nʼihi ajọ omume abụọ ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Ifrem bụ nne ehi a zụrụ azụ",
+            "poem": 1
+          },
+          {
+            "text": "nke hụrụ ịzọcha ọka nʼanya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi ya, M ga-ekonye ịyagba nʼolu",
+            "poem": 1
+          },
+          {
+            "text": "nʼolu ọma ya ahụ.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m agba Ifrem dịka ịnyịnya,",
+            "poem": 1
+          },
+          {
+            "text": "Juda aghaghị ịkọ ala ubi",
+            "poem": 2
+          },
+          {
+            "text": "Jekọb ga-akọze ala nye onwe ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ya mere, ghaanụ mkpụrụ ezi omume maka onwe unu,",
+            "poem": 1
+          },
+          {
+            "text": "unu ga-aghọtakwa mkpụrụ ịhụnanya.",
+            "poem": 2
+          },
+          {
+            "text": "Kọgharịakwanụ obi unu siri ike,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ugbu a bụ oge ịchọ Onyenwe anyị,",
+            "poem": 2
+          },
+          {
+            "text": "tutu ruo mgbe ọ bịara",
+            "poem": 1
+          },
+          {
+            "text": "wụkwasị unu mmiri ozuzo dịka ezi omume.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Ma unu akụọla mkpụrụ ajọ omume;",
+            "poem": 1
+          },
+          {
+            "text": "unu aghọtakwala ihe ọjọọ dịka ihe ubi.",
+            "poem": 2
+          },
+          {
+            "text": "Unu eriela mkpụrụ osisi ụgha.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na unu atụkwasịla obi unu nʼịdị ike nke onwe unu,",
+            "poem": 1
+          },
+          {
+            "text": "na nʼịdị ọtụtụ nke ndị bụ dike nʼagha unu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Nʼihi ya, ụzụ nke ibu agha aghaghị ibili nʼetiti unu,",
+            "poem": 1
+          },
+          {
+            "text": "ebe unu niile e wusiri ike ga-ada.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ ga-ada dịka Shalman si bibie Bet Abel nʼụbọchị agha,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe a tụpịara ndị bụ nne na ụmụ ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Ọ bụ ihe dị otu a ga-adakwasị gị, Betel,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ajọ omume gị dị ukwuu.",
+            "poem": 2
+          },
+          {
+            "text": "Mgbe chi ụbọchị ahụ bọrọ,",
+            "poem": 1
+          },
+          {
+            "text": "a ga-ala eze Izrel nʼiyi kpamkpam.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 819,
+        "caller": "+",
+        "text": "Bet-Aven pụtara ụlọ ihe ajọ aha ịkwa emo Betel; Betel nke pụtara ụlọ Chineke",
+        "reference": {
+          "chapter": 10,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 820,
+        "caller": "+",
+        "text": "Aven, na-ekwu banyere Bet-Aven aha ịkwa emo na-akpọ Betel",
+        "reference": {
+          "chapter": 10,
+          "verse": 8
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/HOS/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/HOS/11.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/HOS/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

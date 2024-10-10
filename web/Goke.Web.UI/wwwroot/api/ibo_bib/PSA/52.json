@@ -1,0 +1,241 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 52,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma nke dịrị onyeisi abụ. Abụ maskil Devid. Nke o bụrụ mgbe Doeg onye Edọm gara gwa Sọl sị, “Devid gara hụ Ahimelek nʼụlọ ya.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ihe na-eche ndị ajọ omume"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Gịnị mere i ji na-anya isi nʼihe ọjọọ, gị nwoke dị ike?",
+            "poem": 1
+          },
+          {
+            "text": "Gịnị mere na ogologo ụbọchị niile, ị na-anya isi,",
+            "poem": 2
+          },
+          {
+            "text": "gị onye Chineke na-eleda anya?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ire gị na-atụ atụmatụ ịla nʼiyi;",
+            "poem": 1
+          },
+          {
+            "text": "ọ dị ka agụba dị nkọ,",
+            "poem": 2
+          },
+          {
+            "text": "gị onye na-ebi ndụ aghụghọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ị hụrụ ihe ọjọọ nʼanya karịa ihe ọma,",
+            "poem": 1
+          },
+          {
+            "text": "ị hụrụ okwu ụgha nʼanya karịa eziokwu. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "O onye ire aghụghọ!",
+            "poem": 1
+          },
+          {
+            "text": "Ị hụrụ okwu ọbụla nke na-emegide mmadụ nʼanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nʼezie, Chineke ga-akwatu gị ruo mgbe ebighị ebi.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga-ejide gị, dọpụta gị site nʼụlọ ikwu gị,",
+            "poem": 2
+          },
+          {
+            "noteId": 1624
+          },
+          {
+            "text": "ọ ga-ehopukwa gị site nʼala ndị dị ndụ. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ndị ezi omume ga-ahụ ya tụkwaa egwu;",
+            "poem": 1
+          },
+          {
+            "text": "ha ga-achị ya ọchị na-asị,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "“Ugbu a, lee nwoke ahụ,",
+            "poem": 1
+          },
+          {
+            "text": "onye jụrụ ime Chineke ebe mgbaba ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ tụkwasịrị obi ya na akụnụba ya nke dị ukwuu.",
+            "poem": 1
+          },
+          {
+            "text": "O sitekwara na ibibi ndị ọzọ ghọọ onye dị ike!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ma adị m ka osisi oliv,",
+            "poem": 1
+          },
+          {
+            "text": "nke na-eto na-awasa nʼụlọnsọ ukwu Chineke.",
+            "poem": 2
+          },
+          {
+            "text": "Ana m atụkwasị obi m nʼịhụnanya Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "nke na-adịgide ruo mgbe niile ebighị ebi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Aga m eto gị ruo mgbe niile ebighị ebi nʼihi ihe i mere;",
+            "poem": 1
+          },
+          {
+            "text": "aga m eto gị nʼihu ndị gị dị nsọ.",
+            "poem": 2
+          },
+          {
+            "text": "Olileanya m ga-adị nʼime aha gị,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na aha gị dị mma.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1624,
+        "caller": "+",
+        "text": "Ya bụ, ebe obibi ya",
+        "reference": {
+          "chapter": 52,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/52.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/53.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/51.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

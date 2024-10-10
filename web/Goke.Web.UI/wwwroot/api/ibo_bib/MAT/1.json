@@ -1,0 +1,288 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Usoro ọmụmụ Jisọs onye bụ Kraịst ahụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ ndekọ usoro ọmụmụ Jisọs onye bụ Kraịst, nwa Devid, nwa Ebraham."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ebraham mụrụ Aịzik, Aịzik amụọ Jekọb, Jekọb amụọ Juda na ụmụnne ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Juda mụtara Perez na Zera site na Tama, Perez mụrụ Hezrọn, Hezrọn amụọ Aram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Aram mụrụ Aminadab, Aminadab mụrụ Nashọn, Nashọn amụọ Salmọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Salmọn bụ nna Boaz, site na nwunye ya Rehab, Boaz mụrụ Obed, site na nwunye ya Rut, Obed amụọ Jesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jesi amụọ Devid, bụ eze.",
+          {
+            "lineBreak": true
+          },
+          "Devid mụrụ Solomọn site na nwunye ya Ụraya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Solomọn mụrụ Rehoboam, Rehoboam amụọ Abija, Abija amụọ Esa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Esa mụrụ Jehoshafat, Jehoshafat amụọ Joram, Joram amụọ Ụzaịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụzaịa mụrụ Jotam, Jọtam amụọ Ehaz, Ehaz amụọ Hezekaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Hezekaya mụrụ Manase, Manase amụọ Emọn, Emọn amụọ Josaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe e mere ka ha gaa biri nʼala Babilọn ka Josaya mụrụ Jekonaya na ụmụnne ya."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ha si Babilọn lọta Jekonaya mụrụ Shealtiel, Shealtiel amụọ Zerubabel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Zerubabel mụrụ Abiud, Abiud amụọ Eliakịm, Eliakịm amụọ Azoa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Azoa mụrụ Zadọk, Zadọk amụọ Akịm, Akịm amụọ Eliud."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eliud mụrụ Elieza, Elieza amụọ Matan, Matan amụọ Jekọb."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Jekọb mụrụ Josef onye bụ di Meri nne Jisọs, onye a na-akpọ Kraịst."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere, site nʼEbraham ruo na Devid, e nwere ọgbọ iri na anọ. Ma site nʼoge Devid ruo mgbe a dọọrọ ha nʼagha gaa Babilọn, e nwere ọgbọ iri na anọ. Sitekwanụ nʼoge ahụ ruo mgbe a mụrụ Kraịst bụkwa ọgbọ iri na anọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Josef anabata Jisọs dịka nwa ya nwoke"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Otu a ka ọmụmụ Jisọs, onye a na-akpọ Kraịst",
+          {
+            "noteId": 1288
+          },
+          "siri dị: Nne ya Meri bụ onye e kwenyere na ọ ga-alụ Josef, ma tupu ha ebikọọ ọnụ a chọpụtara na Meri di ime site na Mmụọ Nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma Josef di ya bụ onye ezi omume, ọ chọghị imenye ya ihere, nʼihi ya, o zubere ịchụ ya na nzuzo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe Josef nwechara mkpebi a, mmụọ ozi Onyenwe anyị bịakwutere ya na nrọ sị ya, “Josef nwa Devid, atụla egwu ịkpọrọ Meri ka ọ bụrụ nwunye gị, nʼihi na nwa ahụ ọ dị ime ya sitere nʼike Mmụọ Nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ ga-amụkwa nwa nwoke, onye ị ga-akpọ aha ya Jisọs,",
+          {
+            "noteId": 1289
+          },
+          "nʼihi na ọ ga-azọpụta ndị nke ya site na mmehie ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ihe ndị a mere iji mezuo ihe ahụ Onyenwe anyị kwuru site nʼọnụ onye amụma ya sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“Lee, nwaagbọghọ ahụ na-amaghị nwoke ga-atụrụ ime, mụọ nwa nwoke. Ha ga-akpọ aha ya Ịmanụel”",
+          {
+            "noteId": 1290
+          },
+          "(nke bụ ma asụgharịa ya, “Chineke nọnyeere anyị”)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe Josef si nʼụra teta, o mere dịka mmụọ ozi Onyenwe anyị nyere ya nʼiwu. Ọ kpọọrọ Meri ka ọ bụrụ nwunye ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma ha abụọ edinakọghị tutu ruo mgbe ọ mụsịrị nwa nwoke, onye ọ kpọrọ aha ya Jisọs."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1288,
+        "caller": "+",
+        "text": "Maọbụ, Onye nzọpụta",
+        "reference": {
+          "chapter": 1,
+          "verse": 18
+        }
+      },
+      {
+        "noteId": 1289,
+        "caller": "+",
+        "text": "Jisọs nke a bụ otu ndị Griik si akpọ Joshua nke pụtara Onyenwe anyị na-azọpụta.",
+        "reference": {
+          "chapter": 1,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 1290,
+        "caller": "+",
+        "text": "Aịz 7:14",
+        "reference": {
+          "chapter": 1,
+          "verse": 23
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAL/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

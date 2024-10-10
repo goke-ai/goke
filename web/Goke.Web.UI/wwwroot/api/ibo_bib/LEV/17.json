@@ -1,0 +1,205 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "ibo_bib",
+    "name": "Levitikọs",
+    "commonName": "Levitikọs",
+    "title": "Levitikọs",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a697f6450e0872fd69a6be8769aac9e60686399b5c87d52110a527c461a04bb",
+    "firstChapterApiLink": "/api/ibo_bib/LEV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LEV/27.json",
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Iwu banyere iri ọbara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gwara Mosis sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Gwa Erọn, na ụmụ ya ndị ikom, na ụmụ Izrel niile okwu sị ha, ‘Ihe ndị a ka Onyenwe anyị nyere nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onye ọbụla bụ onye ụlọ Izrel gbuo ehi, maọbụ nwa atụrụ, maọbụ ewu nʼogige ebe obibi,",
+          {
+            "noteId": 1215
+          },
+          "maọbụ nʼazụ ebe obibi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "ma o wetaghị ya nʼọnụ ụzọ ụlọ nzute iche ya dịka onyinye nʼihu Onyenwe anyị, nʼihu ụlọnsọ Onyenwe anyị, a ga-agụ onye ahụ dịka onye ikpe iwufu ọbara mara. Ọ wụfuola ọbara, nʼihi ya, a ga-esite nʼetiti ndị ya kewapụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ihe e ji nye iwu a bụ ka ụmụ Izrel wetara Onyenwe anyị aja niile ha na-achụ ugbu a na mbara ezi ọbụla. Ha kwesiri iwetara ya Onyenwe anyị site nʼaka onye nchụaja nʼọnụ ụzọ ụlọ nzute, ka o jiri ya chụọrọ ha aja udo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼụzọ dị otu a, onye nchụaja ga-efesa ọbara ahụ nʼebe ịchụ aja dị nʼọnụ ụzọ ụlọ nzute, kpọọkwa abụba ya ọkụ, ka ọ bụrụ aja nsure ọkụ nke isisi ya dị Onyenwe anyị ezi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "O kwesikwaghị ka ndị Izrel chụọ aja ha ọzọ na mbara ezi nye arụsị ewu ndị ha na-akpọ isiala nye. Iwu a ga-adịgide nye ha na ụmụ ha niile, site nʼọgbọ ruo nʼọgbọ.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“Gwa ha, ‘Onye Izrel ọbụla, maọbụ onye ọbịa bi nʼetiti unu, nke ga-achụ aja nsure ọkụ maọbụ aja ọzọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "ma o webataghị ya nʼọnụ ụzọ ụlọ nzute, ebe a ga-achụrụ ya Onyenwe anyị, ka a ga-ewezuga site nʼetiti ndị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“ ‘Onye Izrel ọbụla maọbụ onye ọbịa bi nʼetiti ha, nke riri ọbara ọbụla ka m ga-eche ihu m megide. A ga-ewezuga ya site nʼetiti ndị m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na ndụ ihe nwere ndụ dị nʼọbara ya, ọ bụ nʼihi nke a ka m ji nye iwu na a ga-awụsa ọbara niile nʼelu ebe ịchụ aja, maka iji ya kpuchie mmehie unu. Ọ bụ ọbara na-ekpuchi mmehie maka ndụ mmadụ.",
+          {
+            "noteId": 1216
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼihi nke a, a sịrị ndị Izrel, “Ọ dịghị onye ọbụla nʼetiti unu, maọbụ onye ọbịa ọbụla nke bi nʼetiti unu ga-eri ọbara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "“ ‘Onye Izrel ọbụla, na onye ọbịa ọbụla binyere unu nke gara ịchụ nta, gbuo anụ maọbụ nnụnụ ọbụla a na-eri eri, ga-awụfu ọbara ya were aja kpuchie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼihi na ndụ ihe niile nwere ndụ dị nʼọbara. Ọ bụ ya mere m ji nye ụmụ Izrel iwu si unu erila ọbara anụmanụ ọbụla, nʼihi na ndụ ihe niile nwere ndụ dị nʼọbara ya. Nʼihi ya onye ọbụla riri ọbara, a ga-ekewapụ ya site nʼetiti ndị m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“ ‘Mmadụ ọbụla, maọbụ nwa afọ ma ọ bụkwanụ onye ọbịa, nke riri anụ nwụrụ nʼonwe ya, maọbụ nke anụ ọhịa dọgburu,",
+          {
+            "noteId": 1217
+          },
+          "ga-eji mmiri saa uwe ya na ahụ ya, ọ ga-abụkwa onye rụrụ arụ ruo uhuruchi tupu ọ dị ọcha ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma ọ bụrụ na ọ saghị uwe ya na ahụ ya, ikpe ọmụma dị ya nʼisi.’ ”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1215,
+        "caller": "+",
+        "text": "Ya bụ ọmụma ụlọ ikwu",
+        "reference": {
+          "chapter": 17,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 1216,
+        "caller": "+",
+        "text": "Hib 9:22",
+        "reference": {
+          "chapter": 17,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 1217,
+        "caller": "+",
+        "text": "Ọpụ 22:31",
+        "reference": {
+          "chapter": 17,
+          "verse": 15
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/LEV/17.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LEV/18.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/LEV/16.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

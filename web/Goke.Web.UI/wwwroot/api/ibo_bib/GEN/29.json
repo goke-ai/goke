@@ -1,0 +1,331 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb erute nʼụlọ Leban"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jekọb gara nʼihu nʼije ya rute nʼala dị nʼọwụwa anyanwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "NʼEbe Nsọ a, ọ hụrụ otu olulu mmiri, hụkwa ụzọ igwe atụrụ atọ ndị nọ nʼakụkụ olulu mmiri nʼihi na ndị na-elekọta ha na-enye ha mmiri site nʼolulu mmiri ahụ. Nkume e ji mechie ọnụ olulu mmiri ahụ buru ibu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼihi na mgbe igwe atụrụ niile bịazukọtara nʼolulu mmiri ahụ, ndị ọzụzụ atụrụ na-emeghepụ nkume ahụ nye ha mmiri. Emesịa, ha na-ejikwa nkume ahụ mechie ọnụ olulu mmiri ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jekọb jekwuru ndị na-elekọta atụrụ ahụ jụọ ha sị, “Ụmụnna m, ebee ka unu si?” Ha zara sị ya, “Anyị si Haran.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ jụrụ ha sị, “Unu maara Leban, nwa Nahọ?” Ha zara sị, “Anyị ma ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọzọ Jekọb jụrụ ha sị, “Ahụ ọ dịkwa ya mma?” Ha zara sị ya, “E, ahụ dị ya. Lee nwa ya nwanyị Rechel ka ọ chị atụrụ ya na-abịa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jekọb kwuru sị, “Lee, anyanwụ ka na-acha. O rubeghị oge e ji achịbata igwe ụmụ anụ ụlọ. Nyenụ ha mmiri ka ha ṅụọ, ka ha laghachi gaa taa ahịhịa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ha zara sị ya, “Anyị agaghị enye ha mmiri tutu ruo mgbe igwe atụrụ niile bịakọtara, mgbe e wepụrụ nkume e ji mechie ọnụ olulu mmiri, mgbe ahụ ka anyị ga-enye ha mmiri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe Jekọb na ndị ọzụzụ atụrụ ndị a kpụ okwu nʼọnụ, Rechel chịịrị atụrụ nna ya bịakwute ha, nʼihi na onye ọzụzụ atụrụ nwanyị ka ọ bụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe Jekọb hụrụ Rechel nwa Leban nwanne nne ya, hụkwa igwe atụrụ Leban, ọ meghepụrụ nkume ahụ e ji mechie ọnụ olulu mmiri ahụ nye igwe atụrụ Leban, nwanne nne ya mmiri ka ha ṅụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Emesịa, Jekọb suturu Rechel ọnụ, kwaa akwa nʼoke olu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jekọb kọwaara Rechel na ọ bụ onye ikwu nna ya, bụrụkwa nwa Ribeka. Nʼihi ya Rechel ji ọsọ gbalaa nʼụlọ ha kọọrọ nna ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe Leban nụrụ maka Jekọb nwa nwanne ya nwanyị, o mere ngwangwa pụọ izute ya. Ọ makụrụ ya, sutu ya ọnụ, kpọrọ ya laa nʼụlọ. Nʼebe ahụ, Jekọb kọọrọ ya ihe ndị a niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Leban sịrị ya, “Nʼezie, ị bụ ọkpụkpụ m na anụ ahụ m.” Ije ozi Jekọb nʼihi Rechel na Lịa Ọ nọnyeere ya otu ọnwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Leban sịrị Jekọb, “Ọ bụ nʼihi na ị bụ onye ikwu m ka ị na-agbara m odibo nʼefu? Gwa m ego ole m ga-akwụ gị nʼihi ọrụ ị na-arụrụ m?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Leban mụrụ ụmụ ndị inyom abụọ. Aha nke okenye bụ Lịa. Aha nke nta bụ Rechel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ịma mma Lịa dị ya nʼanya, ma Rechel mara mma nʼahụ, maakwa mma ile anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụ Rechel ka Jekọb hụrụ nʼanya. Nʼihi ya Jekọb gwara Leban sị, “Aga m arụrụ gị ọrụ",
+          {
+            "noteId": 729
+          },
+          "afọ asaa ma ọ bụrụ na ị ga-ekwe ka m lụọ Rechel.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Leban zara Jekọb sị ya, “Ọ dị mma na ị lụrụ Rechel karịa na onye ọzọ ga-alụ ya. Soro m nọdụ nʼebe a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ya mere Jekọb gbara odibo afọ asaa maka Rechel. Ma afọ asaa ndị a dịka abalị ole na ole nʼanya Jekọb nʼihi ịhụnanya o nwere nʼebe Rechel nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Jekọb gwara Leban, okwu sị ya, “Kpọnye m nwunye m nʼihi nʼụbọchị m ezuola. Achọrọ m ịbakwuru ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Leban kpọkọtara ndị niile bi nʼebe ahụ mere ha nʼoke oriri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "noteId": 730
+          },
+          "Nʼanyasị ụbọchị ahụ, Leban kpọọrọ nwa ya nwanyị bụ Lịa kpọbara Jekọb, ọ bakwuuru ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Leban nyekwara Lịa odibo ya, Zilpa, ka ọ bụrụ odibo nwanyị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe chi bọrọ, Jekọb hụrụ na ọ bụ Lịa ka Leban kpọnyere ya. Jekọb sịrị Leban, “Gịnị bụ ihe a i mere m? Ọ bụghị nʼihi Rechel ka m ji gbaara gị odibo? Gịnị mere i ji ghọgbuo m?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Leban zara sị ya, “Ọ bụghị omenaala anyị ibu ụzọ kee nwantakịrị nwanyị nke nta di tupu nke ada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Otu ọ dị, chere ka mmemme izu ụka nke onye nke a gafee. Mgbe ahụ, aga m akpọnyekwa gị onye nke ọzọ a maka odibo ị ga-agbara m afọ asaa ọzọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jekọb mere ka o si kwuo. O debezuru mmemme otu izu ụka onye nke a, Leban kpọnyere ya nwa ya Rechel ka ọ bụrụ nwunye ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Leban nyere nwa ya nwanyị, Rechel, odibo ya nwanyị bụ Bilha, ka ọ bụrụ odibo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jekọb bakwukwara Rechel. Ọ hụrụ Rechel nʼanya nke ukwuu karịa Lịa. Ọ gbakwaara Leban odibo afọ asaa ọzọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Jekọb"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe Onyenwe anyị hụrụ na Lịa bụ nwanyị a kpọrọ asị, o meghere akpanwa ya, ma Rechel bụ nwanyị aga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Lịa tụrụ ime mụọ nwa nwoke, kpọọ ya Ruben. Nʼihi na o kwuru sị, “Ọ bụ nʼihi na Onyenwe anyị ahụla nsogbu m, ugbu a di m ga-ahụ m nʼanya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ọ tụụrụ ime ọzọ mụọkwa nwa nwoke. O kwuru sị, “Onyenwe anyị anụla na m bụ nwanyị a kpọrọ asị, ọ bụ ya mere o ji nye m nwa nwoke ọzọ.” Ya mere ọ kpọrọ aha ya Simiọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Lịa tụrụ ime ọzọ, mgbe ọ mụrụ nwa nwoke, o kwuru sị, “Nʼezie, ugbu a ka di m ga-arapara m nʼahụ, nʼihi na amụọrala m ya ụmụ ndị ikom atọ.” Ya mere ọ kpọrọ aha ya Livayị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ọ tụụrụ ime ọzọ mụọ nwa nwoke. O kwuru sị, “Ugbu a aga m eto Onyenwe anyị.” Ya mere, ọ kpọrọ aha ya Juda. Lịa mụsịrị nwa a kwụsị ịmụ ụmụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 729,
+        "caller": "+",
+        "text": "Onye ọbụla chọrọ ịlụ nwanyị na-akwụ nna nwaagbọghọ ahụ ego akụ, nʼisi ya. Jen 34:12Ma ọ bụrụ na o nweghị ego ịkwụ ego akụ, ọ ga-arụrụ nna nwanyị ahụ ọrụ rụzuo ego ole, maọbụ afọ ole rụrụ ihe o kwesiri ịkwụ dịka ego akụ, nʼisi onye ahụ.",
+        "reference": {
+          "chapter": 29,
+          "verse": 18
+        }
+      },
+      {
+        "noteId": 730,
+        "caller": "+",
+        "text": "Ụmụ nwanyị a lụrụ alụ na-eji akwa mkpudo kpuchie ihu ha. Jen 24:65",
+        "reference": {
+          "chapter": 29,
+          "verse": 23
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/29.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/30.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/28.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

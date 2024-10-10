@@ -1,0 +1,117 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jotam eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jotam gbara iri afọ abụọ na ise mgbe e mere ya eze. Ọ chịrị afọ iri na isii na Jerusalem. Nne ya bụ Jerusha nwa Zadọk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O mere ihe ziri ezi nʼanya Onyenwe anyị dịka nna ya Ụzaya mere, ma o meghị dịka nna ya, ọ banyeghị nʼime ụlọnsọ Onyenwe anyị. Ma ndị mmadụ gara nʼihu na-eme omume ha rụrụ arụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jotam wugharịrị Ọnụ Ụzọ Ama nke dị Elu nke ụlọnsọ ukwu Onyenwe anyị, rụọkwa ọtụtụ ọrụ nʼelu mgbidi nke ugwu Ofel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "O wuru ọtụtụ obodo nʼala ugwu ugwu Juda, wuokwa ọtụtụ ebe e wusiri ike na ụlọ elu nche nʼoke ọhịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jotam busoro eze ndị Amọn agha, meriekwa ha. Nʼafọ ahụ, ndị Amọn bunyere ya narị talenti ọlaọcha, na bushel ọka iri puku na puku abụọ, na bushel ọka balị iri puku na puku abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jotam ghọrọ eze dị ike nʼihi na ọ kpachara anya debe iwu Onyenwe anyị Chineke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ihe ndị ọzọ niile nʼoge ọchịchị Jotam, tinyere ihe gbasara agha niile ọ lụrụ, na ihe ndị ọzọ niile nke o mere, e deturu ha nʼakwụkwọ akụkọ ndị eze Izrel na Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ gbara iri afọ abụọ na ise mgbe e mere ya eze. Ọ chịrị afọ iri na isii na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jotam sooro ndị nna nna ya dina nʼọnwụ, e lie ya nʼobodo Devid. Ehaz nwa ya nwoke ghọrọ eze nʼọnọdụ ya."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/27.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/28.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CH/26.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

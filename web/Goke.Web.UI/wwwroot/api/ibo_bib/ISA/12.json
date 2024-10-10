@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Abụ Otuto"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼụbọchị ahụ, ị ga-ekwu sị,",
+          {
+            "text": "“Aga m eto gị Onyenwe anyị.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ ezie na ị wesara m iwe,",
+            "poem": 2
+          },
+          {
+            "text": "ma ugbu a, iwe gị adajụọla;",
+            "poem": 1
+          },
+          {
+            "text": "ị kasịkwara m obi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Nʼezie, Chineke bụ onye nzọpụta m;",
+            "poem": 1
+          },
+          {
+            "text": "aga m atụkwasị ya obi, ụjọ agaghị atụkwa m.",
+            "poem": 2
+          },
+          {
+            "text": "Onyenwe anyị, Onyenwe anyị ya onwe ya, bụ ike m bụrụkwa abụ m,",
+            "poem": 1
+          },
+          {
+            "text": "ọ ghọrọla m onye nzọpụta.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ị ga-eji ọṅụ dọrọ mmiri",
+            "poem": 1
+          },
+          {
+            "text": "site nʼolulu mmiri nke nzọpụta.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼụbọchị ahụ, ị ga-ekwukwa sị,",
+          {
+            "text": "“Nyenụ Onyenwe anyị otuto, Kwupụtakwa aha ya",
+            "poem": 1
+          },
+          {
+            "noteId": 855
+          },
+          {
+            "text": ";",
+            "poem": 1
+          },
+          {
+            "text": "meenụ ka amata nʼetiti mba niile ihe niile ọ rụrụ",
+            "poem": 2
+          },
+          {
+            "noteId": 856
+          },
+          {
+            "text": ";",
+            "poem": 2
+          },
+          {
+            "text": "kwusaanụ na aha ya bu ihe e buliri elu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Bụkuonụ Onyenwe anyị abụ, nʼihi na o meela oke ihe dị ebube.",
+            "poem": 1
+          },
+          {
+            "text": "Meekwanụ ka ụwa niile mara ihe ọ rụrụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ka ndị niile bi na Zayọn tie mkpu ọṅụ,",
+            "poem": 1
+          },
+          {
+            "noteId": 857
+          },
+          {
+            "text": "bụkwaa abụ.",
+            "poem": 1
+          },
+          {
+            "text": "Nʼihi na Onye nsọ nke Izrel.",
+            "poem": 2
+          },
+          {
+            "noteId": 858
+          },
+          {
+            "text": "dị ukwuu, e, ọ dị ike nke ukwuu, bụ Onye ahụ na-ebi nʼetiti unu.”",
+            "poem": 2
+          },
+          {
+            "noteId": 859
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 855,
+        "caller": "+",
+        "text": "1Ih 16:8; Abụ 105:1",
+        "reference": {
+          "chapter": 12,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 856,
+        "caller": "+",
+        "text": "Abụ 145:4-6.",
+        "reference": {
+          "chapter": 12,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 857,
+        "caller": "+",
+        "text": "Zef 3:14,15",
+        "reference": {
+          "chapter": 12,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 858,
+        "caller": "+",
+        "text": "Abụ 89:18",
+        "reference": {
+          "chapter": 12,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 859,
+        "caller": "+",
+        "text": "Zef 3:17",
+        "reference": {
+          "chapter": 12,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

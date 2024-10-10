@@ -1,0 +1,344 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "ibo_bib",
+    "name": "Job",
+    "commonName": "Job",
+    "title": "Job",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "0476775f2650430f77f43155db2df45d68a0275926893fff0c7a54fb940729a8",
+    "firstChapterApiLink": "/api/ibo_bib/JOB/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOB/42.json",
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwu Zofa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Zofa onye Neama zara sị:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Ọ dịghị nzaghachi dịịrị ọtụtụ okwu niile ndị a?",
+            "poem": 1
+          },
+          {
+            "text": "A ga-agụ onye ekwurekwu a dịka onye ikpe na-amaghị?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Okwu efu gị ndị a ha ga-eme ka mmadụ gba nkịtị?",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ na ọ dịghị onye ga-abara gị mba mgbe ị na-akwa emo?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ị na-asị Chineke, ‘Okwukwe m enweghị ntụpọ,",
+            "poem": 1
+          },
+          {
+            "text": "adịkwa m ọcha nʼanya gị.’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ọ ga-adị m nnọọ mma ma a si na Chineke ga-ekwu okwu,",
+            "poem": 1
+          },
+          {
+            "text": "na ọ ga-asaghe egbugbere ọnụ ya imegide gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Kpugheere gị ihe nzuzo niile nke amamihe,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ezi amamihe nwere akụkụ abụọ.",
+            "poem": 2
+          },
+          {
+            "text": "Mara nke a: Chineke echefuola ụfọdụ mmehie gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "“I nwere ike ịchọpụta ihe omimi Chineke?",
+            "poem": 1
+          },
+          {
+            "text": "I nwere ike ịnwapụta nsọtụ nke Onye pụrụ ime ihe niile?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ha dị elu karịa eluigwe, gịnị ka ị pụrụ ime?",
+            "poem": 1
+          },
+          {
+            "text": "Ha dị ogbu karịa ala ili, gịnị ka ị pụrụ ịma?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ọtụtụ ha dị ogologo karịa ụwa,",
+            "poem": 1
+          },
+          {
+            "text": "dị obosara karịa oke osimiri.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "“Ọ bụrụ na ọ bịa tụba gị nʼime ụlọ mkpọrọ,",
+            "poem": 1
+          },
+          {
+            "text": "kpọkọta ndị ikpe, onye ga-egbochi ya?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Nʼezie, ya onwe ya na-amata ndị nduhie,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe ọ hụrụ ajọ ihe, ọ bụ na ọ dịghị amatakwa ya?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Onye nzuzu ga-aghọ onye maara ihe",
+            "poem": 1
+          },
+          {
+            "text": "naanị mgbe nwa ịnyịnya ibu ọhịa mụrụ ghọrọ mmadụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "“Ma ọ bụrụ na i were obi gị nye ya,",
+            "poem": 1
+          },
+          {
+            "text": "setịpụ aka gị abụọ nye ya,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "ọ bụrụ na i wezuga mmehie nke dị gị nʼaka,",
+            "poem": 1
+          },
+          {
+            "text": "ghara ikwe ka ihe ọjọọ dịrị nʼụlọ ikwu gị",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "mgbe ahụ, ihere agaghị eme gị iwelite ihu gị,",
+            "poem": 1
+          },
+          {
+            "text": "ị ga-eguzokwa chịm na-atụghị egwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Nʼezie ị ga-echefukwa nsogbu gị,",
+            "poem": 1
+          },
+          {
+            "text": "na-echeta ya dịka mmiri gabigara agabiga.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Ndụ gị ga-amụke karịa etiti ehihie,",
+            "poem": 1
+          },
+          {
+            "text": "ọchịchịrị ya ga-adịkwa ka ụtụtụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "Ị ga-anọkwa nʼudo nʼihi na olileanya dị;",
+            "poem": 1
+          },
+          {
+            "text": "ị ga-elegharịkwa anya gburugburu gị zuo ike na-atụghị ụjọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Ị ga-edina ala na-atụghị egwu onye ọbụla,",
+            "poem": 1
+          },
+          {
+            "text": "ọtụtụ ndị mmadụ ga-achọ ịnata amara nʼihu gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Ma anya ndị na-emebi iwu ga-ada,",
+            "poem": 1
+          },
+          {
+            "text": "ha agaghị achọta ụzọ mgbapụ;",
+            "poem": 2
+          },
+          {
+            "text": "olileanya ha ga-abụ nkubi ume nke ọnwụ.”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/JOB/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOB/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOB/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

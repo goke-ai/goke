@@ -1,0 +1,383 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 36,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ụmụ Ịsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro agbụrụ Ịsọ, onye a na-akpọ Edọm."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ịsọ lụrụ ndị inyom a site nʼala Kenan. Onye nke mbụ bụ Ada nwa Elọn, onye Het. Nke abụọ bụ Oholibama, nwa Ana, nwa nwa Zibiọn, onye Hiv."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onye nke atọ bụ Basemat, nwa Ishmel, onye nwanne ya nwanyị bụ Nebaiot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ada mụụrụ Ịsọ Elifaz, ebe Basemat mụrụ Reuel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Oholibama mụtaara Jeush na Jalam na Kora. Ndị a bụ ụmụ Ịsọ ndị a mụtara ya nʼala Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Emesịa, Ịsọ duuru ndị nwunye ya na ụmụ ya ndị ikom na ndị inyom, na ndị niile nọ nʼezinaụlọ ya. Ọ chịkọọrọ anụ ụlọ ya niile, na akụ niile ọ kpatara nʼala Kenan kwapụ gaa biri nʼala dị anya site nʼebe nwanne ya Jekọb nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ebe ọ bụ na akụnụba ha nwere dịkarịrị ukwuu ha ibikọta ọnụ, tinyekwara na ala ebe ha bi enwezighị ike ibuli ha nʼihi anụ ụlọ niile ha nwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ya mere, Ịsọ gara biri nʼala ugwu ugwu Sia, Ịsọ bụkwa Edọm."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro agbụrụ Ịsọ, nna obodo Edọm, nʼala ugwu ugwu Sia."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Ịsọ mụtara. Elifaz bụ ọkpara Ada, nwunye Ịsọ. Nwanne ya bụ Reuel, nwa Basemat, nwunye Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ụmụ Elifaz ndị ikom bụ, Teman, Ọmaa, Zefo, Gatam na Kenaz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Elifaz nwa Ịsọ nwere iko nwanyị aha ya bụ Timna, onye mụtaara ya Amalek. Ndị a niile bụ ụmụ ndị ikom Ada, nwunye Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ụmụ ndị ikom Reuel bụ, Nahat, Zera, Shama na Miza. Ndị a niile bụ ụmụ ụmụ Basemat, nwunye Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị a bụ ụmụ Oholibama, nwunye Ịsọ. Oholibama bụ nwa Ana na nwa nwa Zibiọn. Ọ mụtaara Ịsọ Jeush, Jalam na Kora."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị a bụ ọnụmara si nʼetiti ụmụ ụmụ Ịsọ. Site nʼetiti ụmụ Elifaz, ọkpara Ịsọ, e nwere Ọnụmara Teman, ọnụmara Ọmaa, ọnụmara Zefo, ọnụmara Kenaz."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọnụmara Kora, ọnụmara Gatam na ọnụmara Amalek. Ndị eze ndị a bụ ụmụ Elifaz nʼala Edọm. Ha bụ ụmụ ụmụ Ada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị bụ ụmụ Reuel, nwa Ịsọ, e nwere ọnụmara Nahat, ọnụmara Zera, ọnụmara Shama, ọnụmara Miza. Ọnụmara ndị a bụ ụmụ Reuel nʼala Edọm. Ha bụ ụmụ Basemat, nwunye Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ndị a bụ ụmụ Oholibama, nwunye Ịsọ, ọnụmara Jeush, ọnụmara Jalam, na ọnụmara Kora. Ndị a bụ ọnụmara ụmụ Oholibama nwa Ana, nwunye Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị a niile bụ ụmụ ndị ikom Ịsọ (ya bụ, Edọm). Ndị a bụkwa ọnụmara ha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị a bụ ụmụ ndị ikom Sia onye Hor, ndị bi nʼakụkụ ala ahụ: Lotan, Shobal, Zibiọn, Ana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Dishọn, Eza na Dishan. Ụmụ ndị ikom Sia nʼala Edọm, ha bụ ndị ọnụmara Hor."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ụmụ ndị ikom Lotan bụ, Hori na Homam. Timna bụkwa nwanne nwanyị Lotan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ụmụ ndị ikom Shobal bụ, Alvan, Manahat, Ebal, Shefo na Onam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ụmụ ndị ikom Zibiọn mụrụ bụ Aịa na Ana. Ana bụ nwoke ahụ chọpụtara isi iyi mmiri ime ala ahụ nke mmiri dị ọkụ si nʼime ya na-asọpụta nʼọzara, mgbe ọ na-elekọta ịnyịnya ibu nna ya Zibiọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ụmụ Ana bụ, Dishọn na Oholibama nwa nwanyị Ana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ụmụ ndị ikom Dishọn bụ, Hemdan na Eshban na Itran na Keran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ụmụ ndị ikom Eza bụ, Bilhan na Zaavan na Akan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ụmụ ndị ikom Dishan bụ, Uz na Aran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ndị a bụ ndị ọnụmara Hor, ọnụmara Lotan, ọnụmara Shobal, ọnụmara Zibiọn, ọnụmara Ana,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "ọnụmara Dishọn, ọnụmara Eza na ọnụmara Dishan. Ndị a niile bụ ndị ọnụmara Hor dịka nkewa ha si dị nʼala Sia."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị eze Edọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ndị a bụ ndị eze chịrị nʼEdọm tupu ndị Izrel enwee eze mbụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Bela, nwa Beoa chịrị dịka eze nʼEdọm. Isi obodo ya bụ Dinhaba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mgbe Bela nwụrụ, Jobab nwa Zera onye Bozra nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe Jobab nwụrụ, Husham onye si nʼala Teman nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mgbe Husham nwụrụ, Hadad nwa Bedad, onye meriri ndị Midia nʼagha nʼala Moab nọchiri dịka eze. Isi obodo ya bụ Avit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Mgbe Hadad nwụrụ, Samla onye Masrika nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Mgbe Samla nwụrụ, Shaul onye sitere na Rehobọt dị nʼakụkụ osimiri nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Mgbe Shaul nwụrụ, Baal-Hanan nwa Akboa nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Mgbe Baal-Hanan nwa Akboa nwụrụ, Heda nọchiri ya dịka eze. Aha obodo ya bụ Pau. Aha nwunye ya bụ Mehetabel, nwa Matred nwa nwa Mezahab."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ndị a bụ ndịisi ọnụmara Ịsọ, dịka aha ha si dị, dịka ikwu ha na akụkụ ebe ha bi si dị: Timna, Alva, Jetet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Oholibama, Elaa, Pinon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Kenaz, Teman, Mibza,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Magdiel na Iram. Ndị a bụ ndịisi ọnụmara nʼEdọm, dịka ebe obibi ha na ala obi ha si dị.",
+          {
+            "lineBreak": true
+          },
+          "Nke a bụ ezinaụlọ Ịsọ bụkwa nna ndị Edọm."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/36.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/37.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/35.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

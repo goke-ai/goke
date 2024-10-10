@@ -1,0 +1,249 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "ibo_bib",
+    "name": "1 Ihe E Mere",
+    "commonName": "1 Ihe E Mere",
+    "title": "1 Ihe e mere",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "6f785bd6ba0698a2222fc70c06769c18b5f67b2229bf615cd8d7c99368b4c3ac",
+    "firstChapterApiLink": "/api/ibo_bib/1CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1CH/29.json",
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nkwa Onyenwe anyị kwere Devid"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Devid nọsara ahụ nʼụlọeze ya, ọ sịrị Netan onye amụma, “Lee, mụ onwe m na-ebi nʼụlọ sida, ma igbe ọgbụgba ndụ Onyenwe anyị dị nʼokpuru ụlọ ikwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Netan zaghachiri Devid, “Ihe ọbụla dị gị nʼobi, mee ya, nʼihi na Chineke nọnyeere gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma nʼabalị ahụ, okwu Chineke rutere Netan ntị, na-asị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Gaa gwa ohu m Devid sị ya, ‘Otu a ka Onyenwe anyị kwuru: Gị onwe gị agaghị ewuru m ụlọ ebe m ga-ebi,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "nʼihi na ebibeghị m nʼụlọ site nʼụbọchị m si nʼIjipt kpọpụta Izrel ruo taa. Kama e sitela m nʼotu ọmụma ụlọ ikwu baa na nke ọzọ, sitekwa nʼotu ebe obibi gaa ebe nke ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼebe ọbụla m na-ejegharị nʼetiti ndị Izrel niile, ọ dị mgbe m sịrị onye ọbụla nʼime ndị ndu ha, ndị m nyere iwu ka ha zụọ ndị m, sị, “Gịnị mere unu ewubereghị m ụlọ sida?” ’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "“Ma ugbu a, gwa Devid bụ ohu m, sị, ‘Otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwuru: Mụ onwe m sitere nʼọhịa ebe ịta nri nke ụmụ anụ ụlọ, sikwa nʼebe ị na-azụ igwe ewu na atụrụ kpọpụta gị, mee gị onye na-achị ndị m Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Anọnyekwara m gị nʼebe ọbụla ị gara, kpochapụ ndị iro gị niile site nʼihu gị. Ugbu a, aga m eme ka aha gị dịka aha ndị ikom dịkarịsịrị ukwuu nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Aga m ahọpụta otu ebe nʼihi ndị m Izrel, kụkwa ha dịka osisi ka ha biri nʼebe obibi nke aka ha, ka ha ghara ị bụkwa ndị a na-esogbu ọzọ. Ndị ajọ mmadụ agaghị emegbukwa ha dịka ha mere na mbụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "dịka ha na-emekwa siterị na mgbe m họpụtara ndị ndu nye ndị m Izrel. Aga m eme ka ndị iro gị niile nọrọ nʼokpuru gị. “ ‘Ana m ekwupụtara gị na Onyenwe anyị ga-ewuru gị ụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ụbọchị gị nʼụwa zuru, mgbe ị gakwuru ndị nna nna gị ha, aga m eme ka otu mkpụrụ gị bilie nọchie ọnọdụ gị, ọ ga-abụ otu nʼime ụmụ ndị ị mụrụ. Aga m emekwa ka alaeze ya guzosie ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ọ bụ ya onwe ya ga-ewuru m ụlọ, aga m emekwa ka ocheeze ya guzosie ike ruo mgbe ebighị ebi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mụ onwe m ga-abụrụ ya nna, ya onwe ya ga-abụkwara m nwa. Agaghị m ewezuga ịhụnanya m site nʼebe ọ nọ, dịka m mere onye bu gị ụzọ chịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Aga m eme ka ọ chịa ụlọ m na nʼalaeze m ruo mgbe ebighị ebi. A ga-emekwa ka ocheeze ya bụrụ ihe guzosiri ike ruo mgbe ebighị ebi.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Netan ziri Devid ozi dịka okwu niile nke ọhụ ahụ si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere Devid"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, eze Devid banyere nọdụ ala nʼihu Onyenwe anyị, sị: “Onye ka m bụ, Onyenwe anyị Chineke, gịnịkwa ka ezinaụlọ m bụ, na ị mere ka m bịaruo nʼogogo ha otu a?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "O Chineke m, dịka a ga-asị na nke a bụ ihe dị nta nʼanya gị, ugbu a, i kwuola banyere ọdịnihu nke ụlọ ohu gị. Ma gị onwe gị Onyenwe anyị Chineke na-ele m anya dịka a ga-asị na m bụ onye ọnọdụ ya dị elu karịchasịa nke ụmụ mmadụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "“Gịnị ọzọ ka Devid ga-agwa gị, nʼihi nsọpụrụ i nyere ohu gị? Nʼihi na ị maara ohu gị nke ọma,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "O Onyenwe anyị, nʼihi okwu gị na dịka ọchịchọ obi gị si dị, i meela ihe a dị ukwuu, meekwa ka ọ mata nkwa ndị a niile dị ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "“Onyenwe anyị, ọ dịghị onye dịka gị, ọ dịkwaghị Chineke ọzọ dị ma ọ bụghị gị, dịka anyị nụrụ ya na ntị anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Olee ndị dịka ndị gị, bụ Izrel, bụ otu mba nʼelu ụwa ndị Chineke ha gara ịgbapụtara onwe ya ka ọ bụrụ otu ndị, na iji mere onwe gị aha, rụọkwa ọrụ ịtụnanya dị egwu dịkwa ukwuu nʼihi ha, site nʼịchụpụ mba dị iche iche na chi niile ha site nʼihu ndị gị, bụ ndị ị gbapụtara site nʼIjipt?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "I mere ka ndị gị Izrel bụrụ ndị nke gị ruo mgbe ebighị ebi. Gị onwe gị kwa, Onyenwe anyị, abụrụla Chineke ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“Ma ugbu a, Onyenwe anyị, mee ka nkwa a nke i kwere banyere ohu gị na ụlọ ya bụrụ nke ga-eguzosie ike ruo mgbe ebighị ebi. Mezukwaa ihe niile dịka nkwa gị si dị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "ka o nwee ike guzosie ike. Ka aha gị bụrụ ihe dị ukwuu ruo mgbe ebighị ebi. Mgbe ahụ ndị mmadụ ga-asị, ‘Onyenwe anyị, Onye pụrụ ime ihe niile, Chineke nke na-achị Izrel, bụ Chineke Izrel.’ A ga-emekwa ka ụlọ ohu gị Devid guzosie ike nʼihu gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "“Gị onwe gị, Chineke m, e kpugheerela ohu gị na ị ga-ewuru ya ụlọ. Ya mere, ohu gị ji nwee obi ike ikpere gị ekpere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Gị onwe gị, Onyenwe anyị, bụ Chineke. I kweekwala ohu gị nkwa ihe ọma ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ugbu a, ọ masịrị gị ịgọzi ụlọ ohu gị, ime ka ọ dịrị na-aga nʼihu gị ruo mgbe ebighị ebi, nʼihi na gị Onyenwe anyị, agọziela ya. Ọ ga-abụkwa ihe a gọziri agọzi ruo mgbe ebighị ebi.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/1CH/17.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1CH/18.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1CH/16.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

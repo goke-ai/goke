@@ -1,0 +1,282 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "ibo_bib",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "55fb1ed601140a3772b88951338bf08f2bdc42dc3e530ce470f7aaa6a16b6ea2",
+    "firstChapterApiLink": "/api/ibo_bib/EZR/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZR/10.json",
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ezra abịaruo Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe nke a gasịrị, nʼoge ọchịchị Ataksekses bụ eze Peshịa. Ezra bụ nwa Seraya nwa Azaraya, Azaraya nwa Hilkaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "bụ nwa Shalum, nwa Zadọk, nwa Ahitub,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "nwa Amaraya, nwa Azaraya, nwa Meraiot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Meraiot nwa Zerahaya; Zerahaya nwa Uzi, Uzi nwa Buki;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Buki nwa Abishua, Abishua nwa Finehaz; Finehaz nwa Elieza, Elieza nwa Erọn onyeisi nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ezra a si Babilọn bịarute. Ọ bụ onye ọka nʼihe gbasara iwu ahụ Onyenwe anyị, Chineke Izrel nyere Mosis. Eze nyere ya ihe niile nke ọ rịọrọ, nʼihi na aka Onyenwe anyị Chineke ya dịkwasịrị nʼahụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ụfọdụ ndị Izrel, ndị nchụaja, ndị Livayị, ndị ọbụ abụ, ndị nche na ndị na-eje ozi nʼụlọnsọ, soro ya jee Jerusalem nʼafọ asaa nke ọchịchị eze Ataksekses."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ezra bịaruru Jerusalem nʼọnwa nke ise, nke afọ asaa nke ọchịchị eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ hapụrụ Babilọn nʼabalị mbụ nke ọnwa mbụ, rute Jerusalem nʼabalị mbụ nke ọnwa ise nʼihi na Chineke nọnyeere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nke a mere nʼihi na Ezra kpebiri nʼobi ya ịmụ, na idebe iwu Onyenwe anyị, na ịbụ onye ozizi nke okwu Chineke nye ụmụ Izrel."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Akwụkwọ ozi Ataksekses degara Ezra"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nke a bụ ndepụta akwụkwọ ozi eze, bụ Ataksekses degaara Ezra onye nchụaja, na onye ozizi, na onye ọka nʼihe gbasara iwu na ụkpụrụ nke Onyenwe anyị nyere Izrel:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ataksekses, eze na-achị ndị eze ọzọ, na-edegara Ezra akwụkwọ, bụ onye nchụaja, bụrụkwa onye nkuzi okwu Chineke nke eluigwe. Ndeewo!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ugbu a, ana m enye iwu ka onye Izrel ọbụla bi nʼalaeze m, ma ndị nchụaja, na ndị Livayị, ndị wepụtara onwe ha ị soro gị gaa Jerusalem, ha nwere ike ịga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Eze na mmadụ asaa ndị na-adụ ya ọdụ na-eziga gị Juda na Jerusalem ka ị gaa leba anya nʼiwu Chineke nke dị gị nʼaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọzọkwa, ịga e were onyinye ọlaedo na ọlaọcha ndị a eze na ndị ndụmọdụ ya ji afọ ofufu nye Chineke nke Izrel, onye ebe obibi ya dị na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tinyere ọlaedo na ọlaọcha nke i nwere ike ịnata nʼala ahụ niile nʼakụkụ niile nke Babilọn, tinyekwara onyinye ihuọma si nʼaka ndị mmadụ, na ndị nchụaja niile, maka ụlọnsọ ukwu Chineke ha dị na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ị ga-eji ego niile ndị a zụọ oke ehi, na ebule, na atụrụ, na onyinye mkpụrụ ọka, na onyinye ihe ọṅụṅụ, e ji achụ aja nʼebe ịchụ aja nke ụlọnsọ Chineke dị na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụrụ na ego amapụta nʼime ya, gị na ụmụnne gị ga-eji ya mee ihe unu maara bụ uche Chineke unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ngwongwo niile e bunyere gị maka ije ozi nʼụlọnsọ Chineke, buru ha buruo nʼihu Chineke nke Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma ihe ndị ọzọ nke fọdụrụ nʼihi ụlọnsọ Chineke gị, nke kwesiri na i mere, ị nwere ike site nʼụlọakụ eze mee ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mụ, bụ Ataksekses, na-eziga iwu a nye ndị na-elekọta ego nʼọdịda anyanwụ osimiri Yufretis sị ha, ihe ọbụla Ezra, onye nchụaja, na onye nkuzi okwu Chineke nke eluigwe chọrọ site nʼaka unu, unu nye ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ọ bụladị ruo ọlaọcha dị otu narị talenti, ya na narị akpa ọka wiiti ise, na narị galọọnụ mmanya vaịnị isii, na narị efa",
+          {
+            "noteId": 672
+          },
+          "nke mmanụ oliv na nnu nʼọtụtụ ọbụla, dịka ọ chọrọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ihe ọbụla ọzọ, nke Chineke nke eluigwe chọrọ, ka e mee ha nʼụzọ kwesiri nye maka owuwu ụlọnsọ Chineke nke eluigwe. Nʼihi gịnị ka iwe Chineke ga-eji dakwasị eze na ụmụ ya ndị ikom?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ana m enyekwa iwu na ndị nchụaja niile, ndị Livayị niile, ndị ọbụ abụ niile, ndị nche niile, ndị ozi ụlọnsọ niile, na ndị ọzọ niile na-arụrụ Chineke ọrụ, agaghị atụ ụtụ ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "“Ugbu a, Ezra, ị ga-eji amamihe Chineke gị nyere gị họpụta ndị ikpe, na ndịisi, ndị ga-achị obodo niile dị nʼọdịda anyanwụ nke osimiri Yufretis. Ọ bụrụ na ha amazighị iwu Chineke nke ọma, ị ga-akụziri ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ahụhụ ga-adịrị onye ọbụla jụrụ idebe iwu Chineke, na iwu eze, ga-abụ ọnwụ, maọbụ nchụpụ site nʼala ya gaa mba ọzọ, maọbụ ịnakọrọ ya ihe niile o nwere, maọbụ ịtụba ya nʼụlọ mkpọrọ.”",
+          {
+            "noteId": 673
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Otuto dịrị Onyenwe anyị Chineke nna nna anyị ha, onye mere ka eze kpebie ime ka ụlọnsọ Onyenwe anyị dị na Jerusalem dị mma ile anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Keleekwa Chineke onye nyere m ihuọma nʼihu ndị ndụmọdụ ya, na nʼihu ụmụ eze, bụ ndịisi ọchịchị dị ike. Nʼihi na aka Onyenwe anyị Chineke m nọnyeere m. Eji m obi ike chịkọta ndịisi site nʼIzrel ka ha soro m gaa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 672,
+        "caller": "+",
+        "text": "Nke a bụ narị galọọnụ isii",
+        "reference": {
+          "chapter": 7,
+          "verse": 22
+        }
+      },
+      {
+        "noteId": 673,
+        "caller": "+",
+        "text": "E dere akwụkwọ ozi a, nke sitere nʼamaokwu nke iri na abụọ ruo nke iri abụọ nʼisii nʼasụsụ Aramaik (ndị Siria) nke bụ usoro asụsụ mba na mba ji emerikọta ihe nʼoge ahụ.",
+        "reference": {
+          "chapter": 7,
+          "verse": 26
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZR/7.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZR/8.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZR/6.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

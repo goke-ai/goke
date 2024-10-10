@@ -1,0 +1,182 @@
+{
+  "translation": {
+    "id": "hau_bib",
+    "name": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™",
+    "website": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "hau",
+    "textDirection": "ltr",
+    "sha256": "f7b98712d68944c90ac6eda799ede1e61c24c14e7b2140ccb01e230d07e049ba",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/hau_bib/books.json",
+    "numberOfBooks": 65,
+    "totalNumberOfChapters": 1177,
+    "totalNumberOfVerses": 30730,
+    "languageName": "Hausa",
+    "languageEnglishName": "Hausa"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "hau_bib",
+    "name": "Zabura",
+    "commonName": "Zabura",
+    "title": "Zabura",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e78067311fcd1738fecf41d9125bd907b5108451faa2568b2f100137459efee1",
+    "firstChapterApiLink": "/api/hau_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/hau_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 82,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Zabura ta Asaf."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Allah yana shugabanta cikin babban taro;",
+            "poem": 1
+          },
+          {
+            "text": "yakan zartar da hukunci a cikin “alloli”.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Har yaushe za ku kāre marasa adalci",
+            "poem": 1
+          },
+          {
+            "text": "ku kuma goyi bayan mugaye? Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ku tsare mutuncin marasa ƙarfi da marayu;",
+            "poem": 1
+          },
+          {
+            "text": "ku kāre hakkin matalauta da waɗanda ake danniya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ku ceci marasa ƙarfi da masu bukata;",
+            "poem": 1
+          },
+          {
+            "text": "ku kuɓutar da su daga hannun mugaye.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "“Ba su san kome ba, ba su fahimci kome ba.",
+            "poem": 1
+          },
+          {
+            "text": "Suna yawo cikin duhu;",
+            "poem": 2
+          },
+          {
+            "text": "an girgiza dukan tussan duniya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“Na ce, ‘Ku “alloli” ne;",
+            "poem": 1
+          },
+          {
+            "text": "dukanku ’ya’yan Mafi Ɗaukaka’ ne.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Amma za ku mutu kamar mutum kurum;",
+            "poem": 1
+          },
+          {
+            "text": "za ku fāɗi kamar duk wani mai mulki.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ka tashi, ya Allah, ka shari’anta duniya,",
+            "poem": 1
+          },
+          {
+            "text": "gama dukan al’ummai gādonka ne.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/hau_bib/PSA/82.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/hau_bib/PSA/83.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/hau_bib/PSA/81.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

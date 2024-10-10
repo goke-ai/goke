@@ -1,0 +1,342 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "ibo_bib",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "55fb1ed601140a3772b88951338bf08f2bdc42dc3e530ce470f7aaa6a16b6ea2",
+    "firstChapterApiLink": "/api/ibo_bib/EZR/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZR/10.json",
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndịisi ezinaụlọ niile so Ezra lọta"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ usoro ọmụmụ ndịisi ezinaụlọ ahụ niile sooro m site na Babilọn laghachi mgbe Ataksekses bụ eze:"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ndị ikwu Finehaz, Geshọm; ndị ikwu Itama, Daniel; ndị ikwu Devid, Hatush"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "ndị ikwu Shekanaya; ndị ikwu Parosh, Zekaraya na narị mmadụ na iri ise (150) ndị so ya denye aha ha nʼakwụkwọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ndị ikwu Pahat-Moab, Eliehoenai nwa Zerahaya dị narị mmadụ abụọ (200),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "ndị ikwu Zatu, Shekanaya nwa Jahaziel na narị mmadụ atọ (300) so ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ndị ikwu Adin, Ebed nwa Jonatan na iri mmadụ ise (50) so ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị sitere nʼikwu Elam, Jeshaya nwa Atalaya, na iri ndị ikom asaa (70),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "ndị sitere nʼikwu Shefataya, Zebadaya nwa Maikel, na iri ndị ikom asatọ (80)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị sitere nʼikwu Joab, Ọbadaya nwa Jehiel na narị ndị ikom abụọ na iri na asatọ (218),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "ndị sitere nʼikwu Bani, Shelomit nwa Josifaya na narị ndị ikom na iri isii (160)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ndị sitere nʼikwu Bebai; Zekaraya nwa Bebai na ndị ikom iri abụọ na asatọ (28),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "ndị sitere nʼikwu Azgad, Johanan nwa Hakatan na narị ndị ikom na iri (110)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ndị sitere nʼikwu Adonikam, ndị ikpeazụ, ndị aha ha bụ Elifelet, na Jeuel na Shemaya na iri ndị ikom isii (60) bụ ndị so ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ndị sitere nʼikwu Bigvai, Utai na Zakua na iri ndị ikom asaa (70) bụ ndị so ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nlọrute na Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Akpọkọtara m ha nʼakụkụ osimiri na-erubanye nʼAhava, anyị nọrọ nʼebe ahụ ụbọchị atọ. Mgbe m leruru anya nʼetiti ndị mmadụ zukọrọnụ, ha na ndị nchụaja bịara, a chọpụtara m na o nweghị ọ bụladị otu onye Livayị nọ nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, ezigara m ozi kpọọ Elieza, Ariel, Shemaya, Elnatan, Jarib, Elnatan, Netan, Zekaraya na Meshulam, ndị bụ ndịisi. Ezikwara m ozi kpọọ Joiarib na Elnatan, bụ ndị maara ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Enyere m ha iwu ka ha gakwuru Ido, onyendu nọ na Kasifia. Agwara m ha ihe ha ga-agwa Ido na ndị Livayị ibe ya, bụ ndị na-eje ozi nʼụlọnsọ dị na Kasifia, ka ha zite ndị ga-eje ozi ka ha bịakwute anyị maka ụlọnsọ Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Chineke gosikwara anyị obiọma zitere anyị nwoke a na-akpọ Sherebaya na ụmụ ya, na ụmụnne ya, ndị ọnụọgụgụ ha dị iri na asatọ (18). Sherebaya bụ nwa Mahali, nwa Livayị nwa Izrel, bụrụkwa nwoke nwere ezi uche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Chineke sitere nʼikwu Merari zite Hashabaya, na Jeshaya, tinyere ụmụnne ya na ụmụ ha ndị ikom, ndị ọnụọgụgụ ha dị iri ndị ikom abụọ (20)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ha zitekwara narị abụọ na iri abụọ (220) site na ndị na-eje ozi nʼụlọnsọ. Otu nke Devid na ndịisi ya họpụtara hiwee, maka inyere ndị Livayị aka. E deturu aha ha niile nʼotu nʼotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nʼebe ahụ, ka m nọ kpọsaa obubu ọnụ nʼakụkụ osimiri Ahava, nʼihi iweda onwe anyị ala nʼihu Chineke anyị, na ịrịọ ya ka o duo anyị, ụmụ anyị na akụ anyị niile, nʼụzọ ziri ezi nʼije anyị, ma nọnyekwara anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nʼihi na ihere ekweghị m rịọ eze ka o dunyere anyị ndị agha, na ndị na-agba ịnyịnya ga-edu anyị, ichebe anyị nʼụzọ, site nʼaka ndị iro. Nʼihi na anyị agwalarị eze na Chineke, onye anyị na-efe, na-echebe ndị niile na-efe ya; gwakwa ya na oke iwe ya na-adakwasị ndị niile gbakụtara ya azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ya mere, anyị buru ọnụ, kpee ekpere, rịọ Chineke ka o chebe anyị. O chebekwara anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ahọpụtara m ndị nchụaja iri na abụọ ndị a: Sherebaya, Hashabaya na mmadụ iri ndị ọzọ bụ ụmụnna ha ka ha hụ maka ọlaọcha, na ọlaedo, na efere ọlaedo ahụ, na ihe ndị ọzọ ahụ eze na ndị na-adụ ya ọdụ, na ndịisi ọchịchị ya, na ụmụ Izrel niile nyere maka ụlọnsọ ukwu Chineke anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Eji m ihe ọtụtụ tụọ onyinye ọlaọcha na ọlaedo na ihe ndị ọzọ eze, na ndị ndụmọdụ ya, na ndịisi ozi ya, na ndị Izrel nyere maka ụlọnsọ ukwu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "E jiri m ihe ọtụtụ tụnye ha ọlaọcha dị narị talenti isii na iri ise (ya bụ 650), na ngwongwo ọlaọcha dị otu narị talenti (ya bụ 100), na ọlaedo dị otu narị talenti (ya bụ 100)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Iri efere ọlaedo abụọ (20) nke ọnụahịa ya bụ puku darik (1,000),",
+          {
+            "noteId": 674
+          },
+          "tinyere efere bronz abụọ e hichaziri nke ọma, nke dị oke ọnụahịa dị ka efere ọlaedo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Emesịa, agwara m ha okwu sị ha, “Lee, unu onwe unu na ihe ndị a niile bụ ihe dị nsọ nye Onyenwe anyị. Ọlaọcha na ọlaedo ndị a bụkwa onyinye afọ ofufu e nyere Onyenwe anyị Chineke nna nna unu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Chenụ ha nche, debekwa ha nke ọma, tupu ruo mgbe unu ga-atụ ha nʼihu ndịisi nchụaja, na ndịisi Livayị, na ndịisi ụlọ nke Izrel nʼime Jerusalem, nʼime ụlọakụ nke ụlọ Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ya mere, ndị nchụaja na ndị Livayị kwenyere ibu ọlaọcha na ọlaedo, na ngwongwo ihe nsọ ndị ahụ, buga ha nʼụlọnsọ ukwu Chineke dị na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Anyị hapụrụ osimiri Ahava nʼụbọchị nke iri na abụọ nke ọnwa mbụ, chee ihu anyị ịga Jerusalem. Chineke nọnyekwaara anyị, dọpụta anyị site nʼaka ndị iro ọbụla, na nʼaka ndị ohi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼikpeazụ, anyị rutere Jerusalem nʼudo, zukwaa ike ụbọchị atọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼụbọchị nke anọ, site nʼoge anyị ruru, e jiri ihe ọtụtụ tụọkwa ọlaọcha na ọlaedo ahụ, ha na ngwongwo ihe nsọ ndị ọzọ ahụ. E mere nke a nʼụlọnsọ ukwu Chineke. Ndị tụrụ ha bụ Meremot nwa Ụraya onye nchụaja, na Elieza nwa Finehaz. Jozabad nwa Jeshua, na Noadaya nwa Binui, ndị Livayị, sokwa tụọ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ihe niile zuru ezu dịka ịdị arọ ha si dị. E dekwara ọnụọgụgụ ihe a tụpụtara nʼakwụkwọ nʼoge ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Emesịa, onye ọbụla nʼime anyị si esi lọta chụụrụ Chineke Izrel aja nsure ọkụ. E ji oke ehi iri na abụọ chụọ aja maka ebo Izrel niile, ya na iri ebule itoolu na isii, na iri ụmụ ebule asaa na asaa. Ma e ji mkpi iri na abụọ chụọ aja mmehie. E jichakwa ha niile chụọ aja nsure ọkụ nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "E nyere ndịisi ọrụ eze niile, na ndịisi ọchịchị",
+          {
+            "noteId": 675
+          },
+          "niile dị nʼofe ọdịda anyanwụ osimiri Yufretis akwụkwọ iwu ahụ eze nyere. Ndịisi a nyekwara aka nʼọrụ iwughachi ụlọnsọ Chineke ahụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 674,
+        "caller": "+",
+        "text": "Ya bụ kilogram asatọ na ụma anọ",
+        "reference": {
+          "chapter": 8,
+          "verse": 27
+        }
+      },
+      {
+        "noteId": 675,
+        "caller": "+",
+        "text": "Ndịisi ọrụ eze bụ ndị ọchịchị nke mpaghara dị iche iche nke alaeze ahụ dị nʼaka. Ndịisi ọchịchị ọzọ niile na-arụ nʼokpuru ha.",
+        "reference": {
+          "chapter": 8,
+          "verse": 36
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZR/8.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZR/9.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZR/7.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 36
+}

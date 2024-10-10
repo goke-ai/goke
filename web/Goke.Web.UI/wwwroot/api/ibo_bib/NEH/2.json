@@ -1,0 +1,253 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nehemaya abịaruo Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼọnwa Nisan, nʼiri afọ abụọ nke ọchịchị eze Ataksekses, mgbe e wetaara eze mmanya. E buru m mmanya ahụ bugara ya eze. Ugbu a, o nwebeghị mgbe ọbụla m jirila ihu mgbarụ bịa nʼihu eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ya mere, eze jụrụ m, “Gịnị mere ihu gị ji gbaruo mgbe ọ dịghị ọrịa ji gị? Nke a na-egosi naanị na obi jọrọ gị njọ.” Ụjọ tụrụ m nnọọ nke ukwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Azara m eze sị, “Onyenwe m, ka ọchịchị eze dị ogologo ndụ. Gịnị ga-eme ka obi dị m ụtọ ebe ọ bụ na obodo ahụ e liri nna nna m ha aghọọla mkpọmkpọ ebe, nke a kpọkwara ọnụ ụzọ ama ya niile ọkụ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eze sịrị m, “Ọ bụ gịnị ka ị chọrọ?” Mgbe ahụ ekpere m ekpere nʼobi m nye Chineke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "ma zaa eze sị, “Ọ bụrụ na ọ ga-amasị eze, biko, ọ bụrụkwa na ohu gị achọta ihuọma nʼanya gị, ana m arịọ ka ị ziga m Juda, bụ obodo nna nna m ha, ka m gaa wugharịakwa ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Eze sịrị m, ebe nwunye ya nọkwa nʼakụkụ ya, “Ije gị ọ ga-abụ ruo olee mgbe, olee mgbe ị ga-alọghachitekwa?” Ọ masịrị eze i ziga m. Ya mere, enyere m ya oge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ahụ, asịrị m ya, “Ọ bụrụ na ọ ga-amasị eze, aga m achọ ka i nye m akwụkwọ nke m ga-enye ndịisi ọchịchị niile nọ nʼakụkụ ọdịda anyanwụ osimiri Yufretis, ka ha kwere ka m site nʼobodo ha gafee ruo mgbe m ga-eru na Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nyekwa m akwụkwọ ozi m ga-enye Asaf, onye na-elekọta ọhịa eze, ka o nye m osisi nke a ga-eji rụzie ọnụ ụzọ dị nʼakụkụ ụlọnsọ, na nke a ga-eji rụọ mgbidi obodo ahụ, na nke m ga-eji rụọ ụlọ nke aka m.” Eze meere m ihe ndị a niile, nʼihi na aka ebere Chineke dịnyere m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe m rutere obodo ndị a dị nʼakụkụ ọdịda anyanwụ osimiri Yufretis, enyere m ndịisi ọchịchị niile akwụkwọ ahụ eze dere nye m. Eze dunyere m ndịisi agha na ndị agha na-agba ịnyịnya ka ha chebe m nʼije m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma mgbe Sanbalat,",
+          {
+            "noteId": 1461
+          },
+          "onye Horonaim, na Tobaya, onye Amọn bụ onyeisi ọrụ ọchịchị, nụrụ ihe banyere ọbịbịa m, iwe were ha nke ukwuu ịnụ na o nwere onye na-achọ inyere ndị Izrel aka."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nehemaya eledo Mgbidi Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "E rutere m Jerusalem, nọdụkwa ebe ahụ mkpụrụ ụbọchị atọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "eji m abalị pụọ kpọrọ mmadụ ole na ole. O nwebeghị onye ọbụla m gwara ihe Chineke tinyere m nʼobi ime na Jerusalem. Ọ dịghị ịnyịnya ọzọ anyị ji ma ọ bụghị nke ahụ m na-agba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼabalị a pụrụ m site nʼỌnụ ụzọ ama Ndagwurugwu",
+          {
+            "noteId": 1462
+          },
+          "ruo nʼisi iyi mmiri Nkịta ọhịa,",
+          {
+            "noteId": 1463
+          },
+          "sitekwa nʼebe ahụ ruo nʼỌnụ ụzọ ama ebe ikpofu ahịhịa.",
+          {
+            "noteId": 1464
+          },
+          "Anyị jegharịrị ịhụ ebe niile mgbidi Jerusalem dara ada, na ọnụ ụzọ ama ya niile nke ọkụ rere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Emesịa, ejeruru m ọnụ ụzọ nke dị nʼebe isi iyi dị, ruokwa nʼọdọ mmiri eze, ma ịnyịnya ibu m enweghị ike isite nʼebe ahụ gafee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya mere, ejiri m nʼabalị jeruo ndagwurugwu ahụ, leruo mgbidi ahụ anya. Emesịa, atụgharịrị m lọghachi site nʼọnụ ụzọ Ama ndagwurugwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndịisi obodo amaghị ebe m gara maọbụ ihe m na-eme, nʼihi na agwabeghị m onye Juu ọbụla ihe m bu nʼobi, maọbụ ndị nchụaja, maọbụ ndị a na-asọpụrụ, maọbụ ndị ọchịchị obodo, maọbụ onye ọzọ ọbụla ndị ga-arụ ọrụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼikpeazụ, agwara m ha sị, “Unu maara nke ọma ihe dakwasịrị obodo anyị. Lee otu mgbidi ya si dakasịa, na otu ọnụ ụzọ ama ya si rechapụ ọkụ. Ka anyị wuzienụ mgbidi Jerusalem, si otu a wepụ ihe ihere a dịịrị anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Akọọrọ m ha ọchịchọ ahụ Chineke tinyere m nʼobi na ihe mụ na eze kwuru, na otu o si kwadoo ihe m gwara ya. Ha zara m sị, “Ọ dị mma, ka anyị wugharịanụ mgbidi ahụ.” Ọrụ ahụ bidokwara na-atụfughị oge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma mgbe Sanbalat, onye Horon, na Tobaya, onyeozi ndị Amọn, na Geshem onye Arab, nụrụ ya, ha kwara anyị emo sị, “Gịnị bụ ihe nke a unu na-eme? Ọ bụ eze ka unu na-enupu isi megide?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma azara m ha sị, “Chineke nke eluigwe ga-eme ka ihe gara anyị nke ọma. Anyị onwe anyị bụ ndị ohu ya ga-amalite iwughachi mgbidi a, ma unu onwe unu, unu enweghị oke maọbụ ọnọdụ ziri ezi maọbụ ihe ncheta ọbụla nʼime Jerusalem.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1461,
+        "caller": "+",
+        "text": "Bụ onyeisi ọchịchị na Sameria.",
+        "reference": {
+          "chapter": 2,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 1462,
+        "caller": "+",
+        "text": "Ọnụ ụzọ ama a dị nʼọdịda anyanwụ nke mgbidi Jerusalem, 2Ih 26:9; Neh 3:13.",
+        "reference": {
+          "chapter": 2,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 1463,
+        "caller": "+",
+        "text": "Agwọ, nʼokwu ịma atụ",
+        "reference": {
+          "chapter": 2,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 1464,
+        "caller": "+",
+        "text": "Ọnụ ụzọ ama dị nʼebe a na-ekpofu ahịhịa, bụ ọnụ ụzọ ndị Juu na-esite mgbe ha na-edupụ ụmụ anụmanụ e ji achụ aja, ị duru ha jeruo Ndagwurugwu nke Ben Hinom. Gụọ akwụkwọ Neh 3:14; 2Ez 23:10",
+        "reference": {
+          "chapter": 2,
+          "verse": 13
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

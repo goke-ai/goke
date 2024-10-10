@@ -1,0 +1,235 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 137,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Abụ ndị a dọtara nʼagha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Nʼakụkụ iyi niile Babilọn ka anyị nọdụrụ ala kwaa akwa",
+            "poem": 1
+          },
+          {
+            "text": "mgbe anyị chetara Zayọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ọ bụ nʼosisi pọpla",
+            "poem": 1
+          },
+          {
+            "text": "ka anyị kokwasịrị ụbọ akwara anyị niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Nʼebe ahụ ka ndị dọtara anyị nʼagha gwara anyị ka anyị bụọrọ ha abụ,",
+            "poem": 1
+          },
+          {
+            "text": "ndị na-emekpa anyị ahụ rịọrọ anyị ka anyị bụọrọ ha abụ ọṅụ;",
+            "poem": 2
+          },
+          {
+            "text": "ha kwuru sị, “Bụọrọnụ anyị otu abụ nʼime abụ Zayọn!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ma, olee otu anyị ga-esi bụọ abụ Onyenwe anyị",
+            "poem": 1
+          },
+          {
+            "text": "ebe anyị nọ nʼala ọzọ?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ọ bụrụ na m echezọọ gị, Jerusalem,",
+            "poem": 1
+          },
+          {
+            "text": "ka aka nri m chefuo ǹka ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ọ bụrụ na m echezọọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụrụkwa na m akwụsị iche echiche",
+            "poem": 2
+          },
+          {
+            "text": "banyere Jerusalem, oke ọṅụ m,",
+            "poem": 1
+          },
+          {
+            "text": "ka ire m rapara nʼokpo ọnụ m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Cheta, o Onyenwe anyị, ihe ndị Edọm mere",
+            "poem": 1
+          },
+          {
+            "text": "nʼụbọchị ahụ a dọtara Jerusalem nʼagha.",
+            "poem": 2
+          },
+          {
+            "noteId": 1702
+          },
+          {
+            "text": "“Tikpọsịa ya,” ka ha tiri,",
+            "poem": 1
+          },
+          {
+            "text": "“Tikpọsịa ya ruo na ntọala ya niile!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Gị ada Babilọn, onye a ghaghị ịla nʼiyi,",
+            "poem": 1
+          },
+          {
+            "text": "ọṅụ ga-abụ nke onye ahụ ga-akwụghachi gị ụgwọ ọrụ ruru gị",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi ihe i mere anyị,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "onye ahụ ga-achịrị ụmụ gị ndị na-aṅụ ara",
+            "poem": 1
+          },
+          {
+            "text": "tụpịa ha nʼelu nkume.",
+            "poem": 2
+          },
+          {
+            "noteId": 1703
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1702,
+        "caller": "+",
+        "text": "Mgbe Nebukadneza meriri Jerusalem, ma bibiekwa ya, ndị Edọm ṅụrịrị oke ọnụ nʼihi na ndị Izrel bụ ndị iro ha. Ma omume a ezighị ezi nʼihi na ndị Edọm na ndị Izrel bụ ụmụnna. Ndị Edọm bụ ụmụ ụmụ Ịsọ, Izk 25:12-14; Ems 1:11; Ọbd 10-14",
+        "reference": {
+          "chapter": 137,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 1703,
+        "caller": "+",
+        "text": "Nʼoge agha, ndị meriri nʼagha na-achịkọta ụmụaka niile dị nʼobodo ahụ ha meriri, tụpịasịa ha isi na nkume. Ha na-eme nke a i ji mesie mmeri ha meriri obodo ahụ ike, nakwa i ji mee ka a ghara inwe ọgbọ ọzọ ga-ebili nʼobodo ahụ. 2Ez 8:12; Aịz 13:16; Hos 13:16; Nhu 3:10",
+        "reference": {
+          "chapter": 137,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/137.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/138.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/136.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

@@ -1,0 +1,192 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "ibo_bib",
+    "name": "Joshua",
+    "commonName": "Joshua",
+    "title": "Joshua",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "8e1d5caf9da7743a3c9001a4bcf4880157d1b5427a9bdf5550f365a0b3315c7a",
+    "firstChapterApiLink": "/api/ibo_bib/JOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOS/24.json",
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okike ala dị nʼọwụwa anyanwụ Jọdan"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Otu a ka esi kenye ndị Izrel ala Kenan, bụ nke Elieza onye nchụaja,",
+          {
+            "noteId": 1167
+          },
+          "na Joshua, nwa Nun, na ndị ndu ikwu niile dị nʼebo Izrel kere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ebo ọbụla nʼime ebo itoolu na ọkara ahụ fọdụrụ nwetara ihe nketa ha site nʼife nza, dịka Onyenwe anyị nyere ya Mosis nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma Mosis enyelarị ebo abụọ na ọkara ala nke ha nʼofe ọzọ nke osimiri Jọdan, nʼakụkụ ọdịda anyanwụ. Ma o kenyeghị ndị Livayị ihe nketa ọbụla nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼihi na ụmụ Josef dị ebo abụọ, ya bụ Manase na Ifrem.",
+          {
+            "noteId": 1168
+          },
+          "Enyeghị ndị Livayị oke nʼala ahụ, karịa obodo ụfọdụ ebe ha ga-ebi na ebe ịta nri nke anụ ụlọ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ndị Izrel keere ala ahụ nʼusoro dịka iwu Onyenwe anyị nyere Mosis si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ala Kaleb ketara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼoge a, ụmụ Juda zipụrụ ndị ozi ndị jekwuuru Joshua na Gilgal. Kaleb, nwa Jefune, onye Keniz so ha nʼije a. Mgbe ha bịarutere, Kaleb gwara Joshua okwu sị ya, “I chetakwara okwu ahụ Onyenwe anyị gwara Mosis onye nke Chineke banyere gị na banyere mụ onwe m, mgbe anyị nọ na Kadesh Banea?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Agbara m iri afọ anọ nʼoge ahụ Mosis onyeozi Onyenwe anyị si na Kadesh Banea zipụ anyị ịga iledo ala ndị Kenan anya. Mgbe anyị lọghachiri, agwara m ya okwu, kọwaara ya ihe m chere nʼobi m bụ eziokwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma ụmụnna anyị, ndị anyị na ha so gaa, menyere ụmụ Izrel egwu, mee ka obi ha daa mba ịchọ ịbanye nʼala ahụ e kwere anyị na nkwa. Ma ebe m nọgidere jiri obi m niile soro Onyenwe anyị Chineke m,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mosis ṅụrụ iyi sị m, ‘Ebe ọ bụ na i ji obi gị niile soro Onyenwe anyị Chineke m, ala ahụ i jegharịrị ije nʼelu ya ga-abụ ihe nketa nye gị na ụmụ gị ruo mgbe ebighị ebi.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“Ugbu a, dịka Onyenwe anyị kwere na nkwa, o meela ka m dị ndụ. Nke a bụ iri afọ anọ na ise kemgbe Onyenwe anyị gwara Mosis okwu ndị a, mgbe Izrel na-awagharị nʼọzara. Ma ugbu a, lee, agbaala m iri afọ asatọ na ise taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "M dị ike taa dịka m dị nʼụbọchị ahụ Mosis zipụrụ m. Dịka ike m dị mgbe ahụ, adịkwa m ike ugbu a, ịpụ buo agha ma batakwa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, nye m ala ugwu ugwu ahụ Onyenwe anyị kwere m nkwa nʼụbọchị ahụ. Gị onwe gị nụrụ nʼoge ahụ na ụmụ Anak bi nʼebe ahụ, na obodo ha bukwara ibu, na e jikwa mgbidi e wusiri ike gbaa ha gburugburu. Ma site nʼinyeaka Onyenwe anyị, aga m achụpụ ha dịka Onyenwe anyị kwuru.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi nke a, Joshua gọziri Kaleb nwa Jefune. O nyere ya obodo Hebrọn ka ọ bụrụ ihe nketa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, obodo Hebrọn ghọrọ ihe nketa Kaleb nwa Jefune onye Keniz bido mgbe ahụ, nʼihi na o ji obi ya niile soro Onyenwe anyị, Chineke Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tupu oge a, aha a na-akpọ Hebrọn bụ Kiriat Aaba, nke pụtara Obodo Aaba. Aaba bụkwa aha nwoke kachasị ịdị ukwuu nʼetiti ndị Anak niile. Site nʼoge a gaa nʼihu, e nwere udo nʼala ahụ niile."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1167,
+        "caller": "+",
+        "text": "Elieza bụ nwa Erọn. Ọpụ 6:23; 28:1",
+        "reference": {
+          "chapter": 14,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1168,
+        "caller": "+",
+        "text": "Jekọb mere ụmụ ndị ikom abụọ a mụtara Josef nʼala Ijipt ndị nke ya, ị ga-agụta nke a nʼakwụkwọ Jen 48:5Nʼihi ọnọdụ ọhụrụ a ha nwere dịka ụmụ Jekọb, o nyere ha ikike i keta oke nʼihe o nwere, dịka ụmụ ya ndị ọzọ si keta.",
+        "reference": {
+          "chapter": 14,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOS/14.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/15.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/13.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

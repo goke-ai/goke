@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 46,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb abịaruo Ijipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Izrel biliri ije, ya na ihe niile o nwere rute Bịasheba. Ebe a, ọ chụrụ aja nye Chineke nke nna ya Aịzik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Chineke gwara Izrel okwu nʼọhụ nke abalị. Ọ sịrị, “Jekọb! Jekọb!” Ọ zara sị, “Lee m nʼebe a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Chineke gwara ya sị, “Abụ m Chineke, Chineke nke nna gị. Atụla egwu ịgbada Ijipt nʼihi na aga m eme gị ka ị ghọọ mba dị ukwuu nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mụ onwe m ga-eso gị agbada nʼala Ijipt. Mụ onwe m ga-akpọlatakwa gị ọzọ. Josef nʼonwe ya ga-eji aka ya ekpuchikwa gị anya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jekọb mechara si na Bịasheba pụta. Ụmụ Izrel kuuru Jekọb nna ha, na ụmụaka ha na ndị nwunye ha, kubanye nʼụgbọala ahụ Fero zitere ka ha ji bute ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ha buuru anụ ụlọ ha niile, na ihe onwunwe ha niile, nke ha kpatara nʼala Kenan, gaa Ijipt. Jekọb na agbụrụ ya niile so."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ụmụ ya ndị ikom niile, na ụmụ ụmụ ya ndị ikom niile, na ụmụ ya ndị inyom niile, na ụmụ ụmụ ya ndị inyom niile, na ndị niile bụ mkpụrụ afọ ya, ka ọ kpọrọ gaa Ijipt."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Izrel, ya bụ Jekọb na ụmụ ụmụ ya, ndị sooro ya gaa Ijipt.",
+          {
+            "lineBreak": true
+          },
+          "Ruben, ọkpara Jekọb"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụmụ ndị ikom Ruben bụ, Hanok, na Palu, na Hezrọn na Kami."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ụmụ ndị ikom Simiọn bụ, Jemuel, na Jamin, na Ohad, na Jakin, na Zoha, na Shaul. Nne Shaul bụ nwanyị Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ụmụ ndị ikom Livayị bụ, Geshọn, na Kohat, na Merari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ụmụ ndị ikom Juda bụ, Ịa, na Onan, na Shela, na Perez, na Zera. Ma Ịa na Onan nwụrụ nʼala Kenan. Ụmụ ndị ikom Perez bụ, Hezrọn na Hamul."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma ụmụ ndị ikom Isaka bụ, Tola, na Puva, na Jashub, na Shịmrọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ụmụ ndị ikom Zebụlọn bụ, Sered, na Elọn, na Jaliil."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị a bụ ụmụ ndị ikom Lịa mụụrụ Jekọb nʼala Padan Aram. Ọ mụtakwara otu nwanyị aha ya bụ Daịna. Ụmụ ndị ikom na ndị inyom ndị a dị iri atọ na atọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ụmụ ndị ikom Gad bụ, Zefọn, na Hagi, na Shuni, na Ezbon, na Eri, na Arodi na Areli."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ụmụ ndị ikom Asha bụ, Imna, Ishva, Ishvi na Beriya. Nwanne ha nwanyị bụ Sera. Ụmụ Beriya bụ, Heba na Malkiel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ndị a bụ ụmụ a mụụrụ Jekọb site na Zilpa, odibo nwanyị ahụ Leban kpọnyere Lịa nwa ya nwanyị. Ha dị iri na isii nʼọnụọgụgụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ụmụ ndị ikom Jekọb site na Rechel nwunye ya bụ, Josef na Benjamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nʼala Ijipt, a mụụrụ Josef Manase na Ifrem, site na nwunye ya Asenat nwa nwanyị Pọtifera, onye nchụaja nke On."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ụmụ ndị ikom Benjamin bụ, Bela, Beka, Ashbel, Gera, Neeman, Ehi, Rosh, Mupim, Hupim na Aad."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ndị a bụ ndị ikom nke Rechel mụụrụ Jekọb. Ha dị iri na anọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nwa nwoke nke Dan mụrụ bụ, Hushim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ụmụ ndị ikom Naftalị bụ, Jaziil, na Guni, na Jeza, na Shilem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị a bụ ụmụ ndị ikom a mụụrụ Jekọb site na Bilha, odibo nwanyị ahụ Leban kpọnyere nwa ya nwanyị Rechel. Ha niile dị asaa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ya mere, ndị niile so Jekọb gaa Ijipt, ndị bụ ụmụ ụmụ ya, na-agụghị ndị nwunye ụmụ Jekọb niile, dị iri mmadụ isii na isii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Tinyere ụmụ ndị ikom abụọ amụtara nye Josef nʼIjipt, ndị si nʼezinaụlọ Jekọb gara Ijipt dị iri asaa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Jekọb zipụrụ Juda ka jekwuru Josef ịjụta ya ụzọ Goshen. Mgbe ha rutere nʼala Goshen,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Josef kwadoro ịnyịnya ụgbọ ya gawa Goshen izute nna ya Izrel. Mgbe Josef bịara nʼihu nna ya, ọ makụrụ ya, bee akwa ogologo oge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Izrel gwara Josef sị, “Ugbu a ejikerela m ịnwụ, ebe m hụrụ ihu gị anya ọzọ, mata na ị ka dị ndụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe ahụ, Josef gwara ụmụnne ya na ndị ezinaụlọ nna ya niile sị, “Ka m gaa kọọrọ Fero. Ka m gaa sị ya, ‘Ụmụnne m na ezinaụlọ nna m, ndị bi nʼala Kenan abịakwutela m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ha bụ ndị ọzụzụ atụrụ, ndị na-elekọta anụ ụlọ. Ha chị igwe ewu na atụrụ ha, na igwe ehi ha, na ihe niile ha ji biri.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ya mere, ọ bụrụ na Fero akpọ unu jụọ unu ajụjụ sị, ‘Gịnị bụ ọrụ aka unu?’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Unu ga-asị ya, ‘Ndị ohu gị bụ ndị ọzụzụ anụ ụlọ site na mgbe anyị bụ ụmụnta, dịka nna nna anyị ha bụ.’ Mgbe ahụ, ọ ga-ekwe ka unu biri nʼala Goshen. Nʼihi na ndị niile na-azụ ewu na atụrụ bụ ndị akpọrọ asị nʼala Ijipt.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/46.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/47.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/45.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,270 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Eze",
+    "commonName": "2 Ndị Eze",
+    "title": "2 Ndị Eze",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "ef5236a4bf8f2ef841995e04d82bf4f37b3f368a02d2b12f0ec9671c38f7b59d",
+    "firstChapterApiLink": "/api/ibo_bib/2KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2KI/25.json",
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nnupu isi Moab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jehoram nwa Ehab, malitere ịbụ eze ndị Izrel na Sameria nʼafọ nke iri na asatọ nke ọchịchị Jehoshafat na Juda. Afọ iri na abụọ ka ọ chịrị dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O mere ihe ọjọọ nʼanya Onyenwe anyị, ma ọ bụghị dịka nna ya na nne ya mere. O wezugara nkume ahụ e doro nsọ nye Baal nke nna ya kpụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Otu ọ dị, ọ nọgidere na mmehie Jeroboam nwa Nebat, onye mere ka Izrel baa nʼime mmehie ife arụsị. Joram esiteghị na ha wezuga onwe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eze ndị Moab, bụ Misha, na ndị ya, bụ ndị na-azụ atụrụ. Nʼafọ niile, ọ na-atụrụ eze Izrel otu narị puku ajị ebule, na otu narị puku atụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma mgbe Ehab eze Izrel nwụrụ, eze Moab nupuru isi megide eze Izrel, jụkwa ịnọ nʼokpuru ya ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere, eze Joram sitere na Sameria pụọ ga kpọkọta ndị Izrel niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "O zigara Jehoshafat eze Juda ozi sị ya, “Eze Moab enupula isi megide m. Ị ga-abịa soro m ịga buso ndị Moab agha?” Ọ zaghachiri, “Aga m eso gị gaa. Mụ na gị bụ otu, ndị m bụ ndị gị, ịnyịnya m bụkwa ịnyịnya gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“Ma olee ụzọ anyị ga-esi gaa ibu agha ahụ?” Joram zara, “Anyị ga-esi ụzọ ọzara Edọm.",
+          {
+            "noteId": 239
+          },
+          "”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ya mere, eze Izrel na eze Juda, na eze Edọm,",
+          {
+            "noteId": 240
+          },
+          "na ndị agha ha niile, zukọtara site ụzọ ọzara Edọm ịga ibuso Moab agha. Ha gara ije abalị asaa nʼọzara. Ma mmiri ọṅụṅụ ha nwere gwụsịrị. Ọ dịkwaghị mmiri dịrị anụ ụlọ ha, na ndị agha ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ahụ, eze Izrel tiri mkpu sị, “Gịnị ka anyị ga-eme? Ọ ga-abụ na Onyenwe anyị kpọpụtara anyị bụ eze atọ ndị a, nʼebe a, inyefe anyị nʼaka ndị Moab, ka ha merie anyị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma Jehoshafat, eze Juda, jụrụ ajụjụ sị, “Ọ bụ na o nweghị onye amụma Onyenwe anyị nọ nʼebe a, onye anyị ga-esi nʼaka ya jụta Onyenwe anyị ase, site na ya?” Otu onyeisi agha ndị Izrel sị ha, “Ịlaisha, nwa Shafat, onye jeere Ịlaịja ozi, nọ nʼebe a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jehoshafat zara sị, “Okwu Onyenwe anyị dị nʼọnụ ya.” Ya mere, eze Izrel na Jehoshafat, na eze Edọm, gakwuru ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ịlaisha zara eze Izrel sị, “Gịnị ka mụ na gị nwekọrọ? Jekwuru ndị amụma nne gị na nna gị, jụta ha ase.” Eze Izrel zara sị ya, “Mba, nʼihi na ọ bụ Onyenwe anyị kpọpụtara anyị bụ eze atọ nʼebe a, ka o were anyị nyefee nʼaka ndị Moab.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ịlaisha sịrị, “Ebe Onyenwe anyị, Onye pụrụ ime ihe niile na-adị ndụ, bụ onye m na-efe, a si na ọ bụghị nsọpụrụ m nwere nʼebe Jehoshafat eze Juda nọ, agaraghị m atụpụrụ gị ọnụ maọbụ lee gị anya nʼihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma ugbu a, kpọtaranụ m onye na-akpọ ụbọ.” Mgbe ọkpọ ụbọ ahụ malitere ịkpọ ụbọ ya, aka Onyenwe anyị bịakwasịrị Ịlaisha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ sịrị, “Ihe a ka Onyenwe anyị kwuru, aga m eme ka ndagwurugwu a jupụta nʼolulu mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼihi na otu a ka Onyenwe anyị kwuru, Unu agaghị ahụ ifufe maọbụ mmiri ozuzo, ma ndagwurugwu a ga-ejupụta na mmiri, unu onwe unu ga-aṅụ, na ehi unu, na anụmanụ ndị ọzọ unu ga-aṅụkwa mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma nke a bụ ihe dị nta nʼebe Onyenwe anyị nọ, nʼihi na ọ ga-enyefekwa ndị Moab nʼaka unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Unu ga-etigbu obodo ọbụla e wusiri ike, na obodo ukwu niile. Unu ga-egbudakwa ezi osisi ha na-amị mkpụrụ, kpọchie isi mmiri ha niile, werekwa nkume mebikwaa ezi ala ubi ha niile.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "O ruo, nʼụtụtụ, nʼoge e ji achụ aja nsure ọkụ ụtụtụ, lee na mmiri sitere ụzọ Edọm sọọrọ bịa nʼebe ahụ ha gwuru olulu na ndagwurugwu ala ahụ sọjuo ala ahụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ndị Moab nụrụ na ndị eze ahụ na-abịa imegide ha, ha kpọkọtara ndị ikom ọbụla nwere ike ịlụ agha, ma okenye ma okorobịa, pụta bịa guzo nʼoke ala ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe chi bọrọ nʼisi ụtụtụ, anyanwụ wara mụkwasị mmiri ahụ. Site nʼebe ha nọ, ndị Moab lepụrụ anya hụ mmiri ahụ ka ọ na-acha ọbara ọbara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ahụ, ha sịrịtara onwe ha, “Leenụ ọbara! Ọ ga-abụ na ndị agha eze atọ ndị a etigbuola onwe ha. Pụtanụ, unu ndị Moab, ka anyị gaa kwakọrọ ihe nkwata na-agha!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe ha gbaara ọsọ bịaruo nʼụlọ agha ndị Izrel, ndị agha Izrel biliri malite itigbu ha. Ya mere, ndị agha Moab sitere nʼihu ha gbalaga. Ma ndị agha Izrel banyere nʼime obodo ndị Moab, gbuo ihe niile ha hụrụ nʼụzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ha tidara obodo ndị Moab niile, tinye nkume nʼala ubi ọma ndị Moab niile. Ha kpọchiri isi mmiri niile, gbudasịakwa ezi osisi niile na-amị mkpụrụ nʼala ahụ. Nʼikpeazụ, ọ bụ naanị otu obodo ndị Moab fọdụrụ, isi obodo a na-akpọ Kia Hareset. Ndị ji ụdọ na-ama nkume gbara obodo a gburugburu, bido ibuso ya agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe eze Moab hụrụ na agha ahụ anaghị agaziri ya nke ọma, ọ chịịrị narị ndị agha asaa, ndị ji mma agha ebu agha, gbalịa isi nʼetiti ndị agha Izrel tikapụta, na ncherita ihu ebe eze Edọm nọ, ma ha enweghị ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ya mere, o weere ọkpara ya, onye gaara abụ eze nʼọnọdụ ya, gbuo ya, dịka aja nʼelu mgbidi gbara obodo ahụ gburugburu nye chi Moab. Iwe dị ukwuu dị nʼụbọchị ahụ megide Izrel. Ha kwụsịrị ibu agha, laghachi nʼobodo nke aka ha."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 239,
+        "caller": "+",
+        "text": "Ihe nke a pụtara, bụ na ha ga-esi nʼakụkụ ọdịda anyanwụ Osimiri Nwụrụ anwụ gbaa gburugburu, pụta nʼakụkụ ndịda obodo Moab ma buso ha agha. Ma tupu ha e nwee ike mee otu a, ha ga-esite nʼoke ala ndị Edọm, bụ obodo ndị Juda na-achị gafee.",
+        "reference": {
+          "chapter": 3,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 240,
+        "caller": "+",
+        "text": "Eze Edọm bụ onyeisi alaeze Jehoshafat họpụtara. Ị ga-ahụ nke a nʼakwụkwọ 1Ez 22:47; 2Ez 8:20",
+        "reference": {
+          "chapter": 3,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2KI/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2KI/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

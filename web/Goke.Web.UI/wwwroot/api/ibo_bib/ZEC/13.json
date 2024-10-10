@@ -1,0 +1,201 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ZEC",
+    "translationId": "ibo_bib",
+    "name": "Zekaraya",
+    "commonName": "Zekaraya",
+    "title": "Zekaraya",
+    "order": 38,
+    "numberOfChapters": 14,
+    "sha256": "0798dc9eb2c236da0eb14448602b21b711c26e8d167849c0d6042ef847b0f04a",
+    "firstChapterApiLink": "/api/ibo_bib/ZEC/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ZEC/14.json",
+    "totalNumberOfVerses": 211
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nsachapụ mmehie"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "“Nʼụbọchị ahụ, a ga-emeghe isi iyi mmiri nye ụlọ Devid na ndị niile bi na Jerusalem. Ọ ga-abụ isi iyi a ga-eji sachapụ mmehie na adịghị ọcha ha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nʼụbọchị ahụ, otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile, kwubiri, aga m ebipụ aha arụsị niile dị nʼala ahụ, a gaghị echetakwa ha ọzọ. Aga m esitekwa nʼala a wezuga ma ndị amụma ma mmụọ nke adịghị ọcha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ bụrụkwa na onye ọbụla a ga nʼihu na-ebu amụma, nne na nna ndị mụrụ ya ga-asị ya, ‘Ị ghaghị ịnwụ nʼihi na i kwuola okwu ụgha nʼaha Onyenwe anyị.’ Mgbe onye dị otu a bukwara amụma, ọ bụ nne na nna ya ga-eji ùbe magbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Nʼụbọchị ahụ, ihere ga-emekwa ndị amụma nʼihi ibu amụma banyere ọhụ nke ha hụrụ. Ha agaghị eyikwa uwe ajị anụ nke ndị amụma na-eyi nʼihi iduhie ndị mmadụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Onye ọbụla nʼime ha ga-asịkwa, ‘Abụghị m onye amụma, onye ọrụ ubi ka m bụ, ọ bụ ihe si nʼala ka m ji azụ onwe m site na mgbe m bụ okorobịa.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ bụrụ na onye ọbụla ajụọ, ‘Gịnị bụ ọnya ndị a niile dị gị nʼahụ?’ Ha ga-azaghachi, ‘Ọnya ndị etipụtara m nʼụlọ ndị enyi m.’"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Tigbuo onye ọzụzụ atụrụ, igwe atụrụ agbasasịa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "“Teta nʼụra, gị mma agha, imegide onye ọzụzụ atụrụ m,",
+            "poem": 1
+          },
+          {
+            "text": "na imegide nwoke ibe m, nke nọ m nso,”",
+            "poem": 2
+          },
+          {
+            "text": "otu a ka Onyenwe anyị, Onye pụrụ ime ihe niile kwubiri.",
+            "poem": 2
+          },
+          {
+            "text": "“Tigbuo onye ọzụzụ atụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "igwe atụrụ",
+            "poem": 2
+          },
+          {
+            "noteId": 1875
+          },
+          {
+            "text": "ga-agbasasịkwa.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m eweli aka m megide ndị dị nta.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Nʼala ahụ niile,” otu a ka Onyenwe anyị kwubiri ya,",
+            "poem": 1
+          },
+          {
+            "text": "“Ụzọ mmadụ abụọ nʼime ụzọ atọ ka a ga-etida,",
+            "poem": 2
+          },
+          {
+            "text": "ma otu ụzọ nʼime ụzọ atọ ga-afọdụ nʼime ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Otu ụzọ nʼime ụzọ atọ a fọdụrụ ka m ga-ewebata nʼime ọkụ.",
+            "poem": 1
+          },
+          {
+            "text": "Aga m eji ọkụ nụchaa ha dịka e si anụcha ọlaọcha,",
+            "poem": 2
+          },
+          {
+            "text": "jiri ọkụ nwaa ha dịka e si anwa ọlaedo.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-akpọku aha m,",
+            "poem": 1
+          },
+          {
+            "text": "aga m azakwa ha.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m asịkwa, ‘Ndị a bụ ndị m,’",
+            "poem": 1
+          },
+          {
+            "text": "Ha onwe ha ga-asịkwa, ‘Onyenwe anyị bụ Chineke anyị.’ ”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1875,
+        "caller": "+",
+        "text": "Ya bụ, igwe atụrụ nke ọ na-achị",
+        "reference": {
+          "chapter": 13,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ZEC/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ZEC/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ZEC/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

@@ -1,0 +1,181 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 129,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Orin fún ìgòkè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "“Ìgbà púpọ̀ ni wọ́n ti pọ́n mi lójú",
+            "poem": 1
+          },
+          {
+            "text": "láti ìgbà èwe mi wá,”",
+            "poem": 2
+          },
+          {
+            "text": "jẹ́ kí Israẹli kí ó wí nísinsin yìí;",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Ìgbà púpọ̀ ni wọ́n ti pọ́n mi lójú",
+            "poem": 1
+          },
+          {
+            "text": "láti ìgbà èwe mi wá;",
+            "poem": 2
+          },
+          {
+            "text": "síbẹ̀ wọn kò tí ì borí mi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Àwọn awalẹ̀ walẹ̀ sí ẹ̀yìn mi:",
+            "poem": 1
+          },
+          {
+            "text": "wọ́n sì la aporo wọn gígùn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Olódodo ni Olúwa:",
+            "poem": 1
+          },
+          {
+            "text": "ó ti ké okùn àwọn ènìyàn búburú kúrò.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Kí gbogbo àwọn tí ó kórìíra Sioni kí ó dààmú,",
+            "poem": 1
+          },
+          {
+            "text": "kí wọn kí ó sì yí ẹ̀yìn padà.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Kí wọn kí ó dàbí koríko orí ilẹ̀",
+            "poem": 1
+          },
+          {
+            "text": "tí ó gbẹ dànù kí ó tó dàgbàsókè,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "èyí tí olóko pípa kó kún ọwọ́ rẹ̀:",
+            "poem": 1
+          },
+          {
+            "text": "bẹ́ẹ̀ ni ẹni tí ń di ìtí, kó kún apá rẹ̀.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Bẹ́ẹ̀ ni àwọn tí ń kọjá lọ kò wí pé,",
+            "poem": 1
+          },
+          {
+            "text": "ìbùkún Olúwa kí ó pẹ̀lú yín:",
+            "poem": 2
+          },
+          {
+            "text": "àwa ń súre fún yin ní orúkọ Olúwa.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/129.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/130.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/PSA/128.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

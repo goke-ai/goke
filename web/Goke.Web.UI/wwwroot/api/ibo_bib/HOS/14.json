@@ -1,0 +1,258 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "ibo_bib",
+    "name": "Hosiya",
+    "commonName": "Hosiya",
+    "title": "Hosiya",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "be95de0597e0aba372c720c5d9f574ebf665cd1b20944f3b30f6ff1fb3b64cf2",
+    "firstChapterApiLink": "/api/ibo_bib/HOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 14,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nchegharị na ngọzị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Lọghachikwutenụ Onyenwe anyị Chineke unu, unu ndị Izrel;",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ọ bụ mmehie unu wetaara unu ịsọ ngọngọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Chịrịnụ okwu nʼọnụ unu",
+            "poem": 1
+          },
+          {
+            "text": "lọghachikwute Onyenwe anyị.",
+            "poem": 2
+          },
+          {
+            "text": "Gwanụ ya sị,",
+            "poem": 1
+          },
+          {
+            "text": "“Gbaghara mmehie anyị niile,",
+            "poem": 2
+          },
+          {
+            "text": "jirikwa ihuọma nabata anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ka anyị si otu a jiri egbugbere ọnụ anyị chụọrọ gị aja.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ndị Asịrịa enweghị ike ịzọpụta anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụghị nʼelu ịnyịnya agha ka anyị ga-anọkwasị.",
+            "poem": 2
+          },
+          {
+            "text": "Anyị agaghị asịkwa ‘Chi anyị ka unu bụ’",
+            "poem": 1
+          },
+          {
+            "text": "nye ihe ndị ahụ anyị jiri aka anyị pịa,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na nʼime gị, ka ndị na-enweghị nne na nna na-achọta obi ebere.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "“Aga m agwọ ndaghachi azụ ha,",
+            "poem": 1
+          },
+          {
+            "text": "jiri obi m niile hụ ha nʼanya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na iwe m esitela nʼebe ha nọ chigharịa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Aga m adịrị Izrel dịka igirigi.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga-amakwa ifuru dịka okoko lili.",
+            "poem": 2
+          },
+          {
+            "text": "Dịka osisi sida nke Lebanọn,",
+            "poem": 1
+          },
+          {
+            "text": "mgbọrọgwụ ya ga-abami nʼime ala;",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "ome ya ga-awasa,",
+            "poem": 2
+          },
+          {
+            "text": "ịma mma ya ga-adịkwa ka osisi oliv,",
+            "poem": 1
+          },
+          {
+            "text": "isisi ọma ọ na-esi ga-adị ka isi osisi sida nke Lebanọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ha ga-ebi nʼokpuru ndo m.",
+            "poem": 1
+          },
+          {
+            "text": "Ha ga-etolite dịka osisi ọka dị ndụ.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-ama ifuru dịka osisi ubi vaịnị,",
+            "poem": 1
+          },
+          {
+            "text": "a ga-amatakwa ha nʼebe niile dịka e si mara mmanya e mere na Lebanọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Gị Ifrem, gịnị ka mụ na arụsị nwekọrọ?",
+            "poem": 1
+          },
+          {
+            "text": "Mụ onwe m ga-aza ya, ma lekọtakwa ya.",
+            "poem": 2
+          },
+          {
+            "text": "Mụ onwe m dịkwa ka osisi junipa dị ndụ.",
+            "poem": 1
+          },
+          {
+            "text": "Ịmị mkpụrụ gị na-esitekwa nʼebe m nọ abịa.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Onye bụ onye amamihe? Ha ga-aghọta ihe ndị a.",
+            "poem": 1
+          },
+          {
+            "text": "Onye bụ onye nwere uche nghọta? Ha ga-aghọta ihe ọ pụtara.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ụzọ Onyenwe anyị bụ ezi ụzọ.",
+            "poem": 1
+          },
+          {
+            "text": "Ndị ezi omume na-ejekwa ije na ha,",
+            "poem": 2
+          },
+          {
+            "text": "ma ndị na-enupu isi na-asọ ngọngọ nʼime ha.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/HOS/14.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOL/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/HOS/13.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

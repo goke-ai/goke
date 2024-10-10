@@ -1,0 +1,750 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Onyinye ido ụlọ nzute nsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Mosis guzobesiri ụlọ nzute ahụ ọtọ, o tere ya mmanụ. Doo ya na ihe niile e ji chọọ ya mma nsọ. O tekwara ebe ịchụ aja mmanụ, doo ya nsọ, ya na ngwongwo ya niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ahụ, ndị ndu Izrel, ndịisi ezinaụlọ niile, ndị bụ ndị ndu ebo niile e tinyere ọrụ ịgụ ndị ahụ niile ọnụ wetara onyinye ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ha wetara dịka onyinye ha nye Onyenwe anyị ụgbọala isii ihe juputara nʼime ha, na ehi iri na abụọ. Ndị ndu abụọ ọbụla wetara otu ụgbọala, ma ha niile nʼotu na otu wetara otu ehi, otu ehi. Ha chere ihe ndị a niile nʼihu ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara Mosis okwu sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "“Nabata onyinye ndị a niile, ka e jiri ha rụọ ọrụ ụlọ nzute, were ha nyefee ndị Livayị nʼaka, onye ọbụla dịka mkpa ọrụ ya si dị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere, Mosis nabatara ụgbọala ndị ahụ na ehi ndị ahụ, nyefee ha ndị Livayị nʼaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "O nyere ụmụ Geshọn ụgbọala abụọ na ehi anọ, dịka ọrụ ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nye ụmụ Merari, ụgbọala anọ na ehi asatọ, dịka ọrụ ha si dị. Ha niile nọ nʼokpuru nlekọta Itama nwa Erọn, onye nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mosis enyeghị ụmụ Kohat ihe ọbụla nʼihi na ọ bụ nʼisi mbụ aka ha ka ha ji ebu ihe nsọ ndị ahụ ha ketara ibu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị ndu ụmụ Izrel niile wetara onyinye ido nsọ nʼụbọchị e tere ebe ịchụ aja ahụ mmanụ ido ya nsọ. Ha wetara ha, debe ha nʼihu ebe ịchụ aja ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na Onyenwe anyị gwara Mosis okwu sị, “Ka onyendu ọbụla weta onyinye nʼụbọchị dị iche iche, otu onye, otu ụbọchị, maka ido nsọ nke ebe ịchụ aja ahụ.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, Nashọn nwa Aminadab onye si nʼebo Juda wetara onyinye nke ya nʼụbọchị nke mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Onyinye o wetara bụ: efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ nke ịdị arọ ya bụ iri shekel asaa, dịka ihe ọtụtụ shekel ebe nsọ si dị. A wụjuru efere abụọ ndị a ụtụ ọka a gwara mmanụ maka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "O wetakwara otu nwa oke ehi, otu ebule, otu nwa ebule nke gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "na ehi abụọ, na ebule",
+          {
+            "noteId": 1491
+          },
+          "ise, na mkpi ise, na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Nashọn nwa Aminadab nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼụbọchị nke abụọ, Netanel nwa Zua, onyendu ebo Isaka wetara onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "na ehi abụọ, na ebule ise, mkpi ise, na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Netanel nwa Zua."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼụbọchị nke atọ Eliab nwa Helọn onyendu ebo Zebụlọn wetakwara onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "O wetara otu efere ọlaedo nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "O wetakwara otu nwa oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "na ehi abụọ, na ebule ise, mkpi ise, na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Eliab nwa Helọn wetara."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nʼụbọchị nke anọ, Elizọ nwa Shedeua onyendu ebo Ruben wetara onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "na ehi abụọ, na ebule ise, mkpi ise, na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Elizọ nwa Shedeua nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nʼụbọchị nke ise Shelumiel nwa Zurishadai, onyendu ebo Simiọn butere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "O wetara otu efere ọlaedo nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Shelumiel nwa Zurishadai nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Nʼụbọchị nke isii, Eliasaf nwa Deuel onyendu ebo Gad butere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "na ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Eliasaf nwa Deuel nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Nʼụbọchị nke asaa, Elishama, nwa Amihud, onyendu ebo Ifrem butere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "na ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Elishama nwa Amihud nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Nʼụbọchị nke asatọ, Gamaliel nwa Pedazo onyendu ebo Manase nyere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Gamaliel nwa Pedazo nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "Nʼụbọchị nke itoolu, Abidan nwa Gidiọn onyendu ebo Benjamin nyere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "na ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Abidan nwa Gidiọni nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Nʼụbọchị nke iri, Ahieza nwa Amishadai, onyendu ebo Dan butere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 67,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 68,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 69,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 70,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 71,
+        "content": [
+          "ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Ahieza nwa Amishadai nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 72,
+        "content": [
+          "Nʼụbọchị nke iri na otu, Pagịel nwa Okran, onyendu ebo Asha butere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 73,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 74,
+        "content": [
+          "O wetara otu efere ọlaedo, nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 75,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 76,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 77,
+        "content": [
+          "na ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Pagịel nwa Okran nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 78,
+        "content": [
+          "Nʼụbọchị nke iri na abụọ, Ahira nwa Enan, onyendu ebo Naftalị nyere onyinye nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 79,
+        "content": [
+          "Onyinye o wetara bụ: otu efere ọlaọcha nke ịdị arọ ya bụ narị shekel na iri shekel atọ, na otu efere ịkwọsa mmiri e ji ọlaedo kpụọ, nke ịdị arọ ya bụ iri shekel asaa, efere abụọ ndị a bụ nʼusoro dịka shekel ebe nsọ si dị. A wụjuru efere ọbụla ezi ụtụ ọka a gwara mmanụ dịka onyinye mkpụrụ ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 80,
+        "content": [
+          "O wetara otu efere ọlaedo nke ịdị arọ ya bụ shekel iri. A wụjuru efere a ụda na-esi isi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 81,
+        "content": [
+          "O wetakwara otu oke ehi, otu ebule, otu nwa ebule gbara otu afọ maka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 82,
+        "content": [
+          "O wetakwara otu mkpi maka aja mmehie,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 83,
+        "content": [
+          "na ehi abụọ, ebule ise, mkpi ise na ụmụ ebule ise gbara otu afọ, otu afọ, ka a chụọ maka aja udo. Nke a bụ onyinye Ahira nwa Enan nyere."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 84,
+        "content": [
+          "Ndị a bụ onyinye ndị ndu ụmụ Izrel wetara maka ido ebe ịchụ aja nsọ nʼoge e tere ya mmanụ: efere ọlaọcha iri na abụọ, na efere ọlaọcha ịkwọsa mmiri iri na abụọ, na efere ọlaedo iri na abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 85,
+        "content": [
+          "Ịdị arọ nke efere ọlaọcha ọbụla dị otu narị shekel na iri shekel atọ. Ịdị arọ nke efere ịkwọsa mmiri ọbụla dị iri shekel asaa. Ịdị arọ efere ọlaọcha niile ha wetara bụ puku shekel abụọ na narị shekel anọ,",
+          {
+            "noteId": 1492
+          },
+          "dịka ihe ọtụtụ shekel ebe nsọ si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 86,
+        "content": [
+          "Ịdị arọ nke otu nʼime efere ọlaedo iri na abụọ ndị ahụ ụda nsure ọkụ na-esi isi ụtọ juru nʼime ha bụ iri shekel, dịka ihe ọtụtụ shekel ebe nsọ si dị. Ịdị arọ nke efere ọlaedo ndị ahụ niile bụ otu narị shekel na iri shekel abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 87,
+        "content": [
+          "Ọnụọgụgụ anụ ụlọ niile e wetara maka aja nsure ọkụ bụ: oke ehi iri na abụọ, na ebule iri na abụọ, na ụmụ ebule iri na abụọ gbara otu afọ, otu afọ, tinyere ihe niile ha wetara maka aja mkpụrụ ọka. E ji mkpi iri na abụọ chụọ aja mmehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 88,
+        "content": [
+          "Anụ ụlọ niile e ji chụọ aja udo bụ, iri oke ehi abụọ na anọ, na iri ebule isii, na iri mkpi isii, na ụmụ ebule iri isii ndị gbara naanị otu afọ, otu afọ.",
+          {
+            "lineBreak": true
+          },
+          "Ndị a niile bụ onyinye e nyere maka ido ebe ịchụ aja nsọ nʼoge e tere ya mmanụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 89,
+        "content": [
+          "Mgbe Mosis banyere nʼụlọ ikwu ahụ ka ya na Onyenwe anyị kparịa ụka, ọ nụrụ olu ahụ ka ọ na-agwa ya okwu site nʼetiti cherubim abụọ ndị ahụ nʼelu ebe mkpuchi mmehie dị nʼelu igbe iwu ọgbụgba ndụ gwa ya okwu. Nʼụzọ dị otu a ka Onyenwe anyị si gwa ya okwu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1491,
+        "caller": "+",
+        "text": "Ya bụ oke atụrụ",
+        "reference": {
+          "chapter": 7,
+          "verse": 17
+        }
+      },
+      {
+        "noteId": 1492,
+        "caller": "+",
+        "text": "Puku shekel abụọ na narị shekel anọ nke a bụ kilogram iri abụọ na asatọ",
+        "reference": {
+          "chapter": 7,
+          "verse": 85
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/7.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/8.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/6.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 89
+}

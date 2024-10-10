@@ -1,0 +1,226 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọgbụgba Ndụ Chineke na Ebram"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe nke a gasịrị, okwu Onyenwe anyị ruru Ebram site nʼọhụ, sị ya,",
+          {
+            "text": "“Atụla egwu, Ebram",
+            "poem": 1
+          },
+          {
+            "text": "Abụ m ọta gị,",
+            "poem": 2
+          },
+          {
+            "text": "ụgwọ ọrụ dị ukwu nke i nwere.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ma Ebram zara sị ya, “Gị, Onye kachasị ihe niile elu, bụ Onyenwe anyị, gịnị bụ ihe ị ga-enye m ebe ọ bụ na m amụtaghị nwa? Lee, ọ bụ Elieza, onye Damaskọs, ga-eketa akụ m niile.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ebram gara nʼihu kwuo sị, “Ebe ọ bụ na m amụtaghị ụmụ, ọ bụ ohu nọ nʼụlọ m ga-eketa akụ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma okwu Onyenwe anyị rutere ya, “Nwoke a agaghị eketa ihe i nwere, kama nwa nwoke nke ga-esi nʼahụ gị pụta ga-eketa ihe i nwere.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị kpọpụtara Ebram nʼezi sị ya, “Lelie anya gị elu na mbara eluigwe, gụọ kpakpando niile ị hụrụ ọnụ, ma ị ga-enwe ike ịgụta ha.” Ọ gwara ya sị, “Otu a ka mkpụrụ gị ga-adị. A gaghị agụta ha ọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebram kweere nʼihe Onyenwe anyị kwuru. Nʼihi nke a, a gụnyere ya okwukwe a dịka ezi omume."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onyenwe anyị gwakwara ya sị, “Mụ onwe m bụ Onyenwe anyị, onye si nʼala Ụọ nke ndị Kaldịa kpọpụta gị, inye gị ala a ka ọ bụrụ ihe nweta gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma Ebram zara sị, “Biko, Onye kachasị ihe niile elu, bụ Onyenwe anyị olee otu m ga-esi mara na m ga-enweta ya?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onyenwe anyị zara sị ya, “Wetara m nwa nne ehi gbara afọ atọ, na nne ewu gbara afọ atọ, na ebule gbara afọ atọ, na nduru, na nwa kpalakwukwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ebram wetaara ya ihe ndị a niile bọwaa ha ụzọ abụọ, doo ha nʼusoro ka otu akụkụ chee akụkụ nke ọzọ ihu. Ma ọ bọwaghị ụmụ nnụnụ ndị ahụ.",
+          {
+            "noteId": 711
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe anụ ufe fekwasịrị ozu anụ ndị ahụ, Ebram chụpụrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe anwụ bidoro ịda, Ebram dara nʼoke ụra, oke ụjọ na oke ọchịchịrị dakwasịrị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara ya sị, “Mata nke ọma na ụmụ ụmụ gị ga-anọ dịka ndị ọbịa nʼala na-abụghị nke ha. A ga-edo ha ọnọdụ dịka ndị ohu, mejọọ ha narị afọ anọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma aga m ata mba ahụ ha na-efe dịka ohu ahụhụ. Nʼikpeazụ, ha ga-eji ọtụtụ akụ si nʼebe ahụ pụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma ị ga-anwụ nʼudo. A ga-eli gị mgbe ị kara ezi nka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ọgbọ anọ gasịrị, ụmụ ụmụ gị ga-alọtakwa nʼala a. Nʼihi na mmehie ndị Amọrait erubeghị nʼuju ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe anwụ dara, mgbe ọchịchịrị gbachiri ebe niile, ite ọkụ na-akwụ anwụrụ ọkụ nke nwere ọwa na-enwu ọkụ si nʼetiti ibe anụ ndị ahụ gafee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼụbọchị ahụ ka Onyenwe anyị na Ebram gbara ndụ. Ọ sị, “Ndị agbụrụ gị ka m ga-enye ala ndị a, malite nʼiyi ndị Ijipt ruo nʼiyi ukwu Yufretis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ala ndị Ken, na nke ndị Keniz, na nke ndị Kadmọn,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "na ala ndị Het, na nke ndị Periz na nke ndị Refaim,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "na ala ndị Amọrait na nke ndị Kenan na nke ndị Gigash na nke ndị Jebus.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 711,
+        "caller": "+",
+        "text": "Nʼọgbụgba ndụ niile a na-eji anụmanụ a chụọ aja. Ndị ahụ gbara ndụ na-esi nʼetiti anụ ndị ahụ a kpọwara ọkara abụọ gafee, maka imesi ọgbụgba ndụ dị otu a ike. Jen 15:17; Jer 34:18",
+        "reference": {
+          "chapter": 15,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

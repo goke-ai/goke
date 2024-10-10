@@ -1,0 +1,220 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 47,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ozi e ziri banyere ndị Filistia"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Okwu Onyenwe anyị nke ruru Jeremaya onye amụma ntị banyere ndị Filistia. Okwu ndị a bịara tupu Fero ebuso obodo Gaza agha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ihe ndị a ka Onyenwe anyị kwuru,",
+          {
+            "text": "“Lee ka mmiri si ala elu nʼakụkụ ugwu;",
+            "poem": 1
+          },
+          {
+            "text": "ha ga-aghọkwa mmiri nke na-erubiga oke.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-erukwasị ala ahụ, kpuchiekwa ihe niile dị nʼime ya,",
+            "poem": 1
+          },
+          {
+            "text": "ọ ga-ekpuchikwa obodo niile dị nʼala ahụ, na ndị bi nʼime ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị niile bi nʼala ahụ ga-eti mkpu akwa,",
+            "poem": 1
+          },
+          {
+            "text": "mmadụ niile ga-akwasikwa akwa ike.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Mgbe ha ga-anụ ụzụ ikiri ụkwụ nke ọtụtụ ịnyịnya, nke na-agbata ọsọ na-abịa nʼebe ha nọ,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe ha ga-anụkwa ụzụ ụgbọ agha ndị iro,",
+            "poem": 2
+          },
+          {
+            "text": "na ụzụ nzọ ụkwụ igwe ha.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼoge ahụ, ndị bụ nna agaghị enwe ike nyere ụmụ ha aka,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na aka ha ga-akụda nʼakụkụ ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Nʼihi na ụbọchị ahụ abịala",
+            "poem": 1
+          },
+          {
+            "text": "mgbe a ga-ebibi ndị Filistia niile,",
+            "poem": 2
+          },
+          {
+            "text": "mgbe a ga-ebipụ ndị niile fọdụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "ndị nwere ike inyere obodo Taịa na Saịdọn aka.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na Onyenwe anyị akwadoola ibibi ndị Filistia,",
+            "poem": 1
+          },
+          {
+            "text": "o kwadoola ibibi ndị ahụ fọdụrụ nʼọnụ mmiri Kafto.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Gaza ga-akpụcha isi ya nʼọnọdụ iru ụjụ.",
+            "poem": 1
+          },
+          {
+            "text": "A ga-eme ka Ashkelọn dere duu.",
+            "poem": 2
+          },
+          {
+            "text": "Ruo ole mgbe ka unu ga-anọgide na-egbukasị onwe unu ahụ,",
+            "poem": 1
+          },
+          {
+            "text": "unu bụ ndị fọdụrụ afọdụ bi nʼala dị larịị?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“ ‘Ewoo, gị mma agha Onyenwe anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ole mgbe ị ga-ezu ike?",
+            "poem": 2
+          },
+          {
+            "text": "Mịnye onwe gị nʼọbọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "kwụsị ịkpa ike gị ma dere duu.’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ma ọ ga-esikwanụ aṅaa zuru ike,",
+            "poem": 1
+          },
+          {
+            "text": "ebe ọ bụ Onyenwe anyị nyere ya iwu",
+            "poem": 2
+          },
+          {
+            "text": "ibu agha megide Ashkelọn,",
+            "poem": 1
+          },
+          {
+            "text": "na ndị bi nʼọnụ mmiri oke osimiri?”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/47.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/48.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/46.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

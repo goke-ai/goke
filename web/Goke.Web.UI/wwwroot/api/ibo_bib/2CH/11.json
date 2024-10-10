@@ -1,0 +1,221 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Rehoboam bịarutere Jerusalem, ọ kpọkọtara ndị ụlọ Juda niile na ndị ebo Benjamin, ha dị narị puku na iri asatọ nʼọnụọgụgụ, ụmụ okorobịa ndị tozuru ịga agha, ka ha gaa buso ụlọ Izrel agha ma weghachitekwa alaeze nʼokpuru ọchịchị Rehoboam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ma okwu Onyenwe anyị rutere Shemaya, onye nke Chineke ntị:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“Gwa Rehoboam, nwa Solomọn eze Juda, na Izrel niile nọ na Juda na Benjamin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Otu a ka Onyenwe anyị kwuru, ‘Unu agakwala gaa buso ndị Izrel ibe unu agha. Laghachinụ, nwoke ọbụla nʼụlọ ya, nʼihi na ọ bụ m na-eme ihe ndị a.’ ” Ya mere, ha rubere isi nʼokwu niile nke Onyenwe anyị. Ha tụgharịrị laghachi azụ nʼịga megide Jeroboam."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Rehoboam ewusie obodo Juda ike"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Rehoboam bigidere na Jerusalem wusie obodo ndị dị na Juda ike nʼihi nchedo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Obodo ndị a bụ Betlehem, Etam, Tekoa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Bet Zoa, Soko, Adulam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Gat, Maresha, Zif,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "na Adoraim, Lakish, Azeka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Zora, Aijalon na Hebrọn. Obodo ndị a bụkwa obodo ndị Juda na Benjamin e wusiri ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O wusiri ha ike tinye ndịisi agha nʼime ha, tinyekwa ihe oriri na mmanụ oliv na mmanya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "O tinyere ọta na ùbe nʼebe niile a na-edebe ngwa agha nʼobodo niile, nʼihi iche obodo ya nke ọma, ebe ọ bụ naanị Juda na Benjamin nọ nʼokpuru ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma ndị nchụaja niile na ndị Livayị ndị sitere nʼakụkụ niile nke Izrel dịnyere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị Livayị hapụchara ebe ịta nri anụ ụlọ ha na ihe niile ha nwere bịa biri na Juda na Jerusalem, nʼihi na Jeroboam na ụmụ ya ndị ikom jụrụ ha dịka ndị nchụaja Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ họpụtara ndị nchụaja nke aka ya, maka ebe niile dị elu, nakwa ife arụsị ewu na nwa ehi ndị ahụ ọ kpụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị si nʼebo niile nke Izrel, ndị kpebiri nʼobi ha ịchọ Onyenwe anyị, Chineke Izrel sooro ndị Livayị bịa Jerusalem ịchụ aja nye Onyenwe anyị Chineke nna nna ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ha mere ka alaeze Juda sie ike. Ha kwagidekwara Rehoboam nwa Solomọn afọ atọ, na-agbasokwa nʼụzọ niile nke Devid na Solomọn nʼoge a."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ezinaụlọ Rehoboam"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Rehoboam, lụrụ Mahalat, bụ nwa nwanyị Jerimot nwa Devid, na Abihail, nwa nwanyị Eliab, nwa Jesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọ mụtaara ya ụmụ ndị ikom atọ ndị a: Jeush, na Shemaraya, na Zaham."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Emesịa, ọ lụkwara nwunye ọzọ aha ya bụ Maaka, nwa nwanyị Absalọm. Ụmụ ha mụtara bụ Abija, na Atai, na Ziza, na Shelomit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Rehoboam hụrụ Maaka nwa nwanyị Absalọm nʼanya karịa ndị nwunye ya na ndị iko ya nwanyị niile. O nwere ndị nwunye iri na asatọ, nweekwa iri ndị iko nwanyị isii. Ọ mụtara iri ndị ikom abụọ na asatọ, na iri ụmụ nwanyị isii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Rehoboam mere Abija nwa Maaka onyeisi nʼetiti ụmụ eze niile nʼihi na ọ chọrọ ime ya eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "O ji ezi uche zipụchaa ụmụ ya ndị ikom gaa nʼala ndị Juda na Benjamin, nakwa nʼobodo ndị ahụ e wusiri ike. O nyere ha ihe e ji elekọta ndụ nʼebe ọ bara ụba ma lụọkwara ha ọtụtụ ndị inyom."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CH/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

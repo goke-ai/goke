@@ -1,0 +1,124 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nkata fiig abụọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Emesịa, Onyenwe anyị gosiri m nkata fiig abụọ, nke a dọbara nʼihu ụlọnsọ Onyenwe anyị. Nʼoge a, Nebukadneza eze Babilọn esitelarị na Jerusalem dọkpụrụ Jehoiakin nwa Jehoiakim, eze Juda, na ndịisi Juda, na ndị ọka, na ndị ụzụ, mee ka ha gaa biri na Babilọn, nke dị na mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Otu nkata nwere mkpụrụ fiig mara mma, dịka ndị ahụ na-ebu ụzọ acha, nkata nke ọzọ nwere mkpụrụ fiig nke jọrọ njọ, ha jọrọ njọ na mmadụ enweghị ike ịracha ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị jụrụ m ajụjụ sị m, “Jeremaya, gịnị ka ị hụrụ?” Azara m sị ya, “Ahụrụ m mkpụrụ fiig. Ụfọdụ dị nnọọ ezi mma, ma ndị ọzọ jọrọ njọ. Ha adịghịkwa mma nracha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ahụ, okwu Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "“Ihe ndị a ka Onyenwe anyị, bụ Chineke Izrel kwuru: Ndị ahụ m mere ka e si na Juda dọta nʼagha, ndị e buuru gaa nʼala Kaldịa dị m dịka mkpụrụ osisi fiig ndị a mara mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Anya m ga-adịkwasị ha nʼahụ ịhụ na ihe gaara ha nke ọma. Aga m akpọghachitekwa ha nʼala a. Aga m ewulikwa ha elu ghara ikwada ha; Aga m akụ ha dịka osisi ghara ihopu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Aga m enye ha ụdị obi ha ga-eji mata m, na m bụ Onyenwe anyị. Ha ga-abụ ndị m, mụ onwe m ga-abụkwa Chineke ha. Nʼihi na obi ha niile ka ha ga-eji lọghachikwute m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“ ‘Ma dịka fiig ọjọọ ndị a, bụ ndị dị njọ nke ukwuu na-enweghị ike iri ha eri,’ Onyenwe anyị sịrị, ‘otu a ka m gaa emeso Zedekaya, eze Juda, na ndịisi ọchịchị ya, na ndị ahụ niile fọdụrụ ndụ na Jerusalem, ma ha bi nʼime ya, maọbụ biri nʼIjipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Aga m eme ka ha ghọọrọ alaeze niile nke ụwa ihe ịsọ oyi, na ihe na-eweta obi ọjọọ. Ha ga-aghọ ihe ịta ụta, na ihe e ji akọ akụkọ, na ihe nkọcha na ihe ịbụ ọnụ nʼebe ọbụla m mere ka ha gaa biri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Aga m ezigakwa mma agha na ụnwụ na ọrịa na-efe efe nʼetiti ha, tutu ruo mgbe e mere ka ha gwụsịa nʼelu ala ahụ nke m nyere ha, nyekwa ndị bụ nna nna ha.’ ”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/24.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/25.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/23.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

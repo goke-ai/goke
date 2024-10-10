@@ -1,0 +1,473 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOL",
+    "translationId": "ibo_bib",
+    "name": "Juel",
+    "commonName": "Juel",
+    "title": "Juel",
+    "order": 29,
+    "numberOfChapters": 3,
+    "sha256": "06ac1246f0bc010e8e9593bcbd66ee9158ead2d4f06958aeb8583d4f20675716",
+    "firstChapterApiLink": "/api/ibo_bib/JOL/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOL/3.json",
+    "totalNumberOfVerses": 73
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe nke mba niile"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "“Nʼihi na, lee, nʼụbọchị ahụ, nʼoge ahụ,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe m ga-eweghachi akụnụba nke Juda na Jerusalem,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "na m ga-achịkọta mba niile nke ụwa,",
+            "poem": 1
+          },
+          {
+            "text": "mee ka ha zukọọ na Ndagwurugwu Jehoshafat.",
+            "poem": 2
+          },
+          {
+            "noteId": 1134
+          },
+          {
+            "text": "Nʼebe ahụ, ka mụ onwe m ga-ama ha ikpe,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi ihe ha mere ihe nketa m, na ndị nke m Izrel.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ha chụsasịrị ndị m nʼetiti mba niile,",
+            "poem": 1
+          },
+          {
+            "text": "kee ala m nʼetiti onwe ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ha fere nza nʼihi ndị m,",
+            "poem": 1
+          },
+          {
+            "text": "were ụmụ m ndị nwoke gbanwere ụmụ akwụna.",
+            "poem": 2
+          },
+          {
+            "text": "Ha rere ụmụ m ndị nwanyị nʼihi mmanya, nʼihi inweta mmanya ha ga-aṅụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Ọ bụ gịnị ka unu nwere megide m, unu Taịa na Saịdọn, na unu obodo ahụ niile dị gburugburu ala ndị Filistia? O nwere ihe m mere nke unu na-akwụghachi m ụgwọ ya? Ọ bụrụ nʼezie na unu na-akwụghachi m ụgwọ, mụ onwe m ga-eji ọsọ kwụghachi unu ihe ọjọọ niile unu mere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼihi na unu weere ọlaọcha m na ọlaedo m, burukwa ihe dị oke ọnụahịa niile m nwere, bulaa ha nʼụlọnsọ chi",
+          {
+            "noteId": 1135
+          },
+          "unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Unu refuru ndị Juda na ndị Jerusalem, resi ha ndị Griik, si otu a wega ha nʼebe dị anya site nʼala ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "“Lee, aga m esi nʼebe ahụ unu refuru ha kpọlite ha. Aga m emekwa ka ihe ndị ahụ niile unu mere bịaghachi unu nʼisi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Aga m ewere ụmụ unu ndị nwoke na ndị nwanyị resi ha ndị Juda, ndị ga-eresi ha ndị Sheba, bụ mba tere anya.” Onyenwe anyị ekwuola ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Kwupụtanụ nke a nʼetiti mba niile:",
+            "poem": 1
+          },
+          {
+            "text": "Jikerenụ agha!",
+            "poem": 2
+          },
+          {
+            "text": "Kpọteenụ ndị dike nʼagha.",
+            "poem": 1
+          },
+          {
+            "text": "Ka ndị agha niile a zụziri azụzi bịaruo nso ibu agha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Kpụgharịanụ mma oge unu ka ha bụrụkwa mma agha,",
+            "poem": 1
+          },
+          {
+            "text": "kpụgharịakwanụ mma ịkwa osisi unu ka ha ghọọ ùbe.",
+            "poem": 2
+          },
+          {
+            "text": "Ka onye na-adịghị ike kwuo sị,",
+            "poem": 1
+          },
+          {
+            "text": "“Adị m ike!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Chịkọta onwe unu ọsịịsọ, bịa, unu mba niile, nọ nʼebe niile.",
+            "poem": 1
+          },
+          {
+            "text": "Zukọtaanụ nʼebe ahụ.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Kpọdata ndị agha gị dị ike Onyenwe anyị!",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "“Ka akpọlitekwa mba niile,",
+            "poem": 1
+          },
+          {
+            "text": "mee ka ha niile bịaruo na Ndagwurugwu Jehoshafat,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ọ bụ nʼebe ahụ",
+            "poem": 1
+          },
+          {
+            "text": "ka m ga-anọ kpee mba nọ nʼakụkụ niile ikpe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Tinye mma iwe ihe ubi,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na mkpụrụ ubi achaala.",
+            "poem": 2
+          },
+          {
+            "text": "Bịa zọchaa mkpụrụ vaịnị,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi nʼebe ịzọcha mmanya ejula,",
+            "poem": 2
+          },
+          {
+            "text": "ebe ịnara mmanya gị niile ejubigakwala oke,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ajọ omume ha dị ukwuu.”",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Ọtụtụ igwe mmadụ, ọtụtụ igwe mmadụ!",
+            "poem": 1
+          },
+          {
+            "text": "Ha jupụtara na ndagwurugwu mkpebi ikpe ahụ!",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ụbọchị Onyenwe anyị dị nso,",
+            "poem": 1
+          },
+          {
+            "text": "na ndagwurugwu mkpebi nhọrọ ahụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Anyanwụ na ọnwa ga-agbaji oji,",
+            "poem": 1
+          },
+          {
+            "text": "kpakpando agakwaghị enye ìhè.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Onyenwe anyị ga-ebigbọ na Zayọn,",
+            "poem": 1
+          },
+          {
+            "text": "olu ya ga-ada nʼime Jerusalem.",
+            "poem": 2
+          },
+          {
+            "text": "Elu ụwa na mbara eluigwe ga-amakwa jijiji.",
+            "poem": 2
+          },
+          {
+            "text": "Onyenwe anyị ga-abụrụ ndị ya ebe mgbaba.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga-abụrụ ndị Izrel ebe e wusiri ike.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ngọzị dịrị ndị nke Chineke"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "“Mgbe ahụ, unu ga-amata na mụ onwe m bụ Onyenwe anyị Chineke unu",
+            "poem": 1
+          },
+          {
+            "text": "bi na Zayọn, nʼugwu m dị nsọ.",
+            "poem": 2
+          },
+          {
+            "text": "Jerusalem ga-abụ ebe dị nsọ.",
+            "poem": 1
+          },
+          {
+            "text": "Ndị mba ọzọ agakwaghị esite nʼime ya gabiga ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "“Nʼụbọchị ahụ, mmanya ọhụrụ ga-esi nʼugwu ukwu niile na-atapụtasị,",
+            "poem": 1
+          },
+          {
+            "text": "mmiri ara ehi ga na-erupụtakwa site nʼugwu nta niile;",
+            "poem": 2
+          },
+          {
+            "text": "mmiri ga na-asọkwa na ndagwurugwu niile nke Juda ebe mmiri si eru.",
+            "poem": 2
+          },
+          {
+            "text": "Isi iyi ga-esitekwa nʼụlọnsọ ukwu Onyenwe anyị sọpụta",
+            "poem": 1
+          },
+          {
+            "text": "dee Ndagwurugwu Shitim.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Ma Ijipt ga-atọgbọrọ nʼefu,",
+            "poem": 1
+          },
+          {
+            "text": "Edọm ga-aghọkwa mkpọmkpọ ebe,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi ihe ike ha mere ndị Juda,",
+            "poem": 1
+          },
+          {
+            "text": "bụ ndị ha kwafuru ọbara ndị aka ha dị ọcha nʼala ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Ma Juda ga-abụ ebe mmadụ ga-ebi ruo mgbe ebighị ebi.",
+            "poem": 1
+          },
+          {
+            "text": "A ga-ebikwa na Jerusalem nʼọgbọ niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Aga m ahapụ ịbọ ọbọ ọbara ha?",
+            "poem": 1
+          },
+          {
+            "text": "Mba, agaghị m agụnye onye ikpe maara dịka onye ikpe na-amaghị.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          "Nʼihi na Onyenwe anyị bi na Zayọn.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1134,
+        "caller": "+",
+        "text": "Ihe aha a pụtara bụ, onyenwe anyị na-ekpe ikpe",
+        "reference": {
+          "chapter": 3,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1135,
+        "caller": "+",
+        "text": "Maọbụ, ụlọ ukwu unu",
+        "reference": {
+          "chapter": 3,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOL/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/AMO/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOL/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

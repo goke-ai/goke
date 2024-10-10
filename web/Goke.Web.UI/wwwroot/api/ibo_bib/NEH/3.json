@@ -1,0 +1,322 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị wugharịrị mgbidi ahụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Eliashib onyeisi nchụaja na ndị nchụaja ibe ya wuru mgbidi ahụ ruo nʼụlọ elu Narị na ụlọ elu Hananel. Ha wukwara Ọnụ Ụzọ ama Atụrụ, kwụba ibo ya, doo ya nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị sitere obodo Jeriko rụkwara ọrụ nʼakụkụ ha. Ma Zakua nwa Imri, rụrụ ọrụ nke ha nʼakụkụ ndị ọrụ si Jeriko."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ụmụ ndị ikom Hasena wuru Ọnụ Ụzọ ama Azụ, dobe osisi ya, kwụba ọnụ ụzọ ya, kpụọkwa ihe mkpọchi ya niile, na ihe ntụchi ya niile nʼọnọdụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Meremot, nwa Ụraya, nwa Hakoz, rụziri akụkụ mgbidi nke ọzọ. Onye na-eso ya bụ Meshulam, nwa Berekaya, nwa Meshezabel, rụziri mgbidi, onye na-esota ya bụ Zadọk nwa Baana, onye rụzikwara mgbidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Akụkụ nke ọzọ ka ndị ikom Tekoa rụziri, ma ndị ha a na-asọpụrụ ekweghị ehudata ubu ha nye ọrụ ahụ nʼokpuru ndị nlekọta ha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Joiada nwa Pasea na Meshulam nwa Besodeia wuru Ọnụ Ụzọ Ama Jeshana. Ha tinyere osisi ya niile, kwụba ibo ọnụ ụzọ ya, ihe mkpọchi ya na ihe ntụchi ya niile nʼọnọdụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị ọzọ rụrụ ọrụ nʼakụkụ ha bụ Melataya, onye Gibiọn, na Jadon onye Meronot, na ndị si Gibiọn na Mizpa. Obodo ndị a dị nʼokpuru onyeisi ọchịchị akụkụ ọdịda anyanwụ Yufretis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Uziel nwa Hahaya, bụ ọkpụ ụzụ ọlaedo, doziri otu akụkụ. Onye na-eso ya bụ Hananaya, otu onye nʼime ndị na-eme mmanụ otite na-esi isi ọma, doziri nke na-esote nke ahụ. Ha doziri Jerusalem ruruo ya na Mgbidi Obosara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onye na-eso ha bụ Refaya nwa Hua onyeisi ọchịchị otu akụkụ Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onye na-eso ya bụ Jedaya nwa Harumaf, onye rụrụ akụkụ mgbidi ahụ chere ihu nʼụlọ nke aka ya. Onye na-eso ya nʼọrụ a bụ Hatush nwa Hashabneia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onye ọzọ bụ Malkija nwa Harim, na Hashub nwa Pahat-Moab, ndị wugharịrị ụlọ elu ọkụ, na otu akụkụ mgbidi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Shalum nwa Halohesh na ụmụ ya ndị inyom meziri akụkụ mgbidi nke na-esota. Ọ bụ onyeisi ọchịchị otu akụkụ Jerusalem nke ọzọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Hanun duuru ndị obodo Zanoa wuo Ọnụ Ụzọ Ndagwurugwu. Ha wuziri ya, tinye ibo ya, ihe mkpọchi ya na ihe ntụchi ya niile nʼọnọdụ ha. Ha wuzikwara mpaghara ahụ nke ịdị ogologo ya ruru narị mita ise, ruo nʼọnụ ụzọ ama dị nʼebe a na-ekpofu ahịhịa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Malkija nwa Rekab, onyeisi ọchịchị ala nke dị Bet-Hakerem gburugburu, bụ onye wuziri ọnụ ụzọ ama dị nʼebe ikpofu ahịhịa. O tinyere ibo ya, ihe mkpọchi ya na ihe ntụchi ya niile nʼọnọdụ ha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Shalum nwa Kol-Hoze, onyeisi ọchịchị ala dị Mizpa gburugburu, wuziri ọnụ ụzọ ama isi iyi, kpuchie elu ya, tinye ya ibo ọnụ ụzọ ya, ihe mkpọchi na ihe ntụchi ya niile nʼọnọdụ ha. O mezikwara mgbidi ahụ site nʼọdọ mmiri Siloam ruo nʼubi eze a gbara ogige, na ruokwa na nkwasa nrịda dị site nʼobodo Devid ma e site Jerusalem na-apụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onye na-eso ya bụ Nehemaya nwa Azbuk, onyeisi ọchịchị ọkara nʼime Bet Zoa.",
+          {
+            "noteId": 1465
+          },
+          "O wuziri mgbidi ahụ ruo ncherita ihu ebe ili Devid, ruokwa ọdọ ebe emere maka ichekọta mmiri, na nʼỤlọ ndị Dike nʼagha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọrụ ndị Livayị rụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị na-eso ya bụ ndị Livayị, ndị nke Rehum nwa Bani na-achịkọta. Onye ọzọ bụ Hashabaya onyeisi ọchịchị ọkara ndị bi na Keila. Ọ rụrụ ọrụ e kenyere ndị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Onye ọzọ na-eso ya bụ Binui nwa Henadad onye bụ onyeisi ọchịchị ọkara akụkụ Keila nke ọzọ. O du ndị Keila ibe ya rụọ ọrụ ha ketara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Onye na-eso ya bụ Eza nwa Jeshua onyeisi ọchịchị obodo Mizpa. Ya na ndị otu ya rụziri akụkụ mgbidi ahụ dị na mgbago ebe ụlọ nchịkọta ngwa agha ruo na nkuku ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Onye ọzọ na-eso ya bụ Baruk, nwa Zabai, onye ji nnọọ ịnụ ọkụ nʼobi rụzie mgbidi ahụ site na nkuku ya ruo nʼọnụ ụzọ e si abata ụlọ Eliashib, bụ onyeisi nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onye na-eso ya bụ Meremot nwa Ụraya, nwa Hakoz. Ọ sitere nʼọnụ ụzọ ụlọ Eliashib rụziri ruo na ngwụcha ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọrụ ndị nchụaja rụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ndị nchụaja si nʼakụkụ Jerusalem wuziri akụkụ nke na-esote ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Isonye ha, Benjamin na Hashub wuziri akụkụ ahụ dị nʼihu ụlọ ha. Azaraya nwa Maaseia, onye bụkwa nwa nwa Ananaya wuziri nke na-esote ya, nke dịkwa nʼakụkụ ụlọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Binui nwa Henadad wuziri akụkụ nke ọzọ, nke sitere nʼihu ụlọ Azaraya ruo na nkuku mgbidi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Palal nwa Uzai wuziri akụkụ nke na-eso ya site na nkuku mgbidi ahụ ruo nʼụlọ elu dị nʼakụkụ elu elu ụlọeze nʼebe dị nso nʼogige ndị nche. Nke so ya bụ Pedaia nwa Parosh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "na ndị na-eje ozi nʼụlọnsọ ahụ bụ ndị bi nʼelu ugwu Ofel, wuziri akụkụ nke na-esote ruo nʼebe dị nʼakụkụ ọwụwa anyanwụ nke Ọnụ Ụzọ Ama Mmiri, ruokwa nʼụlọ elu nche nke ụlọ ukwu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ndị ikom Tekoa wuru akụkụ nke ọzọ na-esote ya. Ha sitere nʼebe chere ụlọ elu nche nke ụlọnsọ ukwu ahụ ihu, wuzie mgbidi ahụ ruo na mgbidi dị Ofel nso."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ụfọdụ ndị nchụaja wuziri akụkụ na-esote, nke dị nʼugwu, site nʼỌnụ Ụzọ Ama Ịnyịnya. Onye ọbụla wuziri mgbidi nke dị nʼihu ụlọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Zadọk nwa Imea wuziri nke na-esota, bu akụkụ mgbidi ahụ chere ihu nʼụlọ ya. Shemaya nwa Shekanaya onye na-eche Ọnụ Ụzọ Ama Ọwụwa Anyanwụ wuziri akụkụ nke na-esota."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Hananaya nwa Shelemaya na Hanun nwa Zalaf nke isii, wuziri akụkụ mgbidi nke ọzọ. Meshulam nwa Berekaya wuziri akụkụ mgbidi na-esota, bụkwa nke dị nʼihu ụlọ obibi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Malkija ọkpụ ụzụ ọlaedo wuziri akụkụ na-esota ruo nʼụlọ ahụ ndị na-eje ozi nʼụlọnsọ, na ndị na-azụ ahịa na-anọkọ. Ụlọ a dị na ncherita ihu Ọnụ Ụzọ Ama Nnyocha. Malkija sitekwara nʼebe ahụ wuzie mgbidi ahụ ruo nʼọnụụlọ ahụ dị nʼelu nkuku mgbidi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ndị ọkpụ ụzụ ọlaedo na ndị ahịa rụchara ọrụ iwuzi akụkụ mgbidi nke fọdụrụ, site nʼetiti ọnụụlọ ahụ dị nʼelu nkuku mgbidi ahụ ruo nʼỌnụ Ụzọ Ama Atụrụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1465,
+        "caller": "+",
+        "text": "Bụ ụlọ obibi ochie ndị nche, nke Devid wuru maka ndị agha na-eche ya nche mgbe ọ bụ eze. 2Sa 23:8-39",
+        "reference": {
+          "chapter": 3,
+          "verse": 16
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

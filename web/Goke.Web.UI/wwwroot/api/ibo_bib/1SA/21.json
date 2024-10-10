@@ -1,0 +1,186 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "ibo_bib",
+    "name": "1 Samuel",
+    "commonName": "1 Samuel",
+    "title": "1 Samuel",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "289ae07b2b69ff8407f177c417564f47a242ee8908449fd75a6bf2b00c0940ce",
+    "firstChapterApiLink": "/api/ibo_bib/1SA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1SA/31.json",
+    "totalNumberOfVerses": 810
+  },
+  "chapter": {
+    "number": 21,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Devid nʼobodo Nob"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Devid jere nʼobodo Nob ịhụ Ahimelek, onye nchụaja. Ahimelek mara jijiji mgbe ọ hụrụ Devid. Ọ sịrị Devid, “Gịnị mere naanị gị ji bịa? Gịnị mere o nweghị onye so gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Devid zara Ahimelek, onye nchụaja sị, “Eze ziri m ozi dị mkpa, ma sị m, ‘Ka onye ọbụla ghara ịma ihe ọbụla banyere ozi a m na-eziga gị.’ Ma banyere ụmụ okorobịa m, agwala m ha ebe ha ga-ezute m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ugbu a, olee ihe oriri i nwere? Nye m ogbe achịcha ise maọbụ ihe ọzọ i nwere.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onye nchụaja ahụ zara Devid sị, “Enweghị m achịcha ana edoghị nsọ nʼebe a. Ma otu ọ dị, e nwere ụfọdụ achịcha e doro nsọ nʼebe a, ma ọ bụrụ na ụmụ okorobịa gị na ha so debere onwe ha ọcha, na-emetụghị nwanyị ahụ.”",
+          {
+            "noteId": 173
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Devid zara sị ya, “Nʼezie, anyị ekwebeghị ka ụmụ nwanyị bịa anyị nso, dịka anyị dị mbụ eme ma anyị na-eje ozi. Ndị ikom ndị a na-edo onwe ha nsọ ọ bụladị mgbe njem anyị na-adịghị nsọ ka ọfọdụzie njem nke taa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebe nri ọzọ na-adịghị, onye nchụaja ahụ nyere Devid achịcha nsọ, bụ achịcha nke iche nʼIhu Onyenwe anyị, nke ewepụtara site nʼihu Onyenwe anyị nʼime ebe ịchụ aja, debekwa achịcha ọhụrụ nke e ji gbanwee nke ochie dị nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma otu onye odibo Sọl nọ nʼebe ahụ nʼụbọchị ahụ, onye e jigidere nʼihu Onyenwe anyị. Ọ bụ Doeg, onye Edọm onyeisi ndị na-azụ anụ ụlọ Sọl."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Devid jụrụ Ahimelek ajụjụ sị ya, “I nweghị ùbe maọbụ mma agha nʼebe a? Ewetaghị m mma agha m maọbụ ngwa agha ọzọ, nʼihi na ozi eze ziri anyị dị oke ngwangwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onye nchụaja zaghachiri, “Mma agha Golaịat, onye Filistia, onye ahụ i tigburu na ndagwurugwu Ịla dị nʼebe a, a fụchiri ya nʼakwa nʼazụ efọọd. Ọ bụrụ na ị chọrọ ya, were ya, nʼihi na ọ dịghị mma agha ọzọ dị nʼebe a ma ọ bụghị nke ahụ.” Devid sịrị, “Ọ dịghị nke dịka ya, nye m ya.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Devid nʼobodo Gat"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼụbọchị ahụ, Devid gbapụrụ ọsọ site nʼebe Sọl nọ gbakwuru Akish eze ndị Gat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma ndị ozi Akish sịrị ya, “Onye a ọ bụghị Devid, eze nke ala ahụ? Ọ bụghị ya bụ isi abụ ha na-abụ mgbe ha na-ete egwu na-asị:",
+          {
+            "text": "“ ‘Sọl egbuola ọtụtụ puku ndị iro ya,",
+            "poem": 1
+          },
+          {
+            "text": "Devid egbukwaala iri puku kwụrụ puku ndị iro nke ya’?”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe Devid nụrụ okwu ndị a, ọ tụrụ egwu ihe Akish eze Gat ga-eme ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi ya ọ gbanwere omume ya, bido ime dịka onyeisi na-adịghị mma. O bidokwara ịka akara nʼibo, bidokwa na-agụsasị ọnụ mmiri nʼahụọnụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Akish gwara ndị ozi ya okwu sị ha, “Leenụ nwoke a! Ọ bụ onyeisi mebiri! Gịnị mere unu ji kpọtara m ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị na-ayị ara ha kọrọ m, nke mere unu ji kpọtara m nwoke a nʼebe a ka ọ bịa na-eme ka onye na-ayị ara nʼihu m? O kwesiri ka onye dị otu a bata nʼụlọ m?”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 173,
+        "caller": "+",
+        "text": "Ọpụ 25:30; Lev 24:5-9; Mat 12:4.",
+        "reference": {
+          "chapter": 21,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1SA/21.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1SA/22.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1SA/20.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 15
+}

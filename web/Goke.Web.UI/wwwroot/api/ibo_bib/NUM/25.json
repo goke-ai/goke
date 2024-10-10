@@ -1,0 +1,194 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Moab emee ka Izrel mehie"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Izrel bi na Shitim, ndị ikom ha malitere isoro ndị inyom Moab na-akwa iko."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị inyom a kpọrọ ha ka ha bịa soro na mmemme ịchụ aja nye chi ha niile. Ndị Izrel riri nri ihe aja ahụ, kpọọkwa isiala nye chi ndị a niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ya mere, ndị Izrel sonyere na-akpọ isiala nye chi Baal nke Peoa.",
+          {
+            "noteId": 1517
+          },
+          "Nke a mere ka iwe Onyenwe anyị nwuru ọkụ megide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onyenwe anyị gwara Mosis okwu sị ya, “Duru ndị ndu ebo niile nke Izrel gbuo ha ma kwụnye ha nʼosisi nʼihu Onyenwe anyị nʼetiti ehihie, ka oke iwe Onyenwe anyị dị ọkụ ghara ịbịakwasị ndị Izrel.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ya mere, Mosis sịrị ndị ọkaikpe Izrel, “Onye ọbụla nʼime unu aghaghị igbu ndị unu, bụ ndị jikọtara onwe ha na Baal nke Peoa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, otu nwoke onye Izrel kpọbatara nʼime ụlọ ikwu otu nwanyị onye Midia, nʼihu Mosis na nzukọ Izrel niile, mgbe ha niile nọ na-akwa akwa nʼọnụ ụzọ ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe Finehaz na Elieza, nwa Erọn, onye nchụaja hụrụ ihe a, ọ hapụrụ ọgbakọ Izrel. O were ùbe nʼaka ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "soro nwoke ahụ baa nʼime ụlọ, ebe ya na nwaagbọghọ ahụ dina. Ọ mara ha ùbe ahụ, nke si nʼahụ nwoke ahụ gafee mikpuo nʼafọ nwaagbọghọ ahụ. Nke a mere ka ihe otiti ahụ na-emegide ndị Izrel kwụsị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma tupu ihe otiti ahụ akwụsị, ndị mmadụ ọnụọgụgụ ha ruru iri puku abụọ na anọ (24,000) anwụọlarị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onyenwe anyị gwara Mosis okwu sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "“Finehaz nwa Elieza, nwa Erọn, onye nchụaja, emeela ka iwe m megide Izrel dajụọ. Nʼihi na o nwere ịnụ ọkụ nʼobi dịka mụ onwe m banyere idebe nsọpụrụ m nsọ nʼetiti ha, ka m ghara isite nʼịnụ ọkụ nke obi m bibie ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, gwa ya, na m na-eme ka ọgbụgba ndụ udo m dịrị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya na ụmụ ụmụ ya ka ọgbụgba ndụ ebighị ebi nke ịrụ ọrụ nchụaja ga-adịrị, nʼihi na o nwere ịnụ ọkụ nʼobi banyere nsọpụrụ nke Chineke ya, si otu a chụọrọ ndị Izrel aja ikpuchi mmehie.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Aha nwoke Izrel ahụ e gburu ya na nwanyị onye Midia ahụ bụ Zimri, nwa Salu, onyendu otu ezinaụlọ nʼebo Simiọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Aha nwanyị Midia ahụ e gburu bụ Kozbi, nwa nwanyị Zua, onye bụ otu nʼime ndịisi ezinaụlọ na Midia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onyenwe anyị gwara Mosis okwu sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "“Mesoo ndị Midia mmeso dịka ndị iro. Gbukwaa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼihi na ha mesoro unu mmeso dịka ndị iro mgbe ha ji ụzọ aghụghọ ghọgbuo unu nʼokwu Peoa, na nʼokwu Kozbi nwanne ha nwanyị, bụ nwa nwanyị otu nʼime ndịisi Midia, onye e gburu mgbe ihe otiti ahụ bịara nʼihi okwu Peoa.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1517,
+        "caller": "+",
+        "text": "Ha sitere nʼịkpọ isiala kekọta onwe ha nʼahụ Baal-Peoa.",
+        "reference": {
+          "chapter": 25,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/25.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/26.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/24.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

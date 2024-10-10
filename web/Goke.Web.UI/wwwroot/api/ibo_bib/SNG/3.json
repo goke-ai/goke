@@ -1,0 +1,306 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "ibo_bib",
+    "name": "Abụ nke Abụ",
+    "commonName": "Abụ nke Abụ",
+    "title": "Abụ nke Abụ",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "6514d7dce5ded66021cc784856cb2aed328424d30f41fe6e5dd039e3c7ac7844",
+    "firstChapterApiLink": "/api/ibo_bib/SNG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/SNG/8.json",
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Achọrọ m onye m hụrụ nʼanya",
+            "poem": 1
+          },
+          {
+            "text": "nʼelu ihe ndina m nʼabalị, ma ahụghị m ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ebiliri m chọọ ya ma ahụghị m ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ugbu a, aga m ebili pụọ jegharịa nʼama niile",
+            "poem": 1
+          },
+          {
+            "text": "na nʼokporoụzọ niile nke obodo ịchọ ya,",
+            "poem": 2
+          },
+          {
+            "text": "m ga-achọgharị onye m hụrụ nʼanya.",
+            "poem": 1
+          },
+          {
+            "text": "Ya mere, achọrọ m ya ma ahụghị m ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ndị nche na-eche obodo",
+            "poem": 1
+          },
+          {
+            "noteId": 1846
+          },
+          {
+            "text": "hụrụ m,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe ha na-agagharị nʼobodo,",
+            "poem": 2
+          },
+          {
+            "text": "ma ajụrụ m ha sị, “Biko, unu hụrụ onye ahụ m hụrụ nʼanya?”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ dịghị anya mgbe m gafere ha,",
+            "poem": 1
+          },
+          {
+            "text": "achọtara m onye m hụrụ nʼanya,",
+            "poem": 2
+          },
+          {
+            "text": "ejidesiri m ya ike, ahapụghị m ya aka",
+            "poem": 1
+          },
+          {
+            "text": "tutu m duta ya nʼụlọ nne m,",
+            "poem": 2
+          },
+          {
+            "text": "nʼime ụlọ nwanyị tụrụ ime m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Unu ụmụ agbọghọ Jerusalem,",
+            "poem": 1
+          },
+          {
+            "text": "eji m nne mgbada niile na nne ele ọhịa gbaa unu iyi sị,",
+            "poem": 2
+          },
+          {
+            "text": "unu akpọtela, maọbụ mee ka ịhụnanya teta",
+            "poem": 1
+          },
+          {
+            "text": "ruo mgbe o masịrị ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Onye bụ nke a na-esi nʼọzara na-abịa",
+            "poem": 1
+          },
+          {
+            "text": "dịka anwụrụ ọkụ,",
+            "poem": 2
+          },
+          {
+            "text": "nke tere mmanụ máá na ụda na-esi isi ụtọ,",
+            "poem": 1
+          },
+          {
+            "text": "ụda nke ndị ahịa na-ere?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Lee ọ bụ ụgbọ Solomọn.",
+            "poem": 1
+          },
+          {
+            "text": "Iri mmadụ isii ndị ọka agha,",
+            "poem": 2
+          },
+          {
+            "text": "ndị a maara aha ha karịsịa nʼala Izrel sokwa ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ha niile ji mma agha;",
+            "poem": 1
+          },
+          {
+            "text": "ha bụ ndị a zụrụ nke ọma ibu agha.",
+            "poem": 2
+          },
+          {
+            "text": "Mma agha onye ọbụla dịkwa nʼukwu ya,",
+            "poem": 1
+          },
+          {
+            "text": "ịdị njikere maka ihe egwu abalị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Eze Solomọn rụrụ onwe ya ụgbọ a",
+            "poem": 1
+          },
+          {
+            "text": "nke o ji osisi sitere Lebanọn rụọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Ogidi ya ka o ji ọlaọcha mee;",
+            "poem": 1
+          },
+          {
+            "text": "ala ya bụkwa ọlaedo.",
+            "poem": 2
+          },
+          {
+            "text": "Ebe ịnọdụ ọdụ ya ka e ji akwa odo odo kpaa,",
+            "poem": 1
+          },
+          {
+            "text": "e ji ịhụnanya dozie ebe ime ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị inyom Jerusalem,",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "pụtanụ,",
+            "poem": 1
+          },
+          {
+            "text": "bịa hụrụ, unu ụmụ agbọghọ Zayọn,",
+            "poem": 2
+          },
+          {
+            "text": "bịanụ ka unu hụ Solomọn bụ eze;",
+            "poem": 1
+          },
+          {
+            "text": "lee ụdị okpueze nne ya kpunyere ya nʼisi,",
+            "poem": 2
+          },
+          {
+            "text": "nʼụbọchị agbamakwụkwọ ya,",
+            "poem": 1
+          },
+          {
+            "text": "nʼụbọchị obi ụtọ na ịṅụrị ọṅụ ya.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1846,
+        "caller": "+",
+        "text": "Aịz 21:11-12",
+        "reference": {
+          "chapter": 3,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/SNG/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/SNG/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/SNG/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

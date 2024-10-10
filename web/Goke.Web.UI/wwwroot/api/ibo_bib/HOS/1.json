@@ -1,0 +1,161 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "ibo_bib",
+    "name": "Hosiya",
+    "commonName": "Hosiya",
+    "title": "Hosiya",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "be95de0597e0aba372c720c5d9f574ebf665cd1b20944f3b30f6ff1fb3b64cf2",
+    "firstChapterApiLink": "/api/ibo_bib/HOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Okwu Onyenwe anyị nke bịakwutere Hosiya nwa Beiri nʼoge Uzaya, na Jotam, na Ehaz, na Hezekaya, bụ ndị eze Juda, na nʼoge Jeroboam nwa Jehoash bụ eze nʼIzrel."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nwunye Hosiya na ụmụ ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Na mmalite okwu Onyenwe anyị site nʼọnụ Hosiya, Onyenwe anyị gwara Hosiya sị, “Gaa lụtara onwe gị nwanyị na-akwa iko na ụmụ amụtara nʼịkwa iko, nʼihi na dịka nwanyị alụrụ alụ nʼakwa iko, ala a na-akwa iko nke ukwu site nʼịgbahapụ Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ya mere, ọ gara lụọ Goma nwa Diblaim, onye tụụrụ ime mụọra ya nwa nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onyenwe anyị gwara ya, “Aha ị ga-agụ nwantakịrị ahụ bụ Jezril. Nʼihi na tupu nwa oge nta agafee, aga m ata ezinaụlọ Jehu ahụhụ nʼihi ọbara ọ wụsiri na Jezril. Aga m eme ka alaeze nke ụlọ Izrel kwụsị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼụbọchị ahụ, aga m agbaji ụta Izrel na Ndagwurugwu Jezril.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Emesịa, Goma tụụrụ ime ọzọ, mụta nwa nwanyị. Ọ gwara ya, “Aha ị ga-agụ ya bụ Lo-Ruhama,",
+          {
+            "noteId": 803
+          },
+          "nʼihi na agaghị m enwekwa obi ebere ọzọ nʼahụ ụlọ Izrel, ịgbaghara ha mmehie ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma aga m enwe obi ebere nʼahụ ụlọ Juda. Mụ onwe m ga-azọpụta ha site na Onyenwe anyị bụ Chineke ha. Agaghị m eji ngwa agha ọbụla, dịka ụta maọbụ mma agha maọbụ ike ibu agha maọbụ ịnyịnya maọbụ ndị na-agba ịnyịnya zọpụta ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ọ jụrụ Lo-Ruhama ara, ọ tụụrụ ime ọzọ, mụọ nwa nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onyenwe anyị sịrị, “Kpọọ aha ya Lo-ammi,",
+          {
+            "noteId": 804
+          },
+          "nke pụtara unu abụghị ndị m, nʼihi na unu abụghị ndị nke m, mụ onwe m abụkwaghị Chineke unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“Ma ọnụọgụgụ ụmụ Izrel ga-adị ka aja dị nʼọnụ oke osimiri nke a na-apụghị ịgụta ọnụ maọbụ tụọ nʼihe ọtụtụ. Nʼebe ahụ a nọ sị ha, ‘Unu abụghị ndị m,’ nʼebe ahụ ka a ga-anọ sịkwa ha, ‘Ụmụ Chineke dị ndụ ka unu bụ.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "A ga-achịkọtakwa ndị Juda na ndị Izrel ọnụ. Ha ga-ahọpụtakwara onwe ha otu onyeisi, si nʼala ahụ rigopụta, nʼihi ihe ukwu ka ụbọchị Jezril ga-abụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 803,
+        "caller": "+",
+        "text": "Nke a pụtara onye a na-ahụghị nʼanya maọbụ, obi ebere adịghịkwa",
+        "reference": {
+          "chapter": 1,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 804,
+        "caller": "+",
+        "text": "Nke pụtara, ọ bụghị ndị nke m",
+        "reference": {
+          "chapter": 1,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/HOS/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/HOS/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DAN/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

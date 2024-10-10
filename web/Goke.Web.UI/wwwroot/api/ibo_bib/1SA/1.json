@@ -1,0 +1,282 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "ibo_bib",
+    "name": "1 Samuel",
+    "commonName": "1 Samuel",
+    "title": "1 Samuel",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "289ae07b2b69ff8407f177c417564f47a242ee8908449fd75a6bf2b00c0940ce",
+    "firstChapterApiLink": "/api/ibo_bib/1SA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1SA/31.json",
+    "totalNumberOfVerses": 810
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọmụmụ Samuel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O nwere otu nwoke onye Zuf, si na Ramataim, nʼala ugwu ugwu Ifrem. Aha ya bụ Elkena nwa Jeroham, nwa Elihu, nwa Tohu, nwa Zuf, onye Ifrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Elkena lụrụ ndị inyom abụọ, aha nke mbụ bụ Hana, ebe aha nke abụọ bụ Penina. Penina nwere ụmụ, ma Hana enweghị nwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Kwa afọ, nwoke a na-esi nʼobodo ya gaa Shaịlo ife ofufe na ịchụrụ Onyenwe anyị, Onye pụrụ ime ihe niile aja. Ọ bụ nʼebe ahụ ka ụmụ ndị ikom abụọ Elayị a na-akpọ Hofni na Finehaz, bụ ndị nchụaja Onyenwe anyị nọ.",
+          {
+            "noteId": 126
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼụbọchị ọbụla Elkena na-achụ aja ya, ọ na-ekenye Penina na ụmụ ya ndị ikom na ndị inyom ọtụtụ oke site nʼanụ o ji chụọ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma ọ na-enye Hana oke mmadụ abụọ, nʼihi na ọ hụrụ ya nʼanya, ọ bụ ezie na Onyenwe anyị mechiri akpanwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma Penina na-eme ka obi jọọ Hana njọ karịa, site nʼikpasu ya iwe, nʼihi na Onyenwe anyị mechiri akpanwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ihe ndị a na-eme kwa afọ. Penina na-akwa Hana emo, na-achị ya ọchị oge niile ha gara nʼụlọ Onyenwe anyị, si otu a na-eme ka ọ na-akwa akwa, gharakwa iri nri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe Hana bidoro ịkwa akwa otu a, Elkena na-ajụ ya sị, “Hana, ọ bụ gịnị mere i ji na-akwa akwa? Gịnị mere ị naghị eri nri? Gịnị mere obi ji ajọ gị njọ? Ọ bụ na mụ adịghị gị mma karịa ụmụ ndị ikom iri nye gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Otu ụbọchị mgbe ha risiri nri, ṅụọkwa ihe ọṅụṅụ na Shaịlo, Hana biliri ọtọ. Nʼoge a, Elayị onye nchụaja nọdụrụ ala nʼoche ya nʼakụkụ ọnụ ụzọ ụlọ Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼọnọdụ obi mwute Hana kwara akwa, kpee ekpere, kpọkuo Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O kwere nkwa sị, “O! Onyenwe anyị, Onye pụrụ ime ihe niile, ọ bụrụ na ị ga-elekwasị anya na nhụju anya nke ohu gị nwanyị ma cheta m, ghara ichefu ohu gị nwanyị, ma nye ya nwa nwoke, mgbe ahụ, aga m enyeghachi ya Onyenwe anyị ogologo ụbọchị niile nke ndụ ya. Agụba agakwaghị aga nʼisi ya mgbe ọbụla.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ọ nọgidere na-ekpe ekpere nye Onyenwe anyị, Elayị nọ na-ele ya anya nʼọnụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ka Hana nọ na-ekpe ekpere nʼobi ya, naanị egbugbere ọnụ ya na-emegharị emegharị, ma enweghị onye na-anụ olu ya. Mgbe ahụ, Elayị chere nʼobi ya na ọ bụ nwanyị mmanya na-egbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Elayị sịrị ya, “Ruo ole mgbe ka ị ga-akwụsị ịṅụbiga mmanya oke? Si nʼebe mmanya dị wezuga onwe gị!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma Hana zara sị ya, “Mba, onyenwe m, aṅụghị m mmanya ọbụla! Kama abụ m nwanyị obi ya dị ilu nke ukwuu. Anọ m na-ekwupụtara Onyenwe anyị ihe dị m nʼobi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Biko agụla ohu gị nwanyị dịka onye ajọ omume. Esi m nʼobi mwute na-akwasara Onyenwe anyị ụwa m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Elayị zara sị ya, “Laa nʼudo, ka Chineke Izrel mezuoro gị dịka arịrịọ gị niile si dị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Hana zara sị, “Ka m bụrụ onye si nʼaka gị nata ihuọma.” O jiri obi ụtọ laghachi, malitekwa iri nri ya. Ihu ya agbarụkwaghị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼisi ụtụtụ echi ya, ha biliri kpọọ isiala nʼihu Onyenwe anyị, mgbe ahụ, ha laghachiri nʼụlọ ha dị na Rema. Mgbe ha laruru, Elkena bakwuru nwunye ya Hana, Onyenwe anyị chetakwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe oge ruru, o mere ka Hana tụrụ ime, mụọ nwa nwoke. Ọ gụrụ ya Samuel, nʼihi na ọ sịrị, “Arịrịọ m Onyenwe anyị maka ya.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Hana edoo Samuel nsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe di ya, bụ Elkena na ndị ezinaụlọ ya gara Shaịlo ịchụrụ Onyenwe anyị aja nke afọ ahụ, na ịchụkwa aja metụtara nkwa dị iche nke o kwere Onyenwe anyị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Hana esoghị ha, ọ gwara di ya, “Mgbe nwantakịrị a kwụsịrị ịṅụ ara,",
+          {
+            "noteId": 127
+          },
+          "ka m duru ya ga chee ya nʼihu Onyenwe anyị, ọ ga-ebikwa nʼebe ahụ ruo mgbe ebighị ebi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Elkena bụ di ya sịrị ya, “Mee ihe ọbụla i chere kwesiri ekwesi. Nọdụ ruo mgbe ọ hapụrụ ịṅụ ara, ma ka Onyenwe anyị mezuo okwu ya.” Hana nọgidere nʼụlọ tutu ruo mgbe ọ zụlitere nwantakịrị ahụ, kwụsị ya ịṅụ ara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe ọ kwụsịrị nwantakịrị ahụ ịṅụ ara, nwantakịrị ahụ ka dị ntakịrị. Ma o duuru ya, jiri oke ehi gbara afọ atọ, na iri lita ụtụ ọka abụọ na abụọ, na otu karama mmanya, gaa nʼụlọ Onyenwe anyị dị na Shaịlo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe ha ji oke ehi ahụ chụsịa aja, ha kpọtaara Elayị nwantakịrị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ, ọ sịrị, “Onyenwe m, dịka ị si na-adị ndụ, ọ bụ m bụ nwanyị ahụ guzoro onwe ya nso nʼebe ị nọ kpee ekpere nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼihi nwa a ka m kpere ekpere, Onyenwe anyị emelara m ihe m rịọrọ nʼaka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ma ugbu a, ana m enyeghachi ya Onyenwe anyị ka ọ bụrụ nke ya ndụ ya niile.” O fere Onyenwe anyị ofufe nʼebe ahụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 126,
+        "caller": "+",
+        "text": "Onye Izrel ọbụla kwesiri ịga nʼihu Onyenwe anyị maka ife ofufe, ugboro atọ kwa afọ. Dit 16:16-17; Ọpụ 23:14-19Ebe ụlọ nzute na igbe ọgbụgba ndụ ahụ dị, bụ ihe dịka iri kilomita atọ nʼebe ugwu ugwu Jerusalem. 1Sa 3:3; Jos 18:1",
+        "reference": {
+          "chapter": 1,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 127,
+        "caller": "+",
+        "text": "Nʼoge ochie, adịghị anapụ ụmụntakịrị ara ọsịịsọ, kama ọ bụ mgbe ha gbara afọ atọ maọbụ karịa.",
+        "reference": {
+          "chapter": 1,
+          "verse": 22
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1SA/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1SA/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/RUT/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

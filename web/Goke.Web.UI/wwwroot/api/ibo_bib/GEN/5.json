@@ -1,0 +1,285 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Site nʼAdam ruo Noa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ usoro ihe ndepụta banyere agbụrụ Adam.",
+          {
+            "lineBreak": true
+          },
+          "Mgbe Chineke kere mmadụ, o kere ya nʼoyiyi Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O kere ha nwoke na nwanyị, gọziekwa ha. Mgbe e kere ha, ọ kpọrọ ha mmadụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe Adam gbara narị afọ na iri afọ atọ, ọ mụrụ nwa ya nwoke nʼoyiyi nke ya, na nʼụdịdị nke ya. Ọ gụrụ ya Set."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Site nʼoge a mụrụ Set, Adam dịrị ndụ narị afọ asatọ ọzọ, ọ mụrụ ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Adam nwụrụ mgbe ọ gbara narị afọ itoolu na iri afọ atọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Set gbara narị afọ na ise mgbe ọ ghọrọ nna Enọsh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ọ ghọchara nna Enọsh, Set dịrị ndụ ruo narị afọ asatọ na asaa ọzọ, mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Set nwụrụ mgbe ọ gbara narị afọ itoolu na iri afọ na abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe Enọsh gbara iri afọ itoolu, ọ ghọrọ nna Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ọ ghọchara nna Kenan, Enọsh dịrị ndụ narị afọ asatọ na iri afọ na ise, mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Enọsh nwụkwara mgbe ọ nọzuru narị afọ itoolu na afọ ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe Kenan gbara iri afọ asaa ka ọ ghọrọ nna Mahalalel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ọ ghọchara nna Mahalalel, Kenan dịrị ndụ narị afọ asatọ na iri afọ anọ mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Kenan nwụrụ mgbe ọ gbara narị afọ itoolu na afọ iri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe Mahalalel gbara iri afọ isii na afọ ise ka ọ ghọrọ nna Jared."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ọ ghọchara nna Jared, Mahalalel dịrị ndụ narị afọ asatọ na iri afọ atọ, mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mahalalel nwụrụ mgbe ọ gbara narị afọ asatọ na iri afọ itoolu na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mgbe Jared dị narị afọ na iri afọ isii na abụọ ka ọ ghọrọ nna Enọk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe ọ ghọchara nna Enọk, Jared dịrị ndụ narị afọ asatọ ọzọ mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jared nwụrụ mgbe ọ gbara narị afọ itoolu na iri afọ isii na abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe Enọk gbara iri afọ isii na afọ ise ka ọ ghọrọ nna Metusela."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ọ ghọchara nna Metusela, Enọk soro ụzọ Chineke narị afọ atọ. Nʼoge a, ọ mụtara ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọnụọgụgụ nke afọ niile Enọk biri ndụ, bụ narị afọ atọ na iri afọ isii na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Enọk soro ụzọ Chineke ruo na a hụkwaghị ya nʼihi na Chineke kpọọrọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe Metusela gbara narị afọ na iri afọ asatọ na asaa ka ọ ghọrọ nna Lamek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ọ ghọchara nna Lamek, Metusela dịrị ndụ narị afọ asaa na iri afọ asatọ na abụọ ọzọ mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Metusela nwụrụ mgbe ọ gbara narị afọ itoolu na iri afọ isii na itoolu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe Lamek gbara narị afọ na iri afọ asatọ na abụọ ka ọ mụtara nwa nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Lamek gụrụ ya Noa, nʼihi na ọ sịrị: “Ọ ga-akasị anyị obi nʼime oke ọrụ na ndọgbu anyị na-adọgbu onwe anyị nʼọrụ nʼala a Onyenwe anyị bụrụ ọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbe a mụsịrị Noa, Lamek dịrị ndụ narị afọ ise na iri afọ itoolu na ise ọzọ mụta ụmụ ndị ikom na ụmụ ndị inyom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Lamek nwụrụ mgbe ọ gbara narị afọ asaa na iri afọ asaa na asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Mgbe Noa gbara narị afọ ise ọ ghọrọ nna Shem, Ham na Jafet."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

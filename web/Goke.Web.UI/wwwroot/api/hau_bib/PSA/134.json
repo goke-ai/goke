@@ -1,0 +1,99 @@
+{
+  "translation": {
+    "id": "hau_bib",
+    "name": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™",
+    "website": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "hau",
+    "textDirection": "ltr",
+    "sha256": "f7b98712d68944c90ac6eda799ede1e61c24c14e7b2140ccb01e230d07e049ba",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/hau_bib/books.json",
+    "numberOfBooks": 65,
+    "totalNumberOfChapters": 1177,
+    "totalNumberOfVerses": 30730,
+    "languageName": "Hausa",
+    "languageEnglishName": "Hausa"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "hau_bib",
+    "name": "Zabura",
+    "commonName": "Zabura",
+    "title": "Zabura",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e78067311fcd1738fecf41d9125bd907b5108451faa2568b2f100137459efee1",
+    "firstChapterApiLink": "/api/hau_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/hau_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 134,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Waƙar haurawa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Yabi Ubangiji, dukanku bayin Ubangiji",
+            "poem": 1
+          },
+          {
+            "text": "waɗanda kuke hidima da dare a gidan Ubangiji.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ku tā da hannuwanku a cikin wurinsa mai tsarki",
+            "poem": 1
+          },
+          {
+            "text": "ku kuma yabi Ubangiji.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Bari Ubangiji, Mahaliccin sama da ƙasa,",
+            "poem": 1
+          },
+          {
+            "text": "ya albarkace ku daga Sihiyona.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/hau_bib/PSA/134.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/hau_bib/PSA/135.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/hau_bib/PSA/133.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

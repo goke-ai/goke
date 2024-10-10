@@ -1,0 +1,397 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "ibo_bib",
+    "name": "Ọrụ Ndị Ozi",
+    "commonName": "Ọrụ Ndị Ozi",
+    "title": "Ọrụ Ndị Ozi",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "beb34f86ac2e9ecf638b1df8e5ae7e87488df8a33aff7d1cbba602a8bc2f7ac5",
+    "firstChapterApiLink": "/api/ibo_bib/ACT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ACT/28.json",
+    "totalNumberOfVerses": 1007
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nchegharị Sọl"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ma ugbu a, Sọl, onye ume niile ọ na-ekupụta bụ naanị ịba mba na igbu ndị na-eso ụzọ Onyenwe anyị, gakwuuru onyeisi nchụaja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "rịọ ya ka o nye ya akwụkwọ ozi nke ọ ga-eji jekwuru ndị ụlọ nzukọ ndị Juu dị na Damaskọs, nke ọ ga-abụ ọ hụ onye ọbụla na-eso Ụzọ ahụ ma ha bụ nwoke ma ha bụ nwanyị, ka ọdọkpụrụ ha nʼagbụ, kpụgaa Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ọ na-aga nʼụzọ, ọ bịaruru ebe dị Damaskọs nso. Na mberede, ihe ìhè nke sitere nʼeluigwe chara ya gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ọ dara nʼala, nụ olu na-akpọ ya oku,",
+          {
+            "text": "“Sọl, Sọl, gịnị mere i ji na-akpagbu m?”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ sịrị, “Ị bụ onye, Onyenwe anyị?” Olu ahụ zaghachiri,",
+          {
+            "text": "“Abụ m Jisọs onye ị na-akpagbu.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ugbu a, bilie, baa nʼime obodo, a ga-agwa gị ihe ị na-aghaghị imezu.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ndị ikom ha na ya so aga guzoro nʼebe ahụ, ma ha enweghị ike ikwu okwu. Ha nụrụ olu ahụ, ma ha ahụghị onye ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Sọl si nʼala bilie, ma nʼagbanyeghị nʼanya ya meghere emeghe, ọ dịghị ihe o nwere ike ịhụ. Nke a mere na ha sekpụrụ ya nʼaka dubata ya na Damaskọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ hụghị ụzọ ụbọchị atọ, o nweghị ike iri nri maọbụ ṅụọ ihe ọṅụṅụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Otu onye nke na-eso ụzọ ya nọ na Damaskọs, a na-akpọ Ananayas. Onyenwe anyị gwara ya nʼọhụ,",
+          {
+            "text": "“Ananayas!”",
+            "wordsOfJesus": true
+          },
+          "Ọ sịrị, “Lee m, Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onyenwe anyị gwara ya,",
+          {
+            "text": "“Gaa nʼụlọ Judas nke dị nʼokporoụzọ Guzoziri Eguzo, jụọ ajụjụ banyere onye a na-akpọ Sọl, onye si Tasọs, ọ nọ ugbu a na-ekpe ekpere.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ọ hụla ọhụ na otu nwoke a na-akpọ Ananayas na-abịakwute ya, ibikwasị ya aka nʼisi ka ọ hụ ụzọ.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma Ananayas zara, “Onyenwe anyị, anụla m akụkọ ihe ọjọọ niile nwoke a mere ndị nsọ gị bi na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ugbu a, ọ natara ikike nʼaka ndịisi nchụaja bịa nʼebe a ka o jide ndị niile na-akpọku aha gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma Onyenwe anyị gwara ya,",
+          {
+            "text": "“Gaa, nʼihi na ahọpụtala m nwoke a ka ọ bụrụ ngwa ọrụ m, onye ga-ewegara mba ndị ọzọ, ndị eze na ụmụ Izrel aha m.",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Mụ onwe m ga-egosi ya ụdị ahụhụ ọ na-aghaghị ịta nʼihi aha m.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere, Ananayas garuru nʼụlọ ahụ, banyekwa nʼime ya. Ọ bikwasịrị aka ya nʼisi Sọl, sị, “Nwanna Sọl, Onyenwe anyị Jisọs, onye gosiri gị onwe ya nʼụzọ, zitere m ka ị hụkwa ụzọ ọzọ, ka ị jupụtakwa na Mmụọ Nsọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Otu mgbe ahụ, ihe dịka akpịrịkpa sitere nʼanya ya dapụta, o bidokwara ịhụ ụzọ ọzọ. O biliri ọtọ, e mee ya baptizim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe o richara nri, ọ nwetakwara ike ya. Oziọma Sọl na Damaskọs Ya na ndị na-eso ụzọ Jisọs nọrọ na Damaskọs ọtụtụ ụbọchị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ngwangwa, o bidoro ikwusa Jisọs nʼụlọ nzukọ na-asị, Ọ bụ Ọkpara Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "O juru ndị niile nụrụ ya anya, ha na asị, “Ọ bụghị nwoke a bụ onye ahụ na-emekpa ndị niile na-akpọku aha ahụ na Jerusalem? Ọ bụ na ọ bụghị maka nke a ka o ji bịa ebe a ịkpụrụkwa ha kpụgara ndịisi nchụaja?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma Sọl gara nʼihu baa ụba nʼike karịa na ikwu okwu nke gbara ndị Juu bi nʼobodo Damaskọs gharịị site nʼụzọ o siri gosi na Jisọs bụ Kraịst ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ọtụtụ ụbọchị gasịrị ndị Juu gbara izu igbu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ma Sọl chọpụtara ihe ha zubere ime. Ehihie na abalị, ndị a nọ na-eche ụzọ niile e si apụ nʼobodo ahụ nche, ka ha nwe ike gbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma ụmụazụ ya kunyere ya na nkata amanyere ụdọ bufee ya nʼofe mgbidi nke obodo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mbata Sọl na Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe o rutere Jerusalem, ọ gbalịrị ịdịnyere ndị na-eso ụzọ Jisọs nọ nʼebe ahụ, ma ha tụrụ egwu. Ha ekwenyeghị na ọ ghọọla ezi onye na-eso ụzọ Jisọs dịka ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ma Banabas duuru ya gaa nʼebe ndị ozi nọ. Ọ kọọrọ ha akụkọ otu o siri hụ Onyenwe anyị na otu o siri gwakwa ya okwu. Na otu o siri kwusaa oziọma nʼaha Jisọs na Damaskọs na-atụghị egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "O soro ha na-agagharị na Jerusalem. Ọ na-ekwusakwa okwu nʼaha Onyenwe anyị na-atụghị egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ya na ndị Juu na-asụ asụsụ Griik rụrịtakwara ụka. Nʼihi ya ndị a gbara izu igbu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbe ndị kwere ekwe nụrụ banyere nzube ha, ha duuru ya gaa Sizaria site nʼebe ahụ zipụ ya ka ọ laa obodo Tasọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe ahụ, nzukọ niile ndị nọ na Judịa, Galili na Sameria, nọọrọ nʼudo, guzosiekwa ike. Ha na-amụba nʼọnụọgụgụ site nʼịtụ egwu nke Onyenwe anyị na ịgbaume nke Mmụọ Nsọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọgwụgwọ Ainias na Dọkas"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Pita na-ejegharị nʼetiti ndị kwere ekwe, ọ gakwara leta ndị nsọ nọ nʼobodo Lida."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼebe ahụ, ọ hụrụ otu nwoke aha ya bụ Ainias. Nwoke a anọọla nʼute ọrịa afọ asatọ. Ọ bụ onye ahụ ya kpọnwụrụ akpọnwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Pita sịrị ya, “Ainias, Jisọs Kraịst agwọọla gị. Bilie mezie ute gị.” Ngwangwa, Ainias biliri ọtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ndị niile bi na Lida na Sharọn hụrụ ya. Nʼihi ya, ha nabatara Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nʼobodo Jopa, e nwere otu onye nwanyị na-eso ụzọ ya, nke aha ya bụ Tabita nke pụtakwara Dọkas na asụsụ Griik. O jupụtara nʼọrụ ọma, na ọrụ obi ebere nʼebe ụmụ ogbenye nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Nʼoge a, ọ rịara ọrịa, nwụọ. Mgbe ha sachara ya ahụ, ha nibere ya nʼotu ime ụlọ dị nʼụlọ elu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Jopa dịkwa nso na Lida. Mgbe ndị na-eso ụzọ ya nụrụ na Pita nọ nʼebe ahụ, ha ziri ụmụ nwoke abụọ ozi ka a rịọọ ya, sị, “Biko, ahapụla ịbịakwute anyị ngwangwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Pita biliri soro ha gawa, mgbe o ruru, ha duuru ya gbago nʼụlọ elu nʼime ụlọ ahụ. Ụmụ nwanyị niile di ha nwụrụ anwụ nọ nʼebe ahụ na-ebe akwa, na-egosi uwe Dọkas dụụrụ ha mgbe ọ dị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Pita chụpụrụ ha niile nʼezi, gbuo ikpere nʼala, kpee ekpere. Ọ tụgharịrị chee ozu ahụ ihu sị, “Tabita, bilie.” O meghere anya ya, ma mgbe ọ hụrụ Pita, o biliri, nọdụ ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "O nyeere ya aka ka ọ kwụrụ ọtọ. Ọ kpọrọ ndị nsọ niile nọ nʼebe ahụ, ha na ụmụ nwanyị ahụ di ha nwụrụ gosi ha na ọ dị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "A nụrụ akụkọ ihe a mere nʼebe niile na Jopa, nke mere ka ọtụtụ kwere nʼOnyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ọ nọgidere na Jopa ọtụtụ ụbọchị. Ọ nọdụrụ nʼụlọ Saimọn, onye ọrụ ya bụ idozi akpụkpọ anụ."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/ACT/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ACT/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ACT/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

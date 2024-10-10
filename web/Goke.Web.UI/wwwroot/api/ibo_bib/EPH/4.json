@@ -1,0 +1,322 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EPH",
+    "translationId": "ibo_bib",
+    "name": "Ndị Efesọs",
+    "commonName": "Ndị Efesọs",
+    "title": "Ndị Efesọs",
+    "order": 49,
+    "numberOfChapters": 6,
+    "sha256": "6fbaeeac9d02c3058de0b5820f29d9362d398a919dfe8f85377c58981791dc93",
+    "firstChapterApiLink": "/api/ibo_bib/EPH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EPH/6.json",
+    "totalNumberOfVerses": 155
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ịdị nʼotu nke anụ ahụ Kraịst"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ya mere, mụ onwe m bụ onye mkpọrọ nke Onyenwe anyị, na-arịọ unu ka unu bie ndụ kwesiri ọkpụkpọ nke a kpọrọ unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Werekwanụ obi dị umeala niile na ịdị nwayọọ, na ndidi na-anagide ibe unu nʼịhụnanya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nọọnụ nʼudo nʼetiti onwe unu gbalịakwanụ ime ka ịdị nʼotu unu dịgide nʼime Mmụọ Nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "E nwere otu ahụ na otu Mmụọ, dị ka e siri kpọọ unu nʼotu olileanya nke dịịrị ọkpụkpọ a kpọrọ unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Otu Onyenwe anyị dị, otu okwukwe na otu baptizim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ bụkwa naanị otu Chineke dị onye bụ Nna ihe niile na onye na-achị ihe niile, na onye na-arụ ọrụ ya nʼime ihe niile, na-ebikwa nʼime ihe niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma e nyere onye ọbụla amara dịka oke onyinye nke Kraịst siri dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nʼihi nke a, e kwuru,",
+          {
+            "text": "“Mgbe ọ rigoro gaa nʼelu,",
+            "poem": 1
+          },
+          {
+            "text": "o duuru igwe ndị a dọtara nʼagha,",
+            "poem": 2
+          },
+          {
+            "text": "nyekwa ụmụ mmadụ onyinye dị iche iche.”",
+            "poem": 2
+          },
+          {
+            "noteId": 523
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "(E kwuru, “Ọ rigoro,” gịnị ka ọ pụtara ma ọ bụghị na o buru ụzọ rịdaa nʼime ala mmụọ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onye ahụ si nʼelu rịdata bụkwa otu onye ahụ rigoro nʼeluigwe, ka o nwee ike mejuo ihe niile.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O nyekwara ụfọdụ onyinye ị bụ ndị ozi, ụfọdụ ndị amụma, ụfọdụ ndị nkwusa oziọma, ụfọdụ ndị ụkọchukwu na ndị nkuzi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a bụ maka ikwadobe ndị nsọ maka ọrụ nke ije ozi, iji wulite ahụ nke Kraịst;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "tutu anyị niile abịa na nkwekọta banyere okwukwe anyị, na ọmụma ihe banyere ọkpara Chineke, bụrụ onye tozuru oke, ruo ọtụtụ nke ogogo na ozuzu oke nke Kraịst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ anyị agaghị abụkwa ụmụntakịrị, ndị ikuku ozizi ọhụrụ dị iche iche na-ebugharị ihu na azụ dị ka ebili mmiri, na ịgha ụgha nke mmadụ, bụ ozizi na-esite nʼime aghụghọ nke ha ji echepụta nduhie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Kama nʼikwu eziokwu site na mmụọ ịhụnanya, anyị ga-eto bụrụ ndị tozuru oke nʼakụkụ niile nʼime ya, bụ onye ahụ bụ isi, nke bụ Kraịst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onye anụ ahụ niile, jikọtara ọnụ ma bụrụ otu, site na nkwonkwo niile nke na-enyezu ya nkwado, dịka akụkụ niile ọbụla na-arụ ọrụ ya nke ọma, na-esite nʼụzọ ahụ enyere akụkụ ndị ọzọ aka, ime ka ha too, nakwa iwuli ha elu site nʼịhụnanya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ibi ndụ dị ka ụmụ nke ihe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere, ana m ekwu nke a, ma na-eguzokwa na ya nʼime Onyenwe, ka unu hapụ ibi ndụ dị ka ndị mba ọzọ si ebi, na echiche ha na-abaghị uru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ndị ọchịchịrị gbachiri nghọta ha. Ndị dị otu a enweghị oke na ndụ ahụ Chineke na-enye, nʼihi na obi ha mechiri emechi, ha adịghị aghọtakwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ha abụrụla ndị obi ha kpọrọ nkụ, ndị were onwe ha nyefee ime ihe niile masịrị ọchịchọ ha, ka ha si otu a na-ebi ndụ adịghị ọcha niile, ha bụ ndị jupụtara nʼanya ukwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma nke a abụghị otu unu siri mụta Kraịst,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "ma ọ bụrụ na unu anụla ihe banyere ya, ọ bụrụkwa na unu amụtala ihe site nʼaka ya banyere eziokwu ahụ dị nʼime Jisọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Yipụnụ mmadụ ochie unu, nke mere ka unu na-ebi ndụ ọjọọ na mbụ, bụ mmadụ ochie ahụ nke jupụtara nʼagụụ ime ihe ọjọọ niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "ka eme ka mmụọ nke uche unu dị ọhụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ma yikwasịnụ onwe unu mmadụ ọhụrụ, nke e kere nʼụdịdị Chineke nʼezi omume nʼezie nakwa nʼịdị nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ya mere, wezuganụ ịgha ụgha, ka anyị niile kwuo eziokwu nye ndị agbataobi anyị, nʼihi na anyị niile bụ ndị e jikọtara nʼotu anụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ị na-ewe iwe emehiekwala.",
+          {
+            "noteId": 524
+          },
+          "Ekwela ka anyanwụ daa mgbe ị ka nọ na-ewe iwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Enyela ekwensu ohere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ka onye na-ezu ohi kwụsị izu ohi. Kama ya jiri aka ya abụọ rụọ ezi ọrụ, ka o nwee ike inyere ndị ọzọ nọ na mkpa aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ka okwu rere ure ọbụla hapụ isite nʼọnụ unu pụta. Kama kwuonụ naanị ezi ihe nke ga-aba uru iwuli ndị ọzọ elu dịka mkpa ha si dị na iwetara ndị nụrụ ya ngọzị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Unu akpasukwala Mmụọ Nsọ nke Chineke iwe, onye a kara unu akara nʼime ya maka ụbọchị nke mgbapụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Wepụnụ obi ilu niile, na obi ọjọọ na iwe, ya na nkwulu na ibu iro niile nʼetiti unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼọnọdụ ihe ndị a niile, nweenụ obi ebere nʼebe ibe unu nọ. Gbagharanụ ibe unu dịka Chineke sitere nʼamara ya gbaghara unu nʼihi na unu bụ nke Kraịst."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 523,
+        "caller": "+",
+        "text": "Abụ 68:18",
+        "reference": {
+          "chapter": 4,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 524,
+        "caller": "+",
+        "text": "Abụ 4:4",
+        "reference": {
+          "chapter": 4,
+          "verse": 26
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EPH/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EPH/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EPH/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

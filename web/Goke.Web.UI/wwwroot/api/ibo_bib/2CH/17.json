@@ -1,0 +1,208 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 17,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jehoshafat eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jehoshafat nwa ya ghọrọ eze nʼọnọdụ ya, o mere onwe ya ka ọ dị ike imegide Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O tinyere ụfọdụ ndị agha ya nʼobodo niile dị na Juda e wusiri ike, tinyekwa ụfọdụ nʼobodo ndị ọzọ dị nʼIfrem, na ebe ndị ọzọ niile nke nna ya, Asa meriri nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onyenwe anyị nọnyeere Jehoshafat nʼihi na o sooro nzọ ụkwụ nna ya, bụ Devid, onye buuru ya ụzọ chịa. Ọ jụghị ase site nʼaka Baal,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "kama ọ chọrọ Onyenwe anyị, Chineke nna ya, dobekwa iwu ya niile, ọ bụghịkwa dịka omume ndị Izrel si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼihi nke a Onyenwe anyị mere ka ọchịchị ya guzosie ike. Ndị Juda niile tụkwara ụtụ ha dịka o kwesiri wetara Jehoshafat, nke a mere ka o nwee akụnụba ebe ọ dị ukwuu, nwekwa nsọpụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O ji obi ya niile gbasoo ụzọ Onyenwe anyị. Ọzọkwa, o sitere na Juda wezuga ebe niile dị elu nakwa ogidi Ashera niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼafọ nke atọ nke ọchịchị ya, o zipụrụ ndịisi ọchịchị alaeze ya ndị a, Ben-Hail, Ọbadaya, Zekaraya, Netanel na Mikaya ka ha gaa zie ndị mmadụ ihe nʼobodo niile nke Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ụfọdụ ndị Livayị ndị a sokwa gaa: Shemaya, Netanaya, Zebadaya, Asahel, Shemiramot, Jehonatan, Adonaịja, Tobaija, Tob-Adonaịja na ndị nchụaja ụfọdụ, ndị dị ka Elishama na Jehoram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha ji akwụkwọ iwu Onyenwe anyị, zie ihe na Juda. Ha jere gburugburu obodo niile nke Juda na-ezi ndị mmadụ ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Egwu Onyenwe anyị dakwasịrị alaeze niile dị gburugburu Juda, nʼihi ya, ha ebukwaghị agha megide Jehoshafat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ụfọdụ nʼime ndị Filistia wetaara ya onyinye na ọlaọcha kwa afọ nʼụzọ ịkwanyere ya ugwu, ma ndị Arab, wetaara ya igwe anụ ụlọ dị puku ebule asaa na narị asaa, na puku mkpi asaa na narị asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, Jehoshafat ghọrọ eze dị ike. O wusiri obodo ndị dị na Juda ike, wukwaa obodo ịchịkọba ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "O nwekwara ihe ndị ọ chịkọbara nʼọtụtụ obodo Juda. O debekwara ndị agha ibu agha doro anya nʼime Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ngụkọta ha dịka e si dekọọ ya nʼezinaụlọ si dị:",
+          {
+            "lineBreak": true
+          },
+          "Ndị si Juda, ndịisi agha na-achị puku ndị agha (1,000), Adna, onyeisi agha, na-achị narị puku ndị agha atọ (300,000),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "onye na-eso ya bụ Jehohanan, onyeisi agha, na-achị narị puku ndị agha abụọ na iri puku asatọ (280,000),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "ọzọ, Amasiya nwa Zikri, onye ji afọ ofufu",
+          {
+            "noteId": 210
+          },
+          "nye onwe ya maka ọrụ Onyenwe anyị, na-achị narị puku ndị agha abụọ (200,000)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị si Benjamin, Eliada, dimkpa nʼagha, na-achị narị puku ndị agha abụọ (200,000), ndị ji akụ na ụta, na ọta ebu agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Onye ọzọ bụ Jehozabad, onye na-achị narị puku ndị agha na iri puku asatọ (180,000), ndị jikeere ibu agha."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị a bụ ndị ikom na-ejere eze ozi, nʼagụnyeghị ndị ahụ o tinyere ka ha nọdụ nʼobodo niile e wusiri ike dị nʼime Juda."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 210,
+        "caller": "+",
+        "text": "Họpụtara",
+        "reference": {
+          "chapter": 17,
+          "verse": 16
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/17.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/18.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CH/16.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

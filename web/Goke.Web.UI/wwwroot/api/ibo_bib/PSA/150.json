@@ -1,0 +1,164 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 150,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ka ihe niile too Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Toonu Onyenwe anyị.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Toonu Chineke nʼime ụlọnsọ ya.",
+            "poem": 1
+          },
+          {
+            "text": "Toonu ya, na mbara igwe nke ike ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Toonu ya, nʼihi ọrụ niile ọ rụrụ site nʼike ya.",
+            "poem": 1
+          },
+          {
+            "text": "Toonu ya, nʼihi ịdị ukwuu ya nke kachasị ịdị ukwuu niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Werenụ opi ike too ya,",
+            "poem": 1
+          },
+          {
+            "text": "werekwanụ ụbọ akwara na une too ya,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "jirinụ ihe iti egwu na ite egwu too ya,",
+            "poem": 1
+          },
+          {
+            "text": "jirikwanụ ụbọ akwara dị iche iche na ọja too ya,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "werenụ ogene too ya,",
+            "poem": 1
+          },
+          {
+            "text": "werekwanụ ogene na-ada oke ụda too ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ka ihe niile na-eku ume too Onyenwe anyị.",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Toonu Onyenwe anyị.",
+            "poem": 1
+          },
+          {
+            "noteId": 1718
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1718,
+        "caller": "+",
+        "text": "Mgbe mmadụ na-eti, Toonu Onyenwe anyị, ya na onye na-eti Haleluya, na-ekwu otu ihe ahụ.",
+        "reference": {
+          "chapter": 150,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/150.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PRO/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/149.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

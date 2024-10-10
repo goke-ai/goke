@@ -1,0 +1,58 @@
+﻿#hero, .hero {
+}
+
+    #hero h1, .hero h1 {
+        margin: 0 0 10px 0;
+        font-size: 64px;
+        font-weight: 700;
+        line-height: 56px;
+        color: #fff;
+    }
+
+    #hero p, .hero p {
+        color: #fff;
+        margin-bottom: 50px;
+        font-size: 26px;
+        font-family: "Poppins", sans-serif;
+    }
+
+    #hero .personal-wrapper, .hero .personal-wrapper {
+        position: absolute;
+        top: 45vh;
+    }
+
+        #hero .personal-wrapper > div, .hero .personal-wrapper > div {
+            position: relative;
+            color: wheat;
+            padding: 1em;
+            font-size: 0.8rem;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+@media (max-width: 640.98px) {
+}
+
+
+@media (min-width: 641px) {
+    #hero, .hero {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+        #hero .personal-wrapper, .hero .personal-wrapper {
+            top: 60vh;
+        }
+
+            #hero .personal-wrapper > div, .hero .personal-wrapper > div {
+                font-size: 0.8rem;
+            }
+}
+
+@media (min-width: 1024px) {
+    #hero .personal-wrapper > div, .hero .personal-wrapper > div {
+        width: 80%;
+        font-size: 1.1rem;
+    }
+}

@@ -1,0 +1,269 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "ibo_bib",
+    "name": "Ndị Ikpe",
+    "commonName": "Ndị Ikpe",
+    "title": "Ndị Ikpe",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "95a9df0a510a3a753ad4f2c854a524222839cc364d9faaaefaf342ef3795e4ed",
+    "firstChapterApiLink": "/api/ibo_bib/JDG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JDG/21.json",
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọmụmụ Samsin"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị Izrel mehiekwara ọzọ nʼihu onyenwe anyị. Nʼihi nke a, Onyenwe anyị kwenyere ka ndị Filistia merie ha. Ndị Izrel nọrọ nʼokpuru ọchịchị ha iri afọ anọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼoge ahụ, o nwere otu nwoke onye Zora aha ya bụ Manoa. Nwoke a si nʼagbụrụ Dan, nwunye ya bụ nwanyị aga nke mere na ọ mụtaghị nwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Otu ụbọchị, mmụọ ozi Onyenwe anyị gosiri nwanyị a onwe ya, gwa ya okwu sị, “Ọ bụ ezie na ị bụ nwanyị aga nke mere na ị mụtaghị nwa ma na mgbe na-adịghị anya, ị ga-atụrụ ime mụta nwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma site ugbu a, gaa nʼihu, aṅụkwala ihe ọṅụṅụ ọbụla na-aba nʼanya. Erikwala ihe ọbụla rụrụ arụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ị ga-atụrụ ime, mụkwaa nwa nwoke, onye agụba agaghị aba nʼisi ya,",
+          {
+            "noteId": 976
+          },
+          "nʼihi na ọ ga-abụ onye e kewapụrụ nye Chineke site nʼime akpanwa. Ọ ga-ebute ụzọ nʼịgbapụta Izrel site nʼaka ndị Filistia.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nwanyị ahụ gbara ọsọ gbalaa gaa gwa di ya sị ya, “Otu onye nke Chineke egosila m onwe ya. O dokwara m anya na ọ bụ mmụọ ozi Chineke, nʼihi na ọ dị oke ebube nʼile anya. Ma ajụghị m ya ebe o siri bịa, ọ gwakwaghị m aha ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Kama ọ sịrị m, ‘Ị ga-adị ime, mụta nwa nwoke. Ma ugbu a, ị gaghị aṅụ mmanya vaịnị maọbụ ihe ọbụla na-aba nʼanya, maọbụ rie ihe ọbụla rụrụ arụ, nʼihi na nwantakịrị ahụ ga-abụ onye e doro nsọ nye Chineke, site nʼime akpanwa ruo nʼọnwụ ya.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ahụ, Manoa kpere ekpere rịọọ Onyenwe anyị arịrịọ sị, “Biko, Onyenwe anyị, ka onye nke Chineke ahụ i ziteere anyị bịaghachikwa ọzọ, kuziere anyị otu anyị ga-esi zụlite nwa nwoke a ga-amụta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Chineke zara ekpere ya. Mmụọ ozi ahụ bịakwutekwara nwunye Manoa mgbe ọ nọ nʼubi; maọbụ naanị ya nọ, di ya anọghị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ya mere, nwanyị ahụ gbara ọsọ gaa gwa di ya sị, “Lee, nwoke ahụ bịakwutere m ụbọchị a, abịala ọzọ!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Manoa biliri, soro nwunye ya. Mgbe o bịarutere ebe nwoke ahụ nọ, ọ jụrụ ya ajụjụ sị, “Ọ bụ gị bụ nwoke ahụ gwara nwunye m okwu nʼoge gara aga?” Ọ zara sị ya, “E, ọ bụ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Manoa gwara ya okwu sị, “Mgbe okwu gị mezuru, gịnị bụ iwu banyere ndụ na ọrụ nwa nwoke a?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mmụọ ozi Onyenwe anyị zaghachiri, “Nwunye gị aghaghị imezu ihe niile m nke m gwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ka ọ ghara iri ihe ọbụla si nʼosisi vaịnị,",
+          {
+            "noteId": 977
+          },
+          "maọbụ ṅụọ mmanya ọbụla maọbụ ihe ọbụla na-aba nʼanya, maọbụ rie ihe rụrụ arụ ọbụla.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Manoa rịọrọ Mmụọ ozi Onyenwe anyị si ya, “Ọ ga-amasị anyị ma ị nọdụ chere ka anyị kwadoro gị nwa ewu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma Mmụọ ozi Onyenwe anyị zara ya, “A sịkwarị na i mee ka m nọrọ, agaghị m eri nri gị ọbụla. Ma ọ bụrụ na i kwadoo aja nsure ọkụ, were ya chụọrọ Onyenwe anyị aja.” Ma Manoa aghọtaghị na onye ahụ bụ Mmụọ ozi Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ahụ, Manoa jụrụ Mmụọ ozi Onyenwe anyị ahụ, sị, “Biko, gịnị bụ aha gị, ka anyị nye gị nsọpụrụ dịịrị gị mgbe okwu gị mezuru?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ zara, “Nʼihi gịnị kwa ka ị na-ajụ banyere aha m?",
+          {
+            "noteId": 978
+          },
+          "Ọ bụ ihe karịrị nghọta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe ahụ, Manoa weere nwa ewu, ya na ụfọdụ mkpụrụ ọka, jiri ha chụọrọ Onyenwe anyị aja nʼelu nkume. Mgbe ahụ kwa, Onyenwe anyị mere ihe dị ebube nke ukwuu mgbe Manoa na nwunye ya guzo na-ele anya:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe ire ọkụ ahụ sitere nʼebe ịchụ aja ahụ na-arịgo na-aga elu, Mmụọ ozi Onyenwe anyị wụliri elu soro ire ọkụ ahụ rigoro gawa nʼeluigwe! Mgbe Manoa na nwunye ya hụrụ ka nke a na-eme, ha kpuru ihu ha nʼala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe Mmụọ ozi Onyenwe anyị na-egosighị onwe ya ọzọ nye Manoa na nwunye ya, ka Manoa ghọtara na ọ bụ Mmụọ ozi Onyenwe anyị ka ha hụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Manoa gwara nwunye ya sị, “Anyị abụrụla ndị nwụrụ anwụ, nʼihi na anyị ahụla Chineke!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma nwunye ya zara sị ya, “Ọ bụrụ na Onyenwe anyị chọrọ igbu anyị, ọ garaghị anara aja nsure ọkụ, na aja mkpụrụ ọka anyị chụrụ nye ya. Ọzọkwa, ọ garaghị egosi anyị ihe ndị a niile maọbụ gwa anyị ihe ndị a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Emesịa, nwanyị ahụ mụrụ nwa nwoke, onye ha gụrụ Samsin. Onyenwe anyị gọzikwara nwantakịrị ahụ mgbe ọ na-etolite."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mmụọ Onyenwe anyị bidokwara na-agba ya ume nʼoge niile, mgbe ọ nọ Mahane Dan, nke dị nʼetiti Zora na Eshtaol."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 976,
+        "caller": "+",
+        "text": "Ọnụ 6:5; 6:2; 1Sa 1:11",
+        "reference": {
+          "chapter": 13,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 977,
+        "caller": "+",
+        "text": "Ọnụ 6:3-4; Nkp 13:4",
+        "reference": {
+          "chapter": 13,
+          "verse": 14
+        }
+      },
+      {
+        "noteId": 978,
+        "caller": "+",
+        "text": "Jen 32:29",
+        "reference": {
+          "chapter": 13,
+          "verse": 18
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JDG/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JDG/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JDG/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

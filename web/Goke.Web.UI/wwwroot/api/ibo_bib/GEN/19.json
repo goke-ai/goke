@@ -1,0 +1,326 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mbibi Sọdọm na Gọmọra"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge anyasị, ndị mmụọ ozi abụọ ahụ bịarutere Sọdọm. Lọt nọ ala nʼọnụ ụzọ ama obodo ahụ. Mgbe ọ hụrụ ha, o biliri jekwuru ha, hulata ihu ya nʼala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ sịrị, “Ndị nwe m, batanụ nʼụlọ ohu unu. Unu nwere ike saa ụkwụ unu, nọọkwa ọnọdụ abalị. Chi bọọ, unu nwere ike ibilikwa bido ịga nʼihu nʼije unu.” Ha zara sị, “Ee, anyị ga-edina nʼama.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma Lọt rịọsiri ha ike. Nʼikpeazụ ha sooro ya laa nʼụlọ ya. Ọ kwadooro ha ihe oriri, ya bụ achịcha na-ekoghị eko ka o ghere. Ha rikwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Tupu ha abanye ịrahụ ụra, ndị ikom obodo ahụ, ndị ikom Sọdọm, bịara gbaa ụlọ ahụ gburugburu, ma ụmụ okorobịa ma ndị agadi, ndị niile si nʼakụkụ obodo ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ha kpọrọ Lọt oku sị ya, “Olee ebe ha nọ, bụ ndị ikom ahụ bịara nʼụlọ gị nʼabalị a? Kpọpụtara anyị ha ka anyị na ha dinakọọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Lọt pụkwuru ha nʼezi, mechie ụzọ ụlọ ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "sị ha, “Bikonu, ndị enyi m, unu emela ihe ọjọọ dị otu a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Leenụ, enwere m ụmụ nke aka m, ụmụ agbọghọ abụọ na-amaghị nwoke. Ka m kpọpụtara unu ha, ka unu mee ha ihe masịrị unu. Ma hapụnụ ndị ikom ndị a, nʼihi na ha bụ ndị batara izere ndụ nʼụlọ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha zara sị ya, “Pụọra anyị nʼụzọ. Mbịarambịa ka ị bụ! Leenụ mbịarambịa a! Ọ chọrọ ịbụ onye ikpe. Anyị mee gị ihe, ọ ga-ajọrọ gị njọ karịa ihe anyị ga-eme ha.” Ha nuru Lọt aka nughachi ya azụ, malite itiwa ọnụ ụzọ ụlọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma ndị ikom ahụ nọ nʼụlọ Lọt, setịpụrụ aka ha dọbata ya nʼụlọ, ma mechie ụzọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ha tiri ndị ikom ndị ahụ nọ nʼọnụ ụzọ ihe otiti nke mere ka ha kpụọ ìsì, onye ukwu ha na onye nta ha. Nʼihi ya, ha enweghị ike ịchọta ọnụ ụzọ ụlọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ndị ikom abụọ ahụ gwara Lọt sị, “O nwere onye ọbụla ọzọ i nwere nʼebe a? Ndị ọgọ nwoke, maọbụ ụmụ gị ndị ikom, maọbụ ụmụ gị ndị inyom, na ọ bụ onye ọbụla bụ nke gị nʼobodo a. Site nʼebe a kpọpụ ha!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi na anyị na-aga imebi obodo a, mkpu akwa ruru Onyenwe anyị ntị megide ndị bi nʼobodo a adịla ukwuu, nke mere o ji zite anyị ibibi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, Lọt pụrụ gaa gwa ndị ọgọ ya nwoke, ndị na-akwado ịlụ ụmụ ya ndị inyom, sị ha, “Ọsọ, sinụ nʼobodo a pụọ. Nʼihi na Onyenwe anyị na-akwado ibibi ya.” Ma ndị ọgọ ya nwoke ndị a chere na ọ na-egwu egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nʼụtụtụ, mgbe chi na-abọta, ndị mmụọ ozi a kwagidere Lọt sị ya, “Ọsọ, kpọrọ nwunye gị na ụmụ gị ndị inyom abụọ ndị a site nʼebe a gbapụ, ma ọ bụghị ya, a ga-ekpochapụ unu nʼihi ajọ omume ndị obodo a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe Lọt ka nọ na-eche ihe ọ ga-eme, ndị ikom ahụ jidere ya nʼaka, jidekwa nwunye ya, na ụmụ ya ndị inyom abụọ duru ha pụọ nʼobodo ahụ, nʼihi na Onyenwe anyị nwere obi ebere nʼebe ha nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ha si nʼime obodo kpọpụta ha, otu onye nʼime ha gwara ha sị, “Gbalaganụ nʼihi ndụ unu. Unu elekwala anya nʼazụ. Unu akwụsịkwala ebe ọbụla na mbara ala. Gbaganụ nʼugwu, nʼihi na ọ bụrụ na unu emeghị otu a, a ga-ekpochapụ unu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma Lọt sịrị ha, “Mba, ndị nwe m, bikonu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "ohu unu achọtala amara nʼihu unu, unu egosila m obi ebere dị ukwuu site nʼichebe ndụ m. Ma agaghị m enwe ike gbalaga nʼugwu ka mbibi a ghara ịdakwasị m, m nwụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Lee obodo dị nso nke m nwere ike ịgbaga. Ọ bụ obodo dị nta. Kwere ka m gbaga nʼebe ahụ. Obodo nta ka ọ bụ, ọ bụghị ya? Aga m echebekwa ndụ m na ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ zara sị ya, “Ọ dị mma, aga m emere gị dịka arịrịọ gị si dị. Agaghị m emebi obodo nta ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma mee ngwangwa, nʼihi na o nweghị ihe ọbụla m ga-eme tutu ruo mgbe i ruru nʼebe ahụ.” (Ọ bụ nke a mere e ji akpọ aha obodo ahụ Zoa.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe Lọt rutere obodo Zoa, anwụ awalitela nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe ahụ Onyenwe anyị sitere nʼeluigwe zokwasị obodo Sọdọm na Gọmọra nkume ọkụ nke Onyenwe anyị mere ka o si nʼeluigwe zoo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Otu a ka o si kwatuo obodo ndị ahụ niile dị na mbara ala ahụ niile, na ndị niile bi nʼobodo ndị ahụ. O kwatukwara ihe niile na-epu nʼala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ma mgbe nwunye Lọt lere anya nʼazụ, otu mgbe ahụ, ọ ghọrọ ogidi nnu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼụtụtụ echi ya, Ebraham biliri jeruo ebe ahụ o guzoro nʼihu Onyenwe anyị nʼụbọchị gara aga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọ lepụrụ anya nʼebe obodo Sọdọm na Gọmọra dị, na nʼebe mbara ala ndị ahụ niile dị. Ọ hụrụ anwụrụ ọkụ dị ukwuu nke si nʼala ahụ na-alali elu. Anwụrụ ọkụ a dị ka anwụrụ ọkụ si nʼebe a kwanyere ọkụ na-enwusi ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ya mere, mgbe Chineke bibiri obodo ndị ahụ dị na mbara ala, o chetara Ebraham, kpọpụta Lọt site nʼoke mbibi ahụ e bibiri obodo ndị ahụ Lọt bi nʼime ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Lọt na ụmụ ya ndị inyom"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Emesịa, Lọt na ụmụ ya ndị inyom abụọ hapụrụ obodo Zoa, nʼihi na ọ tụrụ egwu ibi nʼime Zoa. Ọ gara biri nʼime ọgba nkume ya na ụmụ ya ndị inyom abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Otu ụbọchị, ada ya sịrị nke nta, “Nna anyị emeela agadi, ọ nwekwaghị nwoke ọbụla nọ nʼụwa a, onye ga-enye anyị ụmụ, dịka omenaala si dị nʼụwa niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ka anyị mee ka nna anyị ṅụọ mmanya, ka anyị na ya dinakọọ, ka anyị chebe agbụrụ anyị site na nna anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼabalị ahụ, ha mere ka nna ha ṅụọ mmanya, nke ada banyere soro nna ya dina. Ha abụọ nwere mmekọ. Ma ọ amaghị mgbe ada ya dinara maọbụ mgbe o bilikwara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Nʼechi ya, ada gwara nwanne ya nke nta, “Mụ na nna anyị dinara nʼabalị gara aga. Ka anyị mee ka ọ ṅụọkwa mmanya nʼabalị taa, ka ị gaakwa ka gị na ya dina. Ka anyị mee ka agbụrụ anyị dịgide site na nna anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ha mere ka nna ha ṅụọ mmanya nʼabalị ahụ, ada ya nke nta banyere ya na nna ya dinaa. Dịka ọ dịkwa na mbụ, nna ha amataghị mgbe o dinara ala maọbụ mgbe o bilitere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ya mere, ụmụ ndị inyom Lọt abụọ ndị a tụrụ ime site nʼaka nna ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Nke ada mụtara nwa nwoke onye ọ gụrụ Moab. Ọ bụ ya bụ nna nna ndị Moab ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nwa ya nke nta mụtakwara nwa nwoke onye ọ gụrụ Ben-Ammi. Ọ bụ ya bụ nna nna ndị Amọn ruo taa."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/19.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/20.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/18.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

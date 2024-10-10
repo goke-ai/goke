@@ -1,0 +1,467 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "ibo_bib",
+    "name": "2 Samuel",
+    "commonName": "2 Samuel",
+    "title": "2 Samuel",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "f40ba434793b18725b2638c8f947369a59b029984bc296c1deea4f157fb1cc10",
+    "firstChapterApiLink": "/api/ibo_bib/2SA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2SA/24.json",
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwu ikpeazụ Devid"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ okwu ikpeazụ Devid kwuru:",
+          {
+            "text": "“Okwu pụrụ iche si nʼọnụ Devid, nwa Jesi,",
+            "poem": 1
+          },
+          {
+            "text": "ihe si nʼọnụ nwoke ahụ Chineke Onye kachasị ihe niile elu buliri elu.",
+            "poem": 2
+          },
+          {
+            "text": "Nwoke ahụ onye Chineke nke Jekọb tere mmanụ,",
+            "poem": 1
+          },
+          {
+            "text": "onye bụ ọka nʼịbụ abụ nʼala Izrel.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Mmụọ Onyenwe anyị kwuru okwu site nʼọnụ m,",
+            "poem": 1
+          },
+          {
+            "text": "okwu ya dịkwa m nʼire.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Chineke Izrel kwuru okwu,",
+            "poem": 1
+          },
+          {
+            "text": "Oke nkume Izrel sịrị m,",
+            "poem": 2
+          },
+          {
+            "text": "‘Mgbe mmadụ na-achị ndị ọzọ site nʼezi omume,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe ọ na-achị site nʼegwu Chineke.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ dị ka ìhè nke ụtụtụ, mgbe anyanwụ na-achawapụta",
+            "poem": 1
+          },
+          {
+            "text": "nʼụtụtụ nke igwe ojii na-adịghị.",
+            "poem": 2
+          },
+          {
+            "text": "Dịka ìhè na-acha mgbe mmiri zochara",
+            "poem": 1
+          },
+          {
+            "text": "nke na-eme ka ahịhịa ndụ na-epupụta nʼala.’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "“Ọ bụrụ na ihe banyere ụlọ m ezighị ezi nʼebe Chineke nọ.",
+            "poem": 1
+          },
+          {
+            "text": "Nʼezie, ọ garaghị ekwe ka ọgbụgba ndụ ebighị ebi dịrị nʼetiti mụ na ya,",
+            "poem": 2
+          },
+          {
+            "text": "Ọgbụgba ndụ e doro nʼusoro nke e mere ka o guzosie ike nʼụzọ niile.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼezie, ọ garaghị eme ka nzọpụta m zuo oke.",
+            "poem": 1
+          },
+          {
+            "text": "Ma mezukwaara m ọchịchọ obi m niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ma ndị ajọ mmadụ ka a ga-atụfu nʼakụkụ dịka ogwu,",
+            "poem": 1
+          },
+          {
+            "text": "nke mmadụ anaghị eji aka ekpokọta.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Onye ọbụla metụrụ ogwu aka,",
+            "poem": 1
+          },
+          {
+            "text": "bụ onye nwere ngwa ọrụ igwe maọbụ osisi ùbe.",
+            "poem": 2
+          },
+          {
+            "text": "A na-esure ha ọkụ nʼebe ha tọgbọrọ.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị ọka agha Devid"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị a bụ aha ndị dike nʼagha Devid nwere: Josheb-Bashebet, onye Takemon, bụ onyeisi nke mmadụ atọ. O weliri ùbe ya megide narị ndị ikom asatọ, bụ ndị o gburu nʼotu mgbe ibu agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onye nke na-eso ya bụ Elieza, nwa Dodayi, onye Ahohi. Dịka otu nʼime ndị dike atọ ahụ, ya na Devid nọ mgbe ha na-akwa ndị Filistia emo, bụ ndị zukọrọ na Pas Damim ibu agha.",
+          {
+            "noteId": 381
+          },
+          "Mgbe ahụ, ndị Izrel lara azụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "ma Elieza guzoro na-alaghị azụ. O gbugidere ndị Filistia ruo mgbe ike gwuru aka ya. Aka ya rapakwaara na mma agha. Onyenwe anyị nyekwara ha mmeri dị ukwuu nʼụbọchị ahụ. Ndị agha ahụ laghachikwutere Elieza, maọbụ naanị ka ha yipụsịa ndị ahụ e gburu egbu ihe ha yi nʼahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onye nke atọ bụ Shama, nwa Agee, onye Hara. Mgbe ndị Filistia chịkọtara onwe ha nʼotu ebe, nke e nwere otu ubi jupụtara na lentil, ma ndị agha Izrel niile sitere nʼebe ha nọ gbapụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma naanị Shama guzoro nʼetiti ubi lentil ahụ. Ọ napụtara ya, tigbuo ndị Filistia niile ahụ. Onyenwe anyị nyere mmeri dị ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼoge owuwe ihe ubi, mmadụ atọ nʼime iri ndị dike atọ ahụ, jekwuru Devid nʼọgba nkume Adulam, mgbe otù ndị Filistia mara ụlọ ikwu ha na Ndagwurugwu Refaim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma Devid nọ nʼebe ahụ ewusiri ike nʼoge ahụ, ma ọnọdụ ndị agha Filistia dị na Betlehem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Agụụ mmiri gụrụ Devid nke ukwuu. Ọ sị, “Ọ ga-amasị m ma ọ bụrụ na o nwere onye ga-ekunye m mmiri ọṅụṅụ, site nʼolulu mmiri dị nso nʼọnụ ụzọ ama Betlehem!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ya mere, ndị dike nʼagha atọ ahụ wakpuru ọmụma ụlọ ikwu ndị Filistia, seta mmiri site nʼolulu mmiri ahụ dị nʼakụkụ ọnụ ụzọ ama Betlehem, bulatara ya Devid. Ma Devid jụrụ ịṅụ ya, kama ọ wufuru ya nʼala nʼihu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọ sịrị, “Ya bụrụ m ihe arụ, Onyenwe anyị, na m ga-eme nke a. Nke a ọ bụghị ọbara ndị ikom a, ndị ji ndụ ha chụọ aja nʼihi ikute mmiri a?” Devid ekweghị aṅụ ya. Nke a bụ ụdị ike dike atọ ahụ kpara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Abishai, nwanne Joab, nwa Zeruaya, bụ onyeisi ndị ikom atọ ahụ. O weliri ùbe ya megide narị ndị ikom atọ, tigbukwaa ha niile. Nʼihi nke a ọ ghọrọ onye a ma ama dịka mmadụ atọ ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma anaghị asọpụrụ ya nʼebe ọ dị ukwuu karịa iri ndị ikom atọ ahụ? Ọ ghọrọ onyeisi ha. Ọ bụ ezie a na-agụnyeghị ya dịka otu onye nʼime ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Benaya, nwa Jehoiada, onye si Kabzeel, bụ dike nʼagha nke kpara ike dị ukwuu. O tigburu dimkpa abụọ ndị Moab, ndị bụ ọkaka nʼagha. O rịdakwukwara ọdụm nʼime olulu na-amị amị nʼụbọchị mkpụrụ mmiri na-ezo, gbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "O tigburu otu nwoke onye Ijipt, gbara dimkpa. Ọ bụ ezie na onye Ijipt ahụ ji ùbe nʼaka ya, ma Benaya ji naanị mkpọ jekwuru ya. Pụnara onye Ijipt ahụ ùbe dị nʼaka ya. Jiri ya magbuo ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nke a bụ ụdị ike Benaya nwa Jehoiada kpara. Ya onwe ya nwekwara aha dịka ndị dike atọ mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "A na-asọpụrụ ya nʼebe ọ dị ukwuu karịa onye ọbụla nʼetiti iri dike atọ ndị ahụ, ma o rughị ogugo ndị dike atọ mbụ ahụ. Devid mere ya onyeisi ndị na-eche ya nche."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼetiti iri ndị ikom atọ ahụ bụ:",
+          {
+            "lineBreak": true
+          },
+          "Asahel, nwanne Joab, Elhanan nwa Dodo, onye Betlehem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Shama, onye Harod, Elika, onye Harod,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Helez onye Palti, Ira, nwa Ikesh, onye Tekoa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Abieza, onye Anatot, Mebunai, onye Husha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Zalmon, onye Ahohi, Maharai, onye Netofa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Heled,",
+          {
+            "noteId": 382
+          },
+          "nwa Baana, onye Netofa, Itai, nwa Ribai, nke Gibea ụmụ Benjamin,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Benaya, onye Piraton, Hidaị, nke si nʼakụkụ iyi dị na Gaash,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Abi-Albon, onye Arba, Azmavet, onye Bahurim"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Eliaba, onye Shaalbon, Ụmụ Jashen, Jonatan"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "nwa Shama, onye Hara Ahiam, nwa Shara nke Hara,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Elifelet, nwa Ahasbaị, onye Maaka, Eliam, nwa Ahitofel, onye Gailo,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Hezro, onye Kamel, Paraị, onye Aaba,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Igal nwa Netan, onye Zoba, nwa Hagri,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Zelek, onye Amọn, Naharai, onye Beerọt, onye na-ebu ihe agha Joab nwa Zeruaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ira, onye Itra, Gareb, onye Itra"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "na Ụraya, onye Het.",
+          {
+            "lineBreak": true
+          },
+          "Ha niile dị iri ndị ikom atọ na asaa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 381,
+        "caller": "+",
+        "text": "I lee anya nʼakwụkwọ 1Ih 11:13nʼasụsụ Hibru Pas Damim pụtara gbakọrọ nʼebe ahụ",
+        "reference": {
+          "chapter": 23,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 382,
+        "caller": "+",
+        "text": "Heled bụkwa Heleb",
+        "reference": {
+          "chapter": 23,
+          "verse": 29
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2SA/23.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2SA/24.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2SA/22.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 39
+}

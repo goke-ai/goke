@@ -1,0 +1,307 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOB",
+    "translationId": "ibo_bib",
+    "name": "Job",
+    "commonName": "Job",
+    "title": "Job",
+    "order": 18,
+    "numberOfChapters": 42,
+    "sha256": "0476775f2650430f77f43155db2df45d68a0275926893fff0c7a54fb940729a8",
+    "firstChapterApiLink": "/api/ibo_bib/JOB/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOB/42.json",
+    "totalNumberOfVerses": 1070
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwu Job"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Job zaghachiri:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Lee ka i si nyere onye na-adịghị ike aka!",
+            "poem": 1
+          },
+          {
+            "text": "Leekwa ka i si zọpụta ogwe aka nke onye ume na-adịghị!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Lee ụdị ndụmọdụ i nyerela onye na-enweghị amamihe!",
+            "poem": 1
+          },
+          {
+            "text": "Leekwa ụdị oke nghọta nke ị gosipụtara.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ bụ onye nyeere gị aka ikwu okwu ndị a?",
+            "poem": 1
+          },
+          {
+            "text": "Mmụọ onye si nʼọnụ gị kwuo okwu?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "“Ndị nwụrụ anwụ nọ nʼoke ihe mgbu,",
+            "poem": 1
+          },
+          {
+            "text": "ha na ndị nọ nʼokpuru mmiri na ndị bi nʼime ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ala mmụọ gba ọtọ nʼihu Chineke;",
+            "poem": 1
+          },
+          {
+            "text": "mbibi",
+            "poem": 2
+          },
+          {
+            "noteId": 1112
+          },
+          {
+            "text": "tọgbọkwara na-enweghị ihe kpuchiri ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọ na-agbasapụ elu elu nke mbara eluigwe nʼelu ebe tọgbọrọ nʼefu.",
+            "poem": 1
+          },
+          {
+            "text": "O nweghị ihe o kokwasịrị ụwa nʼelu ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ọ na-ekechi mmiri nʼime igwe ojii,",
+            "poem": 1
+          },
+          {
+            "text": "ma ịdị arọ ya adịghị eme ka igwe ojii gbawaa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ọ na-ekpuchi ihu ọnwa nke dị nʼuju ya,",
+            "poem": 1
+          },
+          {
+            "noteId": 1113
+          },
+          {
+            "text": "na-agbasakwa igwe ojii ya nʼelu ya,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "O kewapụtara oke nʼelu ogbu mmiri,",
+            "poem": 1
+          },
+          {
+            "text": "ka ọ bụrụ oke dị nʼetiti ìhè na ọchịchịrị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Ogidi niile nke eluigwe na-ama jijiji,",
+            "poem": 1
+          },
+          {
+            "text": "tụọkwa oke egwu nʼihi ịba mba ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Nʼike ya ka o ji kpalie oke osimiri;",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụ amamihe ya ka o ji tigbuo Rehab.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Ọ bụ site na nkuume ya ka mbara eluigwe ji maa mma;",
+            "poem": 1
+          },
+          {
+            "text": "aka ya dupuru agwọ na-agba ọsọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Ihe ndị a bụ ọnụ ọnụ ọrụ aka ya;",
+            "poem": 1
+          },
+          {
+            "noteId": 1114
+          },
+          {
+            "text": "lee ka o si dị nta bụ okwu ntakwu anyị na-anụ gbasara ya!",
+            "poem": 2
+          },
+          {
+            "text": "Onye pụrụ ịghọtacha ịda ụda",
+            "poem": 2
+          },
+          {
+            "noteId": 1115
+          },
+          {
+            "text": "nke ike ya?”",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1112,
+        "caller": "+",
+        "text": "Maọbụ, Abadọn nʼasụsụ Hibru",
+        "reference": {
+          "chapter": 26,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1113,
+        "caller": "+",
+        "text": "Ọ na-ekpuchi ihu ocheeze nke ọnwa",
+        "reference": {
+          "chapter": 26,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 1114,
+        "caller": "+",
+        "text": "Ihe ndị a bụ ụfọdụ nʼime ihe ọ na-eme",
+        "reference": {
+          "chapter": 26,
+          "verse": 14
+        }
+      },
+      {
+        "noteId": 1115,
+        "caller": "+",
+        "text": "Egbe eluigwe nke ike",
+        "reference": {
+          "chapter": 26,
+          "verse": 14
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOB/26.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOB/27.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOB/25.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

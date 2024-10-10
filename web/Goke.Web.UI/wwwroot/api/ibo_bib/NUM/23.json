@@ -1,0 +1,435 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 23,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke mbụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Belam sịrị, “Wuoro m ebe ịchụ aja asaa nʼebe a. Kwadokwaara m oke ehi asaa na ebule asaa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Balak mezuru dịka Belam gwara ya. Ha abụọ gburu otu oke ehi na otu nwa ebule nʼebe ịchụ aja asaa ahụ nʼotu na otu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Belam gwara Balak sị, “Guzoro nʼebe a nʼakụkụ aja gị ka m gaa nʼihu chọpụta ma eleghị anya Onyenwe anyị ga-ezute m. Aga m agwa gị ihe ọbụla o kpughere m.” Ya mere, Belam rigooro nʼebe ọhịa na-adịghị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Chineke zutere ya nʼebe ahụ. Belam gwara ya sị, “Edoziela m ebe ịchụ aja asaa, gbukwaa otu oke ehi na otu ebule nʼelu ha niile nʼotu na otu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼoge a, Onyenwe anyị tinyere Belam ozi nʼọnụ sị ya, “Laghachi gaa zie Balak ozi a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe Belam lọghachiri ọ hụrụ ya ka o guzoro nʼakụkụ ihe aja ya ndị ahụ, ya na ndịisi Moab niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nke a bụ ozi Belam ziri:",
+          {
+            "text": "“Balak esitela nʼobodo Aram kpọta m.",
+            "poem": 1
+          },
+          {
+            "text": "Eze Moab esitela nʼọwụwa anyanwụ nke ugwu ahụ kpọta m.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ sịrị m, bịa bụọrọ m Jekọb ọnụ",
+            "poem": 1
+          },
+          {
+            "text": "bịa kwutọọ Izrel.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "M ga-esi aṅaa bụọ",
+            "poem": 1
+          },
+          {
+            "text": "onye Chineke na-abụghị ọnụ ọnụ?",
+            "poem": 2
+          },
+          {
+            "text": "M ga-esi aṅaa",
+            "poem": 1
+          },
+          {
+            "text": "kọchaa onye Onyenwe anyị na-akọchaghị?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Esitela m nʼelu nkume ndị a hụ ha.",
+            "poem": 1
+          },
+          {
+            "text": "Elegidere m ha anya site nʼugwu ahụ,",
+            "poem": 2
+          },
+          {
+            "text": "hụ na ha bụ ndị biri onwe ha,",
+            "poem": 1
+          },
+          {
+            "text": "ndị dị iche site nʼetiti mba niile ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Onye pụrụ ịgụta ole uzuzu Jekọb dị?",
+            "poem": 1
+          },
+          {
+            "text": "Maọbụ gụta ole otu ụzọ nʼime nkewa anọ nke Izrel dị.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ ga-atọ m ụtọ ịnwụ ụdị ọnwụ ndị na-eme ezi omume.",
+            "poem": 1
+          },
+          {
+            "text": "Ka ọgwụgwụ ndụ m bụrụ ihe nwere ike iyi nke ha!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Balak sịrị Belam, “Gịnị bụ ihe a i mere m? Akpọtara m gị ka ị bụọrọ m ndị iro m ọnụ, ma ugbu a, ọ dịghị ihe ọzọ i mere karịa naanị ịgọzi ha!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma Belam zaghachiri sị ya, “Ọ bụghị ihe Onyenwe anyị tinyere m nʼọnụ ka m ga-ekwu?”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke abụọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, Balak sịrị ya, “Soro m bịa nʼebe ọzọ ebe ị ga-ahụ ha; ọ bụ naanị nsọtụ ọmụma ụlọ ikwu ha ka ị ga-ahụ, ị gaghị ahụ ha niile. Site nʼebe ahụ bụọrọ m ha ọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, eze Balak duuru Belam gaa nʼọhịa Zofim, nʼelu ugwu Pisga, wuo ebe ịchụ aja asaa nʼebe ahụ. O jikwa otu oke ehi, otu oke ehi, na otu ebule, otu ebule, chụọ aja nʼebe ịchụ aja ndị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Belam sịrị Balak, “Guzoro nʼebe a nʼakụkụ ihe aja gị, ebe mụ onwe m ga-ezute ya nʼofe nke ọzọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma Onyenwe anyị zutere Belam gwa ya ihe ọ ga-ekwu sị ya, “Laghachikwuru Balak zie ya ozi a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere, ọ lọghachiri azụ nʼebe ahụ Balak na ụmụ eze Moab guzoro nʼakụkụ ihe aja ha. Balak jụrụ ya sị, “Gịnị ka Onyenwe anyị sịrị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma Belam zaghachiri sị ya:",
+          {
+            "text": "“Bilie ọtọ Balak, nụrụ ozi.",
+            "poem": 1
+          },
+          {
+            "text": "Ṅaa ntị nʼokwu m, gị nwa Zipoa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Chineke agaghị agha ụgha, nʼihi na ọ bụghị mmadụ.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ gaghị agbanwe obi ya, nʼihi na ọ bụghị nwa mmadụ.",
+            "poem": 2
+          },
+          {
+            "text": "O kwuola okwu, ma ghara ime ihe o kwuru?",
+            "poem": 1
+          },
+          {
+            "text": "O kwela nkwa ma ghara imezu nkwa o kwere?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Chineke enyela m iwu sị m gọzie ha.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ gọziela ha, a pụghịkwa ịgbanwe ya!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "“O nweghị ajọ ihe nke ahụrụ nʼime Jekọb,",
+            "poem": 1
+          },
+          {
+            "text": "ahụghịkwa mwute ọbụla nʼIzrel.",
+            "poem": 2
+          },
+          {
+            "text": "Onyenwe anyị Chineke ha nọnyeere ha.",
+            "poem": 1
+          },
+          {
+            "text": "Iti mkpu nke Eze dịkwa nʼetiti ha.",
+            "poem": 2
+          },
+          {
+            "noteId": 1513
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Chineke kpọpụtara ha site nʼIjipt.",
+            "poem": 1
+          },
+          {
+            "text": "Ha dị ike dịka ehi ọhịa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          {
+            "text": "Ọ dịghị mgbaasị ga-emegide ha.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ dịkwaghị ịgba afa a pụrụ iji megide Izrel.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ugbu a, ihe dị otu a ka a ga-ekwu banyere Jekọb",
+            "poem": 1
+          },
+          {
+            "text": "na Izrel. ‘Lee, ihe Chineke mere ha.’",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Ha na-ebili ọtọ dịka nne ọdụm,",
+            "poem": 1
+          },
+          {
+            "text": "ha na-enugharị onwe ha dịka ọdụm,",
+            "poem": 2
+          },
+          {
+            "text": "nke na-adịghị edina ala tutu o richaa ihe o gburu,",
+            "poem": 1
+          },
+          {
+            "text": "ma ṅụọkwa ọbara ihe ahụ o tigburu!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe ahụ, Balak sịrị Belam, “Abụla ha ọnụ ma ọlị, ma ọ bụkwanụ gọzie ha ma ọlị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ma Belam zaghachiri, “Ọ bụ na m agwaghị gị, ihe ọbụla nke Onyenwe anyị ga-ekwu ka m ga-eme?”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke atọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ahụ, Balak sịrị Belam, “Bịa, aga m akpọrọ gị gaa nʼebe ọzọ. Eleghị anya ọ ga-amasị Chineke ka i si nʼebe ahụ bụọrọ m ha ọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ya mere, Balak duuru Belam gaa nʼelu ugwu Peoa nke na-elegide ọzara ahụ anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Belam gwara Balak okwu sị ya, “Wuoro m ebe ịchụ aja asaa ọzọ. Doziekwa ụmụ oke ehi asaa na ebule asaa e ji achụ aja.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Balak mere dịka Belam gwara ya. O ji otu oke ehi na otu ebule chụọ aja nʼebe ịchụ aja ahụ nʼotu na otu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1513,
+        "caller": "+",
+        "text": "Maọbụ, Ọ bụ eze ha!",
+        "reference": {
+          "chapter": 23,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/23.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/24.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/22.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

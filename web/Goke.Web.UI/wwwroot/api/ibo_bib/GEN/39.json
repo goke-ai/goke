@@ -1,0 +1,229 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Josef na nwunye Pọtifa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "A kpọọrọ Josef gaa nʼala Ijipt. Pọtifa, bụ nwoke Ijipt, otu nʼime ndịisi na-ejere Fero ozi, na onyeisi ndị agha na-eche nche zụụrụ ya site nʼaka ndị Ishmel, bụ ndị duuru ya gaa nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Onyenwe anyị nọnyeere Josef, nke mere na ihe gaara ya nke ọma nʼụlọ nna ya ukwu onye Ijipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nna ya ukwu hụrụ na Onyenwe anyị nọnyeere Josef, hụkwa na Onyenwe anyị na-eme ka ihe niile o mere gaara ya nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Josef hụtara amara nʼihu ya, ghọọ onyeozi nke aka ya. Pọtifa mere ya onye na-elekọta ezinaụlọ ya. Nyefee ya ihe niile o nwere ka ọ bụrụ onye na-elekọta ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Site nʼoge a, o mere ka ọ bụrụ onye na-elekọta ezinaụlọ ya na ihe niile o nwere, Onyenwe anyị gọziri ezinaụlọ onye Ijipt ahụ nʼihi Josef. Ngọzị Onyenwe anyị dịkwasịrị nʼihe niile Pọtifa nwere, ma ihe o nwere nʼụlọ ma ndị o nwere nʼubi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere, ọ hapụrụ ihe niile o nwere nʼaka Josef. Nke a mere na ọ mazighị ihe ọzọ na-eme, ma ọ bụghị nri nke ọ na-eri.",
+          {
+            "noteId": 744
+          },
+          "Josef nʼonwe ya mara mma ahụ dịkwa mma ile anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe oge nta gasịrị, nwunye Pọtifa lere Josef anya sị ya, “Bịa ka anyị abụọ dinaa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma Josef jụrụ. Ọ gwara nwunye nna ya ukwu sị, “Lee, nna m ukwu anaghị echegbu onwe ya banyere ihe ọbụla nʼụlọ a. O werela ihe niile o nwere nyefee m nʼaka ka m lekọta ha anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "O nweghị onye ọnọdụ ya dị elu karịa nke m nʼụlọ a. O gbochighị m ihe ọbụla ma ọ bụghị gị, nʼihi na ị bụ nwunye ya. Olee otu m ga-esi mee oke ihe ọjọọ dị otu a, mee mmehie megide Chineke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ bụ ezie na nwanyị a nọgidere na-enye Josef nsogbu site nʼụbọchị ruo ụbọchị ma Josef jụrụ iso ya dinaa, jụkwa ịnọnyere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Otu ụbọchị, Josef batara nʼime ụlọ ịrụ ọrụ ya. O nweghị ndị ọzọ na-eje ozi nọ nʼime ụlọ nʼụbọchị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nwunye Pọtifa jidere Josef nʼuwe mwụda ya, rịọọ ya sị ya, “Bịa ka anyị dinaa.” Ma Josef si nʼime ụlọ ahụ gbapụ, hapụ uwe mwụda ya nʼaka nwunye Pọtifa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe nwanyị a hụrụ na Josef agbapụla, hapụ uwe ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ọ kpọrọ ndị na-eje ozi nʼezinaụlọ ya sị ha, “Lee, onye Hibru a di m kpọbatara nʼụlọ a chọrọ iji anyị gwurie egwu. Ọ bịakwutere m nʼime ụlọ chọọ ka mụ na ya dinaa. E tiri m mkpu nʼolu ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ọ nụrụ ka m welitere olu m tie mkpu enyemaka m tiri, o sitere nʼime ụlọ a gbapụ, ma hapụrụ m uwe ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nwanyị a debere uwe ahụ nʼakụkụ ya ruo mgbe nna ya ukwu lọtara nʼụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ahụ, ọ gwara di ya okwu ndị a sị, “Onye ohu Hibru a ị kpọbataara anyị bakwutere m iji m gwurie egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma mgbe m welitere olu tie mkpu enyemaka o sitere nʼụlọ gbapụ hapụrụ m uwe ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe nna ya ukwu nụrụ ihe nwunye ya gwara ya sị, “Otu a ka ohu gị si meso m mmeso,” o were iwe dị ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nna ukwu Josef weere ya tụnye nʼụlọ mkpọrọ, nʼebe a na-etinye ndị mkpọrọ eze Ijipt. Ma ebe ahụ Josef nọ nʼụlọ mkpọrọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onyenwe anyị nọnyeere ya. O meere ya ebere, mekwa ka o nweta ihuọma nʼebe onyeisi ndị nche ụlọ mkpọrọ ahụ nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Onyeisi ndị na-eche ụlọ mkpọrọ mere Josef onyeisi ndị mkpọrọ niile nọ nʼime ụlọ mkpọrọ ahụ. Josef ghọrọ onye a na-ajụ otu ihe si aga nʼime ụlọ mkpọrọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Onyeisi ndị nche ụlọ mkpọrọ ahụ enyeghịkwa onwe ya nsogbu maka ihe ọbụla. Nʼihi na Onyenwe anyị nọnyeere Josef, mee ka ihe ọbụla ọ na-eme gaa nke ọma."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 744,
+        "caller": "+",
+        "text": "Usoro iri nri ndị Ijipt dị iche site na nke ndị Juu, nʼihi ụzọ esi akwado ha tupu e rie ha. Jen 43:32",
+        "reference": {
+          "chapter": 39,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/39.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/40.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/38.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

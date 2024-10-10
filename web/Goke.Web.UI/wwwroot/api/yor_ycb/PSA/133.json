@@ -1,0 +1,111 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 133,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Orin fún ìgòkè. Ti Dafidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Kíyèsi, ó ti dára ó sì ti dùn tó fún",
+            "poem": 1
+          },
+          {
+            "text": "àwọn ará láti máa jùmọ̀ gbé ní ìrẹ́pọ̀.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ó dàbí òróró ìkunra iyebíye ní orí,",
+            "poem": 1
+          },
+          {
+            "text": "tí ó sàn dé irùngbọ̀n, àní irùngbọ̀n Aaroni:",
+            "poem": 2
+          },
+          {
+            "text": "tí ó sì sàn sí etí aṣọ sórí rẹ̀.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Bí ìrì Hermoni",
+            "poem": 1
+          },
+          {
+            "text": "tí o sàn sórí òkè Sioni.",
+            "poem": 2
+          },
+          {
+            "text": "Nítorí níbẹ̀ ní Olúwa gbé pàṣẹ ìbùkún,",
+            "poem": 1
+          },
+          {
+            "text": "àní ìyè láéláé.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/133.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/134.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/PSA/132.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

@@ -1,0 +1,191 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Amọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Okwu Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nwa nke mmadụ, chee ihu gị nʼala ụmụ Amọn buo amụma megide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gwa ndị Amọn, ‘Nụrụnụ okwu nke Onye kachasị ihe niile elu, bụ Onyenwe anyị. Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Nʼihi na ị sịrị “Aha!” megide ebe nsọ m mgbe e merụrụ ya na megide ala Izrel, mgbe e mere ka ọ tọgbọrọ nʼefu, na mgbe a dọtara ndị Juda nʼagha duru ha gaa mba ọzọ dịka ohu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "nʼihi ya, aga m ewere gị nyefee nʼaka ndị si nʼọwụwa anyanwụ pụta, ka ị bụrụ ihe nketa ha. Ha ga-ewu ebe obibi nʼetiti gị, rie mkpụrụ ubi gị, ṅụọkwa mmiri ara ehi gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Aga m eme ka obodo Raba ghọọ ebe ịta nri nye ịnyịnya kamel, meekwa ka ala Amọn ghọọ ebe igwe ewu na atụrụ na-amakpu. Mgbe ahụ, ị ga-amata na mụ onwe m bụ Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼihi na otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu: Nʼihi na ị kụrụ aka gị, zọọ ụkwụ gị nʼala gidim, ma sitekwa nʼịkpọ asị nke obi gị ṅụrịa ọṅụ megide ala Izrel,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "nʼihi ya, lee, aga m esetipụ aka m megide gị, were gị nyefee nʼaka ọtụtụ mba, ndị ga-alụta gị nʼagha. Aga m eme ka ị gwụsịa, mee ka ị hapụ ịdịkwa ọzọ. Aga m ala gị nʼiyi. Ị ga-amatakwa na mụ onwe m bụ Onyenwe anyị.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Moab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“Ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu, ‘Nʼihi na Moab na Sia sịrị, “Lee, Juda adịrịla ka mba ndị ọzọ niile,”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "nʼihi nke a, aga m emeghe akụkụ Moab, site nʼobodo nke nsọtụ oke ala ya niile, bụ Bet-Jeshimọt, Baal-Meon na Kiriatem, nke bụ ebube nke ala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Aga m ewere Moab na Amọn nyefee ha nʼaka ndị ga-esi nʼọwụwa anyanwụ pụta, ka ọ bụrụ nke ha. Nʼụzọ dị otu a, a gaghị agụkwa maọbụ cheta Amọn nʼetiti mba niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Aga m ata Moab ahụhụ. Mgbe ahụ, ha ga-amatakwa na mụ onwe m bụ Onyenwe anyị.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Edọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "“Ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu, ‘Nʼihi na Edọm bọọrọ onwe ha ọbọ megide ụlọ Juda sitekwa nʼịbọ ọbọ ha bụrụ ndị ikpe mara,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "nʼihi nke a, otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Aga m esetipụ aka m megide Edọm, gbuo ndị bi nʼime ya, ma mmadụ ma anụmanụ. Aga m eme ka ọ tọgbọrọ nʼefu. Ndị niile bi nʼala ahụ site na Teman ruo na Dedan ka a ga-eji mma agha gbuo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ bụ site nʼaka ndị nke m Izrel ka m ga-esi bọọ ọbọ megide Edọm, ha ga-emeso ndị Edọm dịka ịba ụba nke iwe m na ọnụma m si dị, ha ga-amata ihe ịbọ ọbọ bụ, otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Filistia"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“Ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: ‘Nʼihi na ndị Filistia esitela na mmụọ nke ịbọ ọbọ, na mmụọ ịkpọ asị nke dị ha nʼobi bọọrọ onwe ha ọbọ, chọọ ịla ha nʼiyi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ya mere, ihe a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru, ana m aga isetipụ aka m megide ndị Filistia. Aga m ebipụ ndị Keret, bibie ndị ahụ niile bi nʼọnụ mmiri osimiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Aga m esite nʼoke ọnụma bọọ ha ọbọ site na ịta ha ahụhụ. Mgbe ahụ ha ga-amata na mụ onwe m bụ Onyenwe anyị, mgbe m ga-abọgwata ha ọbọ.’ ”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/25.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/26.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/24.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

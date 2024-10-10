@@ -1,0 +1,298 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb akwadobe maka izute Ịsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Jekọb nʼonwe ya hapụrụ gawa nʼihu nʼije ya. Ndị mmụọ ozi Chineke zutere ya nʼụzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe Jekọb hụrụ ha, o kwuru sị, “Ebe a bụ ụlọ ikwu Chineke!” Ọ kpọrọ ebe ahụ, Mahanaim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Jekọb zipụrụ ndị ozi ka ha jee hụ Ịsọ nwanne ya nwoke nʼala Sia,",
+          {
+            "noteId": 736
+          },
+          "nʼobodo Edọm."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "O ziri ha ozi sị, “Ihe a bụ ihe unu ga-agwa nna m ukwu Ịsọ, ‘Odibo gị Jekọb kwuru sị, Ọ bụ na nke Leban ka m jere kemgbe, ọ bụkwa ebe ahụ ka m nọ ruo ugbu a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Enwere m ọtụtụ ehi, na ịnyịnya ibu, na igwe atụrụ na ewu, na ndị odibo ndị nwoke na ndị nwanyị. Ana m ezigara onyenwe m ozi a ka m nata ihuọma nʼebe ọ nọ.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ndị ozi ahụ lọghachikwutere Jekọb, ha gwara ya sị ya, “Anyị jekwuru nwanne gị nwoke Ịsọ dị ka i ziri anyị. Ugbu a, ọ na-abịa. Ọ chị narị ndị ikom anọ na-abịa izute gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ụjọ tụrụ Jekọb nke ukwuu, obi ya jupụtakwara na nsogbu. Nʼihi nke a, o kewara ndị niile so ya ụzọ abụọ, tinyere anụ ụlọ ya, na igwe ehi ya na ịnyịnya kamel ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "O chere nʼobi ya sị, “Ọ bụrụ na Ịsọ alụso otu nʼime ụzọ abụọ a ọgụ, otu ụzọ fọdụrụ ga-enwe ike gbalaga.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, Jekọb kpere ekpere sị, “Chineke nke nna m Ebraham, Chineke nke nna m Aịzik, Onyenwe anyị, gị onye gwara m sị, ‘Laghachi nʼala gị na nʼebe ụmụnna gị nọ, aga m eme ka ihe gaara gị nke ọma.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ekwesighị m obi ebere na ikwesi ntụkwasị obi nke i gosiri ohu gị. Mgbe m gabigara Jọdan a, enweghị m ihe ọbụla karịa mkpanaka m, ma ugbu a, abụ m ọmụma ụlọ ikwu abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Zọpụta m, arịọ m gị, site nʼaka nwanne m Ịsọ, nʼihi na egwu na-atụ m na ọ ga-abịa lụso m agha, lụsokwa ndị nne a na ụmụntakịrị ha agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ọ bụ gị kwuru sị, ‘Aga m eme ka ihe gaara gị nke ọma, meekwa ka ụmụ ụmụ gị dịrị ka aja nke dị nʼọnụ osimiri, nke mmadụ na-apụghị ịgụta ọnụ.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Jekọb rahụrụ nʼebe ahụ nʼabalị ahụ. Site nʼihe niile o nwere, ọ họpụtara onyinye ọ ga-enye nwanne ya Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ kwadoro inye ya: narị nne ewu abụọ (200), iri mkpi abụọ (20), narị nne atụrụ abụọ (200), iri ebule abụọ (20)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Iri nne ịnyịnya kamel atọ (30) na ụmụ ha, na iri nne ehi anọ (40), oke ehi iri (10), iri nne ịnyịnya ibu abụọ (20), oke ịnyịnya ibu iri (10)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "O weere onyinye ndị a niile nyefee nʼaka ndị ozi ya nʼusoro dịka ụdị ha si dị. Ọ gwara ndị na-ejere ya ozi sị ha, “Burunu ụzọ na-aga, meenụ ka ohere dị nʼetiti igwe anụ na igwe ibe ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "O nyere onye mbụ iwu sị ha, “Mgbe Ịsọ nwanne m zutere unu jụọ unu ajụjụ sị, ‘Onye bụ nna unu ukwu? Ebee ka unu na-aga? Onye nwe anụ ụlọ ndị a niile unu chị na-aga?’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Unu ga-aza sị ya, ‘Anụ ụlọ ndị a bụ nke ohu gị Jekọb. Ha bụ onyinye e zitere onyenwe m Ịsọ, lee ka ọ na-abịa nʼazụ anyị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Otu ozi ahụ ka Jekọb ziri onye nke abụọ na onye nke atọ, na ndị ọzọ niile chị igwe anụ ụlọ, sị ha, “Unu ga-agwa Ịsọ otu ihe ahụ mgbe unu zutere ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Hụkwanụ na unu gwara ya sị, ‘Ohu gị Jekọb nọ nʼazụ anyị.’ ” Echiche ya bụ, “Aga m eji onyinye ndị a niile m na-ezipụrụ ya mee ka obi ya dajụọ, nke ọ ga-abụ mgbe mụ na ya zutere, ma eleghị anya, ọ ga-anabata m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe o zipụchasịrị onyinye ndị ahụ niile, Jekọb rahụrụ ụra nʼụlọ ikwu ya nʼabalị ahụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mgba Jekọb na Chineke gbara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nʼabalị ahụ, Jekọb biliri duru ndị nwunye ya abụọ na ndị odibo nwanyị ya abụọ, na ụmụ ya iri na otu, site nʼebe na-adịghị omimi nke iyi Jabọk kpọfee ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ọ kpọfechara ha, o bufekwara ihe niile o nwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Emesịa, Jekọb lọghachiri nọdụ naanị ya. Mgbe ahụ, otu nwoke bịara gbaso ya mgba. Ha abụọ gbagidere mgba a tutu chi ebido ịbọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Mgbe nwoke ahụ hụrụ na ọ pụghị imeri Jekọb na mgba ahụ, o tiri Jekọb aka nʼọkpụ, mee ka ọkpụ ya hịkwapụ site nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe nke a mesịrị, nwoke ahụ gwara Jekọb sị ya: “Hapụ m aka ka m laa, nʼihi na chi ebidola ịbọ.” Ma Jekọb zara sị ya, “Ọ bụ naanị mgbe ị gọziri m ka m ga-ahapụ gị ka ị laa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ahụ nwoke ahụ jụrụ Jekọb ajụjụ sị ya, “Gịnị bụ aha gị?” Ọ zara sị, “Aha m bụ Jekọb.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Nwoke ahụ zara sị ya, “Aha gị agaghị abụkwa Jekọb, kama ọ ga-abụ Izrel, nʼihi na gị na Chineke na ndị mmadụ gbara mgba, ị mmeri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Jekọb sịrị, “Biko gwa m aha gị.” Ma ọ zaghachiri, “Gịnị mere ị ji ajụ aha m?” Mgbe ahụ, ọ gọziri ya nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Jekọb kpọrọ aha ebe ahụ Peniel, nʼihi na ọ sịrị, “Ahụla m Chineke ihu na ihu, ma e chebere ndụ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Anyanwụ awaala mgbe Jekọb si Peniel gafee. Ma nʼihi ihe mere ya nʼọkpụ, ọ naghị agazikwa ije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ọ bụ ihe a mere ụmụ Izrel adịghị eri akwara anụ jikọtara ukwu anụ na ọkpụ ya ruo taa. Nʼihi na ihe ahụ mere Jekọb metụtara akwara ukwu ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 736,
+        "caller": "+",
+        "text": "Ala Sịa nke dị nso iyi Jabọk, ga-emesịa bụrụ ala dị mkpa nʼoge ọchịchị eze Devid na Solomọn. Jen 14:6; 33:14,16",
+        "reference": {
+          "chapter": 32,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/32.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/33.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/31.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

@@ -1,0 +1,245 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "ibo_bib",
+    "name": "Diuteronomi",
+    "commonName": "Diuteronomi",
+    "title": "Diuteronomi",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "4d8340735e00d5ed0d0ad6648ecebcc35379f88a7fb67b090d4c46057ed796af",
+    "firstChapterApiLink": "/api/ibo_bib/DEU/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DEU/34.json",
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ebe ịchụ aja nʼugwu Ebal"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mosis na ndị okenye Izrel nyere ndị Izrel iwu sị, “Debenụ iwu ndị a niile m na-enye unu taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ị gabigara osimiri Jọdan ruo nʼala ahụ Onyenwe anyị Chineke gị na-enye gị, bukọtaanụ nkume buru ibu nʼotu ebe, jirikwa ụrọ ọcha techie ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Depụta nʼelu nkume ndị ahụ iwu na ụkpụrụ ndị a mgbe ị batara nʼala ahụ mmiri ara ehi na mmanụ aṅụ na-eru nʼime ya, nke Onyenwe anyị Chineke nna nna gị kwere nkwa inye gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ị nọkwa nʼofe ọzọ nke osimiri Jọdan, doo nkume ukwu ndị a nʼugwu Ebal, dịka m na-enye gị nʼiwu taa. Jirikwa ụrọ ọcha techie ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Wuokwara Onyenwe anyị Chineke gị ebe ịchụ aja ya nʼebe ahụ. Ebe ịchụ aja eji naanị nkume wuo, nke ejighị ihe ngwa ọrụ igwe rụọ ihe bụla na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jiri nkume a na-awaghị awa wuore Onyenwe anyị Chineke gị ebe ịchụ aja ahụ, chụọkwa aja nʼelu ya nye Onyenwe anyị Chineke gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Chụọ aja udo nʼebe ahụ, rie ha, ma ṅụrịakwa ọṅụ nʼihu Onyenwe anyị Chineke gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Depụta iwu ndị a nke ọma, nʼelu nkume ndị ahụ i guzobere.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịbụ ọnụ site nʼugwu Ebal"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, Mosis na ndị nchụaja, bụ ndị Livayị, gwakwara ndị Izrel niile okwu sị, “Nọọnụ jii, gị Izrel, gekwaa ntị! Taa, ị ghọọla ndị nke Onyenwe anyị Chineke unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi ya debe iwu niile Onyenwe anyị Chineke gị na ụkpụrụ niile ndị m nyere gị taa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼotu ụbọchị ahụ ka Mosis nyere ha iwu sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe unu gafere Jọdan, ebo ndị a: Simiọn, na Livayị na Juda na Isaka na Josef na Benjamin, ga-eguzo nʼelu ugwu Gerizim gọzie ụmụ Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Agbụrụ Ruben, Gad, Asha, Zebụlọn, Dan na Naftalị ga-eguzo nʼelu ugwu Ebal kwupụta ọbụbụ ọnụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị Livayị ga-eji olu dị elu gụpụta ya nye ụmụ Izrel niile,"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“Onye a bụrụ ọnụ ka mmadụ ahụ bụ nke na-apị arụsị maọbụ oyiyi ọbụla, akaọrụ onye ǹka, nke bụ ihe arụ nʼanya Onyenwe anyị, ma na-eguzobe ya na nzuzo.” Ndị mmadụ niile ga-aza sị, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke na-elelị nna ya na nne ya.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ nke na-ehigharị oke ala onye agbataobi ya.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ nke na-eduhie onye ìsì ụzọ.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ nke na-adịghị ekpe ikpe ziri ezi nye ndị ọbịa, na ụmụ mgbei, na ndị inyom di ha nwụrụ.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ nke na-abakwuru nwunye nna ya soro ya dinaa, nʼihi na o merụọla ihe ndina nna ya.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ nke ya na anụmanụ ọbụla na-edina.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke ya na nwanne ya nwanyị na-akwa iko, bụ nwanne ya nke nne ya mụrụ, maọbụ nke nwunye nna ya mụrụ.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke ya na nne nwunye ya na-edina.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke na-etigbu mmadụ ibe ya na nzuzo.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke na-anara ngarị maka itigbu onye na-emeghị ihe ọjọọ ọbụla.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "“Onye a bụrụ ọnụ ka onye ahụ bụ, nke na-adịghị eme ka iwu ndị a guzosie ike site na-edebeghị ha.” Ụmụ Izrel niile ga-aza, “Amen.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/DEU/27.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DEU/28.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DEU/26.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

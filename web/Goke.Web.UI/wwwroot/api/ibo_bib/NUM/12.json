@@ -1,0 +1,204 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Miriam na Erọn eguzo megide Mosis"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Miriam na Erọn malitere ikwu okwu megide Mosis, nʼihi na ọ lụrụ nwunye onye Kush."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ha kwuru sị, “Ọ bụ naanị site nʼọnụ Mosis ka Onyenwe anyị si agwa ndị ya okwu? Ọ naghị esitekwa nʼọnụ anyị kwuo okwu?” Onyenwe anyị nụrụ ihe ndị a ha kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "(Ma nwoke ahụ bụ Mosis dị umeala nʼobi nke ukwuu karịa onye ọbụla nọ nʼelu ala.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Na mberede, Onyenwe anyị sịrị Mosis, na Erọn, na Miriam, “Pụtanụ, bịa nʼụlọ nzute, unu mmadụ atọ” Ya mere ha atọ pụtara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị rịdatara nʼime igwe ojii, guzoro na mbata ọnụ ụzọ ụlọ nzute ahụ, kpọpụta Erọn na Miriam. Mgbe ha abụọ bịara nso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onyenwe anyị gwara ha sị, “Geenụ ntị nʼokwu m ndị a:",
+          {
+            "text": "“Mgbe onye amụma nọ nʼetiti unu,",
+            "poem": 1
+          },
+          {
+            "text": "Mụ onwe m bụ Onyenwe anyị na-egosi ya onwe m site nʼọhụ.",
+            "poem": 2
+          },
+          {
+            "text": "Ana m agwa ya okwu site na nrọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ma nʼebe ohu m Mosis nọ, o sighị otu a dịrị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụ onye kwesiri ntụkwasị obi nʼụlọ m niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Nʼebe ọ nọ, ana m agwa ya okwu ihu na ihu",
+            "poem": 1
+          },
+          {
+            "text": "nʼụzọ doro anya, ọ bụghị site nʼilu,",
+            "poem": 2
+          },
+          {
+            "text": "ọ na-ahụkwa ụdịdị Onyenwe anyị.",
+            "poem": 2
+          },
+          {
+            "text": "Gịnị mere ụjọ atụghị unu",
+            "poem": 1
+          },
+          {
+            "text": "ikwu okwu megide ohu m Mosis?”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị were iwe dị ọkụ megide ha. O si nʼebe ha nọ pụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma mgbe igwe ojii ahụ hapụrụ ụlọ nzute ahụ, lee Miriam ebe o guzo, ekpenta tiwapụtara ya nʼahụ dịka nzu ọcha. Mgbe Erọn tụgharịrị ebe ọ nọ hụ na ọ ghọọla onye ekpenta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "ọ gwara Mosis okwu sị, “Biko, onyenwe m, atala anyị ahụhụ nʼihi mmehie anyị sitere na nzuzu mee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ekwela ka Miriam dịrị ka nwa ọhụrụ nwụrụ anwụ nke akpụkpọ ahụ ya rere ure nʼoge o si nʼakpanwa nne ya na-apụta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere Mosis tikuru Onyenwe anyị mkpu akwa sị ya, “Chineke, biko, gwọọ ya!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma Onyenwe anyị zara Mosis sị ya, “Ọ bụrụ na nna ya gbụrụ ya asụ nʼihu, ọ gaghị abụ onye rụrụ arụ abalị asaa? Ya mere, hapụ ya ka ọ bụrụ onye e sitere nʼogige ọmụma ụlọ ikwu Izrel wezuga abalị asaa. Mgbe oge a gafesịrị, o nwere ike ịlọghachi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya mere e wezugara Miriam site nʼogige ọmụma ụlọ ikwu Izrel abalị asaa. Ndị Izrel niile nọdụrụ chere ya ruo mgbe ọ lọghachiri, tutu ha ebilie nʼije ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ihe ndị a gasịrị, ha hapụrụ Hazerọt rute nʼọzara Paran ebe ha wuru ogige ụlọ ikwu ha."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

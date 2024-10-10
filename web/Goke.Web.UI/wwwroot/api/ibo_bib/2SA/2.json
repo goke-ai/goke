@@ -1,0 +1,337 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2SA",
+    "translationId": "ibo_bib",
+    "name": "2 Samuel",
+    "commonName": "2 Samuel",
+    "title": "2 Samuel",
+    "order": 10,
+    "numberOfChapters": 24,
+    "sha256": "f40ba434793b18725b2638c8f947369a59b029984bc296c1deea4f157fb1cc10",
+    "firstChapterApiLink": "/api/ibo_bib/2SA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2SA/24.json",
+    "totalNumberOfVerses": 695
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Devid abụrụ eze ndị Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Dịka oge na-aga, Devid jụrụ Onyenwe anyị ase sị, “M ga-ebili gbagoo nʼotu obodo dị na Juda?” Onyenwe anyị sịrị, “Gbagoo.” Devid jụkwara, “Olee ebe m ga-agbago?” Onyenwe anyị zara, “Hebrọn.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Devid na nwunye ya abụọ, Ahinoam onye Jezril, na Abigel nwunye ochie Nebal onye Kamel gara nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Devid kpọkwaara ndị ikom ahụ ya na ha so, onye ọbụla nʼime ha durukwaara ezinaụlọ ya, ga biri na Hebrọn na obodo ndị ọzọ gbara ya gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ndị ikom Juda bịakwutere Devid na Hebrọn. Tee ya mmanụ ịbụ eze ebo Juda niile. Mgbe Devid nụrụ na ọ bụ ndị ikom Jebesh Gilead liri Sọl,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "o zigaara ha ndị ozi ka ha sị ha, “Ka Onyenwe anyị gọzie unu nʼihi obiọma unu gosiri site nʼili Sọl, nna unu ukwu, nʼụzọ kwesiri ekwesi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ka Onyenwe anyị gosikwa unu obiọma na ikwesi ntụkwasị obi. Mụ onwe m ga-egosikwa unu otu ụdị amara a, nʼihi ihe a unu mere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma ugbu a, bụrụnụ dike na dimkpa, nʼihi na Sọl nna unu ukwu anwụọla. Ọzọkwa, ndị Juda niile eteela m mmanụ ịbụ eze ha.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Agha dara nʼetiti ezinaụlọ Devid na Sọl"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma Abna",
+          {
+            "noteId": 331
+          },
+          "nwa Nea, ọchịagha ndị agha Sọl edurularịị Ishboshet, nwa Sọl, dubata ya nʼobodo Mahanaim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ nọrọ nʼebe ahụ mee ya eze ndị Gilead, ndị Ashuri",
+          {
+            "noteId": 332
+          },
+          "na ndị Jezril; na ndị Ifrem, ndị Benjamin na Izrel niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ishboshet nwa Sọl gbara iri afọ anọ mgbe ọ ghọrọ eze ndị Izrel. Ọ chịkwara afọ abụọ. Ma otu ọ dị, ndị Juda niile nọgidere nʼokpuru Devid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ogologo oge niile Devid chịrị dịka eze ndị Juda na Hebrọn bụ afọ asaa na ọnwa isii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Otu ụbọchị, Abna nwa Nea, duuru ndị agha Ishboshet nwa Sọl site na Mahanaim jee Gibiọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma Joab,",
+          {
+            "noteId": 333
+          },
+          "nwa Zeruaya dukwaara ndị agha Devid pụọ izute ha nʼọdọ mmiri Gibiọn. Otu ndị nọdụrụ ala nʼotu akụkụ ọdọ mmiri, ndị nke ọzọ nʼakụkụ ọzọ nke ọdọ mmiri ahụ. Ha cherịtara onwe ha ihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Abna gwara Joab sị, “Ka ụfọdụ ụmụ okorobịa pụta nʼihu anyị maa aka mgba.” Joab sịrị, “Ka ha pụta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ha pụtara ka a gụpụtachara ha. Ha dị mmadụ iri na abụọ site nʼetiti ndị agha Benjamin na Ishboshet nwa Sọl, mmadụ iri na abụọ site nʼetiti ndị agha Devid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nwoke ọbụla jidere ibe ya nʼisi were mma agha ya manye ya nʼakụkụ, si otu a wetara onwe ha ọnwụ. Ọ bụ nke a mere e ji kpọọ ebe ahụ dị na Gibiọn, Helkat Hazurim, nke pụtara Ala mma agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Agha siri ike dara nʼụbọchị ahụ. Ma ndị agha Devid lụgburu Abna na ndị agha Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ụmụ Zeruaya atọ nọ nʼebe ahụ, ya bụ, Joab, na Abishai na Asahel. Asahel bụ nwoke na-agba ọsọ dịka mgbada."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọ chụwara Abna ọsọ, ọ dịghị mgbe ọ tụgharịrị gaa nʼaka nri maọbụ nʼaka ekpe mgbe ọ nọ na-achụ ya ọsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe Abna lere anya nʼazụ hụ ya ka ọ na-abịa, ọ kpọrọ ya oku sị ya, “Ọ bụ gị Asahel?” Asahel zara sị, “Ọ bụ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Abna gwara ya okwu sị ya, “Tụgharịa nʼakụkụ aka nri maọbụ aka ekpe, jide otu nʼime ụmụ okorobịa ndị a. Napụ ya ngwa agha ya niile.” Ma Asahel akwụsịghị ịchụ ya ọsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Abna gwara Asahel ọzọ sị, “Laghachi azụ. Kwụsị ịchụ m ọsọ! Gịnị mere m ga-eji tigbuo gị? Olee otu m ga-esi lekwasị nwanne gị Joab anya nʼihu ma m gbuo gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma Asahel jụrụ ịlaghachi azụ. Nʼihi ya, Abna weere isi ùbe ya mapuo ya afọ. Ùbe ahụ sikwa ya nʼazụ pụta. Ọ dara nʼala, nwụọ otu mgbe ahụ. Ndị niile bịaruru ebe ahụ ọ dara nwụọ kwụsịrị. Ha agakwaghị nʼihu ịchụ ndị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ma Joab na Abishai chụgidere Abna ọsọ. Anwụ adaala mgbe ha bịarutere nʼugwu nta Ama, nke dị Gịa nso, nʼụzọ e si aga nʼọzara Gibiọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị ikom Benjamin chịkọtara onwe ha ọnụ dịnyere Abna. Ha niile guzooro nʼelu otu ugwu dịka otu usuu ndị agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ, Abna kpọrọ Joab oku sị ya, “Ọ bụ ruo ole mgbe ka anyị ga na-eji mma agha na-egburita onwe anyị? Olee mgbe ị ga-akpọghachi ndị gị ka ha hapụ ịchụ na igbu ụmụnne ha? Ị maghị na ihe dị otu a ga-eweta obi ilu?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Joab zara sị, “Eji m aha Chineke ṅụọ iyi na-asị na ọ bụrụ na i gbara nkịtị, ndị a gaara achụso ụmụnna ha ọsọ na-akwụsịghị ruo nʼụtụtụ echi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe ahụ, Joab fụrụ opi",
+          {
+            "noteId": 334
+          },
+          "ike ya. Nke a mere ka ndị ya kwụsị ịchụ ndị Izrel. Ha kwụsịkwara ibu agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nʼabalị ahụ, Abna na ndị ikom ya jere ije gafee ndagwurugwu Jọdan, gabigakwa osimiri Jọdan, jee ije nʼụtụtụ echi ya tutu ha eruo Mahanaim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Joab kwụsịrị ịchụ Abna ọsọ, ọ chịkọtara ndị agha niile. Mgbe ọ gụrụ ha ọnụ, ọ chọpụtara na mmadụ iri na itoolu nʼime ndị ikom Devid, tinyere Asahel nwanne ya, bụ ndị na-alọtaghị agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma ndị ikom Devid gburu narị ndị agha Benjamin atọ na iri isii, bụ ndị so Abna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Emesịa, Joab na ndị agha ya buuru ozu Asahel gaa lie ya na Betlehem, nʼili nna ya. Ha jere ije abalị ahụ niile tutu ha erute Hebrọn mgbe chi bidoro ịbọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 331,
+        "caller": "+",
+        "text": "Abna, bụ nwa nwanne nna Sọl. Ọ bụ ọchịagha Sọl, onye gbalịsịrị ike ihu nʼocheeze Sọl dịgidere na-aga nʼihu. 1Sa 14:50; 2Sa 3:6",
+        "reference": {
+          "chapter": 2,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 332,
+        "caller": "+",
+        "text": "Ndị Ashuri bụ ndị ezinaụlọ si nʼebo Asha Nkp 1:31-32; Jos 19:24-31",
+        "reference": {
+          "chapter": 2,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 333,
+        "caller": "+",
+        "text": "Dịka Abna, ọchịagha Sọl, bụ nwa nwanne nna ya 1Sa 2:8Otu a ka Joab, ọchịagha Devid, Abishai na Asahel dị nye Devid. Ha bụ ụmụ nwanne ya nwanyị.",
+        "reference": {
+          "chapter": 2,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 334,
+        "caller": "+",
+        "text": "Ị fụụ opi ike, nwere ike ị bụ ịkpọsa mbido agha, maọbụ mkpọsa ka a kwụsị agha. Nkp 7:16-20; 2Sa 2:28; 20:22",
+        "reference": {
+          "chapter": 2,
+          "verse": 28
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2SA/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2SA/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2SA/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 32
+}

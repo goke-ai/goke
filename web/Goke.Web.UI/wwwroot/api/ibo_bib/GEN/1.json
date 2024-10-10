@@ -1,0 +1,303 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mmalite ihe niile"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Na mmalite Chineke kere eluigwe na ụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ụwa bụ ihe na-enweghị ụdịdị ọbụla, bụrụkwa ihe tọgbọrọ nʼefu. Ọchịchịrị gbara nʼelu ogbu mmiri dị omimi. Mmụọ nke Chineke na-erugharị nʼelu ogbu mmiri ahụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ Chineke kwuru sị, “Ka ìhè dị,” ìhè dịkwara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Chineke hụrụ na ìhè ahụ mara mma. Ọ kpara oke nʼetiti ìhè na ọchịchịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Chineke kpọrọ ìhè ahụ Ehihie, kpọọ ọchịchịrị ahụ Abalị. Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke mbụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Chineke kwukwara sị, “Ka mbara pụta nke ga-ekewapụ mmiri dị nʼelu mbara ahụ site na mmiri nke dị nʼokpuru mbara ahụ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ya mere, Chineke mere mbara, kewapụ mmiri dị nʼokpuru mbara ahụ site na mmiri nke dị nʼelu mbara ahụ. O sikwa otu a dịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mbara ahụ ka Chineke kpọrọ mbara eluigwe. Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke abụọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Chineke kwuru sị, “Ka mmiri dị nʼokpuru mbara eluigwe chịkọta onwe ha ọnụ nʼotu ebe, ka ala akọrọ pụta.” O sikwa otu a dịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Chineke kpọrọ ala akọrọ ahụ “ala,” kpọọ mmiri ahụ chịkọtara onwe ha ọnụ “osimiri.” Chineke lere anya hụ na ha dị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Chineke kwuru sị, “Ka ala pupụta ahịhịa ndụ dị iche iche: ahịhịa na-amịpụta mkpụrụ, na osisi dị nʼelu ala nke na-amịpụta mkpụrụ, nke mkpụrụ ọkụkụ ya dị nʼime ya, dịka ụdịdị ha dị iche iche si dị.” O sikwa otu a dịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ala puputara ahịhịa ndụ dị iche iche: ahịhịa na-amịpụta mkpụrụ dịka ụdịdị ha si dị, na osisi na-amịpụta mkpụrụ, nke mkpụrụ ọkụkụ ya dị nʼime ya, dịka ụdịdị ha si dị. Chineke lere anya hụ na ọ dị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke atọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Chineke kwuru sị, “Ka ìhè nke na-enye ìhè dịrị na mbara eluigwe, ikewapụ ehihie site nʼabalị. Ka ha bụrụ ihe ama igosi oge dị iche iche, ụbọchị dị iche iche, na afọ dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ka ha bụrụ ìhè na mbara eluigwe inye ìhè nʼelu ụwa.” O si otu a dịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Chineke mere ìhè ukwu abụọ, nke kacha ịdị ukwu ka ọ bụrụ nke ga-achị ehihie, ma nke dị nta ka ọ bụrụ nke ga-achị abalị. O mekwara kpakpando dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Chineke debere ha na mbara eluigwe inye ìhè nʼụwa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "ịchị ehihie na abalị na ịkpa oke nʼetiti ìhè na ọchịchịrị. Chineke lere anya hụ na ọ dị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke anọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Chineke kwuru sị, “Ka mmiri jupụta nʼihe ndị na-eku ume, ka ụmụ anụ ufe fegharịkwa nʼelu ụwa, ma nʼelu mbara igwe.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere Chineke kere anụ ukwu niile bi na mmiri, na anụ niile nwere ndụ bi na mmiri, na ụdị ihe ọbụla nwere ndụ na-akpụgharị akpụgharị ndị jupụtara na mmiri, dịka ụdịdị ha si dị, na anụ ufe niile dịka ụdịdị ha si dị. Chineke lere anya hụ na ọ dị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Chineke gọziri ha, sị ha, “Mụbaanụ, dịkwanụ ukwuu nʼọnụọgụgụ, jupụtanụ osimiri niile. Ka anụ ufe dịkwa ukwuu nʼọnụọgụgụ nʼelu ụwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke ise."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Chineke kwuru sị, “Ka ala wepụta ụmụ anụ dị iche iche nwere ndụ dịka ụdịdị ha si dị: anụ ụlọ, anụ na-akpụgharị nʼala, na anụ ọhịa, nke ọbụla dịka ụdịdị ya si dị.” O si otu a dịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Chineke mere ụmụ anụ ọhịa, dịka ụdịdị ha si dị, mee anụ ụlọ, dịka ụdịdị ha si dị, na anụ niile nwere ndụ nke na-akpụgharị nʼala dịka ụdịdị ha si dị. Chineke lere anya hụ na ọ dị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ, Chineke kwuru sị, “Ka anyị mee mmadụ nʼoyiyi anyị, dịka ụdịdị anyị si dị, ka ha chịa azụ niile nke osimiri, na anụ ufe niile nke eluigwe, na anụ ụlọ niile, na anụ ọhịa niile, na ihe niile e kere eke nwere ndụ nke na-akpụ akpụ nʼala.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Ya mere, Chineke kere mmadụ nʼoyiyi nke ya,",
+            "poem": 1
+          },
+          {
+            "text": "nʼoyiyi Chineke ka o kere ha,",
+            "poem": 2
+          },
+          {
+            "text": "nwoke na nwanyị ka o kere ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Chineke gọziri ha sị ha, “Mịanụ mkpụrụ, mụbaanụ, jupụtanụ nʼụwa, meenụ ka ihe niile dịrị nʼokpuru unu. Chịanụ azụ niile nke osimiri na anụ ufe niile nke eluigwe na ihe niile e kere dị ndụ nke na-akpụgharị akpụgharị nʼala.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Mgbe ahụ, Chineke sịrị “Enyela m unu ahịhịa ubi niile na-amị mkpụrụ dị nʼelu ụwa, na osisi ọbụla mịrị mkpụrụ, nke mkpụrụ ọkụkụ ya dị nʼime ha, ka ha bụrụ ihe oriri gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ma ụmụ anụmanụ niile na anụ ufe niile, na anụ niile e kere eke na-akpụgharị akpụgharị nʼala, anụ ọbụla nwere ndụ nʼime ha ka m na-enye ahịhịa ndụ niile ka ọ bụrụ ihe oriri ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Chineke legharịrị anya nʼihe o kere, hụ na ọ dị ezi mma. Uhuruchi dị, ụtụtụ dịkwa. Ọ bụrụ ụbọchị nke isii."
+        ]
+      },
+      {
+        "type": "line_break"
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": null,
+  "previousChapterAudioLinks": null,
+  "numberOfVerses": 31
+}

@@ -1,0 +1,172 @@
+﻿@page "/products/Plots"
+
+@implements IAsyncDisposable
+
+@inject IJSRuntime JS
+@inject ILogger<Plots> Logger
+
+<PageTitle>Plots</PageTitle>
+
+<h1>Plots</h1>
+
+
+<button @onclick="OnShowPlot">ShowPlot</button>
+<button id="btn">Click Me!</button>
+
+<div id="myplot"></div>
+<div id="myplot1"></div>
+<div id="myplot2"></div>
+<div id="myplot3"></div>
+<div id="myplot4"></div>
+<div id="myplot5"></div>
+<div id="myplot6"></div>
+<div id="myplot7"></div>
+
+@code {
+
+    private IJSObjectReference? module;
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            module = await JS.InvokeAsync<IJSObjectReference>("import",
+                "./Pages/Products/Plots.razor.js");
+
+            await module.InvokeVoidAsync("addHandlers");
+        }
+    }
+
+    static double RandomChange(double value)
+    {
+        var y = (1 + (Random.Shared.Next(0, 11) / 10.0));
+        return y * value;
+    }
+
+    async void OnShowPlot()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("plotBar", "#myplot");
+            await module.InvokeVoidAsync("plot1", "#myplot1");
+
+            //{ Date: new Date("2013-05-13"), Open: 64.501427, High: 65.414284, Low: 64.500000, Close: 64.9628xm, Volume: 79237200 }
+            var stockData = Enumerable.Range(0, 50).Select(s => new
+            {
+                Symbol = "STK",
+                Date = DateTime.UtcNow.AddDays(s),
+                Open = RandomChange(64.501427),
+                High = RandomChange(65.414284),
+                Low = RandomChange(64.500000),
+                Close = RandomChange(64.962860),
+                Volume = RandomChange(79237200)
+            }).ToArray();
+
+            var stockData2 = Enumerable.Range(0, 50).Select(s => new
+            {
+                Symbol = "SCK",
+                Date = DateTime.UtcNow.AddDays(s),
+                Open = RandomChange(24.501427),
+                High = RandomChange(25.414284),
+                Low = RandomChange(24.500000),
+                Close = RandomChange(24.962860),
+                Volume = RandomChange(29237200)
+            }).ToArray();
+
+            var stockData3 = stockData.Union(stockData2);
+
+            await module.InvokeVoidAsync("plot2", "#myplot2", stockData);
+            await module.InvokeVoidAsync("plot3", "#myplot3", new[] { stockData, stockData2 });
+            await module.InvokeVoidAsync("plot6", "#myplot6", stockData3);
+
+            char[] alphabeths = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
+            var alphabethData = alphabeths.Select(s => new { Letter = s, Frequency = Random.Shared.Next(20) }).ToArray();
+
+            await module.InvokeVoidAsync("plot4", "#myplot4", alphabethData);
+            await module.InvokeVoidAsync("plot5", "#myplot5", alphabethData);
+
+            //{ x: "culmen_length_mm", y: "culmen_depth_mm", stroke: "species" }
+            string[] species = { "Adelie", "Chinstrap", "Gentoo" };
+
+            int xl = 0, xh = 0;
+            int yl = 0, yh = 0;
+
+            int xm = 60, ym = 22, xx=0, yy = 0;
+
+            xl = (int)(xm * 0);
+            xh = (int)(xm * 0.5);
+            yl = (int)(ym * 0.5);
+            yh = (int)(ym * 1);
+            var data7_1 = Enumerable.Range(1, 100).Select(s => new
+            {
+                Culmen_length_mm = Random.Shared.Next(xl, xh),
+                Culmen_depth_mm = Random.Shared.Next(yl, yh),
+                Species = species[0]
+            }).Append(new
+            {
+                Culmen_length_mm = xm,
+                Culmen_depth_mm = ym, 
+                Species = species[0]
+            }).Append(new
+            {
+                Culmen_length_mm = xx,
+                Culmen_depth_mm = yy,
+                Species = species[0]
+            }).ToArray();
+
+            xl = (int)(xm * 0.25);
+            xh = (int)(xm * .75);
+            yl = (int)(ym * 0.25);
+            yh = (int)(ym * .75);
+            var data7_2 = Enumerable.Range(1, 100).Select(s => new
+            {
+                Culmen_length_mm = Random.Shared.Next(xl, xh),
+                Culmen_depth_mm = Random.Shared.Next(yl, yh),
+                Species = species[1]
+            }).Append(new
+            {
+                Culmen_length_mm = xm,
+                Culmen_depth_mm = ym,
+                Species = species[1]
+            }).Append(new
+            {
+                Culmen_length_mm = xx,
+                Culmen_depth_mm = yy,
+                Species = species[1]
+            }).ToArray();
+
+            xl = (int)(xm * 0.25);
+            xh = (int)(xm * .95);
+            yl = (int)(ym * 0);
+            yh = (int)(ym * 0.5);
+            var data7_3 = Enumerable.Range(1, 100).Select(s => new
+            {
+                Culmen_length_mm = Random.Shared.Next(xl, xh),
+                Culmen_depth_mm = Random.Shared.Next(yl, yh),
+                Species = species[2]
+            }).Append(new
+            {
+                Culmen_length_mm = xm,
+                Culmen_depth_mm = ym,
+                Species = species[2]
+            }).Append(new
+            {
+                Culmen_length_mm = xx,
+                Culmen_depth_mm = yy,
+                Species = species[2]
+            }).ToArray();
+
+            var data7 = data7_1.Union(data7_2).Union(data7_3);
+            await module.InvokeVoidAsync("plot7", "#myplot7", data7);
+
+        }
+    }
+    
+    async ValueTask IAsyncDisposable.DisposeAsync()
+    {
+        if (module is not null)
+        {
+            await module.DisposeAsync();
+        }
+    }
+}

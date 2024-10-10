@@ -1,0 +1,390 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "ibo_bib",
+    "name": "Abụ nke Abụ",
+    "commonName": "Abụ nke Abụ",
+    "title": "Abụ nke Abụ",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "6514d7dce5ded66021cc784856cb2aed328424d30f41fe6e5dd039e3c7ac7844",
+    "firstChapterApiLink": "/api/ibo_bib/SNG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/SNG/8.json",
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 8,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "O, a sịkwarị na ị bụ nwanne m nwoke;",
+            "poem": 1
+          },
+          {
+            "text": "nke otu nne mụrụ mụ na ya",
+            "poem": 2
+          },
+          {
+            "text": "m gaara esutu gị ọnụ",
+            "poem": 1
+          },
+          {
+            "text": "mgbe anyị zutere nʼokporoụzọ",
+            "poem": 2
+          },
+          {
+            "text": "ma ọ dịkwaghị onye ọbụla ga-eleda m anya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Agaara m akpọrọ gị baa nʼụlọ nne m,",
+            "poem": 1
+          },
+          {
+            "text": "ka ị nọdụ nʼebe ahụ,",
+            "poem": 2
+          },
+          {
+            "text": "nʼụlọ onye ziri m ihe.",
+            "poem": 2
+          },
+          {
+            "text": "Agaara m enye gị mmanya e tinyere ihe na-esi isi ụtọ,",
+            "poem": 1
+          },
+          {
+            "text": "mmanya ụtọ nke pomegranet.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Aka ekpe ya dị nʼokpuru isi m,",
+            "poem": 1
+          },
+          {
+            "text": "aka nri ya na-ejikụ m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Unu ụmụ agbọghọ Jerusalem, ana m agba unu iyi,",
+            "poem": 1
+          },
+          {
+            "text": "unu agaghị akpọte maọbụ mee ka ịhụnanya teta",
+            "poem": 2
+          },
+          {
+            "text": "tupu ruo mgbe ọ masịrị ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Onye bụ onye a si nʼọzara na-abịa,",
+            "poem": 1
+          },
+          {
+            "text": "onye na-adabere nʼahụ onye ọ hụrụ nʼanya.",
+            "poem": 2
+          },
+          "Onye a hụrụ nʼanya",
+          {
+            "text": "Nʼokpuru osisi apụl ka m kpọtere gị;",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe ahụ ka nne gị tụrụ ime gị;",
+            "poem": 2
+          },
+          {
+            "text": "nʼebe ahụ ka ọ nọ mụọ gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Tụkwasị m dịka mgbaaka ihe a kara nʼobi,",
+            "poem": 1
+          },
+          {
+            "text": "dịka mgbaaka ihe a kara nʼaka gị",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ịhụnanya dị ike dịka ọnwụ,",
+            "poem": 1
+          },
+          {
+            "text": "ekworo",
+            "poem": 2
+          },
+          {
+            "noteId": 1863
+          },
+          {
+            "text": "ya dịkwa ike dịka ala mmụọ.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ na-enwupụtakwa dịka ọkụ na-ere ere,",
+            "poem": 1
+          },
+          {
+            "text": "dịka ọkụ nke dị ukwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọtụtụ mmiri apụghị imenyụ ịhụnanya,",
+            "poem": 1
+          },
+          {
+            "text": "osimiri niile enwekwaghị ike iri ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ bụrụ na mmadụ ga-enye",
+            "poem": 1
+          },
+          {
+            "text": "akụ niile nke ụlọ ya nʼihi ịhụnanya,",
+            "poem": 2
+          },
+          {
+            "text": "a ga-eleda ya anya nke ukwuu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Anyị nwekwara otu nwanne nwanyị nta",
+            "poem": 1
+          },
+          {
+            "text": "ma ọ kpụbeghị ara.",
+            "poem": 2
+          },
+          {
+            "text": "Gịnị ka anyị ga-emere nwanne anyị nwanyị,",
+            "poem": 1
+          },
+          {
+            "text": "nʼụbọchị a ga-abịa ịlụ ya?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ọ bụrụ na ọ bụ mgbidi,",
+            "poem": 1
+          },
+          {
+            "text": "anyị ga-ewukwasị ụlọ elu ọlaọcha nʼelu ya;",
+            "poem": 2
+          },
+          {
+            "text": "ma ọ bụrụ na ọ bụ ọnụ ụzọ,",
+            "poem": 1
+          },
+          {
+            "text": "anyị ga-eji ibo e ji osisi sida wuo mechie ya, ichebe ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Abụ m mgbidi,",
+            "poem": 1
+          },
+          {
+            "text": "ara m abụọ guzokwa dịka ụlọ elu.",
+            "poem": 2
+          },
+          {
+            "text": "Otu a ka m siri dị nʼanya ya",
+            "poem": 1
+          },
+          {
+            "text": "dịka onye na-ewetara ya afọ ojuju.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Solomọn nwere ubi vaịnị na Baal-Hamon,",
+            "poem": 1
+          },
+          {
+            "text": "o nyefere ubi vaịnị ya nʼaka ndị ọrụ nlekọta.",
+            "poem": 2
+          },
+          {
+            "text": "Onye ọbụla nʼime ha ga-eweta",
+            "poem": 1
+          },
+          {
+            "text": "puku shekel ọlaọcha maka mkpụrụ ọ na-amịta.",
+            "poem": 2
+          },
+          {
+            "noteId": 1864
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ma ubi vaịnị m bụ nke aka m. Ana m enye ya onye m chọrọ inye.",
+            "poem": 1
+          },
+          {
+            "text": "Puku ọlaọcha bụ nke Solomọn,",
+            "poem": 2
+          },
+          {
+            "text": "ndị ọrụ ubi ga-enwetakwa narị ọlaọcha abụọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Gị onye bi nʼubi a gbara ogige,",
+            "poem": 1
+          },
+          {
+            "text": "gị na ndị enyi gị,",
+            "poem": 2
+          },
+          {
+            "text": "kwere ka m nụ olu gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Soro m ka anyị pụọ, onye m hụrụ nʼanya,",
+            "poem": 1
+          },
+          {
+            "text": "bịakwute m dịka mgbada,",
+            "poem": 2
+          },
+          {
+            "text": "maọbụ dịka nwa ele",
+            "poem": 1
+          },
+          {
+            "text": "na-awụgharị nʼelu ugwu ebe ụda dị iche iche na-esi isi ụtọ jupụtara.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1863,
+        "caller": "+",
+        "text": "Ilu 6:34-35",
+        "reference": {
+          "chapter": 8,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1864,
+        "caller": "+",
+        "text": "Mat 21:33",
+        "reference": {
+          "chapter": 8,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/SNG/8.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/SNG/7.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 14
+}

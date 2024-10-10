@@ -1,0 +1,180 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "ibo_bib",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "55fb1ed601140a3772b88951338bf08f2bdc42dc3e530ce470f7aaa6a16b6ea2",
+    "firstChapterApiLink": "/api/ibo_bib/EZR/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZR/10.json",
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 5,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Akwụkwọ ozi Tatenai dere"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, ndị amụma, bụ Hegai, na Zekaraya nwa Ido buru amụma nye ndị Juu nọ na Juda nakwa Jerusalem. Ọ bụ nʼaha Chineke nke Izrel, onye na-achị ha ka ha buru amụma ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ahụ, Zerubabel nwa Shealtiel, na Jeshua nwa Jozadak malitekwara iwu ụlọnsọ Chineke nʼJerusalem. Ndị amụma Chineke ahụ nọnyeere ha na-enyekwara ha aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma Tatenai, onye na-achị mba niile dị nʼọdịda anyanwụ Yufretis, na Sheta Bozenai, na ndị enyi ha, gara Jerusalem jụọ ndị Juu sị; “Onye nyere unu ike ibido iwuzi ụlọnsọ a na mgbidi Jerusalem?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ha jụkwara ha ajụjụ sị: “Gịnị bụ aha ndị na-arụ ụlọ a?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma anya Chineke ha dịkwasịrị nʼahụ ndị okenye ndị Juu, ha akwụsịghị ha ọrụ ruo mgbe akwụkwọ ozi ruru Daraiọs, na mgbe ọsịsa ya bịara site nʼakwụkwọ ozi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nke a bụ akwụkwọ ozi Tatenai, onye na-achị ala dị nʼọdịda anyanwụ Yufretis, na Sheta Bozenai, na ndịisi ọzọ degara eze Daraiọs:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ha zigara ya akwụkwọ ozi, nke e si otu a dee, Daraiọs bụ eze nwe akwụkwọ a, Anyị ekelee gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ dị mma ka eze mata na anyị jeruru mpaghara ala Juda, nʼebe ahụ ụlọnsọ ukwu Chineke dị. Anyị chọpụtara na ndị ahụ ji nkume a wara awa na-ewu ya, na-edokwa osisi na-elu mgbidi ya. Ọrụ ahụ na-agakwa nʼihu nke ọma na-esepụghị aka nʼokpuru nlekọta ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Anyị jụrụ ndị okenye ajụjụ sị: Onye nyere unu ikike ibido iwuzi ụlọnsọ a na mgbidi Jerusalem?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Anyị jụkwara ha aha ha, ka anyị si otu a mee ka ị mata aha ndị ndu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma nke a bụ ihe ha zaghachiri anyị:",
+          {
+            "lineBreak": true
+          },
+          "“Anyị onwe anyị bụ ndị ohu Chineke nke eluigwe na ụwa. Anyị na-ewugharị ụlọnsọ nke otu eze ukwu ndị Izrel wuru nʼoge gara aga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma nʼihi na nna nna anyị ha mere ka iwe wee Chineke nke eluigwe, o weere ha nyefee nʼaka Nebukadneza, onye Kaldịa, bụ eze Babilọn, onye bibiri ụlọnsọ a ma dọrọ ndị bi nʼala ahụ nʼagha laa Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "“Ma otu ọ dị, nʼafọ mbụ nke ọchịchị Sairọs, eze Babilọn, eze Sairọs nyere iwu ka e wugharịa ụlọnsọ Chineke a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O sikwa nʼụlọnsọ dị na Babilọn wepụta ngwongwo ọlaọcha na ọlaedo si nʼụlọnsọ Chineke nke Nebukadneza si nʼụlọnsọ Chineke dị na Jerusalem bupụ bulaa nʼụlọnsọ dị na Babilọn. Mgbe ahụ eze Sairọs nyefere ha nʼaka otu nwoke a na-akpọ Sheshbaza, onye ọ họpụtara dịka gọvanọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ gwara ya sị, ‘buru ngwongwo ndị a bulaa ha nʼụlọnsọ dị na Jerusalem, wugharịakwa ụlọnsọ Chineke nʼọnọdụ ya mbụ.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "“Ya mere, ọ bụ Sheshbaza a bịara tọọ ntọala ụlọnsọ dị na Jerusalem. Sitekwa nʼoge ahụ ruo ugbu a, ha nọ na-arụ ya ma ha arụchabeghị ya.”"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ugbu a, ọ bụrụ na ọ dị eze mma nʼobi, ya nye iwu ka e nyochaa nʼụlọ a na-echebe akwụkwọ ochie nke ndị eze Babilọn, ịchọpụta maọbụ eziokwu na eze Sairọs nyere iwu dị otu a iwugharị ụlọnsọ Chineke dị na Jerusalem. Ka eze gwakwa anyị ihe bụ mkpebi ya banyere okwu a."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EZR/5.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZR/6.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZR/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

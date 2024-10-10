@@ -1,0 +1,308 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mgbanwe ikpeazụ Nehemaya wetara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼụbọchị ahụ, a gụpụtara okwu Chineke na ntị ndị Izrel site nʼakwụkwọ iwu Mosis. Mgbe a na-agụpụta ya, a chọpụtara na o megidere iwu na onye Amọn, maọbụ onye Moab, ga-eso nʼofufe ụlọnsọ ukwu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼihi na ha bụ ndị iro ụmụ Izrel. Ha enyeghị ha ihe oriri na ihe ọṅụṅụ kama ha zụrụ Belam ka ọ bụọ ụmụ Izrel ọnụ. (Ma Chineke anyị gbanwere ịbụ ọnụ ahụ mee ka ọ ghọọ ngọzị.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe a gụpụtara iwu a, ndị Izrel chụpụrụ ndị mba ọzọ niile nọ nʼọgbakọ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma tupu ihe ndị a niile emee, Eliashib onye bụ onye nchụaja, onye e doro nʼisi ilekọta ime ụlọ a na-achịkọba ihe nʼụlọ Chineke anyị, ya na Tobaya nwee ezi mmekọrịta,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "o weere otu ọnụụlọ buru ibu a na-achịkọba ihe nye ya. Na mbụ, ọ bụ ọnụụlọ ebe a na-achịkọta onyinye ọka na ụda na-esi isi ụtọ, na ngwongwo ụlọnsọ, na efere mmanya ọhụrụ, na mmanụ oliv. Mosis enyelarị ya nʼiwu na ọ bụ ndị Livayị na ndị ọbụ abụ na ndị nche nwe onyinye ndị ahụ. Ndị nchụaja nwekwa oke nʼihe ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ihe ndị a na-eme, anọghị m na Jerusalem, nʼihi na nʼiri afọ atọ na abụọ nke ọchịchị Ataksekses, eze Babilọn,",
+          {
+            "noteId": 1478
+          },
+          "a lọghachikwutere m eze. Ma e mesịrị m nata ya ike"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "laghachikwa na Jerusalem. Nʼebe a ka m nọ mata banyere ihe ọjọọ ahụ Eliashib mere, inye Tobaya otu ọnụụlọ nke dị nʼogige ụlọ Chineke ka ọ bụrụ ebe izuike ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Iwe were m nke ukwuu, nke mere na m sitere nʼọnụụlọ ahụ tụpụsịa ngwongwo Tobaya niile nʼezi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Enyere m iwu ka e doo ọnụụlọ ndị ahụ niile ọcha, a chighachikwara m ngwongwo ụlọ Chineke niile nʼime ha, ha na onyinye mkpụrụ ọka, na ụda na-esi isi ụtọ ndị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "A chọpụtakwara m na-enyebeghị ndị Livayị oke ihe ruru ha, nke mere na ndị ọbụ abụ, na ndị nche ndị ọ bụ ọrụ ha i doo ofufe, alaghachila nʼubi ha dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi ya, abaara m ha mba jụọ ha si: “Gịnị mere unu jiri gbakụta ụlọnsọ ukwu Chineke azụ?” Mgbe ahụ akpọghachiri m ndị Livayị nyekwa ha ọrụ ha nʼụlọnsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ndị Juda niile bidokwara iweta ụtụ ha, na onyinye ọka, na mmanya vaịnị na mmanụ oliv ha nʼụlọ ịchịkọba ihe dị nʼụlọnsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "E tinyere m Shelemaya onye nchụaja, na Zadọk ode akwụkwọ, na Pedaia onye Livayị, ka ha bụrụ ndị na-elekọta ụlọ ịchịkọba ihe niile ahụ. Emekwara m Hanan nwa Zakua, nwa Matanaya, onye ga na-enyere ha aka, nʼihi na a gụrụ ha dịka ndị kwesiri ntụkwasị obi. Ọrụ ha bụ ikere ndị Livayị ibe ha niile oke."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Chineke m, biko cheta m nʼihi nke a, ehichapụkwala ihe niile m ji obi m niile rụọ nʼụlọnsọ gị na ije ozi niile ya."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nʼụbọchị ndị ahụ, ka m hụrụ na Juda ndị na-azọcha mmanya vaịnị nʼụbọchị izuike, ndị ji ịnyịnya ibu na-ebubata ogbe ọka, na-ebokwasị ha nʼelu ịnyịnya ibu, tinyekwara mmanya, na mkpụrụ vaịnị na fiig, na ibu niile ọbụla. Ha na-ebubatakwa ha nʼime Jerusalem nʼụbọchị izuike. Nke a mere m ji dọọ ha aka na ntị megide ire nri nʼụbọchị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị si obodo Taịa, bụ ndị birila na Jerusalem nọ na-ebubata azụ na ngwa ahịa ndị ọzọ dị iche iche, na-ere ha na Juda, nakwa na Jerusalem nʼụbọchị izuike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A baara m ndị a na-asọpụrụ na Juda mba, si ha, “Gịnị bụ ihe ọjọọ nke a unu na-eme, na-emerụ ụbọchị izuike?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụghị otu ihe a ka nna nna unu ha mere, nke mere na Chineke wetara ọdachi a tụkwasị anyị nakwa obodo a? Ugbu a, unu na-akpali ọnụma tụkwasị na nke dị megide Izrel site nʼimerụ ụbọchị izuike?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi nke a, enyere m iwu na a ga-emechi ọnụ ụzọ ama Jerusalem nʼuhuruchi tupu ụbọchị izuike, ruo mgbe ụbọchị izuike gafesịrị. Emere m ka ụfọdụ ndị ohu m na-anọ na nche nʼebe ahụ, ịhụ na ọ dịghị onye ahịa ọbụla ga-abata nʼime obodo Jerusalem nʼụbọchị izuike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ya mere, ndị na-azụ ahịa na ndị na-ere ụdị ngwa ahịa dị iche iche, na-anọ ọnọdụ abalị nʼazụ Jerusalem, otu gboro maọbụ ugboro abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ma a dọrọ ha aka na ntị, sị, “Gịnị ka unu ji na-anọ ọnọdụ abalị nʼakụkụ mgbidi a? Ọ bụrụ na unu eme ya ọzọ, aga m enye iwu ka e jide unu.” Site nʼụbọchị ahụ gaa nʼihu, ha abịakwaghị ọzọ nʼụbọchị izuike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ahụ, enyere m ndị Livayị iwu ka ha doo onwe ha ọcha, nọọkwa na nche nʼọnụ ụzọ ama, ịhụ na onye ọbụla doro ụbọchị izuike nsọ.",
+          {
+            "lineBreak": true
+          },
+          "Chineke m, biko, cheta m nʼihi ihe ọma ndị a niile, nwee amara nʼebe m nọ, dịka ịba ụba nke obi ebere gị si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọzọ, nʼụbọchị ndị ahụ a hụrụ m ndị ikom Juda ndị lụtara ndị inyom site nʼetiti ndị Ashdọd, na ndị Amọn, na ndị Moab,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "chọpụtakwa na ọkara nʼetiti ụmụ ha na-asụ naanị asụsụ ndị Ashdọd, maọbụ otu asụsụ nke ndị mba ọzọ, ma ha amaghị asụsụ Juda ma ọlị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ya mere, abaara m ha mba, bụkwaa ha ọnụ. Ụfọdụ ha ka m tiri ihe, dọọkwa ha nʼagịrị isi. Emesịa, emere m ka ha ṅụọ iyi nʼaha Chineke si: “Unu agaghị ekwekwa ka ụmụ ndị ikom na ndị inyom unu lụọ ndị mba ọzọ ma unu onwe unu agakwaghị alụtara ụmụ unu, maọbụ onwe unu, ndị inyom ndị mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ọ bụghị ọlụlụ di na nwunye dị otu a wetara ọdịda Solomọn? O nweghị eze ọzọ dị na mba ọbụla a pụrụ iji tụnyere Solomọn, nʼihi na Chineke ya hụrụ ya nʼanya mee ya eze ndị Izrel niile. Ma ọ bụ ndị nwunye mba ọzọ ọ lụrụ dubara ya na mmehie ikpere arụsị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ugbu a, ọ bụ ka anyị gere na ntị na unu onwe unu na-emekwa ajọ ihe dị otu a, na unu ekwesighị ntụkwasị obi nye Chineke anyị, site nʼịlụ ndị inyom ndị mba ọzọ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ya mere, esitere m nʼebe m nọ chụpụ otu nʼime ụmụ ndị ikom Joiada, nwa Eliashib, onyeisi nchụaja, onye bụ ọgọ Sanbalat onye Hor."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Cheta ha, Chineke m, nʼihi na ha merụrụ ọrụ nchụaja, na ọgbụgba ndụ ọrụ nchụaja, na nke ndị Livayị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ya mere, e doro m ndị nchụaja, na ndị Livayị ọcha, wezugakwa ihe ọbụla nke na-ekwesighị nʼebe ha nọ. E kenyere m ha ọrụ, onye ọbụla nʼije ozi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Emekwara m ka a na-ebubata nkụ nke ebe ịchụ aja nʼoge kwesiri, meekwa ka a na-ewebata onyinye mkpụrụ mbụ niile nʼoge ha.",
+          {
+            "lineBreak": true
+          },
+          "Cheta m Chineke, gosi m ihuọma gị."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1478,
+        "caller": "+",
+        "text": "Sairọs nyere onwe ya aha a, bụ Eze Babilọn, mgbe o meriri ndị Babilọn nʼagha.",
+        "reference": {
+          "chapter": 13,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EST/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

@@ -1,0 +1,378 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 77,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma nke dịrị onyeisi abụ. Maka Jedutun. Abụ nke Asaf. Abụ Ọma."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nkasiobi nʼoge nsogbu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Etikuru m Chineke nʼoke olu maka enyemaka;",
+            "poem": 1
+          },
+          {
+            "text": "etikuru m Chineke mkpu ka ọ nụrụ olu m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Mgbe m nọ nʼihe mgbu, ọ bụ Onyenwe anyị ka m chọrọ.",
+            "poem": 1
+          },
+          {
+            "text": "Nʼanyasị, esetipụrụ m aka m abụọ, ike na-agwụghị,",
+            "poem": 2
+          },
+          {
+            "text": "mmụọ m jụkwara ka a akasịe ya obi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "O Chineke, echetara m gị, sụkwaa ude;",
+            "poem": 1
+          },
+          {
+            "text": "echere m echiche, mkpụrụobi m dakwara mba. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "I kweghị ka anya m abụọ mechie;",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi oke mwute m, enweghị m ike kwuo okwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Echere m echiche banyere ụbọchị niile gara aga,",
+            "poem": 1
+          },
+          {
+            "text": "na afọ niile ndị gara aga.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Echetara m abụ niile m na-abụ nʼime anyasị.",
+            "poem": 1
+          },
+          {
+            "text": "Mkpụrụobi m nọ nʼọnọdụ ntụgharị uche, mmụọ m jụkwara ajụjụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "“Onyenwe anyị ọ ga-agbakụta m azụ ruo mgbe ebighị ebi?",
+            "poem": 1
+          },
+          {
+            "text": "Ọ pụtara na ọ gaghị egosi ihuọma ya ọzọ?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ọ pụtara na ịhụnanya ya nke na-adịgide ruo ebighị ebi agwụla?",
+            "poem": 1
+          },
+          {
+            "text": "Ọ pụtara na nkwa ya agaghị emezu ruo ebighị ebi?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Chineke, o chefuola i mere anyị ebere?",
+            "poem": 1
+          },
+          {
+            "text": "O jichiela ọmịiko ya nʼihi iwe?” Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Mgbe ahụ, ekwuru m, “Lee ọnọdụ ọjọọ m,",
+            "poem": 1
+          },
+          {
+            "text": "afọ niile mgbe Onye kachasị ihe niile elu setịpụrụ aka nri ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Aga m echeta ọrụ niile Onyenwe anyị rụrụ;",
+            "poem": 1
+          },
+          {
+            "text": "e, aga m echeta ihe ịrịbama niile i mere nʼoge gara aga.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Aga m atụgharịa uche m nʼọrụ gị niile,",
+            "poem": 1
+          },
+          {
+            "text": "tuleekwa ọrụ ukwuu gị niile dị iche iche.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "O Chineke, ụzọ gị niile dị nsọ.",
+            "poem": 1
+          },
+          {
+            "text": "Olee chi dị ukwuu dịka Chineke anyị?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Ị bụ Chineke onye na-arụ ọrụ ebube dị iche iche;",
+            "poem": 1
+          },
+          {
+            "text": "ị na-egosipụta ike gị nʼetiti ụmụ mmadụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "I ji aka gị dị ike gbapụta ndị gị,",
+            "poem": 1
+          },
+          {
+            "text": "bụ ụmụ ụmụ Jekọb na Josef. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Osimiri hụrụ gị, O Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "osimiri hụrụ gị, taa;",
+            "poem": 2
+          },
+          {
+            "text": "ogbu mmiri mere mkpọtụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Igwe ojii wụpụrụ mmiri,",
+            "poem": 1
+          },
+          {
+            "text": "mkpọtụ egbe eluigwe jupụtara mbara eluigwe;",
+            "poem": 2
+          },
+          {
+            "text": "àkụ gị gburu amụma ebe niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "A nụrụ ụda egbe eluigwe gị nʼoke ifufe,",
+            "poem": 1
+          },
+          {
+            "text": "amụma gị nyere ụwa niile ihe;",
+            "poem": 2
+          },
+          {
+            "text": "elu ụwa niile mara jijiji, tụkwaa oke egwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Ọ bụ nʼosimiri ka nzọ ụkwụ gị gara,",
+            "poem": 1
+          },
+          {
+            "text": "ụzọ gị gara nʼetiti oke osimiri,",
+            "poem": 2
+          },
+          {
+            "text": "ọ bụ ezie na ahụghị m nzọ ụkwụ gị anya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "I sitere nʼaka Mosis na Erọn",
+            "poem": 1
+          },
+          {
+            "text": "duo ndị gị dịka igwe atụrụ.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/77.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/78.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/76.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

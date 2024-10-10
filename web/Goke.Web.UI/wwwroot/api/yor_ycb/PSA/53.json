@@ -1,0 +1,186 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 53,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Fún adarí orin. Gẹ́gẹ́ bí mahalati. Maskili ti Dafidi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Aṣiwèrè wí ní ọkàn rẹ̀ pé,",
+            "poem": 1
+          },
+          {
+            "text": "“Ọlọ́run kò sí.”",
+            "poem": 2
+          },
+          {
+            "text": "Wọ́n bàjẹ́, gbogbo ọ̀nà wọn sì burú;",
+            "poem": 1
+          },
+          {
+            "text": "kò sì ṣí ẹnìkan tí ń ṣe rere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ọlọ́run bojú wo ilẹ̀ láti ọ̀run",
+            "poem": 1
+          },
+          {
+            "text": "sórí àwọn ọmọ ènìyàn,",
+            "poem": 2
+          },
+          {
+            "text": "láti wò bóyá ẹnìkan wà, tí ó ní òye,",
+            "poem": 1
+          },
+          {
+            "text": "tí ó sì ń wá Ọlọ́run.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Gbogbo ènìyàn tí ó ti yí padà,",
+            "poem": 1
+          },
+          {
+            "text": "wọ́n ti parapọ̀ di ìbàjẹ́;",
+            "poem": 2
+          },
+          {
+            "text": "kò sí ẹnìkan tí ó ń ṣe rere, kò sí ẹnìkan.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ṣé àwọn oníṣẹ́ búburú kò ní ìmọ̀?",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Àwọn ẹni tí ń jẹ ènìyàn mi, bí ẹni jẹun",
+            "poem": 2
+          },
+          {
+            "text": "tí wọn kò sì pe Ọlọ́run?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Níbẹ̀ ni ìwọ gbé wà ní ìbẹ̀rù ńlá",
+            "poem": 1
+          },
+          {
+            "text": "níbi tí ẹ̀rù kò gbé sí,",
+            "poem": 2
+          },
+          {
+            "text": "nítorí Ọlọ́run tí fọ́n egungun àwọn tí ó dó tì ọ́ ká;",
+            "poem": 1
+          },
+          {
+            "text": "ìwọ tí dójútì wọ́n, nítorí Ọlọ́run ti kẹ́gàn wọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ìgbàlà Israẹli ìbá jáde wá láti Sioni!",
+            "poem": 1
+          },
+          {
+            "text": "Nígbà tí Ọlọ́run bá mú ohun ìní àwọn ènìyàn rẹ̀ padà,",
+            "poem": 2
+          },
+          {
+            "text": "jẹ́ kí Jakọbu yọ̀ kí inú Israẹli sì máa dùn!",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/53.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/54.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/PSA/52.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

@@ -1,0 +1,357 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 25,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ Ebraham"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ebraham lụrụ nwunye ọzọ, onye aha ya bụ Ketura."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ mụụrụ ya Zimran, Jokshan, Medan, Midian, Ishbak na Shua."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Jokshan bụ nna Sheba na Dedan. Ụmụ ndị ikom Dedan bụ Ashurim, Letushim, na Leumim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ụmụ ndị ikom Midian bụ Efaa, Efe, Hanok, Abida, na Eldaa. Ndị a niile bụ ụmụ Ketura."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ebraham nyere Aịzik ihe niile o nwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebraham nyere ụmụ ndị ikom ndị iko ya nwanyị mụtara onyinye dị iche iche, zipụ ha nʼala dị nʼebe ọwụwa anyanwụ, mgbe ọ ka nọ ndụ, ka ha ghara ịnọ nwa ya nwoke Aịzik nso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ebraham dị ndụ ruo narị afọ na iri afọ asaa na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ebraham kubiri ume ndụ nwụọ mgbe o mere nnọọ ezigbo agadi, agadi nwoke nke ndụ juru afọ, e mere ka ọ lakwuru ndị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụmụ ya, Aịzik na Ishmel, liri ya nʼọgba Makipela nʼakụkụ Mamre, nʼala ubi Efrọn nwa Zoha onye Het,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "ala ahụ Ebraham zụrụ site nʼaka ndị Het. Ebe ahụ ka e liri Ebraham ya na Sera nwunye ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe Ebraham nwụrụ, Chineke gọziri nwa ya nwoke Aịzik onye bi nʼoge ahụ na nso nso Bịa-Lahai-Rọị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ụmụ Ishmel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro ezinaụlọ Ishmel nwa Ebraham onye Hega, nwanyị Ijipt ahụ na-ejere Sera ozi mụụrụ ya."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Ishmel nʼusoro ọmụmụ ha.",
+          {
+            "lineBreak": true
+          },
+          "Nebaiot bụ nwa mbụ ya. Ndị ọzọ bụ Keda, Adbel, Mibsam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mishma, Duma, Masa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Hadad, Tema, Jetua, Nafish na Kedema."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị a bụ ụmụ Ishmel, ndị a bụkwa aha ndịisi ikwu iri na abụọ ha, dịka ebe obibi ha si dị, na dịka ọmụma ụlọ ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ishmel biri ndụ ruo narị afọ na iri afọ na asaa. Ọ nwụrụ, e mere ka ọ lakwuru ndị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ụmụ ụmụ ya bi nʼala dị site na Havila ruo Shua nso nso oke ala ndị Ijipt, nʼụzọ e si aga Ashọ. Ha na ụmụnna ha ndị ọzọ ebighị nʼudo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb na Ịsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro agbụrụ Aịzik nwa Ebraham.",
+          {
+            "lineBreak": true
+          },
+          "Ebraham bụ nna Aịzik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Aịzik gbara iri afọ anọ mgbe ọ lụrụ Ribeka, nwa Betuel, onye Aram si nʼobodo Padan Aram, nwanne Leban, onye Aram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Aịzik kpere ekpere rịọọ Onyenwe anyị ka o nye nwunye ya nwa nʼihi na ọ bụ nwanyị aga. Onyenwe anyị zara ekpere ya. Nwunye ya, Ribeka dịịrị ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ụmụ o bu nʼafọ bidoro na-alụ ọgụ nʼime afọ ya. Nʼihi nke a, o kwuru sị, “Gịnị mere ihe dị otu a ji eme m?” Ya mere, ọ gara jụta ase nʼaka Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Onyenwe anyị gwara ya sị,",
+          {
+            "text": "“Mba abụọ dị gị nʼafọ,",
+            "poem": 1
+          },
+          {
+            "text": "ụzọ mba abụọ dị nʼime gị ka a ga-ekewa.",
+            "poem": 2
+          },
+          {
+            "text": "Otu ụzọ ga-adị ike karịa nke ọzọ,",
+            "poem": 1
+          },
+          {
+            "text": "nke okenye ga-ejere nke nta ozi.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe oge ime ya zuru, ụmụ abụọ dị nʼakpanwa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ahụ nwa nke mbụ buru ụzọ pụta na-acha uhie uhie, ahụ ya niile dịka uwe ajị. Nʼihi ya, ha kpọrọ aha ya Ịsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Emesịa, nwanne ya pụtara, ma aka ya jidere ikiri ụkwụ Ịsọ. Nʼihi ya, a kpọrọ aha ya Jekọb. Aịzik gbara iri afọ isii mgbe Ribeka mụrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ha abụọ toro, Ịsọ ghọrọ onye ọka nʼịchụ nta, onye na-epiogharị nʼọhịa, ebe Jekọb bụ nwoke dị nwayọọ, onye na-anọ nʼetiti ụlọ ikwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Aịzik hụrụ Ịsọ nʼanya nʼihi na ụtọ anụ Ịsọ na-egbute nʼọhịa na-adị ya mma, ma Ribeka hụrụ Jekọb nʼanya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịsọ eree ọnọdụ ọkpara ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Otu ụbọchị, Jekọb nọ na-esi ofe mgbe Ịsọ si nʼọhịa bata. Agụụ na-agụkwa ya nke ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ịsọ rịọrọ Jekọb sị, “Nyetụ m ụfọdụ nʼime nri a na-acha uhie uhie ị na-esi ka m rie, nʼihi na agụụ na-agụ m hie nne.” (Ọ bụ ihe a mere e ji na-akpọ ya Edọm.",
+          {
+            "noteId": 723
+          },
+          ")"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma Jekọb zara ya, “Buru ụzọ resi m ọnọdụ ịbụ ọkpara gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ịsọ sịrị, “Gịnị bụ uru ọnọdụ ịbụ ọkpara bara mgbe m na-anwụ nʼagụụ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Jekọb sịrị ya, “Buru ụzọ ṅụọrọ m iyi.” Ya mere, ọ ṅụụrụ ya iyi, sị otu a resi Jekọb ọnọdụ ọkpara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe ahụ, Jekọb nyere Ịsọ achịcha na ofe lentil o siri. O riri, ṅụọkwa, bilie ọtọ pụọ. Ya mere Ịsọ ledara ọnọdụ ịbụ ọkpara nna ya anya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 723,
+        "caller": "+",
+        "text": "Edọm pụtara uhie.",
+        "reference": {
+          "chapter": 25,
+          "verse": 30
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/25.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/26.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/24.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

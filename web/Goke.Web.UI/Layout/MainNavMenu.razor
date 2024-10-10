@@ -1,0 +1,145 @@
+﻿@implements IDisposable
+
+@inject NavigationManager NavigationManager
+
+<header>
+    <nav class="primary-navigation flex">
+        <a href="/">
+            <div class="logo"><span class="icon">LOGO</span></div>
+        </a>
+        <input type="checkbox" class="navbar-controller navbar-controller-checkbox" name="navbar-controller"
+               id="navbar-controller">
+        <label class="navbar-controller navbar-controller-label" for="navbar-controller">
+            <span class="icon"></span>
+        </label>
+
+        <ul class="primary-nav-list flex">
+            <li>
+                <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                    <span class="nav-item-wrapper">
+                        <span class="icon">🏡</span>
+                        <span class="nav-item-text">
+                            Home
+                        </span>
+                    </span>
+                </NavLink>
+            </li>
+            <li>
+                <NavLink class="nav-link" href="bible">
+                    <span class="nav-item-wrapper">
+                        <span class="icon">
+                            <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                <use xlink:href="sprites.svg#book-bible-solid"></use>
+                            </svg>
+                        </span><span class="nav-item-text">
+                            Bible
+                        </span>
+                    </span>
+                </NavLink>
+            </li>
+            <ProductNavMenu />
+            <li>
+                <NavLink class="nav-link" href="blogs">
+                    <span class="nav-item-wrapper">
+                        <span class="icon">
+                            <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                <use xlink:href="sprites.svg#blog-solid"></use>
+                            </svg>
+                        </span>
+                        <span class="nav-item-text">
+                            Blogs
+                        </span>
+                    </span>
+                </NavLink>
+            </li>
+
+            <GameNavMenu />
+            
+            <UxNavMenu />
+
+            @* <li class="dropdown">
+                <a href="#" disabled>
+                    Account
+                    <svg class="icon">
+                        <use xlink:href="sprites.svg#caret-down-solid"></use>
+                    </svg>
+                </a>
+                
+                <ul class="dropdown-list">
+                    <AuthorizeView>
+                        <Authorized>
+                            <li>
+                                <NavLink class="nav-link" href="Account/Manage">
+                                    @context.User.Identity?.Name
+                                </NavLink>
+                            </li>
+                            <li>
+                                <form action="Account/Logout" method="post">
+                                    <AntiforgeryToken />
+                                    <input type="hidden" name="ReturnUrl" value="@currentUrl" />
+                                    <button type="submit" class="nav-link">
+                                        Logout
+                                    </button>
+                                </form>
+                            </li>
+                        </Authorized>
+                        <NotAuthorized>
+                            <li>
+                                <NavLink class="nav-link" href="Account/Register">
+                                    Register
+                                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink class="nav-link" href="Account/Register">
+                                    <span class="nav-item-wrapper">
+                                        <span class="icon">
+                                            <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                                <use xlink:href="sprites.svg#id-card-solid"></use>
+                                            </svg>
+                                        </span>
+                                        <span class="nav-item-text">
+                                            Register
+                                        </span>
+                                    </span>
+                                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink class="nav-link" href="Account/Login">
+                                    Login
+                                </NavLink>
+                            </li>
+                        </NotAuthorized>
+                    </AuthorizeView>
+                </ul>
+            </li> *@
+
+            <AccountNavMenu CurrentUrl="@currentUrl" />
+
+        </ul>
+    </nav>
+</header>
+
+@code {
+    string popStyle = "pop-down";
+    string navOrientation = "Horizontal";
+
+    private string? currentUrl;
+
+    protected override void OnInitialized()
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        NavigationManager.LocationChanged += OnLocationChanged;
+    }
+
+    private void OnLocationChanged(object? sender, LocationChangedEventArgs e)
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(e.Location);
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        NavigationManager.LocationChanged -= OnLocationChanged;
+    }
+}
+

@@ -1,0 +1,310 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 29,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Ijipt"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe ọmụma dịrị Fero"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼafọ nke iri, nʼọnwa nke iri, nʼụbọchị nke iri na abụọ, okwu nke Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nwa nke mmadụ, chee ihu gị nʼIjipt buo amụma megide Fero bụ eze Ijipt, na ala Ijipt niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Gwa ya okwu, sị, ‘Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị sịrị:",
+          {
+            "text": "“ ‘Lee, mụ onwe m na-emegide gị, Fero eze Ijipt,",
+            "poem": 1
+          },
+          {
+            "text": "gị onye bụ ogologo anụ ọjọọ ahụ na-amakpu nʼetiti mmiri iyi.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ị sịrị, “Ọ bụ m nwe Naịl,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụkwa mụ onwe m mere ya nye onwe m.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ma aga m etinye nko nʼagba gị,",
+            "poem": 1
+          },
+          {
+            "text": "mee ka azụ niile nke iyi gị niile rapara nʼakpịrịkpa gị.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m adọpụta gị site nʼetiti iyi gị niile,",
+            "poem": 1
+          },
+          {
+            "text": "mee ka azụ niile rapara nʼakpịrịkpa gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Aga m ahapụ gị",
+            "poem": 1
+          },
+          {
+            "text": "na azụ niile nke osimiri iyi gị nʼọzara,",
+            "poem": 2
+          },
+          {
+            "text": "ebe ahụ ka unu ga-anọ nwụọ nʼala ubi,",
+            "poem": 1
+          },
+          {
+            "text": "a gaghị eli unu eli maọbụ tụtụọ unu,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na emeela m ka unu bụrụ nri",
+            "poem": 1
+          },
+          {
+            "text": "nye anụ ọhịa niile, na nnụnụ niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, ndị niile bi nʼIjipt ga-amata na mụ onwe m bụ Onyenwe anyị.",
+          {
+            "lineBreak": true
+          },
+          "“ ‘Ị dịrịla ka mkpanaka achara nʼebe ụlọ Izrel nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ha jidere gị nʼaka, ị nyajiri dọwaa ha ubu ha. Mgbe ha dabeere na gị, ị gbajiri mee ka ha ghara inwekwa ike iguzosi ike nʼụkwụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“ ‘Nʼihi ya, otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Lee, aga m eme ka mma agha bịakwasị gị, aga m ebipụkwa mmadụ na anụmanụ niile dị nʼime gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ala Ijipt ga-aghọ ebe tọgbọrọ nʼefu; ha ga-amatakwa na mụ onwe m bụ Onyenwe anyị. “ ‘Nʼihi na ị sịrị, “Osimiri Naịl bụ nke m. Ọ bụ m kere ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi ya, aga m edo onwe m megide gị, megidekwa osimiri gị. Aga m ala Ijipt niile nʼiyi site na Migdol ruo Aswan, ruokwa nʼoke ala ha na ndị Kush.",
+          {
+            "noteId": 631
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ dịghị ụkwụ anụmanụ maọbụ mmadụ ga-agafe nʼime ya, agaghị ebikwa nʼime ya ruo mgbe iri afọ anọ gasịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Aga m emekwa ka ala Ijipt bụrụ ebe tọgbọrọ nʼefu nʼetiti mkpọmkpọ ala niile, obodo ya niile ga-atọgbọrọ nʼefu iri afọ anọ nʼetiti obodo ndị e mere ka ha laa nʼiyi. Aga m achụsasị ndị Ijipt nʼetiti mba niile, fesaa ha nʼala niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "“ ‘Ọzọkwa, Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị sịrị, nʼọgwụgwụ iri afọ anọ ahụ, aga m achịkọtakwa ndị Ijipt site nʼebe niile ha gbasara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Aga m emekwa ka ndị ya niile laghachi nʼala Patros, ala ebe a mụrụ ha. Ma Ijipt agaghị abụkwa alaeze a maara nke ọma ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ ga-abụ alaeze dị nnọọ ala karịa alaeze niile. Ọ dịkwaghị mgbe ọzọ ọ ga-eweli onwe ya elu karịa mba ọzọ niile. Aga m emekwa ka ha dị nta, nke ha agaghị inwe ike achịkwa mba niile ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ijipt agaghị abụkwara ụlọ Izrel ihe ntụkwasị obi, kama ọ ga-abụrụ ha ihe iji cheta mmehie ha mere mgbe ha lere anya enyemaka site nʼaka ya. Mgbe ahụ, ha ga-amata na mụ onwe m bụ Onye kachasị ihe niile elu, bụ",
+          {
+            "noteId": 632
+          },
+          "Onyenwe anyị.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụgwọ ọrụ Nebukadneza"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọ ruo, nʼiri afọ abụọ na asaa, nʼọnwa mbụ, nʼụbọchị nke mbụ, ka okwu nke Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "“Nwa nke mmadụ, Nebukadneza bụ eze Babilọn mere ka ndị agha ya lụsoo Taịa ọgụ nʼebe ọ dị ukwuu. Isi niile ọbụla ka e mere ka ọ kwọchasịa, ubu niile kwa echihịara echihịa. Ma ya na ndị agha ya anataghị ụgwọ ọrụ ọbụla, nʼagha ahụ o buru megide Taịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi nke a, Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu sị: Lee, ana m aga inye Nebukadneza eze Babilọn ala Ijipt. Ọ ga-akwakọrọ akụnụba ya, ọ ga-azacha ma bukọrọkwa ihe niile nke dị nʼala ahụ. Ha ga-abụkwa ụgwọ ọrụ nke ndị agha ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Enyefeela m ala Ijipt nʼaka ya, ka ọ bụrụ ụgwọ ọrụ nʼihi ọrụ ya, nʼihi na ya na ndị agha ya rụụrụ m ya. Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "“Nʼụbọchị ahụ, aga m eme ka otu mpi",
+          {
+            "noteId": 633
+          },
+          "puputara ụlọ Izrel. Aga m asaghekwa ọnụ gị nʼetiti ha. Mgbe ahụ, ha ga-amata na mụ onwe m bụ Onyenwe anyị.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 631,
+        "caller": "+",
+        "text": "Ya bụ, mgbago Naịl",
+        "reference": {
+          "chapter": 29,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 632,
+        "caller": "+",
+        "text": "Maọbụ, Onyenwe ha",
+        "reference": {
+          "chapter": 29,
+          "verse": 16
+        }
+      },
+      {
+        "noteId": 633,
+        "caller": "+",
+        "text": "Mpi Nʼebe a na-egosipụta ịdị ike",
+        "reference": {
+          "chapter": 29,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/29.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/30.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/28.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

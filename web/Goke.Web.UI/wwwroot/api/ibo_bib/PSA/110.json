@@ -1,0 +1,211 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 110,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma Devid."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Onyenwe anyị na onye ya o tere mmanụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Onyenwe anyị gwara Onyenwe m okwu sị ya:",
+            "poem": 1
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "“Nọdụ ala nʼaka nri m",
+            "poem": 1
+          },
+          {
+            "text": "ruo mgbe m ga-eme ndị iro gị",
+            "poem": 2
+          },
+          {
+            "text": "ihe mgbakwasị ụkwụ nye ụkwụ gị.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1679
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Onyenwe anyị ga-eme ka ike ọchịchị gị site na Zayọn ruo ala ndị ọzọ;",
+            "poem": 1
+          },
+          {
+            "text": "ị ga-achị nʼetiti ndị iro gị niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Nʼụbọchị ị ga-ebu agha,",
+            "poem": 1
+          },
+          {
+            "text": "ndị agha gị niile ga-ahọrọ nʼonwe ha i soro gị.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị yikwasịrị ịma mma nke ịdị nsọ ka uwe,",
+            "poem": 1
+          },
+          {
+            "text": "bụ ụmụ okorobịa gị ga-abịakwute gị",
+            "poem": 2
+          },
+          {
+            "text": "dịka igirigi site nʼafọ ụtụtụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Onyenwe anyị aṅụọla iyi,",
+            "poem": 1
+          },
+          {
+            "text": "ọ gaghị agbanwe uche ya:",
+            "poem": 2
+          },
+          {
+            "text": "“Gị onwe gị bụ onye nchụaja ruo mgbe ebighị ebi,",
+            "poem": 1
+          },
+          {
+            "text": "nʼusoro Melkizedek.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Onyenwe anyị nọ nʼaka nri gị.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga-egwepịa ndị eze nʼụbọchị oke iwe ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ọ ga-ekpe mba niile ikpe, na-atụkọta ndị nwụrụ anwụ,",
+            "poem": 1
+          },
+          {
+            "text": "ma gwepịa ndị na-achị achị nʼelu ụwa niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọ ga-aṅụ mmiri site nʼiyi nta nke dị nʼakụkụ ụzọ;",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi nke a, ọ ga-eweli isi ya elu.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1679,
+        "caller": "+",
+        "text": "Nʼoge ochie, a na-arụ ocheeze nʼebe dị elu, ma nwee ihe nrigo e ji arịgoru ya. Mgbe ahụ, ndị eze na-achịkwasa ụkwụ ha nʼolu ndị ha meriri nʼagha, Mat 22:44; Mak 12:36; Luk 20:42-43; Hib 1:13; 1Kọ 15:25.",
+        "reference": {
+          "chapter": 110,
+          "verse": 1
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/110.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/111.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/109.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

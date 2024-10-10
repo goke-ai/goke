@@ -1,0 +1,327 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ECC",
+    "translationId": "ibo_bib",
+    "name": "Ekiliziastis",
+    "commonName": "Ekiliziastis",
+    "title": "Ekiliziastis",
+    "order": 21,
+    "numberOfChapters": 12,
+    "sha256": "e680581da4ea021781abce48114534bfd7337fba0b6a762fbda0d2fc1c83f5f2",
+    "firstChapterApiLink": "/api/ibo_bib/ECC/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ECC/12.json",
+    "totalNumberOfVerses": 222
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ihe niile nwere oge"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ihe ọbụla nwere oge;",
+            "poem": 1
+          },
+          {
+            "text": "mgbe dịkwara ihe ọbụla a na-eme eme nʼeluigwe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Oge ịmụ nwa na oge ịnwụ anwụ,",
+            "poem": 2
+          },
+          {
+            "text": "oge ịkụ ihe na oge ihopu,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "oge igbu egbu; na oge ịgwọ ọrịa,",
+            "poem": 2
+          },
+          {
+            "text": "oge itikpọ na oge iwuzi ewuzi,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "oge ịkwa akwa, na oge ịchị ọchị,",
+            "poem": 2
+          },
+          {
+            "noteId": 504
+          },
+          {
+            "text": "oge iru ụjụ na oge ite egwu,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "oge ikposa nkume na oge ịchịkọta nkume,",
+            "poem": 2
+          },
+          {
+            "text": "oge ịbakụ na oge ịkwụsị ịbakụ,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "oge ịchọ ihe, na oge ntufu,",
+            "poem": 2
+          },
+          {
+            "text": "oge ịchịkọba, na oge ichifusi,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "oge ndọwasị, na oge ndụkọta,",
+            "poem": 2
+          },
+          {
+            "text": "oge ịgba nkịtị, na oge ikwu okwu,",
+            "poem": 2
+          },
+          {
+            "noteId": 505
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "oge ịhụnanya na oge ịkpọ asị,",
+            "poem": 2
+          },
+          {
+            "text": "oge ibu agha, na oge ime udo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gịnị bụ nnọọ ihe mmadụ na-enweta site na ndọgbu niile nke nʼọrụ niile ọ na-arụ?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ahụla m ibu arọ nke Chineke bokwasịrị ndị mmadụ e kere eke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "O meela ka ihe niile maa mma nʼoge nke ya. O tinyekwala ebighị ebi nʼime obi ndị mmadụ; ma o nweghị ka mmadụ ghọta ọrụ Chineke site na mmalite ruo nʼọgwụgwụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼihi ya, ekpebiri m na ihe dịịrị mmadụ ịchọ bụ obi ụtọ na inwe aṅụrị na ndụ ya niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ihe ọzọ bụ ka mmadụ rie, ṅụọ, ma nwee afọ ojuju na ndọgbu niile ọ na-adọgbu onwe ya, nʼihi na ha bụ onyinye si nʼaka Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Amaara m na ihe niile Chineke mere na-adịgidekwa. O nweghị ihe apụrụ itinye na ya, o nweghịkwa ihe apụrụ iwepụkwa site na ya. Chineke na-eme nke a ka ndị mmadụ tụọ egwu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Ihe ọbụla dị ugbu a, adịlarị na mgbe ochie,",
+            "poem": 1
+          },
+          {
+            "text": "ihe ọbụla gaje ịdị dịlarị na mbụ.",
+            "poem": 2
+          },
+          {
+            "text": "Chineke na-eme ka ihe niile mere na mgbe gara aga megharịakwa ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọzọkwa, achọpụtara m otu ihe nʼokpuru anyanwụ,",
+          {
+            "text": "na ọnọdụ ezi ikpe naanị mmebi iwu jupụtara,",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe e kwesiri inwe ikpe ziri ezi ị ga-achọpụta na ihe ọjọọ dịkwa ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "A gwara m onwe m,",
+          {
+            "text": "“Chineke ga-ekpe,",
+            "poem": 1
+          },
+          {
+            "text": "ndị ezi omume na ndị ajọ omume ikpe,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na a ga-enwe oge maka ihe ọbụla a na-eme eme,",
+            "poem": 1
+          },
+          {
+            "text": "oge dịkwa maka ikpe ọrụ niile nke mmadụ ikpe.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Echere m nʼobi sị, “Ebe mmadụ nọ, Chineke na-anwale ya, ka mmadụ mata na ha dị ka anụmanụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi na ihe na-eche mmadụ na anụmanụ bụ otu. Ha abụọ na-eku ume, ha abụọ na-anwụkwa anwụ. Ọ dịghị ihe mmadụ ji karịa anụmanụ. Ihe niile bụ ihe efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ha niile na-alaghachi nʼotu ebe; ọ bụ nʼaja ka ha si pụta, ebe ahụ kwa ka ha ga-alaghachi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Onye pụrụ iguzo gbaa akaebe na mmụọ mmadụ na-ala nʼelu ma nke anụmanụ na-ala nʼaja?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nʼihi ya, ahụrụ m na ọ dịghị ihe ọzọ ụmụ mmadụ kwesiri ime karịakwa inwe ọṅụ nʼọrụ ha, nʼihi na nke ahụ bụ oke ha nʼebe a. Onye ga-eme ka ha bịaghachi hụ ihe ga-eme nʼazụ ha?"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 504,
+        "caller": "+",
+        "text": "Rom 12:15",
+        "reference": {
+          "chapter": 3,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 505,
+        "caller": "+",
+        "text": "Ems 5:13; Ilu 25:11",
+        "reference": {
+          "chapter": 3,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ECC/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ECC/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ECC/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

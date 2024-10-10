@@ -1,0 +1,237 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "ibo_bib",
+    "name": "Ndị Ikpe",
+    "commonName": "Ndị Ikpe",
+    "title": "Ndị Ikpe",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "95a9df0a510a3a753ad4f2c854a524222839cc364d9faaaefaf342ef3795e4ed",
+    "firstChapterApiLink": "/api/ibo_bib/JDG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JDG/21.json",
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Samsin egbuo ndị Filistia"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe oge nta gasịrị, nʼoge owuwe ihe ubi, mgbe a na-aghọ ọka, Samsin weere nwa ewu",
+          {
+            "noteId": 983
+          },
+          "nta, gaa ileta nwunye ya. O gwara nna nwunye ya sị, “Ana m aga nʼọnụụlọ nwunye m.” Ma nna nwunye ya ekweghị ka ọ banye."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nna ya sịrị, “O doro m anya na ị kpọrọ nwa m nwanyị asị, ọ bụ nʼihi nke a ka m jiri kenye ya enyi gị nwoke ka ọ bụrụ nwunye ya. Nwanne ya nwanyị nke nta, ọ maghị mma karịa ya? Kpọrọ ya ka ọ nọchie anya ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Samsin sịrị ha, “Nʼoge a, o ziri m ezi ị bọkwara ọbọ nʼebe ndị Filistia nọ.” Aghaghị m imesi ha ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere, Samsin pụrụ gaa jide narị nkịta ọhịa atọ, wetakwa ọwa ụfọdụ. O kekọtara ọdụdụ ha abụọ abụọ. O kenyere ọwa nʼagbata otu nkịta ọhịa na ibe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Emesịa, ọ mụnyere ọkụ nʼọwa ahụ niile. O mekwara ka nkịta ọhịa ndị ahụ dọkpụrụ ọwa a mụnyere ọkụ baa nʼubi ọka ndị Filistia, si otu a rechapụ ọka niile guzoro eguzo nʼubi, na ubi vaịnị niile, ha na osisi oliv niile ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ndị Filistia chọpụtara ihe mere, ha jụrụ sị, “Onye mere ihe dị otu a?” A gwara ha, “Ọ bụ Samsin ọgọ onye Timna, nʼihi na a kpọnyere enyi ya nwunye ya.” Nʼihi nke a, ndị Filistia niile zukọtara kpọpụta nwaagbọghọ ahụ na nna ya kpọọ ha ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma Samsin gwara ha okwu sị, “Ebe ọ bụ na unu mere ihe dị otu a, agaghị akwụsị tutu m bọrọ ọbọ ihe ọjọọ unu mere.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ya mere, ọ pụkwuru ha ọzọ, site nʼoke iwe, gbuo ọtụtụ mmadụ nʼime ha. Mgbe nke a gasịrị, ọ gara biri nʼime otu ọgba nkume nke Etam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị Filistia gara maa ụlọ ikwu ha nʼala Juda, gbasaa nʼala ahụ ruo obodo Lehi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ndị Juda jụrụ ajụjụ sị ha; “Ọ bụ gịnị mere unu ji bịa nʼebe a ibuso anyị agha?” Ha zara sị, “Anyị na-achọ ijide Samsin, ka anyị megwara ya ihe ọjọọ o mere anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi nke a, ndị Juda zipụrụ puku ndị agha ka ha gaa jide Samsin nʼọgba nkume ahụ nke Etam. Ndị a bịara jụọ Samsin ajụjụ sị ya, “Gịnị bụ ihe a i mere anyị? Ọ bụ na ị maghị na ndị Filistia na-achị obodo anyị?”",
+          {
+            "noteId": 984
+          },
+          "Samsin zara sị ha, “Ihe m mere bụ imegwata ha ihe ha mere m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ha sịrị ya, “Anyị abịala ka anyị kee gị agbụ, dọkpụrụ gị, nye nʼaka ndị Filistia.” Samsin sịrị ha, “Ṅụọrọnụ m iyi na unu agaghị eji aka unu gbuo m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ha zara sị ya, “Anyị agaghị egbu gị kama anyị ga-eke gị agbụ.” Ya mere, ha kere ya agbụ, duru ya jekwuru ndị Filistia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ọ na-abịaru Lehi, ndị Filistia tiiri mkpu, bịa izute ya. Mmụọ Onyenwe anyị bịakwasịrị Samsin nʼebe ọ dị ukwuu. Nke a mere ka eriri ahụ e kere ya nʼaka dịrị ka eriri ogho flakisi erere ọkụ, sitekwa nʼaka ya dapụsịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ahụ Samsin lere anya gburugburu, hụ ọkpụkpụ agba ịnyịnya ibu nke tọgbọrọ nʼala nʼebe ahụ. Ọ tụtụlitere ya, were ya tigbuo puku ndị agha Filistia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ahụ, Samsin kwuru sị,",
+          {
+            "text": "“E ji m agba ịnyịnya ibu",
+            "poem": 1
+          },
+          {
+            "text": "mee ka ha dị ka ịnyịnya ibu.",
+            "poem": 2
+          },
+          {
+            "text": "E ji m agba ịnyịnya ibu",
+            "poem": 1
+          },
+          {
+            "text": "tigbuo puku ndị ikom.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe o kwuchara ihe ndị a, o tufuru ọkpụkpụ agba ịnyịnya ibu ahụ; a kpọkwara ebe ahụ Ramat Lehi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼoge a, akpịrị kpọrọ Samsin nkụ nke ukwuu, nʼihi ya, ọ kpọkuru Onyenwe anyị nʼekpere sị, “Lee, i nyela ohu gị mmeri a dị ukwuu! Ma ugbu a, ị ga-ekwe ka m nwụọ nʼihi akpịrị ịkpọ nku, si otu a daba nʼaka ndị a na-ebighị ugwu?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Chineke gbawara olulu ahụ nke dị nʼime Lehi, mee ka mmiri si na ya nupụta. Mgbe Samsin ṅụrụ mmiri ahụ, ike ya lọghachiri, mmụọ ya bịaghachikwara. Ya mere, a kpọrọ isi iyi ahụ En-Hakkore. Mmiri ala ahụ ka dịkwa na Lehi nʼebe ahụ ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ya mere, Samsin kpere ụmụ Izrel ikpe iri afọ abụọ nʼoge ndị Filistia."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 983,
+        "caller": "+",
+        "text": "Mgbe nwoke lụrụ nwanyị, ọ bụrụ na nna nwanyị dị otu a a naraghị ego isi akụ, ọ bụ onyinye nwa ewu nta ka ọ ga-ewegara nwunye ya ahụ, mgbe ọbụla ọ gara ihu ya. Nwanyị ahụ ga-ebikwa nʼụlọ nna ya, nʼihi na nna ya a naghị ego akụ nʼisi ya. Ma mgbe ọbụla di nwanyị ahụ ga-abịa, ọ ga-ewetara ọgọ ya ọtụtụ onyinye. Nwa ewu nta bụ onyinye onye ọbụla na-enye nʼoge ahụ. Jen 38:17",
+        "reference": {
+          "chapter": 15,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 984,
+        "caller": "+",
+        "text": "Lev 26:25; Dit 28:43; Nkp 13:1; 14:4; Abụ 106:40-42",
+        "reference": {
+          "chapter": 15,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JDG/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JDG/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JDG/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

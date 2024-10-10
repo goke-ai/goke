@@ -1,0 +1,442 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NEH",
+    "translationId": "ibo_bib",
+    "name": "Nehemaya",
+    "commonName": "Nehemaya",
+    "title": "Nehemaya",
+    "order": 16,
+    "numberOfChapters": 13,
+    "sha256": "f5474025f162a6836ee393d615fc6fa480850fb15d27a5f8bddf2b02c6bf8a64",
+    "firstChapterApiLink": "/api/ibo_bib/NEH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NEH/13.json",
+    "totalNumberOfVerses": 406
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị nchụaja na ndị Livayị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ ndị nchụaja na ndị Livayị ndị so Zerubabel nwa Shealtiel na Jeshua lọta.",
+          {
+            "lineBreak": true
+          },
+          "Seraya, Jeremaya, Ezra,",
+          {
+            "noteId": 1476
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Amaraya, Maluk, Hatush,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Shekanaya, Rehum, Meremot,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ido, Gineton, Abija"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mijamin, Maadaya, Bilga,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Shemaya, Joiarib, Jedaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Salu, Amok, Hilkaya na Jedaya.",
+          {
+            "lineBreak": true
+          },
+          "Ndị a niile bụ ndị ndu ndị nchụaja na ndị na-enyere ndị ndụ aka nʼụbọchị Jeshua."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị Livayị so ha bụ ndị a: Jeshua, Binui, Kadmiel, Sherebaya, Juda nakwa Matanaya, onye ya na ndị otu ya na-elekọta ofufe ekele."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Bakbukaya, na Unni, ndị otu ha nọ na ncherita ihu nʼofufe ahụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jeshua mụrụ Joiakim, Joiakim mụrụ Eliashib, Eliashib mụrụ Joiada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Joiada mụrụ Jonatan, ebe Jonatan mụrụ Jadua."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ndị a bụ ndịisi ikwu ndị nchụaja nʼoge ndụ Joiakim.",
+          {
+            "lineBreak": true
+          },
+          "Meraia bụ onyeisi ụmụ Seraya, Hananaya bụ onyeisi ụmụ Jeremaya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Meshulam bụ onyeisi ụmụ Ezra, Jehohanan, onyeisi ụmụ Amaraya;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Jonatan, onyeisi ụmụ Maluk; Josef bụ onyeisi ụmụ Shekanaya",
+          {
+            "noteId": 1477
+          },
+          ";"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "nke Harim, Adna, nke Meremot, Helkai;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zekaraya, onyeisi ụmụ Ido; Meshulam, onyeisi ụmụ Gineton"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Zikri, onyeisi ụmụ Abija; Piltai, onyeisi ụmụ Modaya na Miniamin"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Shamua, onyeisi ụmụ Bilga, Jehonatan, onyeisi ụmụ Shemaya;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Matenai, onyeisi ụmụ Joiarib; Uzi, onyeisi ụmụ Jedaya;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Kalai, onyeisi ụmụ Salu; Eba, onyeisi ụmụ Amok,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Hashabaya, onyeisi ụmụ Hilkaya; Netanel, onyeisi ndị Jedaya."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "E dekọtara aha ndịisi ezinaụlọ ndị Livayị niile nʼụbọchị Eliashib, Joiada, Johanan na Jadua, nakwa nke ndị nchụaja nʼakwụkwọ nʼoge ọchịchị Daraiọs bụ eze Peshịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "E dekwara aha ndịisi ndị Livayị niile nʼakwụkwọ tutu ruo nʼoge Johanan nwa Eliashib dị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ndị a bụ ndịisi ndị Livayị nʼoge ahụ: Hashabaya, Sherebaya, Jeshua, nwa Kadmiel na ndị otu ha. Ha kere onwe ha ụzọ abụọ. Ụzọ abụọ ndị a na-eguzokwa na-eche ibe ha ihu mgbe ọbụla ha na-abụku Chineke abụ otuto na ekele. Otu ụzọ na-amalite nke ọzọ azaghachi, dịka Devid onye nke Chineke si nye ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị nche na-eche ọnụ ụzọ ụlọ ịchịkọba ihe nke ụlọnsọ bụ ndị a: Matanaya, Bakbukaya, Ọbadaya, Meshulam, Talmon na Akub."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ha jere ozi ha nʼoge Joiakim nwa Jeshua, nwa Jozadak, dị ndụ, na nʼoge Nehemaya bụ onyeisi ọchịchị, na nʼoge Ezra bụkwa onye nchụaja, na onye nkuzi okwu Chineke."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ido mgbidi Jerusalem nsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe a na-edo mgbidi Jerusalem ọhụrụ ahụ nsọ, e sitere nʼobodo niile ndị Livayị bi kpọọ ha ka ha bịa nye aka iji ọṅụ mee mmemme ido nsọ ahụ. Ha bịakwara jiri abụ ekele na ihe egwu dị iche iche dịka ụbọ akwara, ịgba na une kelee Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ndị ọbụ abụ sitekwara nʼobodo niile dị gburugburu Jerusalem bịa, ọ bụladị site nʼobodo niile ndị Netofa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "na Bet-Gilgal, na akụkụ Geba na Azmavet, nʼihi na ha ewuorola onwe ha obodo nta dị iche iche gburugburu Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbe ndị nchụaja na ndị Livayị dochara onwe ha ọcha, ha dokwara ndị Izrel niile, na ọnụ ụzọ ama niile, na mgbidi ahụ ọcha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "E mere m ka ndị ndu Juda niile rigoro nʼelu mgbidi ahụ. Nʼebe ahụ ka m kenyere otu ndị ọbụ abụ abụọ inye ekele. Otu ụzọ gara akụkụ aka nri nke elu mgbidi ahụ ruo nʼỌnụ Ụzọ Ama Ikpofu Ahịhịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Hoshaya na ọkara ndị ndu Juda na-eso ha nʼazụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "ha na Azaraya, Ezra, Meshulam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Juda, Benjamin, Shemaya, Jeremaya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "na ndị nchụaja ndị a ndị na-afụ opi, tinyere Zekaraya nwa Jonatan, nwa Shemaya. Ndị bụ nna nna Zekaraya bụ Matanaya, Mikaya na Zakua, ndị ikwu Asaf."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ndị otu ya, bụ Shemaya, Azarel, Milalai, Gilalai, Maai, Netanel, Juda na Hanani. Ha niile ji ngwa egwu ha, ụdị ngwa egwu ndị ahụ Devid onye nke Chineke nyere nʼiwu na ndị ọbụ abụ ga-eji. Ezra, bụ ode akwụkwọ nọ nʼihu na-edu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Mgbe ha rutere nʼỌnụ Ụzọ ama Isi Iyi, ha rigooro nʼelu nkwasa nrigo ụlọ elu e si abata nʼobodo Devid, si ebe ahụ gafee ụlọeze Devid, gaakwa lọghachi nʼỌnụ Ụzọ Ama Mmiri, nke dị nʼakụkụ ọwụwa anyanwụ obodo ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ndị ọbụ abụ nke ọzọ bụ ndị na-enye ekele gara ụzọ aka ekpe. Mụ onwe m sooro ha nʼelu mgbidi ahụ, tinyere ọkara ndị mmadụ ahụ, gafee Ụlọ elu Ite Ọkụ jeruo Mgbidi Sara Mbara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Anyị sitekwara nʼebe ahụ gafee Ọnụ Ụzọ Ama Ifrem, Ọnụ Ụzọ ama Jeshana, Ọnụ Ụzọ Ama Azụ, Ọnụ Ụzọ Ama Ụlọ Elu Hananel, ruokwa nʼỌnụ Ụzọ Ama Ụlọ Elu Narị na ruo nʼỌnụ Ụzọ Ama Atụrụ, kwụsị nʼỌnụ Ụzọ Ama Ndị Nche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ya mere, ụzọ ndị mmadụ abụọ na-abụ abụ ekele nye Chineke zukọtara bata nʼụlọnsọ ukwu. Esokwa m ha bata, mụ na ọkara ndị ndu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "tinyere ndị nchụaja ndị a: Eliakịm, Maaseia, Miniamin, Mikaya, Elioenai, Zekaraya na Hananaya. Ndị a niile ji opi ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ndị ọzọ sokwa bata bụ ndị a: Maaseia, Shemaya, Elieza, Uzi, Jehohanan, Malkija, Elam na Eza. Onyendu ndị ọbụ abụ ahụ niile bụ Jezrahaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ha chụrụ ọtụtụ aja nʼụbọchị ahụ nʼihi na Chineke nyere ha oke ọṅụ. Ụmụnta na ndị inyom sokwa ṅụrịa ọṅụ. Ha nụkwara ụda ọṅụ ndị Jerusalem site nʼebe dị anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Nʼoge ahụ ka a họpụtara ndị ikom na-elekọta ụlọ ịchịkọba ihe, ebe a na-achịkọba onyinye mkpụrụ mbụ, na onyinye otu ụzọ nʼụzọ iri. A na-esite nʼobodo gbara Jerusalem gburugburu na-ewebata nʼụlọ ịchịkọba ihe onyinye niile e nyere nʼiwu maka ọdịmma ndị nchụaja na ndị Livayị. E si otu a na-ewebata ya nʼihi na ọrụ ndị nchụaja na ndị Livayị na-arụ na-atọ ndị Juda ụtọ nke ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Nʼihi na ha na-arụ ọrụ Chineke ahụ ha ketara ịrụ, ya na ọrụ ido ndị mmadụ na ihe ọbụla nsọ. Otu a kwa ka ndị ọbụ abụ, na ndị na-eche nche sị arụkwa ọrụ a dịka iwu Devid na Solomọn nwa ya nyere si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ọ bụ nʼoge Devid na Asaf ka e bidoro inwe ndị ndu abụ ito na ikele Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Ya mere, nʼoge Zerubabel na Nehemaya, ndị Izrel niile na-ewebata onyinye e ji akwagide ọrụ ndị ọbụ abụ, na ndị nche, na ndị Livayị. Ha kewapụtakwara oke ruru ndị Livayị ndị ọzọ iche, ndị Livayị nʼonwe ha kwa, kewapụtara oke ruru ụmụ Erọn nʼime ihe e nyere ha dịka e si nye ya nʼiwu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1476,
+        "caller": "+",
+        "text": "Ezra nke a, abụghị Ezra onye nchụaja. Onye bụ ọka nʼihe gbasara iwu Onyenwe anyị, nke si nʼezinaụlọ Seraya. Gụọ akwụkwọ Ezr 7:1-5",
+        "reference": {
+          "chapter": 12,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1477,
+        "caller": "+",
+        "text": "Shekanaya ọtụtụ akwụkwọ ndị Hibru na-ede Shebayana",
+        "reference": {
+          "chapter": 12,
+          "verse": 14
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NEH/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NEH/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 47
+}

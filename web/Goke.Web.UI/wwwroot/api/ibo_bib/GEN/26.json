@@ -1,0 +1,338 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Abimelek na Aịzik"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge a, ụnwụ dara nʼala ahụ. Ụnwụ a dị iche nʼụnwụ mbụ nke dara nʼoge Ebraham dị ndụ. Aịzik jekwuru Abimelek",
+          {
+            "noteId": 724
+          },
+          "eze ndị Filistia nʼobodo Gera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Onyenwe anyị gosiri Aịzik onwe ya, sị, “Agakwala Ijipt; biri nʼala ahụ m sị gị biri nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nọrọ nʼala a nwa oge nta, aga m anọnyere gị ma gọziekwa gị, nʼihi na gị na ụmụ ụmụ gị ka m ga-enye ala ndị a niile. Aga m emezukwa iyi ahụ m ṅụrụ nye Ebraham nna gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Aga m eme ka ụmụ ụmụ gị mụbaa, mee ka ha hie nne nʼọnụọgụgụ dịka kpakpando dị na mbara eluigwe. Ha ka m ga-enye ala ndị a niile. Aga m esite na mkpụrụ gị gọzie mba niile nke ụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ihe ndị a niile ka m ga-eme nʼihi na Ebraham rubere isi ime ihe m gwara ya, na idebe iwu m na ụkpụrụ m, na ịdọ aka na ntị m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere, Aịzik nọgidere nʼobodo Gera."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ndị obodo ahụ jụrụ ya banyere nwunye ya, ọ gwara ha sị, “Ọ bụ nwanne m nwanyị.” Ọ tụrụ ụjọ ị sị ha, “Nwunye m ka ọ bụ,” O chere nʼobi ya sị, “Ndị ikom obodo a nwere ike gbuo m nʼihi Ribeka. Nʼihi na Ribeka nʼonwe ya mara mma ile anya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe Aịzik nọrọ ebe ahụ ogologo oge, Abimelek eze ndị Filistia, sitere na oghereikuku ya lepụ anya hụ Aịzik ka ọ nọ na-egwusa Ribeka nwunye ya egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ya mere, Abimelek kpọrọ Aịzik sị, “Nwunye gị ka ọ bụ nʼezie. Gịnị mere i ji gwa anyị na ọ bụ nwanne gị nwanyị?” Aịzik zara ya, “Ọ bụ nʼihi na m chere na-enwere ike igbu m nʼihi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Abimelek sịrị, “Gịnị bụ ihe a i mere anyị? Otu nwoke nʼetiti anyị gaara akpọrọ nwunye gị dinaa ya. Ị gaara esi otu a wetara anyị ikpe ọmụma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ya mere, Abimelek nyere ndị niile ya iwu, sị ha, “Onye ọbụla metụrụ nwoke a maọbụ nwunye ya aka, aghaghị ime ka ọ nwụọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Aịzik kụrụ mkpụrụ ubi nʼala ahụ. Nʼotu afọ ahụ kwa, o si nʼala ahụ webata ihe ubi narị okpukpu karịa nke ọ kụrụ, nʼihi na Onyenwe anyị gọziri ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nwoke a bara ụba, ghọọ ọgaranya. Akụnụba ya gara nʼihu na-amụba, tutu ruo mgbe ọ ghọrọ nnọọ onye ọgaranya a ma ama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "O nwere ọtụtụ igwe anụ ụlọ, na igwe ehi, na ndị ikom na-ejere ya ozi. Nʼihi ihe ndị a, ndị Filistia bidoro inwe anya ukwu megide ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ndị Filistia wụjuru aja nʼolulu mmiri ndị ahụ niile ndị na-ejere nna ya ozi gwuru nʼoge nna ya Ebraham dị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Abimelek kpọrọ Aịzik sị ya, “Si nʼala a kwapụ gaa nʼebe ọzọ, nʼihi na ịba ụba gị na ịdị ike gị adịla ukwuu karịa nke anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ya mere Aịzik si nʼebe ahụ kwapụ, gaa maa ụlọ ikwu ya na Ndagwurugwu Gera, biri nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "O gwugharịkwara olulu mmiri ndị ahụ e gwuru nʼoge nna ya Ebraham, nke ndị Filistia kpojuru aja mgbe Ebraham nwụrụ, kpọọ olulu mmiri ndị a otu aha ahụ nna ya kpọrọ ha na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọzọ, ndị na-ejere Aịzik ozi gwuru olulu mmiri ọhụrụ na ndagwurugwu Gera ahụ, gwute mmiri nke si nʼala na-asọpụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma ndị ọzụzụ anụ ụlọ obodo Gera sesịrị ndị ọzụzụ anụ ụlọ Aịzik okwu. Ha kwuru sị, “Mmiri a bụ nke anyị!” Nke a mere Aịzik ji kpọọ olulu mmiri ahụ Esek, nʼihi ise okwu nke ha sesịrị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ha gwuru olulu mmiri ọzọ, ma ndị ahụ bịakwara ọzọ bido ịzọ ya. Nʼihi ya Aịzik kpọrọ olulu mmiri ahụ Sitna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "O si nʼebe ahụ pụọ gaa nʼebe ọzọ gwuo olulu mmiri ọzọ. Ma o nweghị ndị bịara zọọ ya. Nʼihi ya ọ kpọrọ olulu mmiri ahụ Rehobọt. O kwuru sị, “Ugbu a, Onyenwe anyị enyela anyị ebe sara mbara, ebe ihe ga-anọ gaara anyị nke ọma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "O sitere nʼebe ahụ kwapụ gaa Bịasheba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼabalị ahụ, Onyenwe anyị mere ka ọ hụ ya anya, sị ya, “Abụ m Chineke nna gị Ebraham. Atụla egwu, nʼihi na anọnyere m gị, aga m agọzi gị, mụbaa ọnụọgụgụ ụmụ ụmụ gị nʼihi ohu m Ebraham.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ya mere, o wuru ebe ịchụ aja nʼebe ahụ kpọkuo aha Onyenwe anyị. Ọ makwara ụlọ ikwu ya nʼebe ahụ. Ndị na-ejere ya ozi gwukwara olulu mmiri."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọgbụgba ndụ Aịzik na Abimelek"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Abimelek na Ahuzat, onye ndụmọdụ ya, na Fikọl onyeisi ndị agha ya sitere Gera jekwuru Aịzik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Aịzik jụrụ ha sị, “Gịnị mere unu ji bịakwute m, ebe ọ bụ na unu kpọrọ m asị, chụpụkwa m site nʼetiti unu?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ha sị, “Anyị hụrụ nke ọma na Onyenwe anyị nọnyeere gị, ya mere anyị ji sị, ‘O kwesiri ka ịṅụ iyi dị nʼetiti anyị na gị,’ ka anyị na gị gbaakwa ndụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "na ị gaghị eme anyị ihe ọjọọ dịka anyị na-esighị mee gị ihe ọjọọ. I lezie anya nke ọma, ị ga-ahụ na anyị meere gị ihe ọma mgbe anyị hapụrụ gị ka ị laa nʼudo. Ugbu a, anyị maara na ị bụ onye Onyenwe anyị gọziri agọzi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Aịzik meere ha mmemme nri dị ukwuu; ha riri, ṅụọkwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Nʼisi ụtụtụ echi ya, ndị ikom ahụ niile ṅụrịtaara onwe ha iyi ịgba ndụ. Aịzik zilagara ha, ha hapụrụ ya laa nʼudo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼotu ụbọchị ahụ kwa, ndị ohu Aịzik bịakwutere ya gwa ya banyere olulu mmiri ha na-egwu, sị ya, “Anyị achọtala mmiri nʼolulu ahụ anyị na-egwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ọ kpọrọ ya Shiba. Ọ bụkwa nke a mere e ji akpọ obodo ahụ Bịasheba",
+          {
+            "noteId": 725
+          },
+          "ruo taa."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị inyom Ịsọ lụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe Ịsọ gbara iri afọ anọ, ọ lụrụ Judit nwa Beiri, onye Het. Ọ lụkwara Basemat nwa Elọn, onye Het."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ha ghọrọ Aịzik na Ribeka ihe ọnọdụ obi ilu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 724,
+        "caller": "+",
+        "text": "Abimelek, bụ aha ndịisi na-achị obodo a na-aza. Abimelek nke anyị nụrụ ihe banyere ya nʼakwụkwọ Jenesis isi 20, a nwụọlarị. Ọ nwụrụ ihe dịka iri afọ asatọ gara aga. Onye nke a bụ eze ọzọ.",
+        "reference": {
+          "chapter": 26,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 725,
+        "caller": "+",
+        "text": "Nke a pụtara Olulu mmiri ịṅụ iyi",
+        "reference": {
+          "chapter": 26,
+          "verse": 33
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/26.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/27.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/25.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 35
+}

@@ -1,0 +1,145 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "ibo_bib",
+    "name": "Mkpughe",
+    "commonName": "Mkpughe",
+    "title": "Mkpughe",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "dfefef3cfcaa9573108355d9ba3837388620df1f01ef2f2fb8a32916a3bd58a5",
+    "firstChapterApiLink": "/api/ibo_bib/REV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/REV/22.json",
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mmụọ ozi ji akwụkwọ ntakịrị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ahụrụ m mmụọ ozi ọzọ dị oke egwu ka o si nʼeluigwe na-arịdata. Igwe ojii gbara ya gburugburu. Eke na egwurugwu dịkwa ya nʼisi. Ihu ya na-egbukwa maramara dịka anyanwụ. Ụkwụ ya na-acha dịka ogidi na-enwu ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O ji akwụkwọ ntakịrị a fụkọtara afụkọta nʼaka ya. Otu ụkwụ ya, nke aka nri ya, ka ọ zọnyere nʼime osimiri, ma ụkwụ nke aka ekpe ya ka ọ zọkwasịrị nʼelu ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O ji oke olu, nke dara ụda dịka ịgbọ ụja ọdụm, tie mkpu, egbe eluigwe asaa gbara otu mgbe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe m chọrọ idetu ihe egbe eluigwe ndị a kwuru, anụrụ m otu olu si nʼeluigwe na-ekwu, “Edela ihe ahụ nʼakwụkwọ, nʼihi na-achọghị ka ndị ọzọ mata okwu ahụ egbe eluigwe ndị ahụ kwuru.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, mmụọ ozi ahụ nke m hụrụ zọkwasịrị ụkwụ ya nʼelu osimiri, na nʼala akọrọ ahụ, chịlịri aka ya abụọ elu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "were onye ahụ na-adị ndụ mgbe niile ebighị ebi ṅụọ iyi. Ya bụ onye ahụ kere eluigwe na ụwa, na ihe niile dị nʼime ha, na oke osimiri, na ndị niile bi nʼime ha, sị na oge ezuola. Na o kwesikwaghị ka a tufuo oge ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼụbọchị ahụ, mgbe ndị mmụọ ozi asaa ahụ ga-afụ opi ike ha, ihe omimi niile nke Chineke ga-emezu, dịka ọ gwara ndị ohu ya bụ ndị amụma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Olu nke ahụ m nụrụ mbụ sitere nʼeluigwe gwa m okwu ọzọ, na-asị, “Gaa nara mmụọ ozi ahụ guzo nʼelu oke osimiri na ala akọrọ, akwụkwọ ahụ aseghere aseghe nke o ji nʼaka ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ejekwuru m mmụọ ozi ahụ gwa ya ka o nye m akwụkwọ nta ahụ. Ọ sịrị m, “Nara ya, taa ya. Ọ ga-eme ka afọ gị luo ilu, ma ‘nʼọnụ gị, ọ ga-atọ gị ụtọ dịka mmanụ aṅụ.’",
+          {
+            "noteId": 1740
+          },
+          "”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ya mere, anaara m ya akwụkwọ nta ahụ site nʼaka mmụọ ozi ahụ taa ya. Ọ tọrọ ụtọ dịka mmanụ aṅụ nʼọnụ m, ma mgbe m lodara ya, afọ m bidoro ilu ilu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ ha sịrị m, “Ị ghaghị ibu amụma ọzọ banyere ọtụtụ mmadụ, na ọtụtụ mba, na ọtụtụ asụsụ na ọtụtụ ndị eze.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1740,
+        "caller": "+",
+        "text": "Izk 3:3",
+        "reference": {
+          "chapter": 10,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/REV/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/REV/11.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/REV/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

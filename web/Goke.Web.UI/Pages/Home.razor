@@ -1,0 +1,273 @@
+﻿@page "/"
+
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JS
+
+<PageTitle>Home</PageTitle>
+
+<!-- ======= Hero Section ======= -->
+<section id="hero">
+    <div>
+        <h1>Goke Oladokun</h1>
+        <p>
+            I'm
+            <span class="typed">
+            </span>
+        </p>
+    </div>
+    <div class="personal-wrapper">
+        <div>
+            With a seasoned background in various domains of .NET development, including ASP.NET Core MVC,
+            RESTful Web API design, and mobile/desktop application development using MAUI and Xamarin,
+            I have led successful projects such as the creation of a Class Attendance Mobile application,
+            notable for its innovative features like facial recognition and geolocation integration.
+            Additionally, my proficiency in database management and reporting, demonstrated through
+            projects utilizing Microsoft SQL Server and RDLC, highlights my commitment to delivering
+            high-quality solutions. I prioritize effective communication, collaboration,
+            and problem-solving, as evidenced by my current leadership in integrating
+            Azure Boards and Testing into our development workflow.
+            My experience navigating challenging projects like a C++ microfinance solution has further
+            honed my problem-solving skills, making me well-equipped to drive innovation and success in
+            software development with a proactive and adaptable approach.
+            <div style="display: inline-block">
+
+                <a href="https://www.linkedin.com/in/olagoke-oladokun-b0aa1a88">
+                    <svg class="icon" style="color:#0a66c2">
+                        <use xlink:href="sprites.svg#linkedin"></use>
+                    </svg>
+                </a>
+                <a href="https://github.com/goke-ai">
+                    <svg class="icon" style="color:#fff">
+                        <use xlink:href="sprites.svg#github"></use>
+                    </svg>
+                </a>
+                <a href="https://www.youtube.com/channel/UCe9cytDTheJX7YgXvseYzKg">
+                    <svg class="icon" style="color:#f00">
+                        <use xlink:href="sprites.svg#youtube"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero -->
+<!-- ======= Hero Section ======= -->
+<section class="hero" style='--_url: url("images/goke_3_4_1.jpg")'>
+    <div>
+        <h1>Goke Oladokun</h1>
+        <p>
+            I'm
+            <span class="typed">
+            </span>
+        </p>
+
+    </div>
+    <div class="personal-wrapper">
+        <div>
+            With a seasoned background in various domains of .NET development, including ASP.NET Core MVC,
+            RESTful Web API design, and mobile/desktop application development using MAUI and Xamarin,
+            I have led successful projects such as the creation of a Class Attendance Mobile application,
+            notable for its innovative features like facial recognition and geolocation integration.
+            Additionally, my proficiency in database management and reporting, demonstrated through
+            projects utilizing Microsoft SQL Server and RDLC, highlights my commitment to delivering
+            high-quality solutions. I prioritize effective communication, collaboration,
+            and problem-solving, as evidenced by my current leadership in integrating
+            Azure Boards and Testing into our development workflow.
+            My experience navigating challenging projects like a C++ microfinance solution has further
+            honed my problem-solving skills, making me well-equipped to drive innovation and success in
+            software development with a proactive and adaptable approach.
+            <div style="display: inline-block">
+
+                <a href="https://www.linkedin.com/in/olagoke-oladokun-b0aa1a88">
+                    <svg class="icon" style="color:#0a66c2">
+                        <use xlink:href="sprites.svg#linkedin"></use>
+                    </svg>
+                </a>
+                <a href="https://github.com/goke-ai">
+                    <svg class="icon" style="color:#fff">
+                        <use xlink:href="sprites.svg#github"></use>
+                    </svg>
+                </a>
+                <a href="https://www.youtube.com/channel/UCe9cytDTheJX7YgXvseYzKg">
+                    <svg class="icon" style="color:#f00">
+                        <use xlink:href="sprites.svg#youtube"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Hero -->
+@code {
+
+    protected override void OnInitialized()
+    {
+    }
+
+    protected override void OnAfterRender(bool firstRender)
+    {
+        if (firstRender)
+        {
+            var dataTypeText = ".typed";
+            var dataLoop = true;
+            var dataTypeSpeed = 45;
+            string[] dataStrings = ["an AI and IT Solutions Consultant", "an Innovator", "an Educator", "a Software developer", "a Chemical Engineer Computing with PhD"];
+
+            TypedControl(dataTypeText, strings: dataStrings, typeSpeed: dataTypeSpeed, loop: dataLoop);
+        }
+    }
+
+    /// <summary>
+    ///
+    /// </summary>
+    /// <param name="element"></param>
+    /// <param name="strings">array strings strings to be typed</param>
+    /// <param name="stringsElement">ID of element containing string children</param>
+    /// <param name="typeSpeed">typeSpeed type speed in milliseconds</param>
+    /// <param name="startDelay">startDelay time before typing starts in milliseconds</param>
+    /// <param name="backSpeed">backSpeed backspacing speed in milliseconds</param>
+    /// <param name="smartBackspace">smartBackspace only backspace what doesn't match the previous string</param>
+    /// <param name="shuffle">shuffle the strings</param>
+    /// <param name="backDelay">time before backspacing in milliseconds</param>
+    /// <param name="fadeOut">Fade out instead of backspace</param>
+    /// <param name="fadeOutClass">css class for fade animation</param>
+    /// <param name="fadeOutDelay">Fade out delay in milliseconds</param>
+    /// <param name="loop">loop strings</param>
+    /// <param name="loopCount">loopCount amount of loops</param>
+    /// <param name="showCursor">show cursor</param>
+    /// <param name="cursorChar">character for cursor</param>
+    /// <param name="autoInsertCss">insert CSS for cursor and fadeOut into HTML <head></param>
+    /// <param name="attr">attribute for typing. Ex= input placeholder, value, or just HTML text</param>
+    /// <param name="bindInputFocusEvents">bind to focus and blur if el is text input</param>
+    /// <param name="contentType">"html" or "null" for plaintext</param>
+    /// <exception cref="ArgumentNullException"></exception>
+    void TypedControl(string element,
+    string[]? strings = null, //["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+    string? stringsElement = null,
+    int typeSpeed = 0,
+    int startDelay = 0,
+    int backSpeed = 0,
+    bool smartBackspace = true,
+    bool shuffle = false,
+    int backDelay = 700,
+    bool fadeOut = false,
+    string fadeOutClass = "typed-fade-out",
+    int fadeOutDelay = 500,
+    bool loop = false,
+    int loopCount = int.MaxValue,
+    bool showCursor = true,
+    string cursorChar = "|",
+    bool autoInsertCss = true,
+    string? attr = null,
+    bool bindInputFocusEvents = false,
+    string contentType = "html"
+
+    //
+    //  * Before it begins typing
+    //  * @param {Typed} self
+    //
+    // onBegin= (self) => { }
+    // ,
+
+    //
+    //  * All typing is complete
+    //  * @param {Typed} self
+    //
+    // onComplete= (self) => { }
+    // ,
+
+    //
+    //  * Before each string is typed
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // preStringTyped= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * After each string is typed
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // onStringTyped= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * During looping, after last string is typed
+    //  * @param {Typed} self
+    //
+    // onLastStringBackspaced= (self) => { }
+    // ,
+
+    //
+    //  * Typing has been stopped
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // onTypingPaused= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * Typing has been started after being stopped
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // onTypingResumed= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * After reset
+    //  * @param {Typed} self
+    //
+    // onReset= (self) => { }
+    // ,
+
+    //
+    //  * After stop
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // onStop= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * After start
+    //  * @param {number} arrayPos
+    //  * @param {Typed} self
+    //
+    // onStart= (arrayPos, self) => { }
+    // ,
+
+    //
+    //  * After destroy
+    //  * @param {Typed} self
+    //
+    // onDestroy= (self) => { }
+    )
+    {
+        JS.InvokeVoidAsync("TypedControl", element,
+                                        strings, //["These are the default values...", "You know what you should do?", "Use your own!", "Have a great day!"],
+                                        stringsElement,
+                                        typeSpeed,
+                                        startDelay,
+                                        backSpeed,
+                                        smartBackspace,
+                                        shuffle,
+                                        backDelay,
+                                        fadeOut,
+                                        fadeOutClass,
+                                        fadeOutDelay,
+                                        loop,
+                                        loopCount,
+                                        showCursor,
+                                        cursorChar,
+                                        autoInsertCss,
+                                        attr,
+                                        bindInputFocusEvents,
+                                        contentType
+                                    );
+
+    }
+
+
+}

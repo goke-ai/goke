@@ -1,0 +1,444 @@
+﻿@page "/games/chemistry"
+@using Goke.Razor.Components
+@using Goke.Web.Shared.Models
+
+<PageTitle>Chemistry Game</PageTitle>
+
+<!-- +wizard -->
+<div class="wizard">
+    <div class="wizard-body">
+        <div class="wizard-page">
+            <div class="" style="height: 90%; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+
+                <h1 style="padding-bottom: 2em; text-align:center; font-weight:bolder;">
+                    🔬🎮🏆🧪
+                    <br />
+                    Welcome to the Chem Lab Challenge!
+                    <br />
+                    🔬🎮🏆🧪
+                </h1>
+                <h1 style="text-align: center">
+                    Get ready to embark on an exciting journey into the world of chemistry! Dive into thrilling experiments,
+                    test your knowledge, and push the boundaries of discovery in this immersive game.
+                    Safety first - don your lab coat and goggles, and let the adventure begin!
+                    Are you ready to accept the Chem Lab Challenge?
+
+                </h1>
+            </div>
+        </div>
+        <div class="wizard-page">
+            <div class="flex flex-column">
+                <h1>Instructions</h1>
+
+                <div class="flex flex-column">
+                    <h1>
+                        Chemistry Titration Game Instructions 🧪🎮🔬
+                    </h1>
+
+                    <div class="accordion">
+                        <div class="accordion-header">
+                            <label class="accordion-controller" for="accordion_controller1">
+                                Objective 🧪
+                            </label>
+                            <input class="accordion-controller" id="accordion_controller1" name="accordion_controller1"
+                                   type="checkbox" checked />
+                        </div>
+                        <div class="accordion-body">
+                            Your goal is to successfully complete a series of titration experiments by selecting the correct apparatus and reagents.
+
+                        </div>
+
+                        <div class="accordion-header">
+                            <label class="accordion-controller" for="accordion_controller2">
+                                Game Elements 🎮
+                            </label>
+                            <input class="accordion-controller" id="accordion_controller2" name="accordion_controller2"
+                                   type="checkbox" />
+                        </div>
+                        <div class="accordion-body">
+                            <h3>Apparatus Icons 🔬</h3>
+                            <ul>
+                                <li>
+                                    Look for icons representing different lab equipment (e.g., burette, flask, beaker, pipette).
+                                </li>
+                                <li>
+                                    These icons will help you assemble the necessary tools for the titration.
+                                </li>
+                            </ul>
+                            <h3>Fail Sound 🎧🔊 </h3>
+                            <ul>
+                                <li>
+                                    If drag and drop the wrong apparatus, you'll hear a "fail" sound.
+                                </li>
+                                <li>
+                                    Don't worry—just try again!
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="accordion-header">
+                            <label class="accordion-controller" for="accordion_controller3">
+                                How to Play 🎮
+                            </label>
+                            <input class="accordion-controller" id="accordion_controller3" name="accordion_controller3"
+                                   type="checkbox" />
+                        </div>
+                        <div class="accordion-body">
+                            <ul>
+                                <li>
+                                    Start by selecting an apparatus of the titration experiment.
+                                </li>
+                                <li>
+                                    When you've chosen the correct combination of apparatus, an animation will play.
+                                </li>
+
+                            </ul>
+
+                            <h3>Titration Animation</h3>
+                            <ul>
+                                <li>
+                                    Once you've set up the correct apparatus, start the animation (START timer) to begin titrating.
+                                </li>
+                                <li>
+                                    Watch as the titrant is added drop by drop from the burette into the flask.
+                                </li>
+                                <li>
+                                    Observe the indicator changing color as the solution approaches the equivalence point.
+                                </li>
+                                <li>
+                                    Stop the animation (STOP timer) when the endpoint is reached.
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="accordion-header">
+                            <label class="accordion-controller" for="accordion_controller4">
+                                Scoring and Learning 🏆
+                            </label>
+                            <input class="accordion-controller" id="accordion_controller4" name="accordion_controller4"
+                                   type="checkbox" />
+                        </div>
+                        <div class="accordion-body">
+                            <ul>
+                                <li>
+                                    Pay attention to the animation—it's both fun and educational!
+                                </li>
+                                <li>
+                                    If you get it right, you'll receive positive feedback and can proceed to the next level.
+                                </li>
+                                <li>
+                                    If you make a mistake, don't worry! Learn from it and try again.
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-body">
+                            Remember, this game is all about learning while having fun. Become a virtual chemist and master the art of titration! 🧪🎮🔬
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="wizard-page">
+            <div class="lab">
+                <div class="lab-menu">
+                    <div style="display:flex; justify-content:space-between;">
+                        <div>@_labCounter</div>
+                        <div>@Time</div>
+                        <div>@_clock</div>
+                    </div>
+                </div>
+                <div class="lab-center" style="@_dropStatusCss"
+                     @onclick="OnLaboratoryTable"
+                     @ondrop="HandleDrop"
+                     @ondragover="HandleDragOver"
+                     @ondrop:preventDefault="true"
+                     @ondragover:preventDefault="true">
+                    <div class="lab-center-top">
+                        @if (_showTitrationTimer)
+                        {
+                            <div>
+                                <button class="default" style="display: block; position: absolute; top: 0; left: 0;" @onclick=ToggleTitration>
+                                    <div>
+                                        @(_isTitrationOn ? "STOP" : "START")
+                                    </div>
+                                    @TitrationTime
+                                </button>
+                            </div>
+                        }
+                        <div style="text-align: center;">
+                            @((MarkupString)_action)
+                            @if (!_isGameOn)
+                            {
+                                <button @onclick='GameStart'> START GAME </button>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="lab-toolbar">
+                    <div class="lab-bottom">
+                        @if (_actionTime > _minTimeInSeconds)
+                        {
+                            foreach (var p in _apparatuses)
+                            {
+                                <div class="tile" style="cursor: pointer;"
+                                     @onclick="@(()=>_selected = p.Item)"
+                                     @ondragstart="@((e) => HandleDragStart(e, p))"
+                                     draggable="true">
+                                    <div>
+                                        <img src="@p.Media" onerror="this.src='images/apparatus/default.png'" />
+                                        @p.Title
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            foreach (var p in _apparatuses)
+                            {
+                                <div class="tile disabled" disabled="true">
+                                    <div>
+                                        <img src="@p.Media" onerror="this.src='images/apparatus/default.png'" />
+                                        @p.Title
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="wizard-page">
+            <h2>Report</h2>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias obcaecati facere nemo itaque nesciunt
+            odio autem provident praesentium facilis at dolore doloremque soluta esse expedita iste quibusdam,
+            recusandae cupiditate sit?
+        </div>
+    </div>
+    <div class="wizard-controller ">
+        <div class="wizard-controller-labels show-text show-radio">
+            <label class="wizard-page-controller-label">
+                <span>Welcome</span>
+                <input type="radio" name="wizard-page" id="wizardpage1" class="wizard-page-controller">
+            </label>
+            <label class="wizard-page-controller-label">
+                <span>Instructions</span>
+                <input type="radio" name="wizard-page" id="wizardpage2" class="wizard-page-controller">
+            </label>
+            <label class="wizard-page-controller-label">
+                <span>Game</span>
+                <input type="radio" name="wizard-page" id="wizardpage3" class="wizard-page-controller" checked>
+            </label>
+            <label class="wizard-page-controller-label">
+                <span>Report</span>
+                <input type="radio" name="wizard-page" id="wizardpage4" class="wizard-page-controller">
+            </label>
+
+        </div>
+    </div>
+</div>
+<!-- -wizard -->
+<GameSound GameStatus=@_gameStatus />
+
+@code {
+    void HandleImageError(ErrorEventArgs e)
+    {
+    }
+
+    bool _isGameOn;
+    GameStatus _gameStatus;
+
+    Titration titration = new();
+    List<Apparatus> _apparatuses = default!;
+
+    ApparatusItem _selected;
+    ApparatusItem _target;
+    ApparatusItem _previousTarget;
+    string _action = @"<div>Drag and Drop Apparatus here.</div>";
+    int _actionTime, _minTimeInSeconds;
+    int _order;
+
+    Queue<ApparatusItem>? queueItems;
+
+    static System.Timers.Timer _timer = new(1000);
+    string _clock = default!;
+    int _labCounter;
+    string Time => TimeSpan.FromSeconds(_labCounter).ToString();
+
+    bool _isTitrationOn;
+    bool _showTitrationTimer;
+    int _titrationCounter;
+    string TitrationTime => TimeSpan.FromSeconds(_titrationCounter).ToString();
+
+    protected override void OnInitialized()
+    {
+        _timer.Elapsed += (o, e) =>
+        {
+            _labCounter++;
+            _actionTime++;
+
+            if (_isTitrationOn)
+            {
+                _titrationCounter++;
+            }
+
+            _clock = e.SignalTime.ToString("HH:mm:ss");
+            this.InvokeAsync(StateHasChanged);
+        };
+        _apparatuses = titration.Apparatuses;
+    }
+
+    void GameStart()
+    {
+        _isGameOn = true;
+        StartTimer();
+        NextSequence(_order);
+    }
+
+    void StartTimer()
+    {
+        // Have the timer fire repeated events (true is the default)
+        _timer.AutoReset = true;
+
+        // Start the timer
+        _timer.Enabled = true;
+        _gameStatus = GameStatus.Start;
+    }
+
+    void EndTimer()
+    {
+        // Have the timer fire repeated events (true is the default)
+        _timer.AutoReset = false;
+
+        // Start the timer
+        _timer.Enabled = false;
+        _gameStatus = GameStatus.End;
+    }
+
+    void NextSequence(int index)
+    {
+        if (index < titration.Sequences.Count)
+        {
+            queueItems = new(titration.Sequences[index]);
+            _target = ApparatusItem.None;
+
+            if (queueItems?.Count() > 0)
+            {
+                _previousTarget = _target;
+                _target = queueItems!.Dequeue();
+            }
+        }
+        //_apparatuses = ShuffleByOrderBy(titration.Apparatuses);
+        Shuffle(_apparatuses);
+    }
+
+    void OnLaboratoryTable()
+    {
+        if (_target == _selected && _target != ApparatusItem.None && _selected != ApparatusItem.None)
+        {
+            var selectedApparatus = titration.Apparatuses.First(w => w.Item == _selected);
+            if (selectedApparatus.Update is not null)
+            {
+                selectedApparatus.Update(titration.Apparatuses, _target, _previousTarget);
+            }
+            _action = selectedApparatus.Action();
+
+            if (queueItems?.Count() > 0)
+            {
+                _previousTarget = _target;
+                _target = queueItems!.Dequeue();
+            }
+            else
+            {
+                NextSequence(_order += 1);
+            }
+        }
+        else
+        {
+
+        }
+    }
+
+    string _dropStatusCss = "outline: 3px solid transparent;";
+    Apparatus? _selectedApparatus;
+    void HandleDragStart(DragEventArgs e, Apparatus p)
+    {
+        e.DataTransfer.DropEffect = "copy";
+        _selectedApparatus = p;
+        _dropStatusCss = "outline: 3px solid transparent;";
+        _gameStatus = GameStatus.None;
+    }
+
+    // void HandleDragStart2(DragItem<Apparatus>.DragItemArgs<Apparatus> v)
+    // {
+    //     HandleDragStart(v.DragEventArgs, v.Item);
+    // }
+
+    void HandleDragOver(DragEventArgs e)
+    {
+        e.DataTransfer.DropEffect = "copy";
+    }
+
+    void HandleDrop(DragEventArgs e)
+    {
+        _selected = _selectedApparatus!.Item;
+        if (_target == _selected)
+        {
+            if (_target == ApparatusItem.Titration)
+            {
+                _showTitrationTimer = true;
+            }
+            OnLaboratoryTable();
+            _dropStatusCss = "outline: 3px solid green;";
+            _gameStatus = GameStatus.Success;
+            _actionTime = 0;
+            _minTimeInSeconds = _selectedApparatus.MinTimeInSeconds;
+        }
+        else
+        {
+            _dropStatusCss = "outline: 3px solid red;";
+            _gameStatus = GameStatus.Fail;
+        }
+    }
+
+    int _runCount = 1, _totalRuns = 3;
+
+    void ToggleTitration()
+    {
+        _isTitrationOn = !_isTitrationOn;
+
+        if (_isTitrationOn == false)
+        {
+            _action = "END of Titration.";
+            if (_runCount < _totalRuns)
+            {
+                _runCount++;
+                _titrationCounter = 0;
+            }
+        }
+    }
+
+    public List<T> ShuffleByOrderBy<T>(List<T> listToShuffle)
+    {
+        return listToShuffle.OrderBy(x => Guid.NewGuid()).ToList();
+    }
+
+    private static Random rng = new Random();
+
+    public void Shuffle<T>(IList<T> list)
+    {
+        int n = list.Count;
+        while (n > 1)
+        {
+            n--;
+            int k = rng.Next(n + 1);
+            T value = list[k];
+            list[k] = list[n];
+            list[n] = value;
+        }
+    }
+
+}

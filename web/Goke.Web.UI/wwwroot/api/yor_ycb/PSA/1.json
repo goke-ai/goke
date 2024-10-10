@@ -1,0 +1,158 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ìbùkún ni fún ọkùnrin náà,",
+            "poem": 1
+          },
+          {
+            "text": "tí kò rìn ní ìmọ̀ àwọn ènìyàn búburú,",
+            "poem": 2
+          },
+          {
+            "text": "ti kò dúró ní ọ̀nà àwọn ẹlẹ́ṣẹ̀,",
+            "poem": 1
+          },
+          {
+            "text": "tàbí tí kò sì jókòó ní ibùjókòó àwọn ẹlẹ́gàn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ṣùgbọ́n ayọ̀ inú rẹ̀ wà nínú òfin Olúwa",
+            "poem": 1
+          },
+          {
+            "text": "àti nínú òfin rẹ̀ ni ó ń ṣe àṣàrò ní ọ̀sán àti òru.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ó dàbí igi tí a gbìn sí etí odò tí ń sàn,",
+            "poem": 1
+          },
+          {
+            "text": "tí ń so èso rẹ̀ jáde ní àkókò rẹ̀",
+            "poem": 2
+          },
+          {
+            "text": "tí ewé rẹ̀ kì yóò rẹ̀.",
+            "poem": 1
+          },
+          {
+            "text": "Ohunkóhun tí ó dáwọ́lé, ni yóò máa yọrí sí rere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Kò le rí bẹ́ẹ̀ fún àwọn ènìyàn búburú!",
+            "poem": 1
+          },
+          {
+            "text": "Wọn yóò dàbí ìyàngbò ọkà",
+            "poem": 2
+          },
+          {
+            "text": "tí afẹ́fẹ́ ń fẹ́ dànù.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nítorí náà àwọn ènìyàn búburú kì yóò le è dìde dúró ní ìdájọ́,",
+            "poem": 1
+          },
+          {
+            "text": "bẹ́ẹ̀ ni àwọn ẹlẹ́ṣẹ̀ kì yóò le è dúró ní àwùjọ àwọn olódodo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nítorí Olúwa ń ṣọ́ ọ̀nà àwọn olódodo,",
+            "poem": 1
+          },
+          {
+            "text": "ṣùgbọ́n ọ̀nà àwọn ènìyàn búburú ni yóò ṣègbé.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/JOB/42.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

@@ -1,0 +1,232 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ajọ omume dị nʼime Ụwa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ndị mmadụ bidoro mụbaa nʼụwa, mgbe a mụtakwaara ha ọtụtụ ụmụ ndị inyom,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ka ụmụ ndị ikom Chineke bidoro ilekwasị ụmụ ndị inyom ndị mmadụ anya, hụ na ha mara mma. Ha duuru ndị inyom ọbụla masịrị ha ka ha bụrụ nwunye ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị sịrị, “Mmụọ m na mmadụ agaghị anọgide nʼịgba mgba nʼime mmadụ ruo ebighị ebi, nʼihi na mmadụ efu ka ọ bụ.",
+          {
+            "noteId": 695
+          },
+          "Ọnụọgụgụ ndụ ya ga-abụ narị afọ na iri afọ abụọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ndị Nefilim nọ nʼụwa nʼoge ahụ, ma nʼoge sotere ya mgbe ahụ, ụmụ ndị ikom Chineke na-abakwuru ndị inyom ụmụ mmadụ, site na mmekọrịta dị otu a mụọ ụmụ. Ndị a bụ ndị dike mgbe ochie ahụ, ndị a ma ama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Onyenwe anyị hụrụ otu ịba ụba nke ajọ omume mmadụ si dị ukwuu, hụkwa na echiche uche nke obi ya niile dị naanị nʼime ihe ọjọọ, mgbe niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O wutere Onyenwe anyị nke ukwuu na o kere mmadụ, mkpụrụobi ya jupụtakwara nʼihe mgbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼihi ya, Onyenwe anyị sịrị, “Aga m esi nʼụwa kpochapụ mmadụ niile m kere eke. E e, mmadụ na anụmanụ niile, na ihe e kere eke na-akpụgharị nʼelu ala, na anụ ufe niile. Nʼihi na o wutere m na m kere ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma Noa nwetara ihuọma nʼanya Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Noa na uju mmiri"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro ndụ Noa na ezinaụlọ ya.",
+          {
+            "lineBreak": true
+          },
+          "Noa bụ onye ezi omume. Onye na-enweghị ịta ụta ọbụla nʼetiti ndị bi nʼoge ya. O mere ihe nʼụzọ Chineke chọrọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Noa mụtara ụmụ ndị ikom atọ aha ha bụ, Shem, Ham, na Jafet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma nʼanya Chineke, ụwa bụ ihe rụrụ arụ, jupụtakwa nʼihe ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Chineke hụrụ otu ụwa si jọgbuo onwe ya na njọ, hụkwa na ụmụ mmadụ bụ ndị ihe ọjọọ riri ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Chineke sịrị Noa, “Aga m ebibi ihe niile bụ mmadụ, nʼihi na ụwa jupụtara nʼihe ike nʼihi omume mmadụ. E e, aga m ebibi ụwa na ndị niile nọ nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, jiri osisi gofa wuore onwe gị ụgbọ mmiri. Rụnye ọtụtụ ọnụụlọ nʼime ya. Jiri korota techie elu ya na ime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Otu a ka i ga-esi wuo ya: mee ka ogologo ụgbọ mmiri ahụ dịrị narị mita na iri mita anọ, obosara ya dịrị iri mita abụọ na atọ, ịdị elu ya dịrị mita iri na atọ na ọkara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Meere ụgbọ mmiri ahụ ihe e ji ekpuchi elu ya. Mekwa oghere ga-adị ọkara mita site nʼebe ihe mkpuchi elu ụgbọ mmiri ahụ gbadata. Tinye ọnụ ụzọ nʼakụkụ ụgbọ mmiri ahụ, ma rụọkwa okpukpu nkwasa atọ, nke ala ala, nke etiti na nke elu elu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼihi na aga m eweta uju mmiri nʼụwa, ibibi ihe niile nwere ndụ dị nʼokpuru eluigwe. Ihe niile e kere eke na-eku ume ndụ ga-anwụ. Ihe niile nọ nʼụwa ga-ala nʼiyi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma aga m eme ka ọgbụgba ndụ m dịrị gị. Ị ga-abanye nʼụgbọ mmiri ahụ, gị na ụmụ gị ndị ikom, na nwunye gị, na ndị nwunye ụmụ gị ndị ikom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ị ga-ewebata ihe niile e kere eke dị ndụ, abụọ abụọ, oke na nwunye, ichebe ha ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ụdị nnụnụ dị iche iche, abụọ abụọ, na ụdị anụmanụ ọbụla dị iche iche, na ụdị anụ na-akpụ akpụ dị iche iche, ga-abịakwute gị ka i debe ha ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ị ga-ewebata ụdị nri dị iche iche a na-eri eri, chịkọtaa ha ka ọ bụrụ nri nke gị na nke ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Noa mere ihe niile dịka Chineke nyere ya iwu ime."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 695,
+        "caller": "+",
+        "text": "Maọbụ, Mmụọ m agaghị adịgide nʼime mmadụ ruo ebighị ebi nʼihi na ha bụ ihe rụrụ arụ.",
+        "reference": {
+          "chapter": 6,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/6.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/7.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

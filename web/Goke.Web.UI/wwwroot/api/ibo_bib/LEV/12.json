@@ -1,0 +1,110 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "ibo_bib",
+    "name": "Levitikọs",
+    "commonName": "Levitikọs",
+    "title": "Levitikọs",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a697f6450e0872fd69a6be8769aac9e60686399b5c87d52110a527c461a04bb",
+    "firstChapterApiLink": "/api/ibo_bib/LEV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LEV/27.json",
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ịdị ọcha nke nwanyị mụrụ nwa ọhụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gwara Mosis sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nye ụmụ Izrel iwu ndị a sị ha, ‘Mgbe nwanyị tụụrụ ime mesịa mụọ nwa nwoke, ọ ga-abụ onye na-adịghị ọcha ụbọchị asaa, dịka o si adị mgbe ọ nọ nʼadịghị ọcha nke nsọ ya nʼoge a kara aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼụbọchị nke asatọ site nʼoge a mụrụ ya, a ga-ebi nwa nwoke ahụ ugwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼime iri abalị atọ na atọ site nʼụbọchị nwanyị ahụ mụsịrị nwa ahụ, ọ ga-anọkwa na-adịghị ọcha nke ọbara gbara ya. Ọ gaghị emetụ ihe dị nsọ aka, maọbụ banye nʼime ebe nsọ, ruo mgbe ụbọchị ime ya ka ọ dị ọcha gasịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe nwanyị dị ime mụrụ nwa nwanyị, ọ ga-abụ onye nʼadịghị ọcha iri ụbọchị na anọ, dịka o si adị mgbe ọ nọ na nsọ ya. Ọ ga-echere tutu iri ụbọchị isii agwụsịa, ime ya ka ọ dị ọcha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“ ‘Mgbe ụbọchị ịdị ọcha ya zuru, ma ọ mụrụ nwa nwoke maọbụ nwa nwanyị, ọ ga-ewetara onye nchụaja nʼọnụ ụzọ ụlọ nzute otu nwa atụrụ gbara otu afọ maka onyinye aja nsure ọkụ, na otu nwa kpalakwukwu maọbụ otu nduru maka onyinye aja mmehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onye nchụaja ga-anarakwa ha chee ha nʼihu Onyenwe anyị, chụọrọ ya aja ikpuchi mmehie. Mgbe ahụ ka ọ ga-adị ọcha site nʼịsọ ọbara ya. “ ‘Nke a bụ usoro iwu dịịrị nwanyị ọbụla mụrụ nwa nwoke, maọbụ nwa nwanyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ bụrụ na aka erughị ya iweta nwa atụrụ, ọ ga-eweta ụmụ kpalakwukwu abụọ, maọbụ ụmụ nduru abụọ. Otu ga-abụ maka aja nsure ọkụ, nke ọzọ ga-abụ maka aja mmehie. Onye nchụaja ga-ewere ha chụọrọ ya aja ikpuchi mmehie, ka ọ dịkwa ọcha ọzọ.’ ”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/LEV/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LEV/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/LEV/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

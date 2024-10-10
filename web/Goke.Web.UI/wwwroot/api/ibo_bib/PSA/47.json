@@ -1,0 +1,232 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 47,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma nke dịrị onyeisi abụ. Abụ ụmụ Kora. Abụ Ọma."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Chineke bụ eze nke ụwa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Kụọnụ aka unu, unu mba niile;",
+            "poem": 1
+          },
+          {
+            "text": "jiri iti mkpu ọṅụ tikuo Chineke.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Nʼihi na Onyenwe anyị bụ Chineke kachasị ihe niile elu.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ dị egwu! Ọ bụ eze ukwu na-achị ụwa niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "O wedara mba niile mee ka ha nọọ nʼokpuru anyị;",
+            "poem": 1
+          },
+          {
+            "text": "ndị mmadụ niile nọ nʼokpuru ụkwụ anyị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ọ họpụtaara anyị ihe nketa anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ihe ịnya isi nke Jekọb, onye ọ hụrụ nʼanya. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Chineke ewerela iti mkpu ọṅụ rigoro nʼeluigwe.",
+            "poem": 1
+          },
+          {
+            "text": "Onyenwe anyị ewerela olu opi ike rigoo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Bụkuonụ Chineke abụ otuto, bụọ abụ otuto;",
+            "poem": 1
+          },
+          {
+            "text": "bụkuonụ eze anyị abụ otuto, bụọ abụ otuto.",
+            "poem": 2
+          },
+          {
+            "noteId": 1617
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Nʼihi na Chineke anyị bụ eze ụwa niile.",
+            "poem": 1
+          },
+          {
+            "text": "Jirinụ abụ too ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Chineke bụ eze mba niile;",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-anọkwasị nʼocheeze ya dị nsọ na-achị mba niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ndị niile a ma ama na mba niile ezukọtaala,",
+            "poem": 1
+          },
+          {
+            "text": "dịka ndị Chineke nke Ebraham,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ndị eze",
+            "poem": 1
+          },
+          {
+            "noteId": 1618
+          },
+          {
+            "text": "niile dị nʼụwa bụ nke Chineke;",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụ onye e buliri elu nʼebe ọ dị ukwuu.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1617,
+        "caller": "+",
+        "text": "Ngwa egwu eji mpi anụmanụ mee, a na-akpọ Shọfa, ka eji abụ abụ. Ọ bụkwa ya ka a eji akpọsa afọ ọhụrụ nye ndị mmadụ.",
+        "reference": {
+          "chapter": 47,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1618,
+        "caller": "+",
+        "text": "Maọbụ, ọta",
+        "reference": {
+          "chapter": 47,
+          "verse": 9
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/47.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/48.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/46.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 9
+}

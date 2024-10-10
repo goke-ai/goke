@@ -1,0 +1,408 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Eze",
+    "commonName": "2 Ndị Eze",
+    "title": "2 Ndị Eze",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "ef5236a4bf8f2ef841995e04d82bf4f37b3f368a02d2b12f0ec9671c38f7b59d",
+    "firstChapterApiLink": "/api/ibo_bib/2KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2KI/25.json",
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Azaraya eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼafọ nke iri abụọ na asaa nke ọchịchị Jeroboam nʼIzrel ka Azaraya nwa Amazaya bidoro ịchị dịka eze na Juda.",
+          {
+            "noteId": 279
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ gbara afọ iri na isii mgbe ọ malitere ị bụ eze. Ọ chịkwara na Jerusalem iri afọ ise na abụọ. Aha nne ya bụ Jekolaya, onye Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O soro nzọ ụkwụ nna ya bụ Amazaya, mee ihe ziri ezi nʼanya Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Kama dịka eze ndị ọzọ, o wezugaghị ebe ịchụ aja dị nʼelu ugwu; ndị mmadụ gara nʼihu na-achụ aja nsure ọkụ na aja na-esi isi ụtọ nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Onyenwe anyị tiri eze ihe otiti ọrịa ekpenta ruo ụbọchị ọnwụ ya.",
+          {
+            "noteId": 280
+          },
+          "O biri nʼụlọ ewupụrụ iche. Jotam",
+          {
+            "noteId": 281
+          },
+          "nwa nwoke eze ghọrọ onye nlekọta ụlọeze na-achịkwa ndị ala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma banyere ihe ndị ọzọ niile mere nʼoge ọchịchị Azaraya, na ihe niile o mere, ọ bụ na e deghị ha nʼakwụkwọ akụkọ ihe mere nʼoge ndị eze Juda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Azaraya soro ndị nna nna ya dina nʼọnwụ, e lie ya nso nʼebe e liri ha, nʼime obodo Devid. Jotam nwa ya ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Zekaraya eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nʼafọ nke iri atọ na asatọ nke ọchịchị eze Azaraya bụ eze Juda, ka Zekaraya, nwa Jeroboam ghọrọ eze Izrel na Sameria. Ọ chịrị ọnwa isii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dịka ndị nna ya bu ya ụzọ si mee, Zekaraya mere ihe jọrọ njọ nʼanya Onyenwe anyị. O mekwara dịka Jeroboam nwa Nebat, onye dubara ndị Izrel na mmehie ịkpọ isiala nye chi ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Shalum nwa Jebesh, na ndị ọzọ, gbara izu ọjọọ megide ya, tigbuo ya nʼihu ndị Izrel niile. Ọ ghọkwara eze mgbe Zekaraya nwụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Akụkọ metụtara ihe ndị ọzọ mere mgbe Zekaraya bụ eze, e deghị ha nʼakwụkwọ akụkọ ihe ndị eze Izrel mere nʼụbọchị ndụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, okwu ahụ Onyenwe anyị gwara Jehu mezuru, nke bụ: “Ụmụ ụmụ gị ga-anọkwasị nʼocheeze Izrel ruo nʼọgbọ nke anọ ha.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Shalum eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Shalum nwa Jebesh malitere ịbụ eze nʼafọ nke iri atọ na itoolu nke ọchịchị Uzaya eze Juda. Ọ chịrị otu ọnwa na Sameria."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Menahem nwa Gadi sitere nʼobodo Tịaza bịaruo Sameria gbuo Shalum nwa Jebesh ghọọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Akụkọ ndị ọzọ gbasara Shalum na izu ọjọọ ya, e deghị ha nʼakwụkwọ ihe mere nʼoge ndị eze Izrel na-achị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼoge ahụ, Menahem sitere na Tịaza buso obodo Tipsa agha, na onye ọbụla bi nʼobodo ahụ na gburugburu ya nʼihi na ha ekweghị emeghe ọnụ ụzọ ama ha. O tigburu Tifsa kwakọrọ ihe niile, bọwakwaa afọ ndị inyom niile dị ime."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Menahem eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼafọ iri atọ na itoolu nke Azaraya, eze Juda, Menahem nwa Gadi ghọrọ eze ọhụrụ ndị Izrel. Ọ chịrị afọ iri dịka eze na Sameria."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "O mere ihe jọrọ njọ nʼanya Onyenwe anyị. Nʼoge ọchịchị ya, o sighị na mmehie Jeroboam nwa Nebat wezuga onwe ya, bụ nke o mere ka Izrel mehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe ahụ, Pul",
+          {
+            "noteId": 282
+          },
+          "eze Asịrịa busoro ala ahụ agha. Menahem nyere ya otu puku talenti ọlaọcha, ime ka Pul kwagide ọchịchị ya, na ime ka aka ya siekwa ike nʼalaeze Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Menahem si nʼaka ndị Izrel nweta ego a. Onye ọgaranya ọbụla tụrụ iri shekel ọlaọcha ise nke e nyere eze Asịrịa. Mgbe eze Asịrịa natachara ọlaọcha ndị a, o si nʼala ahụ pụọ, ọ nọgidekwaghị nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Akụkọ banyere Menahem na ihe niile o mere, e deghị ha nʼakwụkwọ akụkọ ihe ndị eze Izrel mere nʼụbọchị ndụ ha?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Menahem sooro ndị nna nna ya ha dina nʼọnwụ, Pekahaya nwa ya ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pekahaya eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nʼafọ nke iri ise, nke ọchịchị eze Azaraya na Juda, ka Pekahaya nwa Menahem bidoro ịchị dịka eze nʼIzrel. Afọ abụọ ka ọ chịrị nʼime Sameria."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ma Pekahaya mere ihe ọjọọ nʼanya Onyenwe anyị. O sighị na mmehie niile nke Jeroboam nwa Nebat wezuga onwe ya, bụ nke o jiri mee ka Izrel mehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma Peka nwa Remalaya, otu nʼime ndịisi agha eze na iri ndị ikom ise ọzọ si Gilead gbara izu megide ya, gbuo ya nʼụlọeze dị nʼime Sameria. Ha gbukwara Agob na Arie nʼoge a ha gburu Pekahaya. Emesịa, Peka ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Akụkọ banyere Pekahaya na ihe niile o mere ka e dere nʼakwụkwọ akụkọ ihe ndị eze Izrel mere nʼụbọchị ndụ ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Peka eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼafọ nke iri ise na abụọ nke ọchịchị Azaraya eze Juda ka Peka nwa Remalaya ghọrọ eze Izrel nʼobodo Sameria. Ọ chịrị dịka eze iri afọ abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "O mere ihe jọrọ njọ nʼanya Onyenwe anyị. O fere chi ọzọ ofufe, o sighị na mmehie Jeroboam nwa Nebat wezuga onwe ya, bụ mmehie nke o dubara ndị Izrel nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nʼoge Peka bụ eze Izrel, ka Tiglat-Pilesa, eze Asịrịa bịara were Ijon, Ebel-Bet-Maaka, Janoa, Kedesh, Hazọ, Gilead, Galili na ala ndị Naftalị niile. Ọ chụpụrụ ndị mmadụ niile mee ka ha gaa biri nʼAsịrịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nʼoge ahụ, Hoshea nwa Elaa gbara izu ọjọọ megide Peka nwa Remalaya gbuo ya, bụrụ eze nʼọnọdụ ya. Ọ malitere ịbụ eze nʼafọ nke iri abụọ nke ọchịchị eze Jotam nwa Uzaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Akụkọ banyere Peka na ihe niile o mere, e deghị ha nʼakwụkwọ akụkọ ihe ndị eze Izrel niile mere nʼụbọchị ndụ ha?"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jotam eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼafọ nke abụọ nke ọchịchị Peka nwa Remalaya eze Izrel ka Jotam nwa Ụzaya eze Juda malitere ọchịchị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ọ gbara iri afọ abụọ na ise mgbe ọ ghọrọ eze. Ọ chịrị afọ iri na isii na Jerusalem. Aha nne ya bụ Jerusha, nwa Zadọk."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "O mere ihe ziri ezi nʼanya Onyenwe anyị dịka nna ya Ụzaya mere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Kama, o wezugaghị ebe ịchụ aja dị nʼelu ugwu, ndị mmadụ gara nʼihu na-achụ aja nsure ọkụ dị iche iche na aja na-esi isi ụtọ nʼebe ahụ. Jotam wugharịrị Ọnụ Ụzọ ama nke dị Elu nke ụlọnsọ ukwu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ma banyere ihe ndị ọzọ niile nke oge ọchịchị Jotam na ihe o mere, ọ bụ na e deghị ha nʼakwụkwọ akụkọ ihe mere nʼoge ndị eze Juda?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "(Nʼụbọchị ndị ahụ, Onyenwe anyị malitere izite Rezin eze ndị Aram na Peka nwa Remalaya, imegide ndị Juda.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Jotam sooro ndị nna nna ya ha dina nʼọnwụ, e lie ya nʼebe e liri ha, nʼobodo Devid, bụ obodo nna ya. Ehaz nwa ya nwoke ghọrọ eze nʼọnọdụ ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 279,
+        "caller": "+",
+        "text": "Ọ bụ nʼime senchuri nke asatọ (Tupu a mụọ Kraịst)",
+        "reference": {
+          "chapter": 15,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 280,
+        "caller": "+",
+        "text": "A kọrọ akụkọ a nʼakwụkwọ 2Ih 26:16-21ebe ọ pụtara ìhè. Chineke mere ka eze ghọọ onye ekpenta nʼihi nleda anya o ledara ndị nchụaja, mgbe ọ gara chụọ aja, bụ ihe ọ na-ekwesighị ime dịka eze ọ bụ. Ọnụ 3:10; 16:39-40; 18:6-7",
+        "reference": {
+          "chapter": 15,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 281,
+        "caller": "+",
+        "text": "Ọ bụ Jotam nọ na-achị ala ahụ nʼọnọdụ eze Azaraya ruo mgbe ọ nwụrụ.",
+        "reference": {
+          "chapter": 15,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 282,
+        "caller": "+",
+        "text": "Pul bụkwa onye a na-akpọ Tiglat-Pilesa, nʼasụsụ ndị Babilọn, gụọ 1Ih 5:26",
+        "reference": {
+          "chapter": 15,
+          "verse": 19
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2KI/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2KI/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

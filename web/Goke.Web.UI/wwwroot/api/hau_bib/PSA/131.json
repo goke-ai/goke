@@ -1,0 +1,111 @@
+{
+  "translation": {
+    "id": "hau_bib",
+    "name": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™",
+    "website": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "hau",
+    "textDirection": "ltr",
+    "sha256": "f7b98712d68944c90ac6eda799ede1e61c24c14e7b2140ccb01e230d07e049ba",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/hau_bib/books.json",
+    "numberOfBooks": 65,
+    "totalNumberOfChapters": 1177,
+    "totalNumberOfVerses": 30730,
+    "languageName": "Hausa",
+    "languageEnglishName": "Hausa"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "hau_bib",
+    "name": "Zabura",
+    "commonName": "Zabura",
+    "title": "Zabura",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e78067311fcd1738fecf41d9125bd907b5108451faa2568b2f100137459efee1",
+    "firstChapterApiLink": "/api/hau_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/hau_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 131,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Waƙar haurawa. Ta Dawuda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Zuciyata ba mai girman kai ba ce, ya Ubangiji,",
+            "poem": 1
+          },
+          {
+            "text": "idanuna ba sa fariya;",
+            "poem": 2
+          },
+          {
+            "text": "ban dami kaina da manyan al’amura ba",
+            "poem": 1
+          },
+          {
+            "text": "ko abubuwan da suka sha ƙarfina.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Amma na haƙura na kuma kwantar da raina;",
+            "poem": 1
+          },
+          {
+            "text": "kamar yaron da aka yaye tare da mahaifiyarsa,",
+            "poem": 2
+          },
+          {
+            "text": "kamar yaron da aka yaye haka raina yake a cikina.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ya Isra’ila, sa zuciyarka ga Ubangiji",
+            "poem": 1
+          },
+          {
+            "text": "yanzu da har abada kuma.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/hau_bib/PSA/131.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/hau_bib/PSA/132.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/hau_bib/PSA/130.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

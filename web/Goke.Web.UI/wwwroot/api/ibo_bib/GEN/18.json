@@ -1,0 +1,331 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị ọbịa atọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gosiri Ebraham onwe ya nʼakụkụ osisi ukwu dị na Mamre, mgbe Ebraham nọdụrụ ala nʼihu ụlọ ikwu ya, nʼetiti ehihie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O lelitere anya ya hụ ndị ikom atọ ka ha guzo ebe ọ nọ nso. Mgbe ọ hụrụ ha, o sitere nʼihu ụlọ ikwu ya gbakwuru ha izute ha, kpọọ isiala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ sịrị, “Onyenwe m, ọ bụrụ na m natara amara nʼihu gị, agabigala ohu gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Biko, ka ekutere unu mmiri ntakịrị, ka unu sachaa ụkwụ unu, zurukwa ike nʼokpuru osisi a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ka m wetara unu nri ntakịrị unu ga-eri nke ga-agba unu ume tupu unu agawa nʼihu nʼije unu ugbu a unu bịara na nke ohu unu.” Ha zara sị ya, “Ọ dị mma. Mee dịka i kwuru.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ya mere, Ebraham mere ngwangwa banyekwuru Sera nʼụlọ ikwu ya sị ya, “Mee ngwa, mapụta ihe ọtụtụ sịa atọ",
+          {
+            "noteId": 714
+          },
+          "site na ọka a kwọrọ nke ọma jiri meta achịcha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ahụ, Ebraham gbagara nʼigwe ehi ya, họpụta otu nwa ehi na-akaghị aka nke ahụ ya dị mma, nye ya otu ohu ya onye mere ngwangwa gbuo ya, dozie ya maka oriri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Emesịa, Ebraham buuru mmiri ara ehi nke rahụrụ arahụ, na mmiri ara ehi, na anụ ahụ a kwadoro dozie ha nʼihu ndị ọbịa ahụ. O guzokwara nso nso ebe ha nọ nʼokpuru osisi ahụ mgbe ha na-eri nri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha jụrụ ya sị, “Ebee ka Sera nwunye gị nọ?” Ọ zara sị, “Ọ nọ nʼime ụlọ ikwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ sịrị ya, “Nʼezie, mụ onwe m ga-alọghachikwute gị nʼoge a nʼafọ ọzọ, Sera nwunye gị ga-amụta nwa nwoke.” Sera guzo nʼime ụlọ ikwu ahụ nke dị nʼazụ Ebraham na-ege ntị nʼihe ha na-ekwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼoge a, Ebraham na Sera emeela nnọọ agadi, gbaakwa isi awọ. Sera agafeela oge ịmụta nwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, mgbe Sera nụrụ ihe Onyenwe anyị kwuru, ọ chịrị ọchị sị, “Agadi nwanyị dịka m o si aṅaa amụta nwa, ugbu a onyenwe m karala nka?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Onyenwe anyị jụrụ Ebraham ajụjụ sị, “Gịnị mere Sera ji achị ọchị? Gịnị mere o ji kwuo sị, ‘Olee otu agadi nwanyị dịka m ga-esi mụọ nwa?’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ dị ihe nyịrị Onyenwe anyị ime? Mụ onwe m ga-alọghachikwute gị nʼoge a kara aka, Sera nwunye gị ga-amụta nwa nwoke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma ụjọ tụrụ Sera. Nʼihi ya, ọ gọrọ agọ sị, “Achịghị m ọchị.” Ma Ọ zara sị, “Ọ bụ ezie, Sera, ị chịrị ọchị.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ebraham arịọ arịrịọ banyere Sọdọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ndị ikom atọ ahụ biliri ibidokwa ije ha, ha chere ihu ịga obodo Sọdọm,",
+          {
+            "noteId": 715
+          },
+          "Ebraham dupụkwara ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe ha na-aga nʼụzọ, Onyenwe anyị tulere sị, “O kwesiri ka m zochiere Ebraham ihe m chọrọ ime?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ebraham aghaghị ịbụ mba dị ukwuu dịkwa ike. A ga-agọzikwa agbụrụ niile nọ nʼụwa site na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi na ahọpụtala m ya, ka ọ tụziere ụmụ ya na ụlọ ya ndị ga-esote ya ịgbaso ụzọ Onyenwe anyị site nʼime ihe dị mma na ihe ziri ezi, ka Onyenwe anyị mezuoro Ebraham ihe niile o kwere ya na nkwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị kwuru sị, “Mkpu akwa m na-anụ site na Sọdọm na Gọmọra dị ukwuu, otu a kwa, mmehie ha jọbigara njọ oke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ugbu a, ana m aga ka m jiri anya m hụ ma ihe ha mere ọ dị njọ dịka mkpu akwa m na-anụ si dị. Ma o sighị otu ahụ dịrị, aga m amata.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ahụ, ndị ikom abụọ nʼime ha gawara Sọdọm. Ma Ebraham nọ na-eguzo nʼihu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ebraham jeruru Onyenwe anyị nso jụọ ya sị, “Uche gị ọ bụ ikpochapụ ndị ezi omume na ndị ajọ omume?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ọ bụrụ na ị chọta iri ndị ezi omume ise nʼime obodo ahụ, ị ga-ekpochapụ obodo ahụ? Ị gaghị agbaghara",
+          {
+            "noteId": 716
+          },
+          "ya nʼihi iri ndị ezi omume ise nọ nʼime ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọ bụghị ezi ihe na ị ga-ala ndị ezi omume na ndị ajọ omume nʼiyi. Nʼihi na ị gaghị emeso ndị ezi omume dịka i si mesoo ndị na-eme ajọ ihe. O kwesighị ka onye ga-ekpe ụwa niile ikpe, kpee ikpe ziri ezi?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị zara sị ya, “Ọ bụrụ na m achọta iri ndị ezi omume ise nʼobodo Sọdọm, aga m agbaghara obodo ahụ niile nʼihi ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ebraham kwukwara ọzọ sị, “Ugbu a m nwere ike kwuwapụta okwu nʼihu Onyenwe anyị, mụ onye bụ naanị aja na ntụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Eleghị anya ọ bụrụ na e nweta naanị iri ndị ezi omume anọ na ise, ị ga-emebi obodo ahụ?” Onyenwe anyị zara sị, “Agaghị m ebibi ya ma ọ bụrụ na m achọta iri mmadụ anọ na ise nʼime ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ọzọkwa, ọ sịrị ya, “Ọ bụrụkwanụ na a ga-achọta naanị iri mmadụ anọ?” Onyenwe anyị zara sị ya, “Nʼihi iri mmadụ anọ, agaghị m ebibi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbe ahụ ọ sịrị, “Biko, ka iwe hapụ iwe Onyenwe anyị ma m kwuo okwu. Eleghị anya, achọta naanị iri mmadụ atọ nʼebe ahụ?” Onyenwe anyị zaghachiri sị ya, “Agaghị m emebi ya, ma ọ bụrụ na m achọta iri mmadụ atọ nʼime ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "O kwuru sị, “Ebe ọ bụ na m amalitela ịgwa gị, Onyenwe anyị okwu, biko kwere ka m gaa nʼihu. Ọ bụrụ na a ga-achọta naanị iri mmadụ abụọ?” Onyenwe anyị zara sị, “Nʼihi iri mmadụ abụọ ahụ agaghị m emebi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼikpeazụ, Ebraham kwuru sị, “Ka iwe hapụ iwe Onyenwe anyị. Ka m kwuo naanị otu ugboro a. Ọ bụrụkwanụ na a chọta naanị mmadụ iri nʼebe ahụ?” Onyenwe anyị zara sị, “Nʼihi mmadụ iri ahụ, agaghị m ebibi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mgbe Onyenwe anyị gwachara Ebraham okwu, ọ hapụrụ ya gawa ebe ọ na-aga. Ebraham laghachiri azụ nʼụlọ ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 714,
+        "caller": "+",
+        "text": "Ya bụ ihe ruru kilogram iri na isii",
+        "reference": {
+          "chapter": 18,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 715,
+        "caller": "+",
+        "text": "Ọnọdụ obodo Sọdọm agbanwebeghị, ọ bụladị ugbu a, ọ ka dị na ndịda akụkụ osimiri Nwụrụ anwụ nke bụkwa osimiri Nnu.",
+        "reference": {
+          "chapter": 18,
+          "verse": 16
+        }
+      },
+      {
+        "noteId": 716,
+        "caller": "+",
+        "text": "Maọbụ, Ị gaghị echebe ya",
+        "reference": {
+          "chapter": 18,
+          "verse": 24
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/18.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/19.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/17.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 33
+}

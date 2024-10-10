@@ -1,0 +1,303 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ACT",
+    "translationId": "ibo_bib",
+    "name": "Ọrụ Ndị Ozi",
+    "commonName": "Ọrụ Ndị Ozi",
+    "title": "Ọrụ Ndị Ozi",
+    "order": 44,
+    "numberOfChapters": 28,
+    "sha256": "beb34f86ac2e9ecf638b1df8e5ae7e87488df8a33aff7d1cbba602a8bc2f7ac5",
+    "firstChapterApiLink": "/api/ibo_bib/ACT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ACT/28.json",
+    "totalNumberOfVerses": 1007
+  },
+  "chapter": {
+    "number": 22,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "“Ụmụnna m na ndị nna anyị, geenụ m ntị mgbe m na-agọrọ onwe m nʼihu unu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ha nụrụ na ọ na-agwa ha okwu nʼasụsụ Hibru, ha deere duu karịa. Mgbe ọ sịrị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“Abụ m onye Juu. Amụrụ m na Tasọs nʼime Silisia. Azụrụ m na obodo a nʼụkwụ Gamaliel onye nkuzi m. Anatara m ọzụzụ dị ike na ịsọpụrụ iwu nke nna nna anyị ha ejikwa m ịnụ ọkụ nʼobi na-efe Chineke dịka unu niile si eme taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Akpagburu m ndị niile na-eso ụzọ ọhụrụ a, na-etinye ha nʼaka ọnwụ. Ejidere m ndị ikom na ndị inyom ha tụbakwa ha nʼụlọ mkpọrọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma dịka onyeisi nchụaja na nzukọ ndị okenye niile pụrụ ịgbara m akaebe. Anatakwara m nʼaka ha akwụkwọ ozi e deere ụmụnna anyị nọ na Damaskọs. Agara m ebe ahụ ịkpụta ha nʼagbụ bịa Jerusalem maka ịta ha ahụhụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Akụkọ nchegharị Pọl"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Nʼetiti ehihie, mgbe m na-aga nʼụzọ, nʼebe dị Damaskọs nso, oke ìhè nke si nʼeluigwe, chara gburugburu m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Adara m nʼala ma nụkwa olu gwara m okwu sị m,",
+          {
+            "text": "‘Sọl, Sọl, gịnị mere i ji na-akpagbu m?’",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "“ ‘Onye ka ị bụ Onyenwe m?’ Ka m jụrụ. “Ọ sịrị m,",
+          {
+            "text": "‘Abụ m Jisọs onye Nazaret onye ị na-akpagbu.’",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị mụ na ha so hụkwara ìhè ahụ, ma ha anụghị olu onye ahụ na-agwa m okwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“Asịrị m, ‘Gịnị ka m ga-eme Onyenwe anyị?’ “Onyenwe anyị sịrị m,",
+          {
+            "text": "‘Bilie banye Damaskọs; nʼebe ahụ a ga-agwa gị ihe niile a kwadobere na ị ga-eme.’",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na-enweghị m ike ịhụ ụzọ nʼihi ebube ìhè ahụ chachiri m anya. Ya mere ndị mụ na ha so sekpụụrụ m nʼaka bata na Damaskọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "“Nʼebe ahụ ka Ananayas bi, bụ onye anyị pụrụ ịgụ nʼonye ezi omume nʼihi idebe iwu. O nwekwara ọgbụgba ama dị mma site nʼọnụ ndị Juu bi nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ọ bịakwutere m, guzoro nʼakụkụ m sị, ‘Nwanna anyị Sọl, ka emee ka ị hụ ụzọ!’ Otu mgbe ahụ, e nwetara m ike ịhụ ụzọ, m hụkwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "“Mgbe ahụ, ọ sịrị, ‘Chineke nke nna nna anyị ha ahọpụtala gị ịmara uche ya na ịhụ Onye Ezi Omume ahụ na ịnụta okwu site nʼọnụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ị ga-abụ onyeama ya nye ndị niile banyere ihe ị hụrụ na ihe ị nụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma ugbu a, gịnị ka ị na-eche? Bilie ọtọ, ka e mee gị baptizim, ka a sachakwa gị site na mmehie, na-akpọkukwa aha ya.’"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pọl onyeozi nye ndị mba ọzọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "“Mgbe m lọghachikwara na Jerusalem, nọrọ na-ekpe ekpere nʼụlọnsọ ukwu ahụ, ahụrụ m ọhụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "ebe ọ na-agwa m,",
+          {
+            "text": "‘Mee ngwa! Hapụ Jerusalem, nʼihi na ndị bi nʼala a agaghị anara ọgbụgba ama gị banyere m.’",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "“Ma asịrị m, ‘Onyenwe anyị, ndị a maara nke ọma na m na-aga nʼụlọ nzukọ nʼotu nʼotu, na-atụba ndị kwere na gị nʼụlọ mkpọrọ, na-etikwa ha ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nʼoge a na-awụfu ọbara onyeama gị bụ Stivin, eguzo m nso na-akwado nʼihe emere dị mma, ma na-elekọtakwa uwe ndị ahụ tụgburu ya anya.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "“Mgbe ahụ, ọ sịrị m,",
+          {
+            "text": "‘Gawa; nʼihi na aga m ezipu gị ebe dị anya ijekwuru ndị mba ọzọ.’",
+            "wordsOfJesus": true
+          },
+          "”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pọl onye Rom"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ha ṅara ya ntị ruo ugbu a. Mgbe ahụ, ha niile tiri mkpu nʼotu olu sị, “Wepụnụ onye dị otu a nʼụwa! O kwesighị ka onye dị otu a dịrị ndụ!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ha tiri mkpu na-atụli uwe mgbokwasị ha elu, na-achilikwa aja nʼala na-efesasị ya ebe niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "ọchịagha ahụ nyere iwu ka a kpụgaa ya nʼogige ndị agha, pịa ya ụtarị, ka eziokwu pụta ya nʼọnụ. Ọ chọrọ ịmata ihe mere ha ji eti mkpu otu a megide ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma mgbe ha chịịrị ụdọ akpụkpọ kechaa ya, Pọl sịrị onye agha guzo ya nso, “Ọ bụ ihe ziri ezi nʼiwu na unu ga-eti nwa afọ Rom ihe, onye na-enweghị ikpe a mara ya?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe onye agha a nụrụ okwu a, o jekwuuru ọchịagha ahụ sị, “Gịnị ka ị na-aga ime? Nwoke a bụkwa onye Rom.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ọchịagha ahụ bịakwutere sị ya, “Gwa m, ị bụ onye Rom?” Ọ sịrị, “E.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọchịagha ahụ zara, “ma o furu m ego dị ukwuu iji bụrụ onye Rom.” Ma Pọl sịrị, “Amụrụ m dịka nwa afọ ala a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ndị ahụ chọrọ ịgba ya ajụjụ ọnụ mere ngwangwa wezuga onwe ha. Egwu tụkwara ọchịagha nʼonwe ya mgbe ọ matara na ọ bụ nwa afọ Rom, nʼihi na o keela ya rịị agbụ na mbụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pọl nʼihu ndị ikpe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Nʼechi ya, ebe ọ chọrọ ịmata ihe bụ isi okwu na ihe mere ndị Juu ji ebo ya ebubo, o nyere iwu ka ndịisi nchụaja na ndị ụlọ ikpe ha zukọọ. Mgbe ahụ, o dupụtara Pọl, mee ka o guzo nʼihu ha."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/ACT/22.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ACT/23.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ACT/21.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 30
+}

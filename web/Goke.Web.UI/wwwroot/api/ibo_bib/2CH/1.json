@@ -1,0 +1,173 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Solomọn arịọọ amamihe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Solomọn nwa Devid mere onwe ya ka o guzosie ike nʼalaeze ya, nʼihi na Onyenwe anyị Chineke ya nọnyeere ya, meekwa ka ọ dị ukwuu hie nne."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ahụ, Solomọn gwara ndị Izrel niile okwu, ya bụ, ndịisi agha na-achị ọtụtụ puku ndị agha, na ndịisi agha na-achị ọtụtụ narị ndị agha, na ndị ikpe, na ndị ndu niile nọ nʼIzrel, na ndịisi ezinaụlọ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Solomọn ya na ọgbakọ ahụ niile, gara nʼebe dị elu nke Gibiọn, nʼihi nʼebe ahụ ka ụlọ nzute Chineke dị, bụ nke Mosis onyeozi Onyenwe anyị wuru nʼọzara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma Devid esitelarị na Kiriat Jearim buputa igbe ọgbụgba ndụ Chineke ahụ, bulaa ya nʼụlọ ikwu nke o wuru maka ya na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ebe ịchụ aja bronz ahụ Bezalel nwa Uri, nwa Hua wuru dịkwa na Gibiọn, nʼihu ụlọ nzute Onyenwe anyị. Solomọn na ọgbakọ ahụ na-ajụta ya ase nʼebe bronz ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Solomọn jere nʼebe ịchụ aja ahụ e ji bronz kpụọ, nke dị nʼihu Onyenwe anyị, nʼime ụlọ nzute, jiri anụ ụlọ ọnụọgụgụ ha dị otu puku chụọ aja nsure ọkụ nʼelu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼabalị ụbọchị ahụ na Gibiọn, Onyenwe anyị mere ka Solomọn hụ ya anya, sị ya, “Rịọọ ihe ọbụla ị chọrọ ka m nye gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma Solomọn zara Chineke, sị, “I gosila nna m bụ Devid obi ebere dị ukwuu. Ugbu a, i meekwala m eze nʼọnọdụ ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ugbu a, Onyenwe anyị bụ Chineke, ka nkwa gị nke i kwere nna m, bụ Devid, bụrụ ihe e mezuru, nʼihi na ị meela m eze ndị a bara ụba nʼọnụọgụgụ dịka aja nke ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Biko, nye m amamihe na nghọta, nke m ga-eji edu ndị a napụ na-abata, nʼihi na onye pụrụ ịchịkọta ndị gị a dị ukwuu?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Chineke zara Solomọn sị ya, “Ebe ọ bụ na ị rịọghị m ka m nye gị akụnụba, maọbụ ogologo ndụ; ebe ọ bụkwa na ị rịọghị m ka m mee ka ndị kpọrọ gị asị nwụsịa, maọbụ ka m mee ka i nwee nsọpụrụ karịa, kama mkpa na-akpa gị bụ ka m nye gị amamihe na nghọta ị ga-eji duzie ndị m, nke m mere gị eze ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, enyela gị amamihe na nghọta dịka ị rịọrọ. Aga m enyekwa gị akụnụba na nsọpụrụ dị ukwuu, nke eze ọbụla nke buru gị ụzọ na-enwebeghị. Ọ dịkwaghị onye nke ga-eso gị ga-enwe ụdị ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, Solomọn sitere nʼebe dị elu nke Gibiọn, site nʼihu ụlọ nzute ahụ, lọghachi na Jerusalem. Ọ chịrị dịka eze nʼIzrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Solomọn chịkọbara ọtụtụ ụgbọ agha na ịnyịnya dị iche iche. O nwere ụgbọ agha dị otu puku na narị anọ na ịnyịnya agha dị puku iri na abụọ nʼọnụọgụgụ, ndị o debere ụfọdụ nʼime ha nʼobodo ụgbọ agha ya ma ndị ọzọ dị na Jerusalem ebe ya onwe ya nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eze mere ka ọlaọcha na ọlaedo baa ụba na Jerusalem, dịka nkume efu. O mekwara ka osisi sida dị ọtụtụ dịka osisi sikamọ nke dị nʼala ala ugwu dị iche iche"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "A na-esite nʼIjipt nakwa ala Kue atụbatara Solomọn ịnyịnya. Ndị ahịa eze na-azụta ha site na Kue nʼọnụ ahịa a na-ere ha nʼoge ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ha sitere nʼIjipt tụbata otu ụgbọ agha nʼọnụ ahịa narị shekel ọlaọcha isii; jirikwa otu narị shekel na iri shekel ise zụta otu ịnyịnya. Ha zipụkwara ha nye ndị eze niile nke ndị Het na ndị Aram."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1CH/29.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

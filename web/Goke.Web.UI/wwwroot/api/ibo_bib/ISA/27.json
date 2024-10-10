@@ -1,0 +1,314 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mgbapụta dịrị Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼụbọchị ahụ,",
+          {
+            "text": "Onyenwe anyị ga-eji mma agha ya",
+            "poem": 1
+          },
+          {
+            "text": "iwe ya, dị ukwuu dịkwa ezigbo ike,",
+            "poem": 2
+          },
+          {
+            "text": "taa agwọ ahụ na-akpụ akpụ bụ Leviatan ahụhụ.",
+            "poem": 1
+          },
+          {
+            "text": "Leviatan bụ agwọ mgbakọ ahụ;",
+            "poem": 2
+          },
+          {
+            "text": "ọ ga-egbukwa nnukwu anụ ọjọọ ahụ nke bi na mmiri.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼụbọchị ahụ,",
+          {
+            "text": "abụ a ga-adị nʼọnụ ha, abụ ha ga-abụ banyere ubi vaịnị nke na-amị ezi mkpụrụ.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "“Mụ onwe m bụ Onyenwe anyị na-elekọta ya,",
+            "poem": 2
+          },
+          {
+            "text": "ana m agba ya mmiri ụbọchị niile,",
+            "poem": 2
+          },
+          {
+            "text": "na-eche ya nche ehihie na abalị.",
+            "poem": 1
+          },
+          {
+            "text": "Ka onye ọbụla ghara iji ihe ọjọọ leta ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Adịghị m ewekwa iwe.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ bụrụ na ọ bụ naanị ogwu na uke na-echere m aka mgba,",
+            "poem": 1
+          },
+          {
+            "text": "aga m ebili buso ha agha,",
+            "poem": 2
+          },
+          {
+            "text": "aga m esurekwa ha ọkụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ma ọ bụghị otu a, ka ha bịakwute m maka nchekwa,",
+            "poem": 1
+          },
+          {
+            "text": "ha bịa ka mụ na ha mee udo.",
+            "poem": 2
+          },
+          {
+            "text": "E, ha bịa ka mụ na ha mee udo.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nʼụbọchị ndị na-abịa, Jekọb ga-agba mgbọrọgwụ.",
+            "poem": 1
+          },
+          {
+            "text": "Izrel ga-agbawa okoko dịka osisi, maakwa ifuru,",
+            "poem": 2
+          },
+          {
+            "text": "jirikwa mkpụrụ mejupụta ụwa niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Onyenwe anyị atabeghị Izrel ahụhụ",
+            "poem": 1
+          },
+          {
+            "text": "dịka o si taa ndị iro ya.",
+            "poem": 2
+          },
+          {
+            "text": "O mebekwaghị ka e gbuo ndị ya",
+            "poem": 1
+          },
+          {
+            "text": "dị ka e si gbuo ndị iro ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Onyenwe anyị tara ndị ya ahụhụ, mee ka a dọrọ ha nʼagha ma buru ha gaa mba ọzọ.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ ifufe ọjọọ nke si nʼọwụwa anyanwụ",
+            "poem": 2
+          },
+          {
+            "text": "ka o ji bupụ ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ọ bụ nʼụzọ dị otu a ka a ga-esi bupụ ikpe ọmụma dịrị Jekọb,",
+            "poem": 1
+          },
+          {
+            "text": "nke a bụkwa iju eju nke mkpụrụ e ji wezuga mmehie ya:",
+            "poem": 2
+          },
+          {
+            "text": "Mgbe ha gweriri nkume niile ha ji wuo ebe ịchụ aja arụsị ha",
+            "poem": 1
+          },
+          {
+            "text": "dịka ntụ,",
+            "poem": 2
+          },
+          {
+            "text": "mgbe ha wezugara ogidi arụsị Ashera,",
+            "poem": 1
+          },
+          {
+            "text": "na ebe ịchụ aja ihe nsure ọkụ na-esi isi ụtọ niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Obodo ahụ e wusiri ike adakpọsịala.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ghọọla ọzara nke ndị mmadụ na-ebighị nʼime ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ ghọọkwala ebe ụmụ ehi na-akpa nri,",
+            "poem": 1
+          },
+          {
+            "text": "ebe ha na-amakpu na-ezu ike.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-atacha ahịhịa dị nʼalaka osisi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Mgbe alaka osisi ndị ahụ kpọnwụrụ daa,",
+            "poem": 1
+          },
+          {
+            "text": "ụmụ nwanyị ga-abịa chịkọtaa ha were ha kwanye ọkụ.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼihi na ndị a bụ ndị na-enweghị nghọta.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ nke a mere Onye kere ha adịghị emere ha ebere.",
+            "poem": 2
+          },
+          {
+            "text": "Onye ahụ kpụrụ ha agakwaghị egosi ha obi ebere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼụbọchị ahụ, Onyenwe anyị ga-ahọcha site nʼebe mmiri na-eru eru Yufretis ruo na Wadi nke Ijipt, ma gị, bụ Izrel ka a ga-achịkọta otu nʼotu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼụbọchị ahụ, opi ike ga-ada. Ndị ahụ na-ala nʼiyi nʼAsịrịa na ndị ahụ e mere ka ha gaa biri nʼIjipt dịka ndị mba ọzọ ga-abịa fee Onyenwe anyị ofufe nʼugwu nsọ ya dị na Jerusalem."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/27.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/28.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/26.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

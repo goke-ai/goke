@@ -1,0 +1,179 @@
+﻿@page "/products/maths"
+
+@implements IAsyncDisposable
+
+@inject IJSRuntime JS
+@inject ILogger<Maths> Logger
+
+<PageTitle>Maths</PageTitle>
+
+<h1>Maths</h1>
+
+<div class="card">
+    <div class="card-header">Calculator</div>
+    <div class="card-body">
+
+        <div class="calc">
+            <div class="calc-screen">
+                <div class="calc-input-top">@((MarkupString)input.ExpressionText)</div>
+                <div class="calc-input">@input.Text</div>
+            </div>
+
+            <div style='@(hasChart ? "display:block;padding-block:0.5em;":"display:none;padding-block:0.5em;")'>
+                <button @onclick="OnClosePlot">&#x00d7;</button>
+                <div id="myplot"></div>
+            </div>
+
+            <div style="padding-block:0.5em;">
+                <div class="keys | calc-keys">
+                    @foreach (var k in operators)
+                    {
+                        int count = inputs.Count;
+
+                        <button class="@(KeyEnabled(k) ? "calc-key":"primary calc-key")"
+                            @onclick="()=>OnOperatorPress(k.Key)"                              
+                            title="@k.Key">
+                            <div class="calc-key-wrapper">
+                                <div class="calc-key-content">
+                                    @if (k.Italic)
+                                    {
+                                        <i>
+                                            @((MarkupString)k.Symbol!)
+                                        </i>
+                                    }
+                                    else
+                                    {
+                                        @((MarkupString)k.Symbol!)
+                                    }
+                                    @if (k.Key == Calculator.Key.BracketOpen && count > 0)
+                                    {
+                                        <sub style="font-size:0.6em;">@count</sub>
+                                    }
+                                </div>
+                            </div>
+                        </button>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    private IJSObjectReference? module;
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            module = await JS.InvokeAsync<IJSObjectReference>("import",
+                "./Pages/Products/Maths.razor.js");
+
+            //await module.InvokeVoidAsync("addHandlers");
+        }
+    }
+
+    async ValueTask IAsyncDisposable.DisposeAsync()
+    {
+        if (module is not null)
+        {
+            await module.DisposeAsync();
+        }
+    }
+
+    bool hasChart;
+    async void OnClosePlot()
+    {
+        hasChart = false;
+        return;
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("plotClose", "#myplot");
+        }
+    }
+
+    List<Calculator.KeySymbol> operators = Calculator.KeySymbol.KEYS;
+
+    Goke.Calculator.Input input = new();
+
+    Stack<Calculator.Input> inputs = new();
+    Calculator.Input? child;
+
+    bool KeyEnabled(Calculator.KeySymbol k)
+    {
+        if (k.Key == Calculator.Key.COMPUTE && input.CanCompute)
+        {
+            return true;
+        }
+        else if (k.Key == Calculator.Key.STORE && input.CanStore)
+        {
+            return true;
+        }
+        else if (k.Key == Calculator.Key.DEGREE && input.IsDegree)
+        {
+            return true;
+        }
+        else if (k.Key == Calculator.Key.RADIAN && !input.IsDegree)
+        {
+            return true;
+        }
+        return false;
+    }
+
+    private async void OnOperatorPress(Calculator.Key op)
+    {
+        if (op == Calculator.Key.BracketOpen)
+        {
+            var active = inputs.LastOrDefault() ?? input;
+            child = active.BracketOpen();
+            child.OnBracketClose += (o, e) =>
+            {
+                child = inputs.Pop();
+                child.BracketClose();
+                child = inputs.LastOrDefault();
+            };
+            inputs.Push(child);
+        }
+        else if (op == Calculator.Key.BracketClose)
+        {
+            if (inputs.Count > 0)
+            {
+                child = inputs.Pop();
+                child.BracketClose();
+                child = inputs.LastOrDefault();
+            }
+        }
+        else
+        {
+            if (child != null)
+            {
+                child.SendKey(op);
+            }
+            else
+            {
+                input.SendKey(op);
+
+            }
+
+            if (op == Calculator.Key.Quadratic && input.GraphData is not null)
+            {
+                hasChart = true;
+
+                (double[] x, double[] y) = input.GraphData.Value;
+                var data = x.Zip(y).Select(s => new { x = s.First, y = s.Second });
+
+                if (module is not null)
+                {
+                    await module.InvokeVoidAsync("plotQuadratic", "#myplot", data);
+                }
+            }
+        }
+
+        StateHasChanged();
+    }
+
+
+}

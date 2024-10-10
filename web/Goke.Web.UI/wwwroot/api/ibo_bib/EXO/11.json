@@ -1,0 +1,138 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "ibo_bib",
+    "name": "Ọpụpụ",
+    "commonName": "Ọpụpụ",
+    "title": "Ọpụpụ",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "774d546ab55fe8a892b28e8acd9db4ac825cb56f7c17b3a54855a28aa16a7122",
+    "firstChapterApiLink": "/api/ibo_bib/EXO/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EXO/40.json",
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ogbugbu ụmụ e buru ụzọ mụọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gwara Mosis, “Aga m ewetara Fero na Ijipt otu ihe otiti ọzọ. Mgbe nke a gasịrị, ọ ga-ekwe ka unu si nʼebe a pụọ. Nʼeziokwu, ọ ga-eji aka ya chụpụ unu nʼala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Gwa nwoke na nwanyị Izrel ọbụla ka ha jikere. Ha rịọọ ndị agbataobi ha bụ ndị Ijipt, ka ha nye ha ihe ọbụla e ji ọlaọcha na ọlaedo kpụọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onyenwe anyị mere ka ụmụ Izrel nweta ihuọma nʼebe ndị Ijipt, na ndị agbataobi ha nọ. Nke ka nke, Mosis ghọrọ onye a na-asọpụrụ nʼetiti ndị ozi Fero na nʼihu ndị Ijipt niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere, Mosis sịrị, “Ihe a ka Onyenwe anyị kwuru, ‘Nʼihe dịka nʼetiti abalị taa, aga m agafe nʼime ala Ijipt niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe nke a na-eme, ndị ikom niile e bụ ụzọ mụọ",
+          {
+            "noteId": 559
+          },
+          "nʼala Ijipt ga-anwụ, site nʼọkpara Fero, onye nọ ugbu a nʼocheeze ya, ruo nʼọkpara ohu onye nwanyị na-akwọ ihe na nkume ịkwọ nri, na ụmụ ehi niile e bụ ụzọ mụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe nke a mere, iti mkpu akwa dị ukwuu ga-adị nʼala Ijipt, ụdị ga-ada nʼala Ijipt niile nke na-adịbeghị nʼala Ijipt, ụdị iti mkpu akwa nke na-agaghị adịkwa ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma nʼebe ụmụ Izrel nọ, nkịta agaghị agbọ nwoke maọbụ nwanyị maọbụ anụmanụ ọbụla ụja.’ Site na nke a, ị ga-amata na Onyenwe anyị na-akpa oke nʼetiti ndị Izrel na ndị Ijipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị ọchịchị gị ndị a ga-abịa gbuo ikpere rịọọ m sị m, ‘Biko kpọrọ ndị gị pụọ nʼobodo anyị.’ Mgbe ha mesịrị nke a, aga m apụ.” Iwe were Mosis mgbe o si nʼụlọ Fero na-apụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Onyenwe anyị agwalarị Mosis sị ya, “Fero agaghị ege gị ntị. Nke a ga-enye m ohere ime ọtụtụ ihe ebube dị iche iche nʼIjipt.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ bụ ezie na Mosis na Erọn mere ihe ebube ndị a nʼihu Fero, ma Onyenwe anyị mere ka obi Fero sie ike, ka ọ hapụ ikwe ka ụmụ Izrel si nʼala ya pụọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 559,
+        "caller": "+",
+        "text": "Gbaa gburugburu ala niile dị nʼetiti ọwụwa anyanwụ, ọdịnihu ezinaụlọ ọbụla na-adabere nʼọkpara.",
+        "reference": {
+          "chapter": 11,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EXO/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EXO/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EXO/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

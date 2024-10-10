@@ -1,0 +1,25 @@
+﻿@import url('components/css/style.css');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+}
+
+
+
+#hero, .hero {
+    position: relative;
+
+    --_url: url("images/hero-bg.jpg");
+    width: 100%;
+    height: 100vh;
+    background: var(--_url) top center;
+    background-size: cover;
+}
+
+.wrapper:has(#hero, .hero) {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+

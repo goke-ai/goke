@@ -1,0 +1,200 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 28,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hananaya onye amụma ụgha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O ruo, nʼọnwa nke ise nke otu afọ ahụ, nke bụ afọ nke anọ, na mmalite ọchịchị Zedekaya eze Juda, Hananaya, nwa Azoa, onye amụma si Gibiọn, gwara m okwu nʼụlọnsọ Onyenwe anyị nʼihu ndị nchụaja na ndị mmadụ si m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel kwuru, ‘Aga m agbaji agbụ nke eze Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Tupu afọ abụọ agabiga, aga m esi Babilọn bulata ihe ndị ahụ niile Nebukadneza eze Babilọn si nʼụlọnsọ Onyenwe anyị bupụ bulaa Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Aga m akpọlatakwa Jehoiakin nwa Jehoiakim, na ndị niile ọzọ e si na Juda dọta nʼagha bulaa Babilọn, nʼihi na aga m agbaji agbụ ahụ eze Babilọn nyanyere ha nʼolu.’ ” Otu a ka Onyenwe anyị kwubiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Jeremaya onye amụma zara Hananaya onye amụma nʼihu ndị nchụaja na ndị mmadụ niile guzo nʼụlọnsọ Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Jeremaya onye amụma sịrị, “Amen!",
+          {
+            "noteId": 1024
+          },
+          "Ka Onyenwe anyị mezuo okwu amụma a i buru site na ibughachite ngwongwo ụlọ Onyenwe anyị na ịkpọghachite ndị niile e mere ka ha si nʼebe a gaa biri na Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma gee ntị nụrụ ihe m ga-ekwu nʼihu gị na nʼihu ndị a niile guzo nʼebe a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Site na mgbe ochie, ndị amụma ahụ bu mụ na gị ụzọ ebuola amụma banyere agha na mbibi na ọrịa na-efe efe megide ọtụtụ obodo dị iche iche, na ọtụtụ alaeze dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma ihe e ji amata na ọ bụ Onyenwe anyị nʼezie, zitere onye amụma buru amụma kwuo na udo ga-adị, bụ naanị ma ọ bụrụ na amụma ya emezuo.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ahụ, Hananaya bụ onye amụma yipụrụ Jeremaya agbụ ahụ o yikwasịrị onwe ya nʼolu gbajie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ sịrị nʼihu ọha mmadụ ahụ niile, “Nke a ka Onyenwe anyị kwuru: ‘Ọ bụ nʼotu aka ahụ ka m ga-agbajipụkwa agbụ ịyagba Nebukadneza, eze Babilọn nyanyere nʼolu mba niile tupu afọ abụọ agabiga.’ ” Mgbe o kwuru otu a, Jeremaya onye amụma hapụrụ ebe ahụ laa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe Hananaya bụ onye amụma gbajisiri ịyagba",
+          {
+            "noteId": 1025
+          },
+          "ahụ Jeremaya, onye amụma nyanyere onwe ya nʼolu, okwu Onyenwe anyị ruru Jeremaya ntị sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "“Gaa gwa Hananaya okwu sị ya, ‘Ihe ndị a ka Onyenwe anyị kwuru: Ị gbajiela agbụ e ji osisi mee, ma nʼọnọdụ ya ihe ị ga-enweta bụ agbụ igwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel, kwuru. Aga m anyanye mba ndị a niile agbụ igwe, i mee ka ha fee Nebukadneza eze Babilọn. Ha ga-efekwa ya. Aga m enyekwa ya ike ọ bụladị nʼebe ụmụ anụ ọhịa dị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ahụ, Jeremaya onye amụma sịrị Hananaya onye amụma, “Gee ntị, Hananaya! Ọ bụghị Onyenwe anyị zitere gị, ma ị ghọgbuola mba a mee ka ha tụkwasị uche nʼokwu ụgha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼihi nke a, otu a ka Onyenwe anyị kwuru, ‘Ekpebiela m isite nʼụwa wepụ gị. Ị ga-anwụ nʼafọ a, nʼihi na i kwusaala nnupu isi megide Onyenwe anyị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼọnwa asaa nke afọ ahụ Hananaya onye amụma nwụrụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1024,
+        "caller": "+",
+        "text": "Maọbụ, Ya sikwa otu a dịrị",
+        "reference": {
+          "chapter": 28,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1025,
+        "caller": "+",
+        "text": "Lit. Yoku",
+        "reference": {
+          "chapter": 28,
+          "verse": 12
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/28.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/29.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/27.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

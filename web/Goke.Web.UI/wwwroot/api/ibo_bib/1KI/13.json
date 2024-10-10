@@ -1,0 +1,318 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Eze",
+    "commonName": "1 Ndị Eze",
+    "title": "1 Ndị Eze",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "bc19177f5947d59e115a1a111245ea4249ce6da42aa6c8da3080fae6d4b373fb",
+    "firstChapterApiLink": "/api/ibo_bib/1KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1KI/22.json",
+    "totalNumberOfVerses": 816
+  },
+  "chapter": {
+    "number": 13,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Onye nke Chineke si Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Otu onye nke Chineke si Juda bịa Betel, site nʼokwu nke Onyenwe anyị oge Jeroboam guzo nʼebe ịchụ aja ka ọ chụọ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "O tiri mkpu nʼoke olu megide ebe ịchụ aja ahụ dịka okwu Onyenwe anyị si dị, “Ebe ịchụ aja, ebe ịchụ aja! Otu a ka Onyenwe anyị na-ekwu: ‘A ga-amụ otu nwa nwoke nʼụlọ Devid, aha ya ga-abụ Josaya.",
+          {
+            "noteId": 91
+          },
+          "Ọ ga-eji ndị nchụaja niile nke ebe dị elu, bụ ndị na-achụ aja nʼelu gị, chụọ aja nʼelu gị. A ga-esurekwa ọkpụkpụ ndị mmadụ ọkụ nʼelu gị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼụbọchị ahụ, onye nke Chineke ahụ kwuru okwu banyere ihe ịrịbama ga-emezu. O kwuru sị, “Nke a bụ ihe ịrịbama Onyenwe anyị ji emesi okwu ya ike: Ebe ịchụ aja a ga-agbawa ụzọ abụọ. Ntụ dị nʼelu ya ga-awụsasị nʼala.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe eze Jeroboam nụrụ ihe onye nke Chineke ahụ kwuru megide ebe ịchụ aja Betel, o setịpụrụ aka ya site nʼebe ịchụ aja ahụ sị, “Jidenụ nwoke a!” Ma aka ahụ ọ setịpụrụ tụgide nwoke ahụ kpọnwụrụ na o nwekwaghị ike iweghachi ya azụ ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọzọkwa, ebe ịchụ aja ahụ gbawara abụọ, ntụ dị nʼelu ya wụsịkwara nʼala dịka ihe ịrịbama nke onye amụma Chineke nyere, site nʼokwu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, eze sịrị onye nke Chineke ahụ, “Biko, rịọọ Onyenwe anyị Chineke gị, kpekwara m ekpere ka e nyeghachi m aka m.” Ya mere, onye nke Chineke ahụ rịọrọ Onyenwe anyị site nʼekpere, emekwara ka aka eze dịghachi dịkwa ka ọ dị na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Emesịa, eze gwara onye nke Chineke ahụ okwu sị, “Soro m gaa nʼụlọ m. Aga m enye gị ihe oriri, nyekwa gị onyinye.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma onye nke Chineke ahụ zara eze sị, “Ọ bụrụ na i nye m ọkara ihe niile i nwere, agaghị m eso gị baa nʼime ụlọ gị. Agaghị m erikwa nri gị maọbụ ṅụọ mmiri nʼebe a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼihi na-enyere m iwu site nʼokwu Onyenwe anyị, sị, ‘Erila nri, aṅụkwala mmiri, esitekwala ụzọ i si gaa laghachi.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ya mere, o sitere nʼụzọ ọzọ lawa, nke na-abụghị ụzọ o si bịa Betel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma o nwere otu onye amụma bụ agadi bi na Betel. Onye ụmụ ya bịara kọọrọ ihe niile onye nke Chineke ahụ mere nʼụbọchị ahụ na Betel, ha kọkwaara nna ha ihe niile ọ gwara eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nna ha jụrụ ha, “Olee ụzọ ọ gara?” Ụmụ ya ndị ikom ziri ya ụzọ nke onye nke Chineke ahụ si Juda gara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, ọ sịrị ụmụ ya ndị ikom, “Jikekwaranụ m ịnyịnya ibu m.” Ha jikekwaara ya ịnyịnya ibu, ọ nọkwasịrị nʼelu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ gbasooro onye nke Chineke nʼazụ, ọ hụrụ ya ka ọ nọ ala nʼokpuru osisi ook, Ọ sịrị ya, “Ọ bụ gị bụ onye nke Chineke ahụ si Juda bịa?” Ọ zara, “E, ọ bụ mụ onwe m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Onye amụma ahụ sịrị ya, “Soro m ka anyị gaa nʼụlọ m, ka i rie nri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma ọ sịrị, “Apụghị m iso gị laghachi azụ, maọbụ rie nri, ma ọ bụkwa ṅụọ mmiri ọbụla nʼebe a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼihi na a gwara m site nʼokwu Onyenwe anyị sị, ‘Erikwala nri maọbụ ṅụọ mmiri nʼebe ahụ, maọbụ soro ụzọ ị si gaa lọtakwa.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma onye nke ọzọ sịrị ya, “Mụ onwe m bụkwa onye amụma dịka gị, mmụọ ozi zikwara m ozi site nʼokwu Onyenwe anyị sị, ‘Kpọrọ ya ka o soro gị laghachi nʼụlọ gị, ka o rie nri, ṅụọkwa mmiri.’ ” (Ma ọ gwara ya okwu ụgha.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ya mere, nwoke nke Chineke ahụ soro ya laghachi rie nri, ṅụọkwa mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma mgbe ha abụọ nọdụ na-eri ihe na tebul, okwu Onyenwe anyị rutere onye amụma agadi ahụ ntị, bụ onye mere ka ọ lọghachi azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ kpọrọ onye nke Chineke ahụ si Juda bịa sị ya, “Otu a ka Onyenwe anyị na-ekwu, ‘Nʼihi na ị nupula isi nʼokwu ọnụ Onyenwe anyị, hapụ idebe iwu Onyenwe anyị Chineke gị nyere gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ị laghachikwara nʼebe a, rie nri, ṅụọkwa mmiri, bụ ebe ọ gwara gị sị gị, erila nri, aṅụkwala mmiri. Ya mere, agaghị eli ozu gị nʼala ili nna gị ha.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe onye nke Chineke ahụ risiri nri, ṅụọkwa ihe ọṅụṅụ, ha kwadooro ya ịnyịnya ibu nke onye amụma ahụ kpọghachiri ya azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Dịka ọ na-alaghachi, otu ọdụm zutere ya nʼụzọ, dọgbuo ya. Ma ọ hapụrụ ozu ya ka ọ tọgbọrọ nʼokporoụzọ, ma ịnyịnya ibu ya ma ọdụm ahụ dọgburu nwoke ahụ guzokwa nʼakụkụ ozu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị mmadụ na-agafe hụrụ ozu ahụ ka ọ tọgbọrọ nʼụzọ, hụkwa ka ọdụm ahụ guzo nʼakụkụ ya. Ndị a gara kọọ akụkọ ihe ha hụrụ nʼụzọ nʼobodo ebe onye amụma agadi ahụ bi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe onye amụma ahụ mere ka ọ laghachi azụ nụrụ ihe mere, ọ sịrị, “Ọ bụ onye nke Chineke ahụ nupuru isi nʼokwu Onyenwe anyị. Onyenwe anyị enyefeela ya nʼaka ọdụm, nke dọgburu ma gbukwaa ya, dịka okwu Onyenwe anyị dọrọ ya aka na ntị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ahụ, ọ sịrị ụmụ ya ndị ikom, “Jikekwaranụ m ịnyịnya ibu.” Ha mere otu a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọ pụrụ gaa chọta ozu nwoke ahụ ka ọ tọgbọrọ nʼụzọ. Ịnyịnya ibu ya na ọdụm ahụ guzokwa nʼakụkụ ozu ahụ. Ọdụm erighị anụ nwoke ahụ, ọ dọgbukwaghị ịnyịnya ibu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Onye amụma agadi ahụ buliri ozu onye nke Chineke ahụ dọkwasị ya nʼelu ịnyịnya ibu ya, buru ya bughachi ya nʼobodo, nʼihi iruru ya ụjụ, nakwa ili ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "O liri ozu onye nke Chineke ahụ nʼili nke aka ya. Mgbe o liri ya, ọ kwara akwa sị, “Ewoo nwanna m!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe o lisiri ya, ọ gwara ụmụ ya ndị ikom sị, “Mgbe m nwụrụ, lienụ m nʼotu ili a e liri onye nke Chineke; doonụ ọkpụkpụ m ka ọ dịrị nʼakụkụ ọkpụkpụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Nʼihi na ozi ahụ niile o ziri site nʼokwu Onyenwe anyị megide ebe ịchụ aja dị na Betel, na megidekwa ebe ụlọ arụsị niile dị nʼebe dị elu nʼobodo Sameria aghaghị imezu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼagbanyeghị ihe ndị a niile, Jeroboam esiteghị nʼụzọ ọjọọ ya tụgharịa. Kama ọ gara nʼihu họpụta ndị nchụaja maka ebe niile dị elu site nʼetiti ndị mmadụ efu. Onye ọbụla chọrọ ị bụ onye nchụaja ka o doro nsọ maka ije ozi nʼebe niile dị elu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          {
+            "noteId": 92
+          },
+          "Nke a bụ mmehie ezinaụlọ Jeroboam. Ọ bụ ya mere alaeze Jeroboam ji daa, meekwa ka e kpochapụ ya nʼelu ụwa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 91,
+        "caller": "+",
+        "text": "2Ez 23:15-16",
+        "reference": {
+          "chapter": 13,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 92,
+        "caller": "+",
+        "text": "1Ez 12:30; 2Ez 17:21",
+        "reference": {
+          "chapter": 13,
+          "verse": 34
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1KI/13.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1KI/14.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1KI/12.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

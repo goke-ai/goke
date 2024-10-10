@@ -1,0 +1,124 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọkpụkpọ Izikiel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ọ sịrị m, “Nwa nke mmadụ, bilie ọtọ, guzo nʼụkwụ gị abụọ, nʼihi na ana m aga ịgwa gị okwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mmụọ ahụ banyere nʼime m mgbe ahụ ọ na-ekwu okwu, mee ka m guzo ọtọ nʼụkwụ m abụọ. Anụrụ m ka ọ gwara m okwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ sịrị m, “Nwa nke mmadụ, ana m eziga gị ka i jekwuru ndị Izrel, ndị bụ mba na-enupu isi, ndị nupuru isi megide m. Ha na nna nna ha enupula isi megide m, ruo ọ bụladị nʼụbọchị taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ndị ahụ m na-eziga gị ka i jekwuru bụ ndị isiike na ndị nnupu isi. Sị ha, ‘Ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma ha gere gị ntị, ma ha egeghị gị ntị (ha bụ ndị na-enupu isi), ihe dị mkpa bụ na ha ga-amata na onye amụma anọọla nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma gị nwa nke mmadụ, atụla ha egwu. Ka ụjọ okwu si ha nʼọnụ ghara ịtụkwa gị. Atụla egwu, ọ bụladị ma a sị na ogwu na uke gbara gị gburugburu, ọ bụladị ma a sị na i bi nʼetiti ụmụ akpị. Ka ụjọ ghara ịtụ gị nʼihi okwu ọnụ ha, ekwekwala ka ha menye gị egwu, nʼihi na ha bụ ndị na-enupu isi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ị ghaghị izi ha ozi m ziri gị zie ha, ma ha gere ntị ma ha egeghị ntị, nʼihi na ha bụ ndị na-enupu isi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ma gị, nwa nke mmadụ, gee ntị nʼihe m na-agwa gị. Enupula isi dịka ha si nupu isi. Meghee ọnụ gị taa ihe m ga-etinye gị nʼọnụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Otu mgbe ahụ, elere m anya hụ aka e setịpụrụ, nke ji akwụkwọ a fụkọrọ afụkọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "nke e dekwara ihe nʼime ya, ihu na azụ ya. Aka ahụ ji ya gbasapụrụ ya mee ka m hụ ihe e dere nʼime ya. Ọ bụ okwu ịkwa akwa na iru ụjụ na ahụhụ."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 10
+}

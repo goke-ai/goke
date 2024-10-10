@@ -1,0 +1,119 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Nʼoge ahụ, ndị ikom ole na ole ga-afọdụ ndụ.",
+            "poem": 1
+          },
+          {
+            "text": "Nke a ga-eme ka ndị inyom asaa na-azọ otu nwoke.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-abịakwute ya sị ya “Kwere ka anyị niile bụrụ ndị nwunye gị!",
+            "poem": 1
+          },
+          {
+            "text": "Anyị ga-akpara onwe anyị nri,",
+            "poem": 2
+          },
+          {
+            "text": "zụọra onwe anyị akwa. Naanị kwere ka anyị na-aza aha gị,",
+            "poem": 1
+          },
+          {
+            "text": "ka a ghara ịkọ anyị ọnụ.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Alaka Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼụbọchị ahụ, Onyenwe anyị ga-eme ka Alaka Onyenwe anyị mabiga mma oke, ma nwekwa ebube dị ukwuu. Ndị fọdụrụ ndụ nʼIzrel ga-enweta ihe ubi ga-enye ha ọṅụ, na nke ga-ewetara ha obi nganga na mmụọ ịnya isi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ndị ahapụrụ na Zayọn, ndị nọ na Jerusalem ka a ga-akpọ ndị dị nsọ, bụ ndị ahụ niile e dere aha ha nʼetiti ndị bi nʼime Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onyenwe anyị ga-asachapụ unyi niile nke ndị inyom Zayọn, ọ ga-asachapụkwa ọbara niile dị na Jerusalem site na mmụọ nke ikpe, na mmụọ nke ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị ga-ewuru ugwu Zayọn niile na ndị niile zukọrọ nʼebe ahụ ndo ga-ekpuchi ha niile. Ihe ọ ga-eji mee ndo a bụ igwe ojii na anwụrụ ọkụ nke ga-adịrị ha nʼehihie, na ọkụ na-enwu enwu, nke ga-adịrị ha nʼabalị. Ebube ahụ ga-abụ ihe mkpuchi nye ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ ga-abụrụ ha ebe mgbaba na ndo ime ka okpomọkụ nke ehihie hapụ ịchagbu ha. Ọ ga-abụkwara ha ebe izere ndụ, na ebe nzuzo pụọ nʼoke ifufe na mmiri."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

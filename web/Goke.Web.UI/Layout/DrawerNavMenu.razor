@@ -1,0 +1,280 @@
+﻿@implements IDisposable
+
+@inject NavigationManager NavigationManager
+
+<nav class="drawer-navigation" style="--_clr-icon-bg: var(--clr-body)">
+    <ul class="drawer-nav-list flex">
+        <li>
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="nav-item-wrapper">
+                    <span class="icon">🏡</span>
+                    <span class="nav-item-text">
+                        Home
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="bible">
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                            <use xlink:href="sprites.svg#book-bible-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Bible
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+
+        <ProductNavMenu PopStyle="@popStyle" NavOrientation="@navOrientation" />
+
+        <li>
+            <NavLink class="nav-link" href="blogs">
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                            <use xlink:href="sprites.svg#blog-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Blogs
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+
+        <GameNavMenu PopStyle="@popStyle" NavOrientation="@navOrientation" />
+
+        <UxNavMenu PopStyle="@popStyle" NavOrientation="@navOrientation" />
+
+        <li>
+            <NavLink class="nav-link" href="Auth">
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                            <use xlink:href="sprites.svg#lock-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Auth
+                    </span>
+                </span>
+            </NavLink>
+        </li>        
+
+        <AuthorizeView>
+            <Authorized>
+                <li class="dropdown" data-nav-id="management">
+                    <NavLink class="nav-link" href="#" disabled>
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                    <use xlink:href="sprites.svg#user-lock-solid"></use>
+                                </svg>
+                            </span>
+                            <span class="nav-item-text">
+                                Management <span>&#x2b9e;</span>
+                            </span>
+                        </span>
+                    </NavLink>
+                    <ul class="dropdown-list pop-right">
+                        <li>
+                            <NavLink class="nav-link" href="officer">
+                                Officer
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="manager">
+                                Manager
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="admin">
+                                Admin
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="sysadmin">
+                                System Admin
+                            </NavLink>
+                        </li>
+                    </ul>
+                </li>
+            </Authorized>
+        </AuthorizeView>
+
+        <AuthorizeView Roles="Administrators, SystemAdministrators">
+            <Authorized>
+                <li class="dropdown" data-nav-id="admin">
+                    <a href="#" disabled>
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                    <use xlink:href="sprites.svg#user-lock-solid"></use>
+                                </svg>
+                            </span>
+                            <span class="nav-item-text">
+                                Admin <span>&#x2b9e;</span>
+                            </span>
+                        </span>
+                    </a>
+                    <ul class="dropdown-list pop-right">
+                        <li>
+                            <NavLink class="nav-link" href="account/users">
+                                Manage Users
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="Cards">
+                                Cards
+                            </NavLink>
+                        </li>
+                    </ul>
+                </li>
+                <li class="dropdown" data-nav-id="xtras">
+                    <a href="#" disabled>
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                                    <use xlink:href="sprites.svg#icons-solid"></use>
+                                </svg>
+                            </span>
+                            <span class="nav-item-text">
+                                Xtras <span>&#x2b9e;</span>
+                            </span>
+                        </span>
+                    </a>
+                    <ul class="dropdown-list pop-right">
+                        <li>
+                            <NavLink class="nav-link" href="counter">
+                                Counter
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="weather">
+                                Weather
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="weather-api">
+                                Weather API
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink class="nav-link" href="data-processing">
+                                Data Processing
+                            </NavLink>
+                        </li>
+                    </ul>
+                </li>
+            </Authorized>
+            <NotAuthorized>
+            </NotAuthorized>
+        </AuthorizeView>
+        @*
+        <AuthorizeView>
+        <Authorized>
+        <li class="dropdown" data-nav-id="account">
+        <NavLink class="nav-link" href="Account/Manage">
+        <span class="nav-item-wrapper">
+        <span class="icon">
+        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+        <use xlink:href="sprites.svg#person-solid"></use>
+        </svg>
+        </span><span class="nav-item-text">
+        @context.User.Identity?.Name <span>&#x2b9e;</span>
+        </span>
+        </span>
+        </NavLink>
+        <ul class="dropdown-list pop-right">
+        <li>
+        <NavLink class="nav-link" href="account/userdetail">
+        User
+        </NavLink>
+        </li>
+        <li>
+        <NavLink class="nav-link" href="account/person">
+        Person
+        </NavLink>
+        </li>
+        </ul>
+        </li>
+        <li data-nav-id="logout">
+        <span class="nav-item-wrapper">
+        <span class="icon">
+        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+        <use xlink:href="sprites.svg#circle-user-solid"></use>
+        </svg>
+        </span><span class="nav-item-text">
+        <form action="Account/Logout" method="post" style="display:inline">
+        <AntiforgeryToken />
+        <input type="hidden" name="ReturnUrl" value="@currentUrl" />
+        <button type="submit" class="nav-link link">
+        Logout
+        </button>
+        </form>
+        </span>
+        </span>
+        </li>
+        </Authorized>
+        <NotAuthorized>
+        <li data-nav-id="register">
+        <NavLink class="nav-link" href="Account/Register">
+        <span class="nav-item-wrapper">
+        <span class="icon">
+        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+        <use xlink:href="sprites.svg#id-card-solid"></use>
+        </svg>
+        </span><span class="nav-item-text">
+        Register
+        </span>
+        </span>
+        </NavLink>
+        </li>
+        <li data-nav-id="login">
+        <NavLink class="nav-link" href="Account/Login">
+        <span class="nav-item-wrapper">
+        <span class="icon">
+        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+        <use xlink:href="sprites.svg#user-solid"></use>
+        </svg>
+        </span><span class="nav-item-text">
+        Login
+        </span>
+        </span>
+        </NavLink>
+        </li>
+        </NotAuthorized>
+        </AuthorizeView>
+        *@
+
+        <AccountNavMenu CurrentUrl="@currentUrl" PopStyle="@popStyle" NavOrientation="@navOrientation" />
+    </ul>
+</nav>
+
+@code {
+    string popStyle = "pop-right";
+    string navOrientation = "Vertical";
+    private string? currentUrl;
+
+    protected override void OnInitialized()
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        NavigationManager.LocationChanged += OnLocationChanged;
+    }
+
+    private void OnLocationChanged(object? sender, LocationChangedEventArgs e)
+    {
+        currentUrl = NavigationManager.ToBaseRelativePath(e.Location);
+        StateHasChanged();
+    }
+
+    public void Dispose()
+    {
+        NavigationManager.LocationChanged -= OnLocationChanged;
+    }
+}
+

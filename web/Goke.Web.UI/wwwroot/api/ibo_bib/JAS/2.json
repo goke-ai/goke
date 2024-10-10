@@ -1,0 +1,295 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JAS",
+    "translationId": "ibo_bib",
+    "name": "Jemis",
+    "commonName": "Jemis",
+    "title": "Jemis",
+    "order": 59,
+    "numberOfChapters": 5,
+    "sha256": "744e34d3048f3fc25019218d219951b8913b84bf7ec5db1ca6998bc16291c64a",
+    "firstChapterApiLink": "/api/ibo_bib/JAS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JAS/5.json",
+    "totalNumberOfVerses": 108
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ile mmadụ anya nʼihu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ụmụnna m, dịka ndị kweere nʼOnyenwe anyị Jisọs Kraịst, onye dị ebube, ka unu hapụ ile mmadụ anya nʼihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ bụrụ na onye ọgaranya yi uwe mara mma, yikwara mgbaaka ọlaedo na mkpịsịaka ya, abata nʼụlọ nzukọ unu, ọ bụrụkwa na nwa ogbenye abata nke yi uwe na-adịghị ọcha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "ọ bụrụ na unu elee onye ọgaranya ahụ yi uwe mara mma anya sị ya, “Bịa nọdụ nʼotu oche a e debere iche nʼihi gị,” ma unu asị onye ogbenye ahụ, “Di anyị, guzo nʼebe ahụ,” maọbụ “Bịa nọdụ ala nʼakụkụ ebe a ụkwụ m dị,”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "ọ bụ na unu akpabeghị oke nʼetiti onwe unu, bụrụkwa ndị ji ile anya nʼihu na obi ọjọọ na-ekpe ikpe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Geenụ ntị ka m gwa unu ụmụnna m, ọ bụ na unu amataghị na Chineke ahọpụtala ndị ahụ ụwa gụrụ dịka ndị ogbenye, mee ka ha bụrụ ọgaranya site nʼokwukwe ha, ka ha ketakwa alaeze ahụ o kwere nkwa inye ndị hụrụ ya nʼanya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma gịnị ka unu na-eme? Unu na-akparị ndị ogbenye! Ọ bụghị ndị ọgaranya na-emegbu unu? Ọ bụkwaghị ha bụ ndị na-adọkpụgharị unu aga nʼụlọikpe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọ bụghị ha bụ ndị na-ekwulu aha ọma ahụ nke a gụrụ unu?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ bụrụ na unu na-edebezuo iwu nke eze anyị dịka e dere ya nʼAkwụkwọ Nsọ, “Hụnụ ndị agbataobi unu nʼanya dịka unu onwe unu,”",
+          {
+            "noteId": 942
+          },
+          "unu na-eme ihe ziri ezi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma ọ bụrụ na unu ele mmadụ anya nʼihu, unu na-eme mmehie. Nʼebe iwu dịkwa, unu bụ ndị na-emebi iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi na onye ọbụla nke na-edebe iwu ahụ niile ma sụọ ngọngọ nʼotu, a bụrụla onye ikpe iwu ahụ niile maara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼihi na onye ahụ sịrị, “Akwala iko,”",
+          {
+            "noteId": 943
+          },
+          "bụkwa onye sịrị, “Egbula mmadụ.”",
+          {
+            "noteId": 944
+          },
+          "Ya mere, ọ bụrụ na ị kwaghị iko ma i gburu mmadụ, ị bụ onye na-emebi iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere, na-ekwunu okwu, ma na-ebikwanụ ndụ dị ka ndị a ga-ekpe ikpe site nʼiwu ahụ na-eme ka mmadụ nwere onwe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi na agaghị emere onye ọbụla ebere nke na-adịghị emere onye ọzọ ebere. Nʼihi na ebere na-adị ukwuu karịa ikpe ọmụma ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Okwukwe na omume"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Olee uru ọ bara ụmụnna m, na mmadụ sịrị, enwere m okwukwe, ma okwukwe ahụ apụtaghị ihe nʼọrụ ya? Ụdị okwukwe ahụ ọ pụrụ ịzọpụta ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụrụ na otu nwanne anyị nwoke maọbụ nwanne anyị nwanyị yi nkịrịnka akwa, ọ bụrụkwa na o nweghị ihe oriri ga-ezuru ya nʼụbọchị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "ma otu onye nʼime unu asị ha, “Laa nʼudo, kpuchiekwa onwe gị nke ọma, rijuokwa afọ,” nʼenyeghị ya ihe dị mkpa maka ahụ ya, uru gịnị ka ọ bara?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼụzọ dị otu a, okwukwe naanị ya bụ ihe na-abaghị uru ma ọ bụrụ na ọrụ esoghị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Otu onye ga-asị, “I nwere okwukwe; e nwere m ọrụ.” Gosi m okwukwe gị ma e wepụ ọrụ gị, aga m egosi gị okwukwe site nʼọrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "I kweere na ọ bụ naanị otu Chineke, i mere nke ọma, ọ bụladị ndị mmụọ ọjọọ kweere ma kụja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Gị onye nzuzu, ị na-achọ ka e gosi gị na okwukwe bụ ihe na-abaghị uru ma ọ bụrụ na ọrụ e soghị ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ bụ na nna anyị Ebraham abụghị onye a gụrụ nʼonye ezi omume site nʼọrụ ya, mgbe o jiri otu nwa ya bụ Aịzik chụọ aja nʼebe ịchụ aja?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Unu ahụghị na okwukwe ya na ọrụ soro rụkọọ nʼotu, e sitekwara nʼọrụ ya mee ka okwukwe ya zuo oke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ bụ site na nke a ka ihe e dere nʼakwụkwọ nsọ jiri mezuo, nke na asị, “Ebraham kweere na Chineke, a gụrụ nke a nye ya dị ka ezi omume,”",
+          {
+            "noteId": 945
+          },
+          "kpọọkwa ya enyi Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Unu ahụla na a na-esite nʼihe mmadụ rụrụ gụọ ya nʼonye ezi omume, ọ bụkwaghị naanị nʼokwukwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nʼotu ụzọ ahụ, agụnyeghị Rehab, nwanyị akwụna ahụ nʼonye ezi omume nʼihi ọrụ ọ rụrụ, mgbe ọ kpọbatara ndị nnyopụta ahụ ma zipụkwa ha site nʼụzọ dị iche?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Dịka anụ ahụ na-enweghị mmụọ si bụrụ ihe nwụrụ anwụ, otu a ka ọ dịkwa okwukwe na-enweghị ọrụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 942,
+        "caller": "+",
+        "text": "Lev 19:18",
+        "reference": {
+          "chapter": 2,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 943,
+        "caller": "+",
+        "text": "Ọpụ 20:14; Dit 5:18",
+        "reference": {
+          "chapter": 2,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 944,
+        "caller": "+",
+        "text": "Ọpụ 20:13; Dit 5:17",
+        "reference": {
+          "chapter": 2,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 945,
+        "caller": "+",
+        "text": "Jen 15:6",
+        "reference": {
+          "chapter": 2,
+          "verse": 23
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JAS/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JAS/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JAS/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 26
+}

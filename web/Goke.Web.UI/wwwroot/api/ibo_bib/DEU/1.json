@@ -1,0 +1,474 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "ibo_bib",
+    "name": "Diuteronomi",
+    "commonName": "Diuteronomi",
+    "title": "Diuteronomi",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "4d8340735e00d5ed0d0ad6648ecebcc35379f88a7fb67b090d4c46057ed796af",
+    "firstChapterApiLink": "/api/ibo_bib/DEU/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DEU/34.json",
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Izrel ebuliekwa ije"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ okwu ahụ Mosis gwara Izrel niile mgbe ha nọ nʼọwụwa anyanwụ Jọdan,",
+          {
+            "noteId": 464
+          },
+          "nʼọzara nʼAraba, ebe chere ihu nʼobodo Suf, nʼetiti Paran na Tofel na Leban, na Hazerọt, na Dizahab."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Site nʼugwu",
+          {
+            "noteId": 465
+          },
+          "Horeb ruo Kadesh Banea, bụ njem abalị iri na otu ma e soro ụzọ gawara ugwu Sia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ bụ nʼabalị mbụ nke ọnwa iri na otu, nke afọ iri anọ ka Mosis gwara ụmụ Izrel ihe niile Onyenwe anyị nyere ya nʼiwu banyere ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nke mere mgbe ọ lụgbuchara Saịhọn, eze ndị Amọrait, onye na-achị na Heshbọn, lụgbukwaa Ọg, eze ndị Bashan na Edrei, onye na-achị nʼAshtarọt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼọwụwa anyanwụ Jọdan, nʼala ndị Moab ka Mosis nọ kọwaara ụmụ Izrel iwu ndị a sị ha,"
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onyenwe anyị Chineke anyị gwara anyị nʼugwu Horeb sị, “Unu anọọla ọtụtụ oge nʼugwu a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ugbu a bilienụ ije, baa nʼala ugwu ugwu ndị Amọrait. Gaakwanụ nʼala niile ndị agbataobi ha bụ Araba, nʼugwu niile na nʼebe dị ala ala na Negeb, nʼọnụ mmiri nke oke osimiri, garuokwanụ ala ndị Kenan na nke ndị Lebanọn, gagidekwanụ ruo nʼosimiri ukwu Yufretis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Lee, enyela m unu ala ahụ niile! Baanụ nʼime ya, bichiekwanụ ala ahụ Onyenwe anyị ṅụrụ iyi na ọ ga-enye nna nna unu bụ Ebraham, Aịzik, Jekọb na ụmụ ụmụ ha niile ndị ga-esote ha.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nhọpụta ndị ndu"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼoge ahụ, agwara m unu ụmụ Izrel okwu sị, “Unu bụụrụ m oke ibu arọ, apụghịkwa m ibu unu naanị m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Onyenwe anyị Chineke unu emeela ka unu mụbaa dịka kpakpando nke eluigwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ka Onyenwe anyị Chineke nna nna unu ha meekwa ka unu mụbaa nʼọnụọgụgụ, puku kwụrụ puku, ya gọziekwa unu dịka o kwere na nkwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma olee otu naanị m ga-esi buo ibu unu, doziekwa ise okwu unu na nsogbu unu niile?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Họpụtanụ ụfọdụ ndị ikom nwe amamihe, nghọta, na ndị a na-akwanyere ụgwụ, site nʼebo niile unu nʼotu nʼotu, aga m emekwa ha ndịisi unu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Unu zara sị m, “Ihe ahụ i zubere ime dị mma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya mere, a kpọọrọ m ndịisi nʼebo dị iche iche, ndị ikom maara ihe, na ndị a na-asọpụrụ, mee ka ha bụrụ ndịisi ọchịchị unu, ụfọdụ ha na-elekọta puku mmadụ, ụfọdụ narị mmadụ, ndị ọzọ na-elekọta iri mmadụ ise, ndị ọzọ mmadụ iri, ka ha bụrụ ndị ndu ebo dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Adọrọ m ndị ikpe unu a aka na ntị nʼoge ahụ sị ha, “Nụrụnụ ikpe niile metụtara esemokwu dị nʼetiti ụmụnna unu, ma kpeenụ ikpe ọbụla na-eleghị mmadụ anya nʼihu ma ikpe ahụ ọ dị nʼetiti ụmụnna unu ndị Izrel, maọbụ nʼetiti ndị Izrel na ndị ọbịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Kpeenụ ikpe ziri ezi nye onye ukwu na onye nta. Elekwala ndị unu na-ekpe ikpe anya nʼihu, nʼihi na unu na-ekpe ikpe unu nʼọnọdụ Chineke.” Enyekwara m ha iwu sị ha wetaranụ m ikpe niile siri unu ike ka m leba ha anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼoge ahụ, agwara m unu ihe niile unu na-aghaghị ime."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nzipụ ndị Nnyopụta"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Emesịa, dịka iwu Onyenwe anyị Chineke anyị nyere si dị, anyị hapụrụ ugwu Horeb, chee ihu gawa nʼala ugwu ugwu ndị Amọrait. Ụzọ anyị si gafee ọzara ukwu ahụ dị egwu nke unu ji anya unu hụ tutu anyị erute Kadesh Banea."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe ahụ agwara m unu okwu sị, “Unu erutela nʼala ugwu ugwu ndị Amọrait, ala ahụ Onyenwe anyị Chineke anyị na-enye anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Lee, Onyenwe anyị Chineke unu enyela unu ala ahụ. Gaanụ nweta ya ka ọ bụrụ nke unu dịka Onyenwe anyị Chineke nna nna unu gwara unu sị, Unu atụla egwu, ka obi unu gharakwa ịda mba.”",
+          {
+            "noteId": 466
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma unu niile bịakwutere m sị m, “Ka anyị zipụ ndị nnyocha ka ha gaa mata ezi ụzọ e si abanye nʼala ahụ. Anyị ga-ekpebikwa obodo ndị anyị ga-ebu ụzọ banye.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ntụpụta unu juru m afọ, nʼihi ya, esitere m nʼetiti unu họpụta mmadụ iri na abụọ, otu onye site nʼebo ọbụla.",
+          {
+            "noteId": 467
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ndị a pụrụ, gbagoo ala ugwu ugwu ahụ tutu bịaruo na Ndagwurugwu Eshkọl. Ha legharịrị anya nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ha ghọtara ụfọdụ nʼime mkpụrụ osisi mịrị nʼala ahụ, bulatara anyị. Ha wetakwaara anyị ozi, sị, “Ala ahụ Onyenwe anyị Chineke anyị na-aga inye anyị dị mma.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nnupu isi ụmụ Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ma unu jụrụ ịga nʼala ahụ, si otu a nupu isi megide iwu Onyenwe anyị Chineke unu nyere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Unu nọ nʼụlọ ikwu unu tamuo ntamu na-asị, “Nʼezie Onyenwe anyị ahụghị anyị nʼanya. Lee ka o si site nʼala Ijipt dupụta anyị were anyị nyefee nʼaka ndị Amọrait ka ha laa anyị nʼiyi!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ebee ka anyị nwere ike ịga ugbu a? Ụmụnna anyị gara nyochaa ala ahụ emenyela anyị egwu. Ha sịrị, ‘Na ndị bi nʼala ahụ toro ogologo karịa anyị bụrụkwa ndị dị ike. Ha sịkwara na mgbidi e ji gbaa obodo ha gburugburu topuru ruo nʼeluigwe! Anyị hụkwara ụmụ Anak",
+          {
+            "noteId": 468
+          },
+          "nʼebe ahụ.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ma agwara m unu sị, “Ka ụjọ ghara ịtụ unu, unu atụla ndị ahụ egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Onyenwe anyị Chineke unu, onye na-aga nʼihu unu, ga-alụrụ unu ọgụ,",
+          {
+            "noteId": 469
+          },
+          "dịka o si lụọra unu ọgụ nʼihu anya unu, nʼala Ijipt,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "nakwa nʼime ọzara, ebe unu nọ hụ otu Onyenwe anyị Chineke unu si bulie unu elu dịka nna si ebuli nwa ya elu, nʼụzọ niile unu gbasoro tutu unu erute ebe a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ma agbanyeghị nke a, unu ekwenyeghị na Onyenwe anyị Chineke unu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "bụ onye gara nʼihu unu nʼije unu niile, ịchọpụtara unu ebe unu ga-ama ụlọ ikwu unu, onye jikwa ọkụ duo unu nʼabalị, jiri igwe ojii duo unu nʼehihie, iji zi unu ụzọ unu ga-agbaso."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ma otu o si dị, mgbe Onyenwe anyị nụrụ ntamu unu, iwe dị ukwuu were ya, nʼihi ntamu unu, ọ ṅụrụ iyi sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "“O nweghị otu onye nʼime ọgbọ ọjọọ a ga-anọ ndụ hụ ala ọma ahụ m ṅụrụ iyi inye nna nna unu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "karịakwa Kaleb, nwa Jefune. Ọ ga-ahụ ala ahụ anya, aga m enye ya na ụmụ ụmụ ya ala ahụ ọ zọkwasịrị ụkwụ ya, nʼihi na o ji obi ya niile sogide Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ọ bụkwa nʼihi unu ka Onyenwe anyị ji weso m iwe, na-asị, “Gị onwe gị kwa, ị gaghị aba nʼebe ahụ!"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Kama Joshua, nwa Nun, onye na-enyere gị aka, ga-edu ha banye nʼebe ahụ. Gbaa ya ume nʼihi na ọ bụ ya ga-edu ndị Izrel inweta ala ahụ dịka ihe nketa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ọ bụkwa ụmụntakịrị ahụ na-amaghị ihe dị iche site nʼihe ọma na ihe ọjọọ ka m ga-enye ala ahụ. Ha ga-abanye nʼime ya, nweta ya dịka ihe nketa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ma unu onwe unu, bilienụ, chigharịa gawa nʼime ọzara. Cheenụ ihu unu nʼOsimiri Uhie.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Mgbe ahụ, unu kwupụtara mmehie unu sị, “Anyị emehiela megide Onyenwe anyị. Anyị ga-agbago nʼala ahụ gaa lụọ ọgụ, dịka Onyenwe anyị Chineke anyị nyere anyị nʼiwu.” Ya mere, onye ọbụla nʼime unu yikwasịrị ihe agha ya na-eche na ọ dị mfe ịgbago nʼobodo ndị ahụ dị nʼugwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ma Onyenwe anyị sịrị m, “Gwa ha, ‘Unu arịgokwala, gaa buo agha, nʼihi na agaghị m anọnyere unu. Ndị iro unu ga-emerikwa unu.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ya mere, agwara m unu, ma unu aṅaghị ntị. Unu nupuru isi nʼiwu Onyenwe anyị, jiri nganga juru unu obi bilie, rigoo nʼobodo ahụ dị nʼugwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ndị Amọrị bụ ndị bi nʼugwu ahụ pụtara, ha chụsasịrị unu dịka aṅụ si eme, tidaa unu nʼala site na Sia ruo Homa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Emesịa, unu lọghachiri bịa kwaa akwa nʼihu Onyenwe anyị, ma o geghị ntị nye olu akwa unu, ọ ṅakwaghị unu ntị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Nʼihi ya, unu nọrọ ọtụtụ oge na Kadesh."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 464,
+        "caller": "+",
+        "text": "Nke a bụ nʼofe Jọdan",
+        "reference": {
+          "chapter": 1,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 465,
+        "caller": "+",
+        "text": "Ugwu Horeb Aha ọzọ a na-akpọ ugwu Horeb bụ ugwu Saịnaị.",
+        "reference": {
+          "chapter": 1,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 466,
+        "caller": "+",
+        "text": "Jos 1:6,9",
+        "reference": {
+          "chapter": 1,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 467,
+        "caller": "+",
+        "text": "Ọnụ 13:2-3",
+        "reference": {
+          "chapter": 1,
+          "verse": 23
+        }
+      },
+      {
+        "noteId": 468,
+        "caller": "+",
+        "text": "Ụmụ Anak Ụmụ Anak bụ ndị bi nʼala Kenan. Ha bụ ndị a kọwara dịka ndị gbara nnọọ dimkpa, topụkwa etopụ. Ọnụ 13:28",
+        "reference": {
+          "chapter": 1,
+          "verse": 28
+        }
+      },
+      {
+        "noteId": 469,
+        "caller": "+",
+        "text": "Ọpụ 14:14; Dit 3:22; 20:4; Neh 4:20",
+        "reference": {
+          "chapter": 1,
+          "verse": 30
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/DEU/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DEU/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/36.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 46
+}

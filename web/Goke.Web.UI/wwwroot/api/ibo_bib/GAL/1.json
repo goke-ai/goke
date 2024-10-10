@@ -1,0 +1,252 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GAL",
+    "translationId": "ibo_bib",
+    "name": "Ndị Galeshịa",
+    "commonName": "Ndị Galeshịa",
+    "title": "Ndị Galeshịa",
+    "order": 48,
+    "numberOfChapters": 6,
+    "sha256": "850e5876e09e8b63baeb5cd4c4f5999df55c483db50817dab64df879bf15fb38",
+    "firstChapterApiLink": "/api/ibo_bib/GAL/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GAL/6.json",
+    "totalNumberOfVerses": 149
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Pọl, onyeozi, na-abụghị site na nhọpụta nke mmadụ maọbụ site nʼike nke mmadụ, kama ọ bụ site nʼaka Jisọs Kraịst na Chineke Nna, onye mere ka ọ site nʼọnwụ bilie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị ụmụnna niile ndị mụ na ha nọ nʼebe a,",
+          {
+            "lineBreak": true
+          },
+          "Na-edegara",
+          {
+            "noteId": 679
+          },
+          "nzukọ niile dị na Galeshịa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ka amara na udo nke sitere na Chineke Nna anyị, na Onyenwe anyị Jisọs Kraịst dịrị unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onye nyere onwe ya nʼihi mmehie anyị niile dị ka nzube Chineke bụ Nna anyị si dị, ịzọpụta anyị site nʼoge ọjọọ a nke anyị bi nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Onye otuto dịịrị ruo mgbe niile ebighị ebi. Amen."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oziọma ọzọ adịghị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O juru m anya, na unu esitela nʼebe onye ahụ kpọrọ unu site nʼamara Kraịst wezuga onwe unu, na-agbaso oziọma ọzọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "nke na-abụghị oziọma. O doro anya na ụfọdụ mmadụ na-etinye unu nʼọnọdụ mgbagwoju anya, mgbe ha na-agbalị ịgbanwe oziọma nke Kraịst."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "A sikwa na ọ bụ anyị onwe anyị maọbụ mmụọ ozi nke sitere nʼeluigwe bịara kwusaara unu oziọma ọzọ, nke dị iche na nke anyị bụrụ ụzọ kwusaara unu, ka onye dị otu a bụrụ onye abụrụ ọnụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Dị ka anyị buru ụzọ kwuo ya na mbụ, ka m kwuokwa ya ọzọ: Ọ bụrụ na onye ọbụla na-ekwusara unu oziọma dị iche na nke ahụ unu nabatara, ka onye ahụ bụrụ onye a bụrụ ọnụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ugbu a, ana m agbalị ime ka m bụrụ onye ndị mmadụ maọbụ Chineke ga-anabata? Ka m na-agbalị ime ihe ga-atọ ndị mmadụ ụtọ? Nʼihi na a sị na m na-eme ihe na-atọ ndị mmadụ ụtọ, agaraghị m abụ ohu Kraịst."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pọl, onye Chineke kpọrọ oku"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ụmụnna m, achọrọ m ime ka unu mata, na oziọma ahụ m kwusaara unu abụghị ihe mmadụ chepụtara nʼuche ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼihi na anataghị m ya site nʼaka mmadụ ọbụla, ọ dịkwaghị onye ọbụla ziri m ya, kama ọ bụ Jisọs Kraịst nʼonwe ya bụ onye kpughere ya nye m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Amara m na unu anụla ihe banyere ndụ m nʼoge gara aga, nʼofufe ndị Juu, na otu m si jiri ike kpagbuo nzukọ Chineke nʼebe niile, ma gbalịsiekwa ike ibibi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Abụ m otu nʼime ndị amaara aha ha nʼetiti ndị ọgbọ m, nʼihe banyere ofufe ndị Juu. Nʼihi oke ịnụ ọkụ nʼobi nke m nwere ịgbaso na idebezu ụkpụrụ omenaala na ofufe, nke nna nna m ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma mgbe ọ tọrọ Chineke ụtọ, bụ onye kewapụrụ m iche tupu amụọ m, kpọọ m site nʼamara ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "ikpughe Ọkpara ya nʼime m, ka m nwe ike kwusaa ihe banyere ya nʼetiti ndị mba ọzọ, e jekwurughị m anụ ahụ ọbụla ịnụta ihe ọbụla nʼaka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ejekwaghị m Jerusalem ịhụ ndị ahụ bu m ụzọ bụrụ ndị ozi, kama a gara m Arebịa, ma laghachikwa azụ na Damaskọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ bụ mgbe afọ atọ gasịrị, ka m gara Jerusalem ịhụ Sefas. Anọnyekwara m ya ụbọchị iri na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma ọ dịkwaghị onyeozi ọzọ m hụrụ, ma ọ bụghị naanị Jemis, nwanne Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ana m agwa unu okwu a nʼihu Chineke. Ihe ndị a m na-ekwu abụghị okwu ụgha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Emesịa, agara m Siria na Silisia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma ndị Kraịst nọ na chọọchị niile dị nʼala Judịa amaghị onye m bụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Naanị ihe ha na-ekwu bụ, “Onye ahụ na-esogbu anyị na mbụ na-ekwusazi ugbu a okwukwe ahụ ọ gbalịsịrị ike ibibi na mbụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ha nyere Chineke otuto nʼihi m."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 679,
+        "caller": "+",
+        "text": "Maọbụ, na-ekele",
+        "reference": {
+          "chapter": 1,
+          "verse": 2
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GAL/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GAL/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CO/13.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

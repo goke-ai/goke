@@ -1,0 +1,298 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1SA",
+    "translationId": "ibo_bib",
+    "name": "1 Samuel",
+    "commonName": "1 Samuel",
+    "title": "1 Samuel",
+    "order": 9,
+    "numberOfChapters": 31,
+    "sha256": "289ae07b2b69ff8407f177c417564f47a242ee8908449fd75a6bf2b00c0940ce",
+    "firstChapterApiLink": "/api/ibo_bib/1SA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1SA/31.json",
+    "totalNumberOfVerses": 810
+  },
+  "chapter": {
+    "number": 30,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Devid ebibie ndị Amalek"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Devid na ndị ikom ya rutere obodo Ziklag nʼụbọchị nke atọ, ha hụrụ na ndị Amalek abịala wakporo bi nʼakụkụ ndịda Negev na Ziklag. Ha buru agha megide Ziklag, gbaa obodo ahụ ọkụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "dọtakwa ndị inyom na ndị niile bi nʼime ya nʼagha, ma okenye ma ụmụntakịrị. Ha egbughị ha egbu, kama ha buuru ha laa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe Devid na ndị ikom ya ruru Ziklag, ha hụrụ na-esuola ya ọkụ, dọkpụrụ ndị inyom ha, na ụmụ ndị ikom na ndị inyom nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere, Devid na ndị ikom ya kwara akwa ruo mgbe ike akwa gwụrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ndị inyom abụọ Devid, Ahinoam onye Jezril na Abigel, nwunye ochie Nebal onye Kamel, sokwa na ndị a dọtara nʼagha ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ihe a wetaara Devid oke nsogbu, nʼihi na ndị ikom ya nọ na-ekwu okwu iji nkume tugbuo ya; ha niile nọ nʼobi ilu nʼihi ụmụ ha ndị ikom na ndị inyom. Ma Devid chọtara ike nʼime Onyenwe anyị Chineke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Devid sịrị Abịata, bụ onye nchụaja, nwa Ahimelek, “Chịtara m efọọd ahụ.” Ya mere, Abịata chịtara ya nye ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ahụ, Devid jụrụ Onyenwe anyị ase sị, “Ọ bụ m chụso ndị a na-apụnara ndị mmadụ ihe? Ọ bụrụ na m achụso ha, aga m ejide ha?” Onyenwe anyị zara, “E, chụso ha ọsọ, ị ga-achụkwute ha, ma nataghachikwa ihe niile ha were.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, Devid na narị ndị agha isii ya bịarutere nʼọdọ mmiri Beso, ebe ha hapụrụ ụfọdụ ndị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "narị ndị ikom abụọ nʼime ha enwekwaghị ike ịgafe ndagwurugwu Beso nʼihi ike ọgwụgwụ, ma Devid na narị anọ ndị ọzọ chụsoro ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ha hụrụ otu nwokorobịa onye Ijipt nʼọhịa, duuru ya bịakwute Devid. Ha nyere ya mmiri ka ọ ṅụọ, nyekwa ya nri ka o rie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ihe ha nyere ya bụ achịcha fiig,",
+          {
+            "noteId": 186
+          },
+          "na ụyọkọ mkpụrụ vaịnị abụọ nke a mịkpọrọ amịkpọ. Mgbe o richara ha, o nweghachiri onwe ya, nʼihi na o ribeghị nri ọbụla, maọbụ ṅụọ mmiri ọbụla ụbọchị atọ, ehihie na nʼabalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, Devid jụrụ ya sị, “Ị bụ onye? Ebeekwa ka i si bịa?” Ọ zara Devid sị, “Abụ m onye Ijipt, bụrụkwa ohu onye Amalek. Onyenwe m hapụrụ m nʼebe a abalị atọ gara aga nʼihi na ahụ adịghị m ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Anyị si obodo ebe anyị gara lụọ agha na-alọghachi mgbe ha hapụrụ m nʼebe a. Anyị gara lụgbuo obodo ndị Keret,",
+          {
+            "noteId": 187
+          },
+          "nke dị nʼime Negeb, na obodo dị na ndịda ala Juda na ala Kaleb. Anyị gbakwara obodo Ziklag ọkụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Devid jụrụ ya sị, “I nwere ike duru m gaa ebe ha nọ.” Nwokorobịa ahụ zara ya sị, “Ọ bụrụ na ị ga-aṅụ iyi nʼaha Chineke na ị gaghị egbu m maọbụ were m nyeghachi onyenwe m, aga m eduru gị gaa ebe ha nọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "O duuru ha jee nʼebe ndị Amalek nọ. Mgbe ha ruru ebe ahụ, ha hụrụ ha ebe ha tụsara onwe ha nʼala na-eri na-aṅụ, na-etekwa egwu ọṅụ, nʼihi ihe dị ukwuu ha kwatara nʼagha site nʼala ndị Filistia, na nʼala Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Devid na ndị agha ya bịakwasịrị ha na mberede gbuo ha site nʼabalị ahụ ruo anyasị echi ya. Ọ dịkwaghị otu nwoke nʼime ha fọdụrụ ndụ ma ọ bụghị narị ndị ikom anọ makwasịrị nʼelu ịnyịnya kamel ha gbalaga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Devid nwetaghachiri ihe niile ndị Amalek kwatara nʼagha, tinyere ndị inyom ya abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "O nweghị ihe furu efu, ma nke ukwu ma nke nta, ụmụ ndị ikom na ụmụ ndị inyom, ihe a kwatara nʼagha, maọbụ ihe ọbụla ọzọ ndị Amalek dọtara nʼagha. Devid nwetaghachiri ihe niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ọzọkwa, Devid chịkọtara igwe ehi na igwe ewu na atụrụ. Ndị ikom ya chịịrị ha, tinyere anụ ụlọ ndị ọzọ, na-aga, na-asị, “Ndị a bụ ihe Devid kwatara nʼagha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Emesịa, Devid bịarutere ebe narị ndị ikom abụọ ndị ahụ nọ na Ndagwurugwu Beso. Ndị a bụ ndị ahụ na-enweghị ike iso Devid nʼihi na ike gwụrụ ha. Ha pụtara zute Devid na ndị so ya. Mgbe Devid na ndị ikom ya bịara ha nso, ọ jụrụ ha otu ha mere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma ndị ikom ọjọọ ahụ niile, na ndị okwu na ụka nọ nʼetiti ndị na-eso Devid sịrị, “Nʼihi na ndị a esoghị anyị jee, ya mere ha agaghị eso anyị keta ihe ndị a anyị kwatara nʼagha. Nyeghachi ha naanị nwunye ha na ụmụ ha; gwakwa ha ka ha laa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma Devid sịrị, “Mba, ụmụnna m, unu ekwesighị isi otu a kee ihe ndị ahụ Onyenwe anyị nyere anyị. O chebere anyị, nyefee nʼaka anyị ndị agha ahụ niile bịara imegide anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Unu chere na ọ dị onye ga-ege unu ntị mgbe unu na-ekwu okwu dị otu a? Anyị niile ga-eketa oke; oke ndị jere agha na ndị chebere ihe anyị ga-abụ otu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Site nʼụbọchị ahụ, Devid mere ka nke a bụrụ iwu nye ndị Izrel niile ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ha rutere Ziklag, Devid weere ụfọdụ ihe ha kwatara nʼagha zigara ndị okenye Juda, ndị bụ ndị enyi ya, na-asị, “Lee onyinye ewetaara unu site nʼụfọdụ nʼime ihe anyị kwatara site nʼaka ndị iro Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "O zigara ha nye ndị bi na Betel, Ramọt Negev na Jatịa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "nyekwa ndị nọ Aroea, Sifmot, Eshtemoa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "na Rakal, nyekwa ndị bi nʼobodo ndị Jerameel na nke ndị Ken,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "nyekwa ndị bi na Homa, Bo Ashan, Atak"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "na Hebrọn na ndị nọ nʼebe niile ndị ahụ ebe Devid na ndị ya wagharịrị."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 186,
+        "caller": "+",
+        "text": "1Sa 25:18",
+        "reference": {
+          "chapter": 30,
+          "verse": 12
+        }
+      },
+      {
+        "noteId": 187,
+        "caller": "+",
+        "text": "Ndị Keret, ha na ndị Filistia nwere ka ha si bụrụ nwanne Zef 2:5Ma ndị Keret mesịrị soro Devid na-alụ agha 2Sa 15:18; 20:7; 1Ez 1:38,44",
+        "reference": {
+          "chapter": 30,
+          "verse": 14
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1SA/30.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1SA/31.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1SA/29.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 31
+}

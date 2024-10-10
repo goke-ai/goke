@@ -1,0 +1,147 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJV",
+    "englishName": "King James (Authorized) Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "2995affbde2fa4c0107d68ac973bf9efd1b07a56e24d02de75bcc257024a4b29",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "58e4db840fe4924126c9dfedf474e1f8cf4d5e072f67c57234708250110185df",
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 121,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "A Song of degrees."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "I will lift up mine eyes unto the hills, from whence cometh my help.",
+            "poem": 1
+          },
+          {
+            "noteId": 21628
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "My help cometh from the LORD, which made heaven and earth.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Behold, he that keepeth Israel shall neither slumber nor sleep.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "The LORD is thy keeper: the LORD is thy shade upon thy right hand.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "The sun shall not smite thee by day, nor the moon by night.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "The LORD shall preserve thee from all evil: he shall preserve thy soul.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "The LORD shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 21628,
+        "caller": "+",
+        "text": "121.1 I will…: or, Shall I lift up mine eyes to the hills? whence should my help come?",
+        "reference": {
+          "chapter": 121,
+          "verse": 1
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/121.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/122.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/PSA/120.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

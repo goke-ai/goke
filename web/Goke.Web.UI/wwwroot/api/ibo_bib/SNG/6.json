@@ -1,0 +1,331 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "ibo_bib",
+    "name": "Abụ nke Abụ",
+    "commonName": "Abụ nke Abụ",
+    "title": "Abụ nke Abụ",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "6514d7dce5ded66021cc784856cb2aed328424d30f41fe6e5dd039e3c7ac7844",
+    "firstChapterApiLink": "/api/ibo_bib/SNG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/SNG/8.json",
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Gị onye mara mma nʼetiti ndị inyom,",
+            "poem": 1
+          },
+          {
+            "text": "ebee ka onye ị hụrụ nʼanya jere?",
+            "poem": 2
+          },
+          {
+            "text": "Olee ụzọ o sitere?",
+            "poem": 1
+          },
+          {
+            "text": "Ka anyị soro gị chọọ ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ọ gara nʼubi ya a gbara ogige,",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe ihe ndina ya nke e fesara ụda na-esi isi ụtọ,",
+            "poem": 2
+          },
+          {
+            "text": "ijegharị nʼetiti okoko urodi,",
+            "poem": 1
+          },
+          {
+            "text": "na ịchịkọta okoko lili.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Abụ m nke onye m hụrụ nʼanya, onye m hụrụ nʼanya bụkwa nke m.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ na-azụ igwe atụrụ ya nʼetiti okoko urodi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Onye m hụrụ nʼanya, ị mara mma dịka Tịaza, ị mara mma nke ukwu dịka Jerusalem, ị dị ebube ka usuu ndị agha ji ọkọlọtọ.",
+            "poem": 1
+          },
+          {
+            "noteId": 1859
+          },
+          {
+            "text": "Ị dị mma ile anya dịka Jerusalem;",
+            "poem": 2
+          },
+          {
+            "text": "Ị dị ka ndị agha bu ọkọlọtọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Wepụ anya gị nʼebe m nọ,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na i jirila anya gị dọta m.",
+            "poem": 2
+          },
+          {
+            "text": "Agịrị isi gị dị ka igwe ewu",
+            "poem": 1
+          },
+          {
+            "noteId": 1860
+          },
+          {
+            "text": "nke na-arịdata site nʼugwu Gilead.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Eze gị dị ka igwe atụrụ",
+            "poem": 1
+          },
+          {
+            "text": "nke si nʼebe a sapụrụ ha ahụ na-arịpụta.",
+            "poem": 2
+          },
+          {
+            "text": "Nke ọbụla chi ụmụ abụọ,",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghịkwa nke nwa ya furu efu nʼetiti ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Agba ntị gị abụọ nke dị nʼime akwa mkpuchi gị",
+            "poem": 1
+          },
+          {
+            "text": "dị ka pomegranet e kere abụọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "E nwere ike nwee iri eze nwanyị isii,",
+            "poem": 1
+          },
+          {
+            "text": "na iri ndị iko nwanyị asatọ,",
+            "poem": 2
+          },
+          {
+            "text": "na ọtụtụ ụmụ agbọghọ a na-apụghị ịgụta ọnụ,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "ma gị onwe gị, nduru m, ezigbo m zuruoke, pụrụ iche nʼetiti ha niile.",
+            "poem": 1
+          },
+          {
+            "text": "Naanị otu nwanyị nne ya nwere,",
+            "poem": 2
+          },
+          {
+            "text": "ọ masịrị onye mụrụ ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ụmụ agbọghọ hụrụ ya kpọọ ya onye a gọziri agọzi,",
+            "poem": 1
+          },
+          {
+            "text": "ndị eze nwanyị na ndị iko nwanyị tooro ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Onye bụ onye a, pụtara ihe dịka chi ọbụbọ,",
+            "poem": 1
+          },
+          {
+            "text": "nke mara mma dịka ọnwa, na-enwu dịka anyanwụ,",
+            "poem": 2
+          },
+          {
+            "text": "dị ebube ka dị usuu kpakpando na-aga nʼahịrị nʼahịrị?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Agara m nʼubi a gbara ogige ebe a kụrụ mkpụrụ osisi,",
+            "poem": 1
+          },
+          {
+            "text": "ile ihe na-etopụta ọhụrụ na ndagwurugwu,",
+            "poem": 2
+          },
+          {
+            "text": "ilekwa akwụkwọ ndụ ọhụrụ ndị na-epupụta nʼosisi vaịnị,",
+            "poem": 1
+          },
+          {
+            "text": "na ị mata ma nʼosisi pomegranet ọ mara ifuru.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Tupu m mata ebe m nọ,",
+            "poem": 1
+          },
+          {
+            "text": "agụ nke mkpụrụobi m adọtala m tinye nʼetiti ụgbọ agha nke ndị eze ala m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Laghachi azụ, gị onye Shulam, laghachi azụ;",
+            "poem": 1
+          },
+          {
+            "text": "laghachi azụ, e, laghachi azụ ka anyị lee gị anya.",
+            "poem": 2
+          },
+          "Onye hụrụ ibe ya nʼanya",
+          {
+            "text": "Maka gịnị ka unu ga-eji lee onye Shulam anya",
+            "poem": 1
+          },
+          {
+            "text": "dịka ọ bụ ite egwu ndị Mahanaim?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1859,
+        "caller": "+",
+        "text": "Tịaza bụ obodo ochie eze Jeroboam họpụtara ka ọ bụrụ isi obodo ọchịchị nke alaeze ugwu. Ọ bụ na senchuri nke iri (Tupu a mụọ Kraịst). 1Ez 14:17; 1Ez 15:21,33; 16:6,8,15,23",
+        "reference": {
+          "chapter": 6,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 1860,
+        "caller": "+",
+        "text": "Abk 4:2",
+        "reference": {
+          "chapter": 6,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/SNG/6.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/SNG/7.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/SNG/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 13
+}

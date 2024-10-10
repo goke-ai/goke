@@ -1,0 +1,214 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "ibo_bib",
+    "name": "Diuteronomi",
+    "commonName": "Diuteronomi",
+    "title": "Diuteronomi",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "4d8340735e00d5ed0d0ad6648ecebcc35379f88a7fb67b090d4c46057ed796af",
+    "firstChapterApiLink": "/api/ibo_bib/DEU/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DEU/34.json",
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 34,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ Mosis"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Mosis sitere na mbara ala Moab rigoruo nʼelu nʼugwu Nebo, ruo nʼelu Pisga, nke dị na ncherita ihu Jeriko. Nʼebe ahụ Onyenwe anyị mere ka ọ hụ ala ahụ niile anya site na Gilead ruo Dan;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ya na ala Naftalị niile nʼoke ala Ifrem, na nke Manase, na ala Juda niile ruo nʼosimiri Mediterenịa.",
+          {
+            "noteId": 496
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mosis hụkwara ala Negev, na akụkụ ala ahụ niile dị site na Ndagwurugwu Jeriko, obodo nkwụ, ruo Zoa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara Mosis sị ya, “Nke a bụ ala ahụ m sitere nʼịṅụ iyi kwee Ebraham, Aịzik na Jekọb nkwa mgbe m kwuru sị, ‘Aga m enye ya ụmụ ụmụ gị.’",
+          {
+            "noteId": 497
+          },
+          "Ugbu a emeela m ka i jiri anya gị hụ ya ma ị gaghị agabiga banye nʼime ya.”",
+          {
+            "noteId": 498
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ya mere, Mosis, onyeozi Onyenwe anyị nwụrụ nʼebe ahụ, nʼala Moab, dịka Onyenwe anyị kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Onyenwe anyị liri ya na Moab, na ndagwurugwu chere ihu na Bet-Peoa, ma ruo taa, ọ dịghị onye ọbụla maara ebe ili ya dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mosis gbara narị afọ na iri afọ abụọ mgbe ọ nwụrụ, ma nʼoge ahụ ike ka dị ya nʼahụ, anya ya na-ahụkwa ụzọ nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ụmụ Izrel ruru ụjụ nʼihi Mosis, iri ụbọchị atọ nʼobosara ala Moab, tutu ruo mgbe oge iru ụjụ na ịkwa akwa gasịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Joshua nwa Nun, jupụtara na mmụọ amamihe,",
+          {
+            "noteId": 499
+          },
+          "nʼihi na Mosis ebikwasịla ya aka nʼisi. Ya mere, ụmụ Izrel ṅara Joshua ntị, gbasookwa iwu niile Onyenwe anyị nyere ha site nʼọnụ Mosis."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ dịbeghị onye amụma ọzọ pụtarala nʼala Izrel niile, nke dịka Mosis,",
+          {
+            "noteId": 500
+          },
+          "onye ya na Onyenwe anyị kparịtara ụka ihu na ihu,",
+          {
+            "noteId": 501
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "onye mere ihe ịrịbama ndị a niile, rụọkwa ọrụ ebube niile nke Onyenwe anyị ziri ya ka o mee nʼIjipt, nʼihu Fero, na ndị ozi ya niile, nakwa nʼala ahụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼihi na o nwebekwaghị onye ọzọ gosirila ike dị oke egwu, maọbụ rụọ ọrụ dị oke egwu ụdị nke Mosis rụrụ nʼihu ndị Izrel niile."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 496,
+        "caller": "+",
+        "text": "Osimiri Mediterenịa dị nʼọdịda anyanwụ",
+        "reference": {
+          "chapter": 34,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 497,
+        "caller": "+",
+        "text": "Jen 12:7",
+        "reference": {
+          "chapter": 34,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 498,
+        "caller": "+",
+        "text": "Dit 3:27",
+        "reference": {
+          "chapter": 34,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 499,
+        "caller": "+",
+        "text": "Aịz 11:2",
+        "reference": {
+          "chapter": 34,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 500,
+        "caller": "+",
+        "text": "Dit 18:15,18",
+        "reference": {
+          "chapter": 34,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 501,
+        "caller": "+",
+        "text": "Ọpụ 33:11; Ọnụ 12:8; Dit 5:4",
+        "reference": {
+          "chapter": 34,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/DEU/34.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DEU/33.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 12
+}

@@ -1,0 +1,312 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 7,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ihe ama Ịmanụel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Ehaz,",
+          {
+            "noteId": 840
+          },
+          "nwa Jotam, nwa nwa Ụzaya bụ eze na Juda, Rezin eze Aram, na Peka eze Izrel, nwa Remalaya, busoro Jerusalem agha. Ma ha emerighị ya; obodo ahụ guzosiri ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ma mgbe e mesịrị, ozi ruru ụlọ Devid ntị sị, “Ndị Aram na Ifrem ejikọọla onwe ha ọnụ”; nke a mere ka ụlọeze, na obi ndị ọ na-achị maa jijiji, dịka osisi dị nʼọhịa si ama jijiji mgbe oke ifufe na-efe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara Aịzaya okwu sị ya, “Jekwuru Ehaz bụ eze. Mgbe ị na-aga, kpọrọ Shịa-Jashub nwa gị nwoke. Unu ga-ahụ Ehaz nʼakụkụ Elu elu olulu ọdọ mmiri nke dị nʼụzọ ahụ gawara nʼAla ọsụ akwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Gwa ya ka ọ ghara inye ndụ ya nsogbu, ka ọ gharakwa ịtụ egwu. Sị ya, ‘Lezie anya, nọ jụụ, echegbula onwe ya banyere icheku ọkụ abụọ ahụ na-anyụ anyụ. Atụla egwu nʼihi iwe Rezin nwa Aram, na iwe Peka nwa Remalaya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "E, Aram, na Ifrem, na nwa nwoke Remalaya, agbaala izu ibuso gị agha ịla gị nʼiyi. Ha ekwuola sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Ka anyị wakpo Juda, ka anyị dọwaa ya ma kee ya nʼetiti onwe anyị, mee nwa Tabeel ka ọ bụrụ eze ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru,",
+          {
+            "text": "“ ‘Ọ gaghị adị ire!",
+            "poem": 1
+          },
+          {
+            "text": "Ọ gaghị emezukwa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Nʼihi isi obodo Aram bụ Damaskọs.",
+            "poem": 1
+          },
+          {
+            "noteId": 841
+          },
+          {
+            "text": "Onyeisi Damaskọs bụ naanị Rezin.",
+            "poem": 2
+          },
+          {
+            "text": "Ma tupu afọ iri isii na ise agafee",
+            "poem": 1
+          },
+          {
+            "text": "a ga-etikpọkwa Ifrem.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Isi obodo Ifrem bụ Sameria.",
+            "poem": 1
+          },
+          {
+            "text": "Onyeisi Sameria bụ naanị nwa Remalaya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ bụrụ na unu eguzosighị ike nʼokwukwe unu,",
+            "poem": 1
+          },
+          {
+            "text": "unu agaghị eguzo ma ọlị.’ ”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ dịghị anya, Onyenwe anyị ziri Ehaz ozi ndị a sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "“Jụọ m bụ Onyenwe anyị Chineke gị, ka m meere gị ihe ịrịbama nke ga-egosi gị na m ga-ebibi ndị iro gị niile dịka m kwuru. Rịọọ m ihe masịrị gị, nʼebe dị elu nʼeluigwe maọbụ nʼebe kachasị omimi nʼụwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma Ehaz zara sị, “Mba, agaghị arịọ, agaghị m anwakwa Onyenwe anyị m otu a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma Aịzaya sịrị, “Ṅaanụ ntị unu ụlọ Devid. Ọ bụ na o zurughị unu ime ka ike gwụ mmadụ? Unu ga-emekwa ka ike gwụ Chineke nʼonwe ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, Onyenwe anyị nʼonwe ya ga-enye gị ihe ịrịbama! Lee, nwaagbọghọ ahụ na-amaghị nwoke ga-atụrụ ime, mụọ nwa nwoke. Ọ ga-akpọ aha ya Ịmanụel, nke pụtara, Chineke nọnyeere anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mmiri ara ehi rahụrụ arahụ na mmanụ aṅụ ka nwantakịrị ahụ ga-eri mgbe ọ matara ịjụ ihe ọjọọ na ịhọrọ ezi ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Tupu a zụlite nwantakịrị ahụ ịmata ịhọrọ ezi ihe na ịjụ ajọ ihe, ndị eze abụọ ndị ị na-atụ egwu ha, ga-anwụcha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Onyenwe anyị ga-eme ka ọbụbụ ọnụ dị ukwuu bịakwasị gị na obodo gị, na ezinaụlọ gị. Ihe egwu ga-adịkwa, ụdị nke a na-ahụbeghị mbụ, site nʼoge e kewapụrụ Ifrem site na Juda. Eze Asịrịa ga-edu ndị agha ya bịa.",
+          {
+            "noteId": 842
+          },
+          "”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Asịrịa, ngwa ọrụ Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼụbọchị ahụ, Onyenwe anyị ga-akpọku ijiji site na nsọtụ Naịl dị nʼIjipt nakwa aṅụ sitere nʼala Asịrịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ha ga-abịa nʼigwe, bichie ndagwurugwu ala gị niile, na nʼọgba nkume niile, na nʼọhịa ogwu ogwu niile, na nʼọzara niile, na nʼezi ala niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nʼụbọchị ahụ, Onyenwe anyị ga-eji agụba e gotara nʼofe osimiri, nke bụ eze Asịrịa, kpụchapụ unu agịrị isi na ajị ụkwụ, kpụchapụkwa afụọnụ unu niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Nʼụbọchị ahụ, otu onye ga-edebe otu nwa ehi na ewu abụọ ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Onye ọbụla kwa nʼala ahụ ga-eri mmiri ara ehi rahụrụ arahụ, ya na mmanụ aṅụ, nʼihi na mmiri ara ehi ga-aba ụba nke ukwuu nʼala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nʼụbọchị ahụ, ala ọbụla nke nwere otu puku osisi vaịnị nke ọnụahịa ya ruru otu puku shekel ọlaọcha ga-abụ naanị ogwu na uke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ndị dinta ga-achịrị àkụ na ùta gaa nʼebe ahụ, nʼihi na uke na ogwu ga-ekpuchi ala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ma banyere ugwu eji ọgụ kọọ na mbụ, ị gaghị abakwa nʼebe ahụ ọzọ nʼihi egwu uke na ogwu; ha ga-abụ ebe a na-atọpụ ehi na ebe atụrụ na-agbagharị."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 840,
+        "caller": "+",
+        "text": "Nʼime senchuri nke asaa, tupu a mụọ Kraịst, ndị Izrel na Siria jikọrọ aka buso ndị Asịrịa agha. Nʼoge ahụ ha gbalịrị ịkwagide Ehaz, eze Juda, ka o soro ha ga buo agha ahụ.",
+        "reference": {
+          "chapter": 7,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 841,
+        "caller": "+",
+        "text": "2Sa 8:6",
+        "reference": {
+          "chapter": 7,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 842,
+        "caller": "+",
+        "text": "2Ih 28:19-20",
+        "reference": {
+          "chapter": 7,
+          "verse": 17
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/7.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/8.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/6.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

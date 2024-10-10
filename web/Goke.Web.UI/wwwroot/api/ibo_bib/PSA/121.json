@@ -1,0 +1,210 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 121,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ nrigo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Inyeaka si nʼebe Onyenwe anyị nọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Aga m eweli anya m abụọ elu, lee ha nʼelu ugwu niile,",
+            "poem": 1
+          },
+          {
+            "text": "olee ebe inyeaka ga-esi bịara m?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Inyeaka m na-esite nʼaka Onyenwe anyị,",
+            "poem": 1
+          },
+          {
+            "noteId": 1688
+          },
+          {
+            "text": "onye kere eluigwe na ụwa bịa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ọ gaghị ekwe ka ụkwụ gị gbụchapụ,",
+            "poem": 1
+          },
+          {
+            "text": "onye na-eche gị nche na-amụ anya oge niile;",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "nʼezie onye na-eche Izrel nche",
+            "poem": 1
+          },
+          {
+            "text": "adịghị arahụ ụra, ọ dịghị atụkwa oru ụra.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Onyenwe anyị na-eche gị nche,",
+            "poem": 1
+          },
+          {
+            "text": "Onyenwe anyị bụ ndo",
+            "poem": 2
+          },
+          {
+            "noteId": 1689
+          },
+          {
+            "text": "gị nʼaka nri gị;",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "anyanwụ agaghị achagbu gị nʼehihie,",
+            "poem": 1
+          },
+          {
+            "text": "ọnwa agaghị etigbukwa gị nʼabalị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Onyenwe anyị ga-edebe gị ka ihe ọjọọ ọbụla ghara ịdakwasị gị.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga na-eche ndụ gị nche mgbe niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Onyenwe anyị ga-echebe gị mgbe ị na-apụ na mgbe ị na-abata abata,",
+            "poem": 1
+          },
+          {
+            "text": "site ugbu a ruo mgbe niile ebighị ebi.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1688,
+        "caller": "+",
+        "text": "Abụ 124:8",
+        "reference": {
+          "chapter": 121,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1689,
+        "caller": "+",
+        "text": "Aịz 25:4",
+        "reference": {
+          "chapter": 121,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/121.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/122.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/120.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

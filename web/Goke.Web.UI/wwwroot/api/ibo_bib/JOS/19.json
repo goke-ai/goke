@@ -1,0 +1,477 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JOS",
+    "translationId": "ibo_bib",
+    "name": "Joshua",
+    "commonName": "Joshua",
+    "title": "Joshua",
+    "order": 6,
+    "numberOfChapters": 24,
+    "sha256": "8e1d5caf9da7743a3c9001a4bcf4880157d1b5427a9bdf5550f365a0b3315c7a",
+    "firstChapterApiLink": "/api/ibo_bib/JOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JOS/24.json",
+    "totalNumberOfVerses": 658
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Oke ụmụ Simiọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị nke abụọ sitere nʼife nza nweta oke ha bụ ebo Simiọn dịka ikwu ha si dị. Ala ha ketara dị nʼime ala e kenyere ndị Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ihe nketa ụmụ Simiọn bụ ndị a: Bịasheba (maọbụ Sheba), Molada,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Haza Shual, Bala, Ezem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Eltolad, Betul, Homa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ziklag, Bet-Makabot, Haza Susa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Bet-Lebaot na Sharuhen, obodo iri na atọ na obodo nta ndị ọzọ gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Na Ain, Rimọn, Eta na Ashan, obodo anọ na obodo nta ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "tinyekwara obodo nta ndị ọzọ niile gbara obodo ukwu ndị a gburugburu, ruo obodo Baalat-Bịa, ya bụ (obodo Rema dị na Negev). Nke a bụ ihe nketa ebo Simiọn dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "E sitere nʼoke ụmụ Juda wepụta oke ụmụ Simiọn, nʼihi na ihe ụmụ Juda ketara dị ukwuu karịa ihe ha kwesiri iketa. Ọ bụ nke a mere ụmụ Simiọn ji nweta ihe nketa site nʼetiti ala ndị Juda."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke ụmụ Zebụlọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ebo nke atọ nwetara ihe nketa ha site nʼife nza bụ ebo Zebụlọn dịka ikwu ha si dị. Ala ha nwetara gbatịrị ruo Sarid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Site nʼebe ahụ, oke ala ahụ gbatịrị gaa nʼakụkụ ọdịda anyanwụ, ruo Marala na Dabeshet, rukwaa iyi dị nʼihu Jokneam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "O si na Sarid chigharịa ihu nʼakụkụ ọwụwa anyanwụ, oke ala ahụ ruru nʼoke ala Kislọt Teboa, gbagorokwa ruo Daberat, ruokwa Jafia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ọ gbatịkwara nʼakụkụ ọwụwa anyanwụ ruo Gat Hefa, Et Kazin na Rimọn, tụgharịa nʼụzọ e si aga Nea."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼebe ahụ, ọ gara gburugburu nʼakụkụ ugwu ruo Hanatọn, ruokwa na Ndagwurugwu Ifta El ebe ọ sọtụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Obodo ndị a niile dịkwa nʼime ihe nketa ụmụ Zebụlọn: Katat, Nahalal, Shịmrọn, Idala na Betlehem.",
+          {
+            "noteId": 1176
+          },
+          "Obodo niile ndị a dị iri na abụọ, tinyere obodo nta niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Obodo ndị a niile na obodo nta ha, so nʼala ụmụ Zebụlọn nwetara dịka ihe nketa ha, dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke Ụmụ Isaka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ebo nke anọ sitere nʼife nza nweta ihe nketa ha bụ ụmụ Isaka dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ala na obodo ha ketara bụ ndị a: Jezril, Kesulọt, Shunem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Hafaraim, na Shịọn, Anaharat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Rabit, Kishiọn, Ebez na"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Remet, En-Ganim, En-Hada na Bet-Pazez."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Oke ala ha ruru na Taboa, Shahazuma na Bet-Shemesh, ma kwụsị nʼosimiri Jọdan. Obodo ndị a niile dị iri na isii, tinyere obodo nta niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ya mere, obodo ukwu ndị a na obodo nta ha dị nʼala ahụ ebo Isaka nwetara dịka ihe nketa ha, dị ka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke ụmụ Asha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ebo nke ise e kenyere ala site nʼife nza bụ ụmụ Asha dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ala na obodo ha ketara bụ ndị a: Helkat, Hali, Beten, Akshaf,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Alamelek, Amad na Mishal. Oke ala ha nʼakụkụ ọdịda anyanwụ gbatịrị ruo Kamel na Shihoa-Libnat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "O sitere nʼebe ahụ tụgharịa nʼakụkụ ọwụwa anyanwụ gawa Bet-Dagọn, ma ruokwa Zebụlọn na Ndagwurugwu Ifta El, ma gbagoro ruokwa Bet-Emek na Neiel. O sikwa nʼebe ahụ gafee, ruo Kabul, nʼakụkụ aka ekpe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọ gara ruo Ebrọn, Rehob, Hamọn na Kana, ruokwa ebe obodo Saịdọn gbasapụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Oke ala ahụ mere dịka ọ na-alaghachi azụ bịaruo Rema, ruokwa obodo e wusiri ike bụ Taịa, tụgharịakwa gawa Hosa pụta nʼọnụ mmiri osimiri Mediterenịa nke dị nʼakụkụ Akzib"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "na Umma, Afek na Rehob. Ọnụọgụgụ obodo ndị a niile bụ iri abụọ na abụọ tinyere obodo nta ha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Obodo ndị a na obodo nta ha niile dị nʼala ahụ ebo Asha nwetara dịka ihe nketa, dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke ụmụ Naftalị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ebo nke isii e nyere ihe nketa site nʼife nza bụ ebo Naftalị, dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Oke ala ha malitere na Helef ruo nʼosisi ukwu dị na Zaananim, Adami Nekeb na Jabneel, gafee ruo Lakum, kwụsị nʼosimiri Jọdan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Site nʼebe ahụ oke ala ha gara nʼakụkụ ọdịda anyanwụ ruo Aznot Tabo, site nʼebe ahụ ruo Hukọk, rute Zebụlọn na ndịda, na Asha nʼọdịda anyanwụ, ruokwa Juda nʼakụkụ ọwụwa anyanwụ Jọdan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Obodo niile e wusiri ike e kenyere ha bụ ndị a: Zidim, Zea, Hamat, Rakat, Kineret,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Adama, Rema, Hazọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Kedesh, Edrei, En-Hazoa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Iron,",
+          {
+            "noteId": 1177
+          },
+          "Migdal El, Horem, Bet-Anat na Bet-Shemesh. Ya mere, ọnụọgụgụ obodo ndị a niile bụ iri na itoolu, tinyere obodo nta niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Obodo ndị a na obodo nta ha niile ka ebo Naftalị dịka ikwu ha si dị, nwetara dịka ihe nketa ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke ụmụ Dan"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Site nʼife nza ebo Dan, bụ ebo nke asaa nwetara ihe nketa dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Oke ala ihe nketa ha bụ ndị a: Zora, Eshtaol, Ia-Shemesh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Shaalabin, Aijalon, Itla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Elọn, Timna, Ekrọn,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Elteke, Gibeton, Baalat,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Jehud, Bene-Berak, Gat Rimọn,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Me-Jakọn na Rakọn, obodo dị nʼoke ala, na ncherita ihu Jopa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Mgbe oke ala ụmụ Dan ketara sitere nʼaka ha pụọ. Ha gara buso obodo Leshem agha merie ha, were mma agha tigbuo ndị niile bi nʼime ya, bichie ya. Ha kpọrọ obodo ahụ Dan, nke bụ aha nna nna ha ochie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Obodo ndị a na obodo nta ha bụ ihe nketa ebo Dan nwetara dịka ikwu ha si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Oke Joshua"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Mgbe e kechara ala ahụ niile, nye ebo ọbụla ala dịka ọnụọgụgụ ha niile si dị, ụmụ Izrel nyere Joshua, nwa Nun ihe nketa ha nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Nʼihi na Onyenwe anyị ekwuola na Joshua nwere ike iwere ala ọbụla ọ chọrọ. Ya mere, ha nyere Joshua obodo Timnat Sera nke dị nʼugwu Ifrem. Joshua wugharịrị obodo ahụ biri nʼime ya."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Ndị a bụ oke ala nke Elieza onye nchụaja, Joshua nwa Nun na ndịisi ụlọ ebo ụmụ Izrel, kere na Shaịlo site nʼife nza nʼihu Onyenwe anyị, nʼọnụ ụzọ ụlọ nzute. Ha si otu a kebie ala ahụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1176,
+        "caller": "+",
+        "text": "Obodo Betlehem nke a, dị iche na Betlehem dị na Juda. 1Sa 17:12; Rut 1:1",
+        "reference": {
+          "chapter": 19,
+          "verse": 15
+        }
+      },
+      {
+        "noteId": 1177,
+        "caller": "+",
+        "text": "Maọbụ, Yiron",
+        "reference": {
+          "chapter": 19,
+          "verse": 38
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JOS/19.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOS/20.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JOS/18.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 51
+}

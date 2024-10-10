@@ -1,0 +1,187 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 39,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Otu a ka e si dọta Jerusalem nʼagha. Nʼafọ nke itoolu, nke ọchịchị Zedekaya eze Juda, nʼọnwa nke iri ya, Nebukadneza eze Babilọn duuru ndị agha ya niile bịa ibuso Jerusalem agha, Ha gbara ya gburugburu, nọchibido ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼụbọchị nke itoolu, nʼọnwa nke anọ, nʼafọ nke iri na otu nke ọchịchị Zedekaya, ha gwupuru mgbidi obodo ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, ndịisi niile nke eze Babilọn batara were ọnọdụ ha nʼọnụ ụzọ ama nke Etiti. Ndị a bụ ndị batara: Negal-Shareza onye Samga, na Nebo-Sasekim, onyeisi nʼetiti ndịisi, na Negal-Shareza onyeisi nke ọkwa ya dị elu, na ndịisi niile ọzọ nke eze Babilọn ndị fọdụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe Zedekaya eze Juda na ndị agha ya niile hụrụ ha, ha gbapụrụ ọsọ. Ha ji abalị gbapụ nʼobodo ahụ site nʼọnụ ụzọ ama nke dị nʼetiti mgbidi abụọ nʼakụkụ ubi eze a gbara ogige, chee ihu nʼụzọ Araba.",
+          {
+            "noteId": 1038
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma ndị agha ndị Babilọn chụsoro ha nʼazụ, chụkwute Zedekaya na mbara ala Jeriko. Ha jidere ya, kpụgara ya Nebukadneza eze Babilọn, nʼobodo Ribla, nke dị nʼala Hamat, ebe ọ nọ maa ya ikpe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ bụ na Ribla, ka eze Babilọn nọ gbuo ụmụ ndị ikom Zedekaya niile nʼihu ya. Ebe ahụ ka a nọkwa gbuo ndị Juda niile a na-asọpụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Emesịa, ọ ghụpụrụ Zedekaya anya ya abụọ, jiri ụdọ bronz kee ya agbụ kpọrọ ya gaa Babilọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị Babilọn sunyere ụlọeze na ụlọ ndị mmadụ niile ọkụ, kwatukwa mgbidi niile nke Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nebuzaradan bụ ọchịagha ndị nche eze, buuru ndị niile fọdụrụ nʼobodo, ha na ndị ahụ buuru ụzọ jekwuru ya, na ndị ọzọ fọdụrụ, bulaa ha Babilọn, dịka ndị a dọtara nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma Nebuzaradan bụ ọchịagha ndị nche eze, hapụrụ ụfọdụ ndị ogbenye, ndị na-enweghị ihe ọbụla nʼala Juda. Nʼoge ahụ, o nyere ha ubi vaịnị a gbara ogige na ala ubi niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ugbu a, Nebukadneza eze Babilọn enyelarị Nebuzaradan ọchịagha ndị nche eze iwu banyere Jeremaya, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "“Kpọrọ ya, lekọtazie ya anya nke ọma; emekwala ya ihe ọjọọ ọbụla, kama meere ya ihe ọbụla ọ rịọrọ gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere, Nebuzaradan, ọchịagha ndị nche eze, na Nebushazban, onyeisi nʼetiti ndịisi, na Negal-Shareza, bụ onyeisi ọkwa ya dị elu, na ndịisi ndị ọzọ niile nke eze Babilọn,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ziri ndị jere kpọpụta Jeremaya site nʼogige ndị nche. Ha nyefere ya nʼaka Gedaliya nwa Ahikam, nwa Shefan, ka o dulaa ya nʼụlọ ya. Ya mere, Jeremaya nọgidere nʼetiti ndị nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma nʼoge ahụ, Jeremaya nọ dị ka onye mkpọrọ nʼogige ụlọ ndị nche, okwu Onyenwe anyị ruru ya ntị sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "“Jekwuru Ebed-Melek onye Kush, gwa ya sị ya, ‘Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel kwuru, Lee, ana m aga ime ka okwu ahụ m kwuru megide obodo a mezuo. Ihe ga-abịakwasị obodo a bụ ịla nʼiyi, ọ bụghị ọganihu. Nʼoge ahụ, ihe ndị a ga-emezukwa nʼihu gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ma aga m anapụta gị nʼụbọchị ahụ, otu a ka Onyenwe anyị kwubiri. A gaghị enyefe gị nʼaka ndị ahụ ị na-atụ egwu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Aga m azọpụta gị. Ị gakwaghị ada site na mma agha kama ị ga-agbapụkwa na ndụ, nʼihi na ị tụkwasịrị m obi.’ ” Otu a ka Onyenwe anyị kwubiri ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1038,
+        "caller": "+",
+        "text": "Ya bụ ndagwurugwu Jọdan",
+        "reference": {
+          "chapter": 39,
+          "verse": 4
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/39.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/40.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/38.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

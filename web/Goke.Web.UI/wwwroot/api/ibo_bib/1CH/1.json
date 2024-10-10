@@ -1,0 +1,548 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "ibo_bib",
+    "name": "1 Ihe E Mere",
+    "commonName": "1 Ihe E Mere",
+    "title": "1 Ihe e mere",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "6f785bd6ba0698a2222fc70c06769c18b5f67b2229bf615cd8d7c99368b4c3ac",
+    "firstChapterApiLink": "/api/ibo_bib/1CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1CH/29.json",
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Usoro ọmụmụ site nʼAdam ruo Ebraham"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ruokwa ụmụ Noa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Adam, Set, Enọsh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Kenan, Mahalalel, Jared,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Enọk, Metusela, Lamek, na Noa."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ụmụ Noa bụ Shem, Ham, na Jafet."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Jafet"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ụmụ ndị ikom Jafet bụ: Goma, Magog, Madai, Javan, Tubal, Meshek na Tiras."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ụmụ ndị ikom Goma bụ Ashkenaz, na Rifat, na Togama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ụmụ ndị ikom Javan bụ: Elisha, Tashish, Kitim, na Rodanim."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Ham"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ụmụ ndị ikom Ham bụ: Kush, Ijipt, Put na Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụmụ ndị ikom Kush bụ: Seba, Havila, Sabta, Raama, na Sabteka. Ụmụ ndị ikom Raama bụ: Sheba na Dedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Kush bụ nna Nimrọd, onye mesịrị bụrụ dike nʼagha nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ijipt bụ nna ndị Lud, ndị Anam, ndị Lehab, ndị Naftuh,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "ndị Patrus, na ndị Kasluh (onye ndị Filistia sitere na ya) na ndị Kafto."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Kenan bụ nna Saịdọn, ọkpara ya, na ndị Het,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "ndị Jebus, ndị Amọrait, ndị Gigash,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "ndị Hiv, ndị Aka, ndị Sini,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "ndị Avad, ndị Zema na ndị Hamat."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Shem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ụmụ ndị ikom Shem bụ Elam, Ashua, Apakshad, Lud na Aram. Ụmụ Aram bụ Uz, Hul, Geta na Meshek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Apakshad bụ nna Shela; Shela bụrụ nna Eba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Eba mụtara ụmụ ndị ikom abụọ: Aha otu nʼime ha bụ Peleg,",
+          {
+            "noteId": 0
+          },
+          "nʼihi na ọ bụ nʼoge ndụ ya ka e kewara ụwa; aha nwanne ya nwoke bụ Joktan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Joktan bụ nna Almodad, Shelef, Hazamavet, Jera,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Hadoram, Ụzal, Dikla,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Obal, Abimael, Sheba,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọfịa, Havila na Jobab. Ndị a niile bụ ụmụ ndị ikom Joktan."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Shem, Apakshad, Shela,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Eba, Peleg, Reu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Serug, Nahọ, Tera"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "na Ebram, ya bụ Ebraham."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Ebraham"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ụmụ Ebraham mụrụ bụ Aịzik na Ishmel."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Hega"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ndị a bụ ụmụ ụmụ ha: Nebaiot (ọkpara Ishmel), Keda, Adbel, Mibsam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mishma, Duma, Masa, Hadad, Tema,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Jetua, Nafish na Kedema. Ndị a bụ ụmụ ndị ikom Ishmel."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Ketura"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ketura, iko nwanyị Ebraham, mụtaara ya Zimran, Jokshan, Medan, Midian, Ishbak na Shua. Jokshan mụtara ndị a: Sheba na Dedan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ụmụ ndị ikom Midian bụ: Efaa, Efe, Hanok, Abida na Eldaa. Ndị a niile bụ ụmụ ụmụ Ketura."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Sera"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ebraham mụtara Aịzik. Ụmụ ndị ikom Aịzik bụ Ịsọ na Izrel."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Ịsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ịsọ mụrụ ndị a: Elifaz, Reuel, Jeush, Jalam na Kora."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ụmụ Elifaz bụ Teman, Ọmaa, Zefi, Gatam na Kenaz, na Amalek, site na Timna."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ụmụ ndị ikom Reuel bụ: Nahat, Zera, Shama, na Miza."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị Edọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ụmụ ndị ikom Sia bụ Lotan, Shobal, Zibiọn, Ana, Dishọn, Eza na Dishan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ụmụ ndị ikom Lotan bụ Hori na Homam. Timna bụkwa nwanne nwanyị Lotan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ụmụ ndị ikom Shobal bụ Alvan,",
+          {
+            "noteId": 1
+          },
+          "Manahat, Ebal, Shefo na Onam. Zibiọn mụrụ Aịa na Ana."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ana mụrụ Dishọn. Ụmụ Dishọn bụ Hamran, na Eshban, na Itran, na Keran."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ụmụ ndị ikom Eza bụ Bilhan, na Zaavan, na Akan. Ụmụ ndị ikom Dishan bụ Uz na Aran."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị eze Edọm"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ndị a bụ ndị eze chịrị nʼEdọm tupu ndị Izrel enwee eze nke ha. Bela nwa Beoa, onye aha obodo ya bụ Dinhaba."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Mgbe Bela nwụrụ Jobab nwa Zera, onye Bozra nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Mgbe Jobab nwụrụ, Husham onye si nʼala Teman nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Mgbe Husham nwụrụ, Hadad nwa Bedad, onye meriri ndị agha Midia nʼọzara Moab, ghọrọ eze. Isi obodo ya bụ Avit."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Mgbe Hadad nwụrụ, Samla onye Masrika nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Mgbe Samla nwụrụ, Shaul onye sitere na Rehobọt dị nʼakụkụ osimiri",
+          {
+            "noteId": 2
+          },
+          "nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Mgbe Shaul nwụrụ, Baal-Hanan nwa Akboa, nọchiri ya dịka eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Mgbe Baal-Hanan nwụrụ, Hadad nọchiri ya dịka eze. Akpọrọ isi obodo ya Pai. Aha nwunye ya bụ Mehetabel, nwa Matred, nwa nwa Mezahab."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Hadad mesịrị nwụọkwa.",
+          {
+            "lineBreak": true
+          },
+          "Ndịisi ọnụmara nʼEdọm bụ Timna, Alva, Jetet,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Oholibama, Elaa, Pinon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Kenaz, Teman, Mibza,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Magdiel na Iram. Ndị a bụ ndịisi ọnụmara nʼEdọm."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 0,
+        "caller": "+",
+        "text": "Peleg pụtara Nkewa, nʼihi na mgbe a mụrụ Peleg bụ mgbe e mere ka asụsụ ụwa niile kewasịa.",
+        "reference": {
+          "chapter": 1,
+          "verse": 19
+        }
+      },
+      {
+        "noteId": 1,
+        "caller": "+",
+        "text": "Maọbụ, Alian, dịka ọtụtụ akwụkwọ ndị Hibru na-ede ya. Jen 36:23.",
+        "reference": {
+          "chapter": 1,
+          "verse": 40
+        }
+      },
+      {
+        "noteId": 2,
+        "caller": "+",
+        "text": "Eleghị anya ọ bụ osimiri Yufretis",
+        "reference": {
+          "chapter": 1,
+          "verse": 48
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1CH/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1CH/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/25.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 54
+}

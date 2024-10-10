@@ -1,0 +1,116 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1CH",
+    "translationId": "ibo_bib",
+    "name": "1 Ihe E Mere",
+    "commonName": "1 Ihe E Mere",
+    "title": "1 Ihe e mere",
+    "order": 13,
+    "numberOfChapters": 29,
+    "sha256": "6f785bd6ba0698a2222fc70c06769c18b5f67b2229bf615cd8d7c99368b4c3ac",
+    "firstChapterApiLink": "/api/ibo_bib/1CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1CH/29.json",
+    "totalNumberOfVerses": 942
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndọta adọtara Raba"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge ọkọchị, mgbe ndị eze na-apụ ibu agha, Joab duuru ndị agha pụọ ibu agha. O bibiri ala ndị Amọn niile, gaa Raba nọchibido ya, ma Devid nọdụrụ na Jerusalem. Joab busoro Raba agha, mee ka ọ ghọọ mkpọmkpọ ebe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Devid kpupuru okpueze nke dị eze ha nʼisi, ahụtara nʼịdị arọ nke okpueze ahụ ruru kilogram ọlaedo iri atọ na anọ, nke e ji nkume ndị dị oke ọnụahịa chọọ mma, e kpunyere ya Devid nʼisi. O sitekwara nʼobodo ahụ kwakọrọ ọtụtụ ihe nkwata nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ kpọpụtara ndị nọ nʼebe ahụ, manye ha nʼịrụ ọrụ nke e ji mma nkwọ e ji awa osisi, na igwe e ji egwu ala, na anyụike na-arụ. Otu a ka Devid mekwara obodo niile nke ndị Amọn. Emesịa, Devid na ndị agha ya niile laghachiri na Jerusalem."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Agha megide ndị Filistia"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe oge gatụrụ, agha ọzọ daara ha na ndị Filistia, na Gaza. Mgbe ahụ, Sibekai, onye Husha, gburu Sipai, otu nʼime ndị agbụrụ Refaim. Nke a mere ka ndị Filistia chilie aka ha elu, bụrụ ndị a lụgburu nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼagha ọzọ ha na ndị Filistia lụrụ, Elhanan, nwa Jaịa, gburu Lami nwanne Golaịat, onye Gat. Onye ùbe ya nwere osisi dị ogologo dịka nke onye na-ekwe akwa ji ekwe akwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼagha ọzọkwa, bụ nke a lụrụ na Gat, e nwere otu nwoke gbara oke dimkpa, nke nwere mkpịsịaka isii nʼaka ya ọbụla, nweekwa mkpịsịụkwụ isii nʼụkwụ ya ọbụla, ya bụ, a gụkọtaa ha niile, iri mkpịsịaka na mkpịsịụkwụ abụọ na anọ. Ọ bụkwa onye amụrụ nʼagbụrụ Rafa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ọ kọchara Izrel, Jonatan nwa Shimea, nwanne Devid gburu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị a bụ ndị agbụrụ Rafa dị na Gat. Devid na ndị agha ya gburu ha niile."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/1CH/20.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1CH/21.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1CH/19.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

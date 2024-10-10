@@ -1,0 +1,334 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Eze",
+    "commonName": "1 Ndị Eze",
+    "title": "1 Ndị Eze",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "bc19177f5947d59e115a1a111245ea4249ce6da42aa6c8da3080fae6d4b373fb",
+    "firstChapterApiLink": "/api/ibo_bib/1KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1KI/22.json",
+    "totalNumberOfVerses": 816
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Onyenwe anyị emee ka Solomọn hụ ya anya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Solomọn rụchara ụlọnsọ ukwu Onyenwe anyị, na ụlọeze, rụzukwaa ihe niile bụ nke o bu nʼobi ime,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Onyenwe anyị mere ka ọ hụ ya anya nke ugboro abụọ dịka o mere ka ọ hụ ya anya na Gibiọn.",
+          {
+            "noteId": 74
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Onyenwe anyị sịrị ya, “Anụla m ekpere gị, na arịrịọ gị, nke ị rịọrọ nʼihu m. Edoola m ụlọnsọ a nke i wuru nsọ, site nʼitinye Aha m nʼebe ahụ ruo mgbe ebighị ebi. Anya m na obi m abụọ ga-adịkwa nʼebe ahụ ụbọchị niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Ma gị onwe gị, ọ bụrụ na ị jiri obi zuruoke na omume ziri ezi, bie ndụ nʼikwesị ntụkwasị obi nʼihu m dịka Devid nna gị mere, na-eme ihe niile m nyere nʼiwu, debe ụkpụrụ m na iwu m niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "mgbe ahụ, aga m eme ka ocheeze ọchịchị gị nʼIzrel guzosie ike ruo mgbe ebighị ebi, dịka m kwere nna gị Devid nkwa, mgbe m sịrị, ‘Ị ghaghị inwe onye nnọchite anya nʼocheeze Izrel.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Ma ọ bụrụ na unu, maọbụ ụmụ ụmụ unu alaghachi azụ, site nʼebe m nọ, jụ idebe iwu na ụkpụrụ niile bụ nke m nyere unu, pụọ gbasoro chi ndị ọzọ ife ha ofufe na ịkpọ isiala nye ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "mgbe ahụ, aga m esite nʼala ahụ nke m nyere ha wezuga Izrel. Aga m ajụkwa ụlọnsọ a m doro nsọ nye Aha m. Izrel ga-aghọ ihe eji atụ ilu na ihe ịkpa ọchị nʼetiti ndị niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọ bụ ezie na ụlọnsọ ukwu a kachasị elu ugbu a, ma ọnọdụ ya ga-eju ndị niile ga-esi nʼakụkụ ya gafee anya. Ha ga-emi ọnụ, sị, ‘Gịnị mere Onyenwe anyị ji mee ala a na ụlọnsọ a, ihe dị otu a?’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ndị mmadụ ga-aza, ‘Nʼihi na ha gbakụtara Onyenwe anyị Chineke ha azụ, onye kpọpụtara ha site nʼala Ijipt azụ, makụọ chi ndị ọzọ, na-akpọ isiala na-efekwa ha ofufe. Ọ bụ nʼihi nke a ka O ji mee ka ihe ọjọọ niile ndị a bịakwasị ha.’ ”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọrụ ndị ọzọ Solomọn rụrụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼọgwụgwụ iri afọ abụọ, mgbe Solomọn ji wuo ụlọ abụọ ndị a, ya bụ ụlọnsọ Onyenwe anyị na ụlọeze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Eze Solomọn nyere Hiram, eze Taịa, iri obodo abụọ dị na Galili, nʼihi osisi sida, na osisi junipa, na ọlaedo niile Hiram butere ya dịka o si chọọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma mgbe Hiram si Taịa gaa ịhụ obodo ndị a nke Solomọn nyere ya, ha amasịghị obi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere, ọ jụrụ sị, “Nwanne m nwoke, ụdị obodo dị aṅaa bụ ihe a i nyere m?” Nʼihi ya, ọ kpọrọ ha Kabul,",
+          {
+            "noteId": 75
+          },
+          "aha ọ na-aza ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Hiram zigaara eze ọlaedo dị puku kilogram anọ na iri asatọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nke a bụ akụkọ banyere ndị ọrụ mmanye niile eze bụ Solomọn chịkọtara maka ịrụ ụlọnsọ ukwu Onyenwe anyị, na ụlọeze nke ya, na ebe e wusiri ike nke Milo, na mgbidi Jerusalem, Hazọ, Megido nakwa Gaza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Fero eze Ijipt buru agha na mbụ merie Gaza, kpọọ ya ọkụ, gbukwaa ọtụtụ ndị Kenan bi nʼobodo ahụ, were ya nye nwa ya nwanyị, bụ nwunye Solomọn, ka ọ bụrụ ihe o ji duo ya ụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Solomọn wugharịrị obodo Gaza, wuokwa ndịda Bet-Horon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Baalat na Tadmọ",
+          {
+            "noteId": 76
+          },
+          "nke dị nʼọzara nʼime ala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "O wukwara ọtụtụ obodo ebe nchịkọba ihe, obodo ebe idebe ụgbọ agha na ịnyịnya ya niile. O wuru ihe ọbụla gụrụ obi ya agụụ iwu na Jerusalem, Lebanọn na nʼoke ala ahụ niile ọ na-achị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị niile fọdụrụ ndụ nʼetiti ndị Amọrait, ndị Het, ndị Periz, ndị Hiv na Jebus (ndị ahụ abụghị ndị Izrel),"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "ndị ụmụ ụmụ ha niile fọdụrụ nʼala ahụ, ndị ahụ ndị Izrel na-enweghị ike egbuchapụ, ndị a ka Solomọn mere ndị ọrụ mmanye na ndị ohu, nke a bụkwa ọnọdụ ha ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma Solomọn emeghị ka onye Izrel ọbụla bụrụ ohu. Kama ha bụ ndị ikom agha, ndịisi ọrụ nʼọchịchị, ndịisi ndị ọchịagha, ndịisi ụgbọ agha na ndị na-agba ịnyịnya agha ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ndị a bụkwa ndịisi na-ahụ ihe banyere ọrụ niile nke Solomọn ji nʼaka. Ndị Izrel dị narị ise na iri ise (550), ka e mere ndịisi na-elekọta ndị ọrụ Solomọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Emesịa, ada Fero sitere nʼobodo Devid pụta gbagoo nʼụlọeze nke Solomọn wuuru ya. Solomọn wukwara ebe mpụta nke ụlọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ugboro atọ nʼafọ,",
+          {
+            "noteId": 77
+          },
+          "ka Solomọn na-achụ aja nsure ọkụ, na aja udo nʼelu ebe ịchụ aja o wuru nye Onyenwe anyị, tinyere aja nsure ọkụ ihe na-esi isi ụtọ ọ na-achụ nʼihu Onyenwe anyị. O si otu a wuchaa ụlọnsọ ukwu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Eze Solomọn wukwara ọtụtụ ụgbọ mmiri nʼEziọn Geba,",
+          {
+            "noteId": 78
+          },
+          "bụ nke dị nʼakụkụ Elat, nʼọnụ mmiri Oke osimiri Uhie nʼala Edọm."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Hiram zigaara ndị ikom ya na-anya ụgbọ, ndị maara ihe banyere ime njem osimiri nke ọma, ka ha soro ndị ikom Solomọn jee ozi nʼime ụgbọ ndị a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ha nyaara ụgbọ gaa Ọfịa,",
+          {
+            "noteId": 79
+          },
+          "site nʼebe ahụ bulatara eze Solomọn ọlaedo nke ịdị arọ ya ruru puku kilogram iri na anọ na narị abụọ na asatọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 74,
+        "caller": "+",
+        "text": "1Ez 3:5; 11:9; 2Ih 1:7",
+        "reference": {
+          "chapter": 9,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 75,
+        "caller": "+",
+        "text": "Ala na-adịghị ihe ọ dị mma iji ya mee.",
+        "reference": {
+          "chapter": 9,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 76,
+        "caller": "+",
+        "text": "Maọbụ, Tama nʼasụsụ ndị Hibru",
+        "reference": {
+          "chapter": 9,
+          "verse": 18
+        }
+      },
+      {
+        "noteId": 77,
+        "caller": "+",
+        "text": "Ọ bụ nʼusoro ụzọ mmemme atọ dị mkpa nke ndị Izrel na-eme kwa afọ. Ndị a bụ mmemme achịcha ekoghị eko, mmemme owuwe ihe ubi, na mmemme ibi ụlọ ikwu. Ọpụ 23:14-17; Dit 16:16; 2Ih 8:13",
+        "reference": {
+          "chapter": 9,
+          "verse": 25
+        }
+      },
+      {
+        "noteId": 78,
+        "caller": "+",
+        "text": "Obodo Eziọn Geba dị nʼakụkụ Elat nʼala Edọm, baara Solomọn uru nʼebe ọ dị ukwu nʼihi osimiri Uhie na oke osimiri India dị ya nso. Ọnụ 33:35; Dit 2:8; 1Ez 22:48",
+        "reference": {
+          "chapter": 9,
+          "verse": 26
+        }
+      },
+      {
+        "noteId": 79,
+        "caller": "+",
+        "text": "Ọtụtụ mmadụ na-ama atụ ebe a ga-enwe ike chọta obodo Ọfịa taa. Ụfọdụ na-asị, na ọ bụ nʼọnụ mmiri Arebịa ka ọ dị, ndị ọzọ na-asị, ọ bụ na mpaghara akụkụ ọnụ mmiri Sọmalia. Ebe ndị ọzọ na-asị, na ọ dị nʼala India maọbụ nʼala Zimbabwe.",
+        "reference": {
+          "chapter": 9,
+          "verse": 28
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1KI/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1KI/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1KI/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 28
+}

@@ -1,0 +1,411 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Eze",
+    "commonName": "1 Ndị Eze",
+    "title": "1 Ndị Eze",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "bc19177f5947d59e115a1a111245ea4249ce6da42aa6c8da3080fae6d4b373fb",
+    "firstChapterApiLink": "/api/ibo_bib/1KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1KI/22.json",
+    "totalNumberOfVerses": 816
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndịisi ozi Solomọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ya mere Solomọn ghọrọ eze ndị Izrel niile."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị a bụ aha ndịisi ọchịchị obodo eze Solomọn họpụtara inyere ya aka.",
+          {
+            "lineBreak": true
+          },
+          "Azaraya,",
+          {
+            "noteId": 54
+          },
+          "nwa Zadọk bụ onye nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Elihoref na Ahija, ụmụ ndị ikom Shisha, bụ ndị ode akwụkwọ. Jehoshafat, nwa Ahilud bụ onye na-edekọ akụkọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Benaya, nwa Jehoiada bụ onyeisi agha ndị Izrel. Zadọk na Abịata, bụ ndị nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Azaraya nwa Netan bụ onyeisi na-elekọta ndị na-ejere eze ozi. Zabud nwa Netan bụ onye nchụaja na onye ndụmọdụ nye eze."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ahisha, bụ onyeisi na-elekọta nʼụlọeze. Adoniram nwa Abda bụ onyeisi na-elekọta ndị ọrụ mmanye."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Eze Solomọn họpụtara ndị ikom iri na abụọ ndị o mere ndịisi ga-elekọta akụkụ iri na abụọ nke o mere ka Izrel dịrị. Mmadụ iri na abụọ ndị a nwekwa ọrụ iwetara eze ihe oriri. Nwoke ọbụla nʼime ha nwe iwetara eze na ezinaụlọ ya ihe oriri otu ọnwa nʼafọ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nke a bụ aha ndị ikom iri na abụọ ahụ.",
+          {
+            "lineBreak": true
+          },
+          "Ben-Hua, onye na-achị ala ugwu ugwu Ifrem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ben-Deka, onye na-achị Makaz, na Shaalbim na Bet-Shemesh, na Elọn Bethanan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ben-Hesed, onye na-achị Arubot, na Soko, na Ala Hefa niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ben-Abinadab, onye na-achị ala elu elu Doa. Nwoke a lụrụ Tafat, nwa nwanyị Solomọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Baana, nwa Ahilud, onye na-achị Teanak, na Megido nʼakụkụ Bet-Shan niile, nke dị nʼakụkụ Zaretan na ndịda Jezril, sitekwa na Bet-Shan ruo Ebel-Mehola gafee ma ruokwa Jokmeam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ben-Geba, onye na-achị Ramọt Gilead, na obodo niile nke ikwu Jaịa, nwa Manase nwere nʼime Gilead, na akụkụ Agob niile nke dị na Bashan, na iri obodo ukwu isii e ji mgbidi gbaa gburugburu, nke nwekwara mkpọrọ bronz e ji kpụọ ụzọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ahinadab nwa Ido, onye na-achị Mahanaim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ahimaaz, onye na-achị Naftalị (ọ lụkwara nwa nwanyị Solomọn a na-akpọ Basemat)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Baana nwa Hushaị, onye na-achị Asha na Alot."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Jehoshafat nwa Parua onye na-achị Isaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Shimei nwa Ela onye na-achị Benjamin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gebea nwa Uri, onye na-achị Gilead (ala Saịhọn eze ndị Amọrait, na nke Ọg eze Bashan). Naanị ya ka e doro dịka gọvanọ ala ahụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ihe a na-ebubatara Solomọn kwa ụbọchị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Nʼoge a, ndị Juda na Izrel bara ụba nʼọnụọgụgụ dịka aja dị nʼakụkụ osimiri. Ha dịkwa ukwuu nʼọnụọgụgụ. Ha na-eri na-aṅụ, na-emekwa onwe ha obi ụtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ala niile Solomọn na-achị sitere nʼoke osimiri Yufretis ruo ala ndị Filistia, rukwaa nʼoke ala ndị Ijipt.",
+          {
+            "noteId": 55
+          },
+          "Ndị niile a lụgburu nʼagha nʼobodo ndị a na-atụta ụtụ ha na-enye Solomọn. Ha nọgidekwara nʼokpuru Solomọn ụbọchị niile nke ndụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ihe oriri a na-ewebata nʼụlọ Solomọn ụbọchị niile bụ otu narị bushel ụtụ ọka na iri bushel asatọ, na iri akpa ọka a kwọrọ akwọ isii,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "na ehi iri mara abụba, na iri ehi abụọ a zụrụ nʼebe a na-azụ anụ, na narị atụrụ na ewu. A gụnyeghị anụ ele na mgbada na oke ele na ọkụkọ ọma",
+          {
+            "noteId": 56
+          },
+          "a na-ewebata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Nʼihi na ọ chịrị alaeze niile a ruo nʼakụkụ ọdịda anyanwụ nke osimiri Yufretis, site na Tifsa ruo na Gaza.",
+          {
+            "noteId": 57
+          },
+          "O nwekwara udo nʼakụkụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nʼoge ndụ Solomọn niile, Juda na Izrel site na Dan ruo Bịasheba bi nʼudo. Nwoke ọbụla nọ nʼokpuru osisi vaịnị na nʼokpuru osisi fiig nke ya.",
+          {
+            "noteId": 58
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ọnụọgụgụ ụlọ a na-etinye ụgbọ agha ịnyịnya na-adọkpụ nke Solomọn nwere dị puku anọ. Ọnụọgụgụ ịnyịnya a na-agba agba o nwere dị puku iri na abụọ.",
+          {
+            "noteId": 59
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nʼọnwa ọbụla, ndị ahụ a họpụtara ịchị Izrel na-ewetara eze Solomọn na ndị ụlọ ya ihe oriri. Ha adịghị ekwekwa ka otu ihe kọọ nʼụlọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ha na-ewetakwa ọka balị na ahịhịa ọka nʼebe o kwesiri, maka ịnyịnya na-adọkpụ ụgbọ agha na ịnyịnya ụkwụ ọsọ ndị ọzọ dịka ihe ha ketara nʼụtụ si dị."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amamihe Solomọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Chineke nyere Solomọn amamihe, na uche nghọta, na mmụọ ịmụta ọtụtụ ihe nke bara ụba dịka aja dị nʼakụkụ osimiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Amamihe Solomọn dị ukwuu karịa amamihe ndị si ọwụwa anyanwụ.",
+          {
+            "noteId": 60
+          },
+          "Nʼezie, ọ dị ukwuu karịakwa amamihe ndị maara ihe nʼIjipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ọ maara ihe karịa onye ọbụla, karịa Etan onye Ezra, na Heman, na Kalkol, na Dada, ụmụ ndị ikom Mahol. Ihe banyere ịdị ukwuu ya gbasara na mba niile gbara ha gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ọ tụrụ puku ilu atọ, deekwa abụ ọnụọgụgụ ha dị otu puku na ise."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O kwuru okwu banyere osisi, site na osisi sida nke Lebanọn ruo nʼahịhịa hisọp nke na-eto na mgbidi aja, na ihe banyere ụmụ anụmanụ na anụ ufe, na anụ na-akpụgharị nʼala nakwa azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ndị eze niile dị nʼụwa bụ ndị bịara ịnụrụ banyere amamihe ya zitere ndị si na mba niile dị iche iche ịnụrụ okwu amamihe Solomọn."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 54,
+        "caller": "+",
+        "text": "Zadọk mụrụ Ahimaaz, Ahimaaz a mụọ Azaraya. Ya mere, Zadọk ji bụrụ nna nna Azaraya. Azaraya bụ onyeisi nchụaja nʼIzrel nʼafọ niile Solomọn chịrị, nʼihi na mgbe ahụ Ahimaaz anwụọla. 2Sa 15:27,36; 1Ih 6:8-9",
+        "reference": {
+          "chapter": 4,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 55,
+        "caller": "+",
+        "text": "Oke alaeze niile Solomọn bụ dịka Chineke kweere ya Ebraham na nkwa Jen 15:18-21; Dit 17; 11:24; Jos 1:4.",
+        "reference": {
+          "chapter": 4,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 56,
+        "caller": "+",
+        "text": "Ya bụ, ụgbala mmiri",
+        "reference": {
+          "chapter": 4,
+          "verse": 23
+        }
+      },
+      {
+        "noteId": 57,
+        "caller": "+",
+        "text": "Tifsa ruo na Gaza, bụ obodo dị nʼọwụwa anyanwụ nke ugwu. Ọ bụ oke alaeze Solomọn nʼugwu, bụrụkwa obodo dị mkpa nke dị nʼakụkụ osimiri Yufretis. Gaza na Filistia bụ obodo ndị dị nso nʼosimiri Mediterenịan. Ha bụ oke ala nʼọwụwa anyanwụ nke ndịda alaeze ahụ.",
+        "reference": {
+          "chapter": 4,
+          "verse": 24
+        }
+      },
+      {
+        "noteId": 58,
+        "caller": "+",
+        "text": "Nwoke ọbụla nọ nʼokpuru osisi vaịnị na nʼokpuru osisi fiig nke ya Nke a pụtara nʼezinaụlọ ọbụla, biri nʼudo na nchekwa nʼụlọ ha. Jer 23:6.",
+        "reference": {
+          "chapter": 4,
+          "verse": 25
+        }
+      },
+      {
+        "noteId": 59,
+        "caller": "+",
+        "text": "Dit 17:16",
+        "reference": {
+          "chapter": 4,
+          "verse": 26
+        }
+      },
+      {
+        "noteId": 60,
+        "caller": "+",
+        "text": "Ebe a, na-ekwu banyere ebo ndị Arab bi na mpaghara ọwụwa anyanwụ Palestia. Jen 25:6; Nkp 6:3,33; 7:12; 8:10",
+        "reference": {
+          "chapter": 4,
+          "verse": 30
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1KI/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1KI/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1KI/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

@@ -1,0 +1,402 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HEB",
+    "translationId": "ibo_bib",
+    "name": "Ndị Hibru",
+    "commonName": "Ndị Hibru",
+    "title": "Ndị Hibru",
+    "order": 58,
+    "numberOfChapters": 13,
+    "sha256": "d8ad4b213e1078dfa94b5dadf39948026c95a8c114b441e6ada4bd45baaa05a3",
+    "firstChapterApiLink": "/api/ibo_bib/HEB/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HEB/13.json",
+    "totalNumberOfVerses": 303
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Okwukwe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, okwukwe bụ inwe obi ike banyere ihe ndị a na-ele anya ha na inwe owuweanya banyere ihe a na-ahụbeghị anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼihi na ọ bụ site nʼokwukwe ka e ji gbaara ndị ochie ama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ bụ site nʼokwukwe ka anyị ji ghọta na e mere ụwa na ihe niile anyị na-ahụ anya site nʼokwu Chineke. Nʼihi nke a, ihe anyị na-ahụ anya ugbu a bụ ihe e mere site nʼihe anyị na-adịghị ahụ anya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ebel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ebel sitere nʼokwukwe chụọ aja dị mma nye Chineke karịa aja nke Ken chụrụ; nke e si na ya gụnye ya nʼonye ezi omume. Chineke kwuru okwu banyere onyinye ya. Ma ugbu a, ọ bụ ezie na ọ nwụọlarị ma ọ ka na-ekwu okwu site nʼokwukwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "E sitere nʼokwukwe kupu Enọk nke pụtara na ọ nwụghị anwụ, a hụkwaghị ya ọzọ nʼihi na Chineke akpọrọla ya.",
+          {
+            "noteId": 793
+          },
+          "Ma tupu e kuru ya, e mere ka anyị mara na ọ mere ihe masịrị Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ bụ ihe siri ike mmadụ ime ihe ga-atọ ya ụtọ ma ọ bụrụ na onye ahụ enweghị okwukwe. Nʼihi na onye na-abịakwute Chineke nso aghaghị ikwe na ọ dị. Na ọ bụkwa onye na-akwụghachi onye ọbụla na-achọsi ya ike ụgwọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Noa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Site nʼokwukwe, Noa, onye nke a dọrọ aka na ntị gbasara ihe ndị a na-ahụbeghị anya, gere ntị ma ruo ụgbọ mmiri maka nzọpụta nke ezinaụlọ ya. Site na nke a, ọ mara ụwa ikpe, ma bụrụ onye nketa nke ezi omume sitere nʼokwukwe."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ebraham na Sera"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Site nʼokwukwe, Ebraham rubere isi mgbe a kpọrọ ya ka ọ hapụ, gaa nʼala ahụ nke ọ ga-enweta dịka ihe nketa. Ọ gawara nʼamaghị ebe ọ na-aga."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Okwukwe ka o jiri biri dịka ọbịa nʼala ahụ e kwere ya na nkwa, na-ebi nʼụlọ ikwu, ya na Aịzik na Jekọb, bụ ndị e kwere ya na ha otu nkwa ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi na ọ na-ele anya ala ahụ nke nwere ntọala, nke onye tụrụ atụmatụ ya ma wuokwa ya bụ Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Site nʼokwukwe ọ natara ike ọmụmụ. Ọ bụ ezie na ọ gafeela oge ịmụta nwa, ọ bụladị Sera nʼonwe ya bụ nwanyị aga, nʼihi na ọ gụrụ onye ahụ kwere ya nkwa dị ka onye kwesiri ntụkwasị obi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ya mere site nʼotu onye a, onye a gụrụ dị ka onye nwụrụ anwụ ka e si nweta ụmụ ndị ọnụọgụgụ ha dị ka kpakpando dị na mbara eluigwe, dị ka aja dị nʼakụkụ osimiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ndị a niile nwere okwukwe nwụrụ na-anataghị nkwa ahụ, ma site nʼebe dị anya ha hụrụ ma nabatakwa nkwa ndị a. Ha kwupụtakwara na ha bụ ndị ọbịa na ndị mba ọzọ nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ndị na-ekwu otu a na-ezipụta na ha na-ele anya obodo nke aka ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụrụ na ha na-eche echiche banyere obodo nke ha hapụrụ, ha gaara enwe ohere ịlaghachi azụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma otu ọ dị, ha na-elesi anya ike maka obodo ahụ ka mma, bụ nke dị nʼeluigwe. Ya mere, ọ dịghị eme Chineke ihere ka a kpọ ya Chineke ha, nʼihi na o dozielara ha ebe obibi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Site nʼokwukwe Ebraham ji Aịzik chụọ aja mgbe a nwalere ya. Onye ahụ natara ihe ndị ahụ e kwere nkwa, dị njikere iji otu nwa ahụ o nwere chụọ aja,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "ọ bụ ezie na Chineke kwuru maka ya, “Ọ bụ site nʼAịzik ka a ga-akpọ mkpụrụ gị aha.”",
+          {
+            "noteId": 794
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ebraham chere na Chineke pụrụ ime ka onye nwụrụ anwụ site nʼọnwụ bilie, dịka ihe ịma atụ otu ahụ ka o mekwara, nʼihi na ọ nataghachikwara ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ọ bụ okwukwe ka Aịzik jiri nye Jekọb na Ịsọ ngọzị banyere ihe dị nʼihu."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jekọb na Josef"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ bụ okwukwe ka Jekọb ji gọzie ụmụ Josef nʼotu nʼotu tupu ọ nwụọ. Ọ kpọrọ isiala dịka ọ dabere nʼelu mkpanaka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Nʼọgwụgwụ ndụ ya, Josef sitere nʼokwukwe kwuo banyere ọpụpụ ụmụ Izrel ma nyekwa ntụziaka banyere olili ọkpụkpụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mosis"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Okwukwe ka nne na nna Mosis ji zobe ya ọnwa atọ mgbe a mụrụ ya, nʼihi na ha hụrụ na ọ bụ nwa mara mma. Ha atụkwaghị egwu iwu eze ala Ijipt bụ Fero nyere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Site nʼokwukwe, Mosis e kweghị aza nwa ada Fero mgbe o tolitere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọ họọrọ isoro ụmụ Chineke keta oke na mmegbu ha karịa inwe aṅụrị nke mmehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "O kpebiri na ọ bụ ihe karịchara mma ịhụ ahụhụ nʼihi Kraịst, kama inweju akụ niile nke Ijipt afọ. Nʼihi na o nwere olileanya maka ụgwọ ọrụ dị nʼihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Okwukwe ka ọ ji hapụ Ijipt. Ọ tụghị egwu iwe eze, ma ọ tachịrị obi ya dịka ọ hụrụ onye ahụ a na-apụghị ịhụ anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "O sitekwara nʼokwukwe debe Mmemme Ngabiga. O fesara ọbara ka onye mbibi nke ụmụ nwoke mbụ, hapụ ịmetụ ụmụ nwoke mbụ ndị Izrel aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ha gafere Osimiri Uhie site nʼokwukwe dị ka a ga-asị na ọ bụ ala efu. Ma mgbe ndị Ijipt nwara ime nke a, mmiri lomiri ha niile."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Rehab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Mgbidi Jeriko dara mgbe ha jiri okwukwe gaa ya gburugburu ụbọchị asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Site nʼokwukwe, Rehab nwanyị akwụna esoghị ndị nnupu isi laa nʼiyi nʼihi na ọ nabatara ndị bịara inyochapụta obodo ahụ nʼudo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọtụtụ ndị okwukwe ọzọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Olee ihe ọzọ m ga-ekwu? Oge ga-agwụnahụ m ikwu gbasara Gidiọn, na Barak, na Samsin, na Jefta, na Devid, na Samuel na ndị amụma,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "ndị sitere nʼokwukwe merie ọtụtụ alaeze, kpeekwa ikpe nkwụmọtọ, natakwa nkwa e kwere, ndị mechiri ọnụ ọdụm."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ha menyụrụ ọkụ dị egwu, gbanarị mma agha, nweta ike site nʼadịghị ike. Ha ghọkwara ndị dị ike nʼagha, chụlaa usuu ndị agha ndị mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Ụmụ nwanyị natara ndị ha nwụrụ anwụ, site na mbilite nʼọnwụ. Ndị ọzọ naara ntaramahụhụ, ha jụrụ ịnata mgbapụta ka ha nwee ike nata mbilite nʼọnwụ ka mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "E ji ụfọdụ mere ihe ọchị, tiekwa ha ihe otiti, ọ bụladị ike ha agbụ na ịtụ ha mkpọrọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "A tụrụ ụfọdụ nkume, kwọbie ụfọdụ abụọ. E ji mma agha gbuo ụfọdụ. Ụfọdụ yi akpụkpọ ewu na akpụkpọ atụrụ jegharịa. Ụfọdụ bụkwa ndị dara ụkpa. A kpagburu ụfọdụ, ma mejọọkwa ndị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ha wagharịrị nʼọzara na nʼugwu, nʼọgba nkume na nʼọnụ ala. Nʼanya ụwa, a gụrụ ha nʼihe efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "A gbaara ezigbo ama nʼisi ndị a niile nʼihi okwukwe ha, ma ha anataghị ihe ahụ e kwere ha na nkwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Otu ọ dị, Chineke akwadoberela anyị ihe kaara anyị mma, ka a ghara ime ka ha zuo oke ma e wepụ anyị."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 793,
+        "caller": "+",
+        "text": "Jen 5:24",
+        "reference": {
+          "chapter": 11,
+          "verse": 5
+        }
+      },
+      {
+        "noteId": 794,
+        "caller": "+",
+        "text": "Jen 21:12",
+        "reference": {
+          "chapter": 11,
+          "verse": 18
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/HEB/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/HEB/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/HEB/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 40
+}

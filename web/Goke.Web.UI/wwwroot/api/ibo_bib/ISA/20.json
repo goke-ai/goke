@@ -1,0 +1,121 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "ISA",
+    "translationId": "ibo_bib",
+    "name": "Aịzaya",
+    "commonName": "Aịzaya",
+    "title": "Aịzaya",
+    "order": 23,
+    "numberOfChapters": 66,
+    "sha256": "258ee5cf15f4fe6dd71b116cd785e8d7a5086e5e8c2c279cbc960320be90476b",
+    "firstChapterApiLink": "/api/ibo_bib/ISA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/ISA/66.json",
+    "totalNumberOfVerses": 1292
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Amụma e bụrụ banyere Ijipt na Kush"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼafọ ahụ, Sagọn, eze Asịrịa, zipụrụ ọchịagha onye ọkwa ya kasị ukwuu, ka ọ gaa buso Ashdọd agha. Ọ gara meriekwa ya nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼoge ahụ Onyenwe anyị kwuru okwu site nʼọnụ Aịzaya nwa Emọz. Ọ sịrị ya, “Yipụ uwe mkpe iyi nʼahụ, ya na akpụkpọụkwụ dị gị nʼụkwụ.” O mere otu a, ọ gbaara ọtọ, jegharịakwa nʼụkwụ efu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị sịrị, “Dị ka ohu m Aịzaya si gbara ọtọ jegharịa nʼụkwụ efu afọ atọ ndị a niile, ọ bụ ihe ama na ihe ịdọ aka na ntị na-egosi ihe gaje ịbịakwasị ndị Ijipt na ndị Kush.",
+          {
+            "noteId": 883
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼihi na otu a ka eze Asịrịa ga-esi kpụrụ ndị Ijipt na ndị Kush ọ dọtara nʼagha. Ha ga-agba ọtọ na-ejegharị nʼụkwụ efu, ma nwantakịrị ma okenye. Otule ha gba ọtọ ga-abụrụ Ijipt ihe ihere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Egwu ga-ejide ndị ahụ niile nwere nchekwube nʼike Kush, na ndị ahụ niile jiri Ijipt nyaa isi ga-ada mba. Ihere ga-emekwa ha.",
+          {
+            "noteId": 884
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼụbọchị ahụ, ndị ahụ dịnyeere ha, bụ ndị bi nʼọnụ mmiri ha ga-asị, ‘Ọ bụrụ na ihe dị otu a dakwasịrị ndị Ijipt anyị tụkwasịrị obi inyere anyị aka, na ịnapụta anyị site nʼaka eze Asịrịa, ebeekwanụ ka anyị ga-agbaga?’ ”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 883,
+        "caller": "+",
+        "text": "Nke a bụ mgbago Naịl",
+        "reference": {
+          "chapter": 20,
+          "verse": 3
+        }
+      },
+      {
+        "noteId": 884,
+        "caller": "+",
+        "text": "Aịz 30:3-5; 31:1; Izk 29:6-7",
+        "reference": {
+          "chapter": 20,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/ISA/20.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/ISA/21.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/ISA/19.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

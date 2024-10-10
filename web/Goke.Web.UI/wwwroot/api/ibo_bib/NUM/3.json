@@ -1,0 +1,466 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ịgụ ndị Livayị ọnụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ akụkọ banyere usoro agbụrụ Erọn na Mosis nʼoge Onyenwe anyị gwara Mosis okwu nʼugwu Saịnaị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Erọn, Nadab, ọkpara ya, Abihu, Elieza na Itama."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Erọn, ndị e tere mmanụ ịbụ ndị nchụaja, ndị e doro nsọ nʼihi ije ozi dịka ndị nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma Onyenwe anyị mere ka Nadab na Abihu nwụọ, nʼihu ya nʼime ọzara Saịnaị, mgbe ha ji ọkụ na-adịghị nsọ wetara ya onyinye. Ebe ọ bụ na ha amụtaghị ụmụ ndị ikom nke aka ha, ọ bụ naanị Elieza na Itama jere ozi dịka ndị nchụaja ogologo ụbọchị ndụ nna ha bụ Erọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼoge ahụ, Onyenwe anyị gwara Mosis okwu sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Kpọkọtaa ebo Livayị",
+          {
+            "noteId": 1482
+          },
+          "niile were ha nyefee Erọn onye nchụaja nʼaka, ka ha bụrụ ndị inyeaka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ha ga-ejere ya na nzukọ Izrel niile ozi nʼụlọ nzute ahụ site na ịrụ ọrụ metụtara ebe obibi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ha ga-elekọta ngwongwo ụlọ nzute, rụọ ọrụ metụtara ndị Izrel niile mgbe ha na-eje ozi ha nʼebe obibi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Were ndị Livayị nyefee Erọn na ụmụ ya ndị ikom nʼaka. Ọ bụ ha ka a ga-esi nʼetiti ụmụ Izrel nyefee ha nʼaka kpamkpam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Họpụta Erọn na ụmụ ya ndị ikom ka ha bụrụ ndị na-eje ozi dịka ndị nchụaja. Onye ọbụla ọzọ bịara nso ebe nsọ ahụ ka a ga-egbu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onyenwe anyị gwara Mosis okwu sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "“Anarala m ndị Livayị dịka ndị nọchitere anya ụmụ ndị ikom mbụ niile a mụrụ nʼetiti ndị Izrel. Ndị Livayị niile bụ nke m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼihi na ihe niile meghere akpanwa bụ nke m. Site nʼụbọchị ahụ m gburu ụmụ ndị ikom niile e buru ụzọ mụọ nʼala Ijipt ka m doro ụmụ ndị ikom niile e buru ụzọ mụọ nʼetiti ndị Izrel nsọ nye onwe m, ma mmadụ, ma anụmanụ bụ nke m. Abụ m Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Onyenwe anyị gwara Mosis okwu nʼọzara Saịnaị sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“Gụọ, chọpụta ihe ọnụọgụgụ ebo Livayị bụ.",
+          {
+            "noteId": 1483
+          },
+          "Gosi ikwu na ezinaụlọ onye ọbụla si nʼime ya pụta. Chọpụta ọnụọgụgụ ndị ikom niile site nʼonye dị otu ọnwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ya mere, Mosis gụrụ ha ọnụ dịka iwu ọ natara site nʼokwu Onyenwe anyị si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị a bụ aha ụmụ ndị ikom Livayị: Geshọn, Kohat na Merari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ndị a bụ aha ndị ikwu Geshọn dịka ezinaụlọ ha si dị: Libni na Shimei."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ụmụ Kohat dịka ikwu ha si dị: Amram, Izha, Hebrọn na Uziel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ụmụ Merari dịka ikwu ha si dị: Mahali na Mushi.",
+          {
+            "lineBreak": true
+          },
+          "Ndị a bụ ndị agbụrụ Livayị, dịka ezinaụlọ ha si dị."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ndị Geshọn bụ ndị ikwu Libni na Shimei. Ndị a bụ ndị ikwu Geshọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ọnụọgụgụ ndị ikom dị otu ọnwa gbagoo dị puku asaa na narị ise (7,500)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ndị ikwu Geshọn mara ụlọ ikwu ha nʼakụkụ ọdịda anyanwụ, nʼazụ ụlọ nzute."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Onyendu ezinaụlọ ndị Geshọn bụ Eliasaf nwa Lael."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọrụ dịrị ụmụ Geshọn bụ ilekọta ụlọ nzute ahụ, na ụlọ ikwu ya, na ihe mkpuchi ya, na akwa mgbochi ọnụ ụzọ ụlọ nzute."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ọ dịkwa ha nʼaka ilekọta akwa mgbochi niile nke ogige gbara ya gburugburu, na akwa e ji gechie ọnụ ụzọ ogige ahụ. Ha nwekwara ọrụ ilekọta ebe ịchụ aja, na ụdọ niile, na ozi niile metụtara ihe ndị a."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Nke Kohat bụ ikwu ndị Aram, ndị Izha, ndị Hebrọn na ndị Uziel. Ndị a bụ ndị ikwu Kohat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọnụọgụgụ ndị ikom niile dị otu ọnwa gbagoo dị puku asatọ na narị isii (8,600). Ọrụ dịrị ndị Kohat bụ ilekọta ebe nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ndị ikwu Kohat mara ụlọ ikwu ha nʼakụkụ ndịda nke ebe nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Onyendu ezinaụlọ ndị ikwu Kohat bụ Elizafan nwa Uziel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ọrụ e tinyere ha nʼaka bụ ilekọta igbe ọgbụgba ndụ, tebul ahụ, ihe ịdọba oriọna ahụ na ebe ịchụ aja. Ihe ọzọ bụ ilekọta ngwongwo niile e ji eje ozi nʼebe nsọ ahụ, akwa mgbochi na ihe niile metụtara otu e si e ji ha eje ozi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Onyeisi ndị ndu nke ndị Livayị bụ Elieza nwa Erọn, onye nchụaja. Ọ bụ ya na-elekọta ndị ọrụ ha bụ ihu maka ihe niile metụtara ebe nsọ ahụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Ndị Merari bụ ikwu Mahali na Mushi. Ndị a bụ ndị ikwu Merari."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ọnụọgụgụ ndị ikom niile dị otu ọnwa gbagoo dị puku isii na narị abụọ (6,200)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Onyendu ezinaụlọ ndị ikwu Merari bụ Zuniel nwa Abihail. Ha mara ụlọ ikwu ha nʼakụkụ ugwu nke ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ọrụ e tinyere nʼaka ndị ikwu Merari bụ ilekọta mbudo niile nke ụlọ nzute ahụ, na mkpọrọ ya niile, ụkwụ ya niile, na ngwongwo niile e kwesiri iji rụọ ọrụ metụtara ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ọrụ ndị ọzọ bụ ilekọta ogidi osisi niile dị gburugburu ogige ahụ ha na ụkwụ ha, ǹtu na ụdọ ha niile."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Mpaghara akụkụ ọwụwa anyanwụ nʼihu ụlọ nzute ahụ ka e debere maka ụlọ ikwu Mosis na Erọn, na nke ụmụ ya ndị ikom. Ọrụ ha bụ ilekọta ebe nsọ ahụ nʼaha ụmụ Izrel niile. Onye ọbụla ọzọ bịara ebe nsọ ahụ nso ka a ga-egbu."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ya mere, ọnụọgụgụ ndị ikom Livayị niile Mosis na Erọn nwetara mgbe a gụrụ ha ọnụ nʼikwu nʼikwu dịka iwu Onyenwe anyị nyere ha si dị, bụ iri puku abụọ na puku abụọ (22,000). Nke a bụ ọnụọgụgụ ndị ikom niile dị site nʼotu ọnwa gaa nʼihu."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị sịrị Mosis, “Gụọ ndị ikom Izrel niile e buru ụzọ mụọ, ndị dị site nʼotu ọnwa gbagoo. Chọpụta ọnụọgụgụ ha, dee aha ha niile nʼakwụkwọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Nabata ndị Livayị ka ha bụrụ nke m nʼọnọdụ ndị ikom niile e bụrụ ụzọ mụọ nʼIzrel. Ọzọkwa, anụ ụlọ ndị Livayị niile bụ nke m, nʼọnọdụ ụmụ mbụ nke anụ ụlọ niile a mụrụ nʼetiti anụ ụlọ ndị Izrel niile. Abụ m Onyenwe anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Ya mere, Mosis gụrụ ndị ikom niile e buru ụzọ mụọ nʼIzrel, dịka Onyenwe anyị nyere ya nʼiwu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "chọpụta na ọnụọgụgụ ndị ikom e buru ụzọ mụọ site nʼonye dị otu ọnwa ruo nʼokenye dị iri puku abụọ na puku abụọ na narị abụọ na iri asaa na atọ (22,273)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara Mosis okwu sị:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "“Nye m ndị Livayị nʼọnọdụ ndị ikom niile e bụ ụzọ mụọ nʼIzrel. Nyekwa m anụ ụlọ ndị Livayị niile nʼọnọdụ anụ ụlọ niile e bụ ụzọ mụọ nʼIzrel. Ndị Livayị bụ nke m. Mụ onwe m bụ Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Ihe a ga-eji gbara narị ụmụ ndị ikom Izrel abụọ na iri ndị ikom asaa, na atọ (273) ndị e buru ụzọ mụọ mapụtara nʼelu ọnụọgụgụ ndị Livayị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "bụ ego ruru shekel ise, na isi onye ọbụla, ụdị shekel ebe nsọ, nke ọtụtụ ya bụ iri gera abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Were ego mgbapụta a nye Erọn na ụmụ ndị ikom ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ya mere, Mosis natara ego mgbapụta ahụ nʼisi onye ọbụla dị nʼọnụọgụgụ ndị ahụ mara nʼelu ọnụọgụgụ ndị Livayị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ego niile ọ natara site nʼaka ndị ikom Izrel niile e bụ ụzọ mụọ bụ ọlaọcha ruru puku shekel na narị shekel atọ na iri isii na ise (1,365), dịka ihe ọtụtụ shekel ebe nsọ si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Mosis nyere Erọn na ụmụ ya ego mgbapụta ndị a dịka Onyenwe anyị nyere ya nʼiwu."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1482,
+        "caller": "+",
+        "text": "Ndị Livayị dị iche na ndị nchụaja, ha bụ naanị ndị inyeaka nye ndị nchụaja. Ọ dị nʼakwụkwọ Ọnụ 8:6-22; 18:1-6Ọ bụ naanị Erọn, na ụmụ ya bụ ndị na-aga ozi dịka ndị nchụaja. Nke a dị nʼakwụkwọ Ọnụ 18:7",
+        "reference": {
+          "chapter": 3,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1483,
+        "caller": "+",
+        "text": "Ndị ikom ebo Livayị adịghị eso ndị ikom Izrel ndị ọzọ a ga agha. Ya mere na-adịghị agụnye ha nʼọnụọgụgụ dịka a na-agụnye ndị ikom ebo ndị ọzọ mgbe ha gbara iri afọ abụọ. Ọgụgụ a gụrụ ndị ikom Livayị bụ nʼihi i were ha dochie anya ndị ikom niile e bu ụzọ mụọ nʼIzrel. Ọnụ 3:40-49",
+        "reference": {
+          "chapter": 3,
+          "verse": 15
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 51
+}

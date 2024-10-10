@@ -1,0 +1,362 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 32,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị ketara ala nʼọwụwa anyanwụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ndị Izrel rutere ala Jeza na Gilead, ndị ebo Ruben na Gad ndị nwere ọtụtụ igwe ehi, na igwe ewu na atụrụ chọpụtara na ala ahụ dị mma nke ukwuu maka ịzụ anụ ụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ya mere, ha bịakwutere Mosis na Elieza onye nchụaja, na ndị ndu nzukọ Izrel, sị ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“Ala ndị a: Atarọt, Dibọn, Jeza, Nimra, Heshbọn, Eleale, Sebam, Nebo, na Beon,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "bụ ala nke Onyenwe anyị meriri nʼagha nʼihu nzukọ Izrel, dị mma maka ịzụ anụ ụlọ. Anyị onwe anyị kwa nwere igwe ewu na atụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ bụrụ na anyị achọtala amara nʼihu unu, biko, kwerenụ ka akụkụ ala a bụrụ ihe nketa nke anyị bụ ohu unu. Unu emekwala ka anyị soro ndị Izrel gafee nʼakụkụ nke ọzọ nke osimiri Jọdan.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mosis jụrụ ndị Gad na Ruben ajụjụ sị, “Unu na-ekwu na unu chọrọ ịnọ nʼebe a mgbe ụmụnna unu ndị ikom niile ga-agafe osimiri Jọdan ịlụ agha niile ahụ dị na-eche ha?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọ bụ nʼihi gịnị ka unu ji eme ka ndị Izrel daa mba ghara ịgafe banye nʼala ahụ Onyenwe anyị nyerela ha?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Otu a ka nna unu ha mere mgbe m si Kadesh Banea zipụ ha inyocha ala ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ha letasịrị ala ahụ si na Ndagwurugwu Eshkọl lọghachi, ha mere ka obi ndị Izrel niile daa mba ịbanye nʼala ahụ Onyenwe anyị nyere ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼihi nke a Onyenwe anyị were iwe dị ọkụ megide ha nʼụbọchị ahụ. Ọ ṅụrụ iyi kwuo sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "‘Nʼihi na unu jụrụ iji obi unu niile gbasoo m, o nweghị onye ọbụla nʼime ndị ahụ o si nʼala Ijipt kpọpụta, ndị gbara iri afọ abụọ rigoo, ga-ahụ ala ahụ m kwere Ebraham na Aịzik na Jekọb nkwa inye ha.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Naanị ndị ọṅụṅụ iyi a na-emegideghị bụ Kaleb, nwa Jefune onye Keniz,",
+          {
+            "noteId": 1521
+          },
+          "na Joshua nwa Nun, nʼihi na ha jiri obi ha niile sogide Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Iwe Onyenwe anyị dịịrị ọkụ megide Izrel, o mere ka ha wagharịa nʼọzara iri afọ anọ, tutu ruo mgbe ọgbọ ahụ niile nke mere ihe ọjọọ nʼanya ya nwụchara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "“Ma lee unu ugbu a, agbụrụ ndị mmehie, ọ bụkwa otu ihe ahụ ka unu na-eme! Unu na-achọ ime ka iwe dị ukwuu wee Onyenwe anyị megide ndị Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ọ bụrụ na unu ajụ iso Onyenwe anyị ugbu a, Onyenwe anyị ga-emekwa ka ndị Izrel nọgide nʼọzara. Mbibi na ịla nʼiyi nke ga-abịakwasị ha ga-abụkwa nke unu ji aka unu kpatara ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma ha zara sị ya, “Ọ gaghị adị otu a! Anyị ga-ewuru anụ ụlọ anyị ụlọ, tinye igwe ewu na atụrụ anyị nʼime ha. Anyị ga-ewukwara ndị nwunye anyị na ụmụntakịrị anyị obodo ebe ha ga-anọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ma anyị onwe anyị ga-eburu ngwa agha anyị, buru ndị Izrel niile ọzọ ụzọ gaa nʼihu ịlụ ọgụ, tutu anyị edubata ha nʼala nke ha ga-eketa. Ma ndị nwunye anyị na ụmụntakịrị anyị ga-anọ nʼobodo e wusiri ike, ikpuchite ezinaụlọ anyị niile site nʼaka ndị iro bi anyị gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Anyị agaghị alọta nʼụlọ anyị tutu onye Izrel ọbụla enweta ihe nketa nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Anyị achọghị ihe nketa, nʼofe Jọdan nke ọzọ, nʼihi na anyị ewerela oke nke anyị nʼebe a, nʼakụkụ ọwụwa anyanwụ Jọdan.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe ahụ, Mosis zara sị ha, “Ọ dị mma, ọ bụrụ na unu ga-eme dịka unu kwuru, jikere onwe unu, nʼihu Onyenwe anyị, ibu agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ bụrụ na ndị agha unu ga-eso gafee nʼofe ọzọ nke osimiri Jọdan, soro ndị ọzọ buo agha tutu ruo mgbe Onyenwe anyị chụpụchara ndị iro ya niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "mgbe ahụ, e merichaa mba ndị ahụ niile nʼihu Onyenwe anyị, unu nwere ike ịlọghachi nʼebe a, bụrụ ndị ikpe na-amaghị nʼebe Onyenwe anyị na ndị Izrel nọ. Ala a dị nʼọwụwa anyanwụ, ga-abụ ihe nketa unu nwere site nʼaka Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“Ọ bụrụkwanụ na unu ajụ ime dịka unu kwuru, mgbe ahụ, ọ bụ Onyenwe anyị ka unu na-emehie megide. Matakwanụ na unu ga-emesịa nata ụgwọ ọrụ mmehie unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Wuonụ obodo ebe ndị inyom na ụmụ unu ga-ebi, wuokwanụ ụlọ anụ maka igwe ewu na atụrụ unu, ma mezuokwanụ ihe niile unu kweere na nkwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ndị ebo Gad na Ruben sịrị Mosis, “Anyị bụ ndị ohu gị ga-eme dịka onyenwe anyị nyere nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ụmụ anyị niile, na ndị inyom anyị niile, na igwe ewu na atụrụ anyị, na ehi anyị niile, ga-anọ nʼebe a, nʼobodo ndị a anyị wuru nʼala Gilead."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ma anyị, ndị ohu gị, ndị niile tozuru ije agha, ga-agafe osimiri Jọdan ibu agha nʼihu Onyenwe anyị, dịka onyenwe anyị si kwuo.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe ahụ, Mosis nyere Elieza, bụ onye nchụaja, na Joshua nwa Nun, na ndịisi ezinaụlọ nke ebo Izrel niile iwu banyere ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ọ sịrị ha, “Ọ bụrụ na ndị ebo Gad na Ruben, onye ọbụla nke jikere ịga agha, ga-eso unu gafee Jọdan nʼihu Onyenwe anyị, mgbe ahụ, oge unu lụgburu ndị ala ahụ niile, unu aghaghị inye ha ala Gilead dịka ihe nketa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ma ọ bụrụ na ha ajụ iso unu, ha ga-eso ndị ọzọ keta oke nʼala Kenan.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ndị ebo Gad na Ruben zara sị, “Ihe ọbụla Onyenwe anyị nyere nʼiwu ka anyị ga-eme."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Anyị ga-ejikere soro Onyenwe anyị jee agha nʼala Kenan. Ma ihe nketa anyị ga-adị nʼebe a, nʼakụkụ Jọdan.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mosis nyere ndị ebo Gad, na Ruben, na ọkara Manase nwa Josef, alaeze niile Saịhọn eze Amọrị nakwa alaeze niile nke Ọg, eze ndị Bashan na-achị. O nyere ha ala ahụ niile, na obodo niile dị nʼala ahụ gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ndị ebo Gad wugharịrị ma wusiekwa obodo ndị a, Dibọn, Atarọt, Aroea"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Atrọt-Shofan, Jeza, Jogbeha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Bet-Nimra na Bet-Haran bụ obodo e wusiri ike, wukwaara igwe ewu na atụrụ ha ụlọ anụ nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ma ndị ebo Ruben wugharịrị obodo ndị a: obodo Heshbọn, Eleale, Kiriatem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Nebo na Baal-Meon (ma a gbanwere aha ha) na Sibma. Ha gbanwere aha obodo niile ndị ahụ ha wugharịrị, gụọ ha aha ọhụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ndị agbụrụ Makia, nwa Manase gara nʼobodo Gilead lụgbuo ya, chụpụ ndị Amọrait bi nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ya mere, Mosis were obodo Gilead nye Makia, ụmụ Manase ka ha biri nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Jia, onye sikwa nʼebo Manase gara buso ọtụtụ obodo nta ndị ọzọ agha, lụgbuo ha. Ọ gbanwere aha obodo nta ndị a, gụọ ha Havọt Jaịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Nʼoge a kwa, otu nwoke a na-akpọ Nọba duuru ndị agha gaa nʼobodo Kenat, na nʼobodo nta ndị ọzọ gbara ya gburugburu, lụgbuo ha, bichie nʼime ha. Ọ gbanwere aha obodo ndị ahụ niile bido ịkpọ ha Nọba, nke bụ aha ya onwe ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1521,
+        "caller": "+",
+        "text": "Nkọwa e nyere banyere akwụkwọ Jenesis isi nke 15:19, nakwa nʼisi nke 36:11, mere ka anyị mata na ndị Keniz bụ ndị Kenan. Ha bụ ndị si nʼagbụrụ Ịsọ.",
+        "reference": {
+          "chapter": 32,
+          "verse": 12
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/32.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/33.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/31.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 42
+}

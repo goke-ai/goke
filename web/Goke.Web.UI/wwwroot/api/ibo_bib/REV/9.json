@@ -1,0 +1,246 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "ibo_bib",
+    "name": "Mkpughe",
+    "commonName": "Mkpughe",
+    "title": "Mkpughe",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "dfefef3cfcaa9573108355d9ba3837388620df1f01ef2f2fb8a32916a3bd58a5",
+    "firstChapterApiLink": "/api/ibo_bib/REV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/REV/22.json",
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Opi ike nke ise"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe mmụọ ozi nke ise ahụ fụrụ opi ike ya, ahụrụ m otu kpakpando si nʼeluigwe daa nʼala. E nyere ya ihe ọtụghe igodo nke e ji atụghe olulu nke Abis",
+          {
+            "noteId": 1737
+          },
+          "ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe o meghere olulu Abis ahụ, anwụrụ ọkụ dị ukwu sitere nʼime ya pụta dịka anwụrụ ọkụ si nʼọkụ icheku ọkụ ya dị ukwuu, mee ka oke ọchịchịrị kpuchie ihu anyanwụ na mbara eluigwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Igurube sitere nʼanwụrụ ọkụ ahụ pụta fedakwasa ụwa. E nyekwara ha ike ịta mmadụ ọbụla dịka akpị si agba mmadụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "E nyere ha iwu si ha emebila ahịhịa ndụ ọbụla, maọbụ osisi na ihe ọbụla a kụrụ nʼala. Kama ọrụ ha bụ ịbịakwasị mmadụ ọbụla na-enweghị akara Chineke nʼegedege ihu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Iwu e nyere ha abụghị ka ha gbuo ndị a, kama ọ bụ ka ha mekpaa ha ahụ ọnwa ise. Mmekpa ahụ ha dịka ahụ ụfụ na nhụju anya nke akpị mgbe ọ gbara mmadụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼime ụbọchị ndị ahụ, ọtụtụ mmadụ ga-achọ iji aka ha gbuo onwe ha ma ha agaghị enwe ike mee ya. Agụụ ịnwụ ọnwụ ga-agụ ha, ma ọnwụ ga-esi nʼebe ha nọ wezuga onwe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Igurube ndị a nwere oyiyi dị ka ịnyịnya a kwadebere maka ibu agha. Ha nwere ihe yiri okpueze e ji ọlaedo kpụọ nʼisi ha. Ihu ha dịkwa ka ihu mmadụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Agịrị isi ha dịka agịrị isi ụmụ nwanyị. Eze ha dịkwa ka eze ọdụm."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ha yikwasịrị onwe ha ihe ikpuchi obi dịka nke e ji igwe kpụọ. Nku ha na-eme mkpọtụ dị ka ụda nzọ ụkwụ ọtụtụ ịnyịnya nke ụgbọ agha na-esekpu na-abanye nʼọgbọ agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha nwere ọdụdụ dịka akpị. Ma ike niile e nyere ha bụ imerụ ndị mmadụ ahụ ọnwa ise site nʼike dị nʼọdụdụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ha nwere mmụọ ozi nke Abis,",
+          {
+            "noteId": 1738
+          },
+          "onye na-achịkọta ha dịka eze. Aha ya nʼasụsụ Hibru bụ Abadọn, ma nʼasụsụ Griik ọ bụ Apolion.",
+          {
+            "noteId": 1739
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ahụhụ nke mbụ agafeela, ebe ahụhụ abụọ ọzọ na-abịa nʼihu."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Opi ike nke isii"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe mmụọ ozi nke isii fụrụ opi ike ya, anụrụ m olu sitere na mpi anọ ahụ dị nʼebe ịchụ aja ahụ e jiri ọlaedo wuo, nke dị nʼihu ocheeze Chineke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "na-agwa mmụọ ozi nke isii ahụ, nke ji opi ike okwu, “Tọpụ mmụọ ozi anọ ndị ahụ e kere agbụ nʼebe osimiri Yufretis dị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "A tọhapụrụ ndị mmụọ ozi anọ ahụ, ndị e jibu eji na njikere maka oge awa ahụ, na ụbọchị ahụ, na ọnwa ahụ, na afọ ahụ, iji gbuo otu ụzọ nʼime ụzọ atọ nke mmadụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ndị agha ahụ, ọnụọgụgụ ha bụ narị nde abụọ. Anụrụ m mgbe e kwuru ole ha dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼime ọhụ m, ahụrụ m ịnyịnya ha, hụkwa ndị nọkwasịrị ha nʼelu. Ndị nọ nʼelu ịnyịnya ndị a yi ihe ikpuchi obi nke ụfọdụ nʼime ha na-acha ọbara ọbara. Ụfọdụ na-acha dịka akpụkpọ eluigwe, ụfọdụ na-acha odo odo. Ụfọdụ na-acha dịka anwụrụ ọkụ. Isi ịnyịnya ha dịka isi ọdụm, anwụrụ ọkụ na ọkụ na nkume ọkụ sị ha nʼọnụ na-apụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "E sitere nʼihe mmekpa ahụ ndị a, ire ọkụ, anwụrụ ọkụ na nkume ọkụ na-adịghị anyụ anyụ, ka ha ji gbuo otu ụzọ nʼime ụzọ atọ nke mmadụ niile bi nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ike ịnyịnya ndị a dị nʼọnụ ha, na ọdụdụ ha. Ọdụdụ ha dị ka agwọ, nwee isi agwọ nke ha ji emerụ mmadụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma ndị fọdụrụ nʼetiti mmadụ, bụ ndị a na-egbughị site nʼihe ntaramahụhụ ọrịa ndị a, echegharịghị site nʼọrụ aka ha maọbụ ịkwụsị ife mmụọ ọjọọ ofufe. Ha jụkwara ịkwụsị ife arụsị ha niile nke ha ji ọlaedo na ọlaọcha na bronz na igwe na nkume na osisi kpụọ. Chi ndị na-apụghị ịhụ ụzọ, maọbụ ịnụ ihe, maọbụ ije ije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ha echegharịghị site nʼigbu mmadụ ha, maọbụ ụzọ mgbaasị ha, maọbụ ndụ ịkwa iko ha, na izu ohi ha pụta."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1737,
+        "caller": "+",
+        "text": "E mere ka anyị mata na ọ bụ olulu na-enweghị nsọtụ.",
+        "reference": {
+          "chapter": 9,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1738,
+        "caller": "+",
+        "text": "Olulu nke omimi ya na-enweghị nsọtụ.",
+        "reference": {
+          "chapter": 9,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 1739,
+        "caller": "+",
+        "text": "Ya bụ Onye Mbibi",
+        "reference": {
+          "chapter": 9,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/REV/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/REV/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/REV/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 21
+}

@@ -1,0 +1,117 @@
+﻿<AuthorizeView>
+    <Authorized>
+        <li class="dropdown" data-nav-id="account">
+            <NavLink class="nav-link" href="Account/Manage">
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                            <use xlink:href="sprites.svg#person-solid"></use>
+                        </svg>
+                    </span><span class="nav-item-text">
+                        @context.User.Identity?.Name 
+                        <DropDownIcon NavOrientation="@NavOrientation" />
+                    </span>
+                </span>
+            </NavLink>
+            <ul class="dropdown-list @PopStyle">
+                <li>
+                    <NavLink class="nav-link" href="account/userdetail">
+                        User
+                    </NavLink>
+                </li>
+                <li>
+                    <NavLink class="nav-link" href="account/person">
+                        Person
+                    </NavLink>
+                </li>
+                <li data-nav-id="logout">
+                    <div class="nav-link">
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg aria-hidden="true">
+                                    <use xlink:href="sprites.svg#circle-user-solid"></use>
+                                </svg>
+                            </span><span class="nav-item-text">
+                                <form action="Account/Logout" method="post" style="display:inline">
+                                    <AntiforgeryToken />
+                                    <input type="hidden" name="ReturnUrl" value="@CurrentUrl" />
+                                    <button type="submit" class="nav-link link">
+                                        Logout
+                                    </button>
+                                </form>
+                            </span>
+                        </span>
+                    </div>
+                </li>
+            </ul>
+        </li>
+        <li data-nav-id="logout">
+            <NavLink class="nav-link" href="Logout">
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#circle-user-solid"></use>
+                        </svg>
+                    </span><span class="nav-item-text">
+                        Register
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+    </Authorized>
+    <NotAuthorized>
+        <li class="dropdown" data-nav-id="account">
+            <a href="#" disabled>
+                <span class="nav-item-wrapper">
+                    <span class="icon">
+                        <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                            <use xlink:href="sprites.svg#user-lock-solid"></use>
+                        </svg>
+                    </span><span class="nav-item-text">
+                        Account 
+                        <DropDownIcon NavOrientation="@NavOrientation" />
+                    </span>
+                </span>
+            </a>
+            <ul class="dropdown-list @PopStyle">
+                <li data-nav-id="register">
+                    <NavLink class="nav-link" href="Register">
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg aria-hidden="true">
+                                    <use xlink:href="sprites.svg#id-card-solid"></use>
+                                </svg>
+                            </span><span class="nav-item-text">
+                                Register
+                            </span>
+                        </span>
+                    </NavLink>
+                </li>
+                <li data-nav-id="login">
+                    <NavLink class="nav-link" href="Login">
+                        <span class="nav-item-wrapper">
+                            <span class="icon">
+                                <svg aria-hidden="true">
+                                    <use xlink:href="sprites.svg#user-solid"></use>
+                                </svg>
+                            </span><span class="nav-item-text">
+                                Login
+                            </span>
+                        </span>
+                    </NavLink>
+                </li>
+
+            </ul>
+        </li>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+    [Parameter]
+    public string? PopStyle { get; set; }
+    [Parameter]
+    public string? NavOrientation { get; set; } = "Horizontal";
+    [Parameter]
+    public string? CurrentUrl { get; set; }
+
+}

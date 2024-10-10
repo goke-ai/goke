@@ -1,0 +1,241 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "ibo_bib",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "55fb1ed601140a3772b88951338bf08f2bdc42dc3e530ce470f7aaa6a16b6ea2",
+    "firstChapterApiLink": "/api/ibo_bib/EZR/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZR/10.json",
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 6,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Iwu Daraiọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ya mere, Daraiọs nyere iwu ka a chọpụta nʼụlọ a na-echebe akwụkwọ ochie nke ndị Babilọn ma ọ dị akwụkwọ ọbụla dị otu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Emesịa, a chọpụtara otu akwụkwọ nʼụlọeze dị na Ekbatana nʼala Midia. Nke a bụ ihe e dere nʼime akwụkwọ ahụ: Akwụkwọ ozi eze;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼafọ mbụ nke Sairọs bụ eze, o nyere iwu banyere ụlọnsọ ukwu Chineke dị na Jerusalem ebe ndị Juu na-efe Chineke.",
+          {
+            "lineBreak": true
+          },
+          "A ga-ewughachi ụlọnsọ ukwu ahụ ka ọ bụrụ ebe ịchụ aja, ka a tọsiekwa ntọala ya ike. Ịdị elu ya ga-adị iri mita atọ, obosara ya ga-abụkwa otu ihe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ahịrị atọ nke oke nkume ka a ga-eji tọọ ntọala ya, tinyere otu ahịrị osisi. A ga-esi nʼụlọakụ eze Sairọs kwụọ ụgwọ ihe ndị a niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọzọkwa, a ga-ebughachikwa ngwongwo ọlaedo na ọlaọcha niile nke ụlọ Chineke, ndị Nebukadneza sitere nʼụlọnsọ ahụ dị nʼJerusalem buru gaa Babilọn, doghachikwa ha nʼụlọ Chineke."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe a gụsịrị ya, Daraiọs zighachiri Tatenai onye na-achị Yufretis,",
+          {
+            "noteId": 671
+          },
+          "na Sheta Bozenai, na ndịisi ọzọ nọ nʼọdịda anyanwụ Yufretis ozi sị ha, Unu hapụ ha ka ha rụọ ọrụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Unu egbochila owuwu ụlọ Chineke ahụ. Kwerenụ ka onyeisi ndị Juu na ndị okenye Juu wughachi ụlọ Chineke a nʼebe e wuru ya na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọzọ, ana m enye iwu na nke a bụ ihe unu na-aghaghị imere ndị okenye, na ndị Juu niile na-ewugharị ụlọnsọ Chineke ahụ. Ka unu site nʼụtụ isi a na-atụrụ m kwụọ ụgwọ e ji ewu ụlọ ahụ na-atụfughị oge ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Unu nye ha ihe ọbụla dịkwa ha mkpa, ụmụ oke ehi na ebule, ụmụ atụrụ, ha ga-eji chụọrọ Chineke nke eluigwe aja. Nyekwanụ ha ọka wiiti, na mmanya, na nnu, na mmanụ oliv, dịka ndị nchụaja rịọrọ, bụ ndị nọ na Jerusalem, aghaghị inye ha ihe ndị a kwa ụbọchị niile na-esepụghị aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ka ha nwee ike ịchụ ezi aja nye Chineke nke eluigwe, kpeekwaara mụ na ụmụ m ekpere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ana m enye iwu na onye ọbụla ga-agbanwe okwu a, ka ehopụta osisi nʼụlọ ya jiri kwụgbuo ya. A ga-emekwa ụlọ ya ka ọ bụrụ ebe ikpofu ahịhịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Chineke ahụ, onye mere Jerusalem ebe obibi ya, ga-ebibi eze ọbụla maọbụ mba ọbụla gbanwere iwu a, maọbụ bibie ụlọnsọ ahụ ọzọ. Ọ bụ Daraiọs na-enye iwu a. Ka onye ọbụla were ike ya niile debe ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ido ụlọnsọ ahụ nsọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere, nʼihi iwu ahụ eze Daraiọs zitere, Tatenai, onyeisi ọchịchị nʼala ofe mmiri, na Sheta Bozenai, na ndị otu ha, mere ihe niile dịka ozi ahụ si dị na-atụfughị oge ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼihi ya, ndịisi Juu gara nʼihu nʼọrụ, ihe na-agakwara ha nke ọma site na nkwusa onye amụma, bụ Hegai, na Zekaraya, nwa Ido. Ha wuchara ụlọnsọ ahụ dịka iwu Chineke Izrel nyere si dị, nakwa dịka Sairọs, na Daraiọs, na Ataksekses, ndị eze Peshịa, nyekwara nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ha wusiri ya nʼabalị nke atọ nʼọnwa isii (dị ka ọgụgụ afọ ndị Juu si dị) nʼafọ nke isii nke ọchịchị Daraiọs."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ụmụ Izrel, bụ ndị nchụaja na ndị Livayị, na ndị fọdụrụ nʼime ndị e mere ka ha ga biri nʼala ọzọ, ji ọṅụ mee mmemme nke ido ụlọ nke Chineke ahụ nsọ na gbaghee ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼihi ido ụlọ ahụ nsọ, ha ji oke ehi dị otu narị nʼọnụọgụgụ, na narị ebule abụọ, na narị atụrụ anọ chụọ aja, werekwa mkpi iri na abụọ chụọ aja mmehie nʼihi ndị Izrel niile, dịka ebo niile nke Izrel si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ha guzobere ndị nchụaja na nkewa ha, ndị Livayị nʼotu ha maka ije ozi nke Chineke na Jerusalem, dịka e dere ya nʼakwụkwọ iwu Mosis."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mmemme Ngabiga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị ahụ emere ka ha gaa biri nʼala ọzọ, mere Mmemme Ngabiga nʼabalị iri na anọ nke ọnwa mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị nchụaja na ndị Livayị edoola onwe ha ọcha, ha niile dịkwa ọcha. Ndị Livayị nʼonwe ha gburu ọtụtụ atụrụ Mmemme Ngabiga maka ndị nchụaja, na ndị Livayị ndị ọzọ, na ndị ahụ niile lọtara alọta site na mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere, ndị Izrel niile bụ ndị ahụ lọtara site nʼebe e mere ka ha gaa biri riri ihe ahụ, ha na ndị ahụ niile kewapụrụ onwe ha juu ibi ajọọ ndụ nke ndị mba ọzọ bi nʼala ahụ na-ebi, nʼihi ịchọ Onyenwe anyị, Chineke nke Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ha sokwa mee mmemme achịcha na-ekoghị eko, nke ha mere ụbọchị asaa. Oke ọṅụ jupụtara nʼala Izrel niile nʼihi na Onyenwe anyị mere ka eze Asịrịa nwee obiọma nʼebe Izrel nọ, nyere ha aka iwugharị ụlọnsọ ukwu Chineke, onye bụ Chineke Izrel."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 671,
+        "caller": "+",
+        "text": "Maọbụ, Ala ofe mmiri",
+        "reference": {
+          "chapter": 6,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZR/6.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZR/7.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZR/5.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

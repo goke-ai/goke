@@ -1,0 +1,443 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MIC",
+    "translationId": "ibo_bib",
+    "name": "Maika",
+    "commonName": "Maika",
+    "title": "Maika",
+    "order": 33,
+    "numberOfChapters": 7,
+    "sha256": "43757baefad617b2d74f6f5c129c3f5f701d87ee72fc2e6a4096348537aa546c",
+    "firstChapterApiLink": "/api/ibo_bib/MIC/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MIC/7.json",
+    "totalNumberOfVerses": 105
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ okwu Onyenwe anyị nke bịaara Maịka, onye Moreshet, nʼoge eze Jotam, Ehaz na Hezekaya, bụ ndị eze Juda. Ọhụ nke ọ hụrụ banyere Sameria na Jerusalem."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Geenụ ntị, unu ndị mmadụ, unu niile,",
+            "poem": 1
+          },
+          {
+            "text": "gee ntị, gị ụwa na ndị niile bi nʼime ya",
+            "poem": 2
+          },
+          {
+            "text": "ka Onye kachasị ihe niile elu, bụ Onyenwe anyị gbaa akaebe megide unu,",
+            "poem": 1
+          },
+          {
+            "text": "bụ Onyenwe anyị site nʼụlọnsọ ukwu ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe ọmụma dịrị Sameria na Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Lee! Onyenwe anyị na-abịa! O si nʼebe obibi ya na-abịa.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ na-abịa ma na-azọda ebe niile dị elu nke ụwa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ugwu ukwu niile na-agbaze nʼokpuru ụkwụ ya,",
+            "poem": 1
+          },
+          {
+            "text": "ndagwurugwu niile na-agbawa,",
+            "poem": 2
+          },
+          {
+            "text": "dịka abụba dị nso nʼọkụ,",
+            "poem": 1
+          },
+          {
+            "text": "dịka mmiri si nʼebe dị elu na-asọdata",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ihe ndị a bụ nʼihi njehie Jekọb,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi mmehie niile nke ndị Izrel.",
+            "poem": 2
+          },
+          {
+            "text": "Gịnị bụ njehie Jekọb?",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụghị Sameria?",
+            "poem": 2
+          },
+          {
+            "text": "Gịnịkwa bụ ebe dị elu nke Juda?",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụghị Jerusalem?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“Nʼihi ya, aga m eme ka Sameria ghọọ mkpọmkpọ ebe,",
+            "poem": 1
+          },
+          {
+            "text": "ebe a na-akụ osisi vaịnị.",
+            "poem": 2
+          },
+          {
+            "noteId": 1395
+          },
+          {
+            "text": "Aga m awụnye nkume ya nʼime ndagwurugwu,",
+            "poem": 1
+          },
+          {
+            "text": "mekwaa ka ntọala ya pụta ihe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Arụsị ha niile a pịrị apị ka a ga-akụjisi;",
+            "poem": 1
+          },
+          {
+            "text": "onyinye niile a na-ewebata nʼụlọ arụsị ha ka a ga-akpọ ọkụ.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m ala arụsị niile ya a kpụrụ akpụ nʼiyi.",
+            "poem": 2
+          },
+          {
+            "text": "Ebe ọ bụ na e si nʼaka ndị na-agba akwụna na-ewebata onyinye ndị a,",
+            "poem": 1
+          },
+          {
+            "text": "a ga-eji ha kwụọ ụgwọ ịgba akwụna.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịkwa akwa na iru ụjụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Nʼihi nke a, aga m akwa akwa, tikwaa mkpu akwa.",
+            "poem": 1
+          },
+          {
+            "text": "Aga m agbara ọtọ gbarakwa ụkwụ efu jegharịa.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m akpọ mkpu dịka nkịta ọhịa,",
+            "poem": 1
+          },
+          {
+            "text": "tipụkwa ube akwa dịka ikwighịkwighị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Nʼihi na ọnya ya enweghị ngwọta,",
+            "poem": 1
+          },
+          {
+            "text": "o rutela na Juda.",
+            "poem": 2
+          },
+          {
+            "text": "O rutelarị ma nʼọnụ ụzọ ama nke ndị m,",
+            "poem": 1
+          },
+          {
+            "text": "rukwaarị Jerusalem.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Unu ekwutela okwu ya na Gat;",
+            "poem": 1
+          },
+          {
+            "text": "unu akwakwala akwa ọbụla.",
+            "poem": 2
+          },
+          {
+            "text": "Tụrụọnụ onwe unu nʼuzuzu,",
+            "poem": 1
+          },
+          {
+            "text": "unu ndị Bet-Ofra.",
+            "poem": 2
+          },
+          {
+            "noteId": 1396
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Gabiganụ nʼụzọ unu,",
+            "poem": 1
+          },
+          {
+            "text": "unu ndị bi na Shafia.",
+            "poem": 2
+          },
+          {
+            "text": "Nʼọnọdụ ịgba ọtọ na ihere unu,",
+            "poem": 1
+          },
+          {
+            "text": "unu ndị bi na Zaanan abịakwala nso.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị Bet-Ezel na-eru ụjụ",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na e wezugala ndị na-eche unu nche.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Ndị bi na Marot nọ nʼoke ahụ mgbu",
+            "poem": 1
+          },
+          {
+            "text": "na-eche ka ihe ọma bịa,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na mbibi esitela nʼaka Onyenwe anyị bịa,",
+            "poem": 1
+          },
+          {
+            "text": "ruo nʼọnụ ụzọ ama Jerusalem",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Unu ndị bi na Lakish",
+            "poem": 1
+          },
+          {
+            "text": "kegidenụ ịnyịnya unu na-agba ọsọ nʼụgbọ agha.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ bụ nʼebe ahụ ka mmehie nwaada Zayọn malitere,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na mmehie Izrel na-eme ka a hụrụ nʼetiti unu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Ya mere, unu ga-enye Moreshet dị na Gat onyinye",
+            "poem": 1
+          },
+          {
+            "text": "mgbe unu na-agbapụ ọsọ.",
+            "poem": 2
+          },
+          {
+            "text": "Ụlọ Akzib ga-emesịa ghọọ ụlọ aghụghọ",
+            "poem": 1
+          },
+          {
+            "text": "nye ndị eze Izrel.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Aga m akpọbata onye ga-emeri unu",
+            "poem": 1
+          },
+          {
+            "text": "ndị bi na Maresha nʼagha.",
+            "poem": 2
+          },
+          {
+            "text": "Ndị a na-asọpụrụ nke Izrel",
+            "poem": 1
+          },
+          {
+            "text": "ga-agbabanye nʼAdulam.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Kpachaanụ isi unu nʼọnọdụ iru ụjụ",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi ụmụntakịrị ndị ahụ ihe ha masịrị unu,",
+            "poem": 2
+          },
+          {
+            "text": "meenụ ka isi unu kwọchaa dịka isi udele,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na a ga-achụpụ ha site nʼebe unu nọ gaa mba ọzọ.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1395,
+        "caller": "+",
+        "text": "Ya bụ, ubi vaịnị",
+        "reference": {
+          "chapter": 1,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1396,
+        "caller": "+",
+        "text": "Bet-Ofra Maọbụ, Bet-Leafra nke pụtara ụlọ uzuzu",
+        "reference": {
+          "chapter": 1,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MIC/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MIC/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JON/4.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

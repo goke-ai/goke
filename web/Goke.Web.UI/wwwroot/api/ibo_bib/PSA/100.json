@@ -1,0 +1,154 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 100,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma maka ikele ekele afọ ojuju."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Toonu Chineke"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Tikusienụ Onyenwe anyị mkpu ọṅụ ike, ụwa niile.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Jiri obi ụtọ fee Onyenwe anyị ofufe;",
+            "poem": 2
+          },
+          {
+            "text": "jirinụ ịbụ abụ ọṅụ bịa nʼihu ya",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Matanụ na Onyenwe anyị bụ Chineke.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ bụ ya onwe ya kere anyị,",
+            "poem": 2
+          },
+          {
+            "noteId": 1673
+          },
+          {
+            "text": "ọ bụkwa ya nwe anyị,",
+            "poem": 2
+          },
+          {
+            "text": "anyị bụ ndị ya, igwe atụrụ nke ọ na-azụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Jirinụ ekele banye nʼọnụ ụzọ ama ya",
+            "poem": 1
+          },
+          {
+            "text": "jiri otuto baa nʼogige ya;",
+            "poem": 2
+          },
+          {
+            "text": "keleenụ ya, tookwa aha ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nʼihi na Onyenwe anyị dị mma, ịhụnanya ya na-adịgide ruo mgbe ebighị ebi.",
+            "poem": 1
+          },
+          {
+            "text": "Ruo ọgbọ niile ka ikwesi ntụkwasị obi ya na-adịgidekwa.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1673,
+        "caller": "+",
+        "text": "Job 10:3; Efe 2:10",
+        "reference": {
+          "chapter": 100,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/100.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/101.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/99.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

@@ -1,0 +1,207 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "DEU",
+    "translationId": "ibo_bib",
+    "name": "Diuteronomi",
+    "commonName": "Diuteronomi",
+    "title": "Diuteronomi",
+    "order": 5,
+    "numberOfChapters": 34,
+    "sha256": "4d8340735e00d5ed0d0ad6648ecebcc35379f88a7fb67b090d4c46057ed796af",
+    "firstChapterApiLink": "/api/ibo_bib/DEU/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/DEU/34.json",
+    "totalNumberOfVerses": 959
+  },
+  "chapter": {
+    "number": 26,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Onyinye mkpụrụ mbụ na otu ụzọ nʼụzọ iri"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ị ga-aba nʼala ahụ Onyenwe anyị Chineke gị na-enye gị dịka ihe nketa, mgbe ị nwetara ya, birikwa nʼime ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ị ga-ewere ụfọdụ nʼime mkpụrụ niile si nʼala ahụ Onyenwe anyị Chineke gị na-enye gị, tinye ya nʼime nkata, were ya gaa nʼebe ahụ Onyenwe anyị Chineke unu ga-ahọpụta, dịka ebe a kpọkwasịrị aha ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ị ga-agwakwa onye nchụaja nọ nʼọrụ nʼoge ahụ okwu sị: “Ana m ekwupụta taa nye Onyenwe anyị Chineke gị na abịala m nʼala ahụ Onyenwe anyị ṅụụrụ nna nna anyị ha nʼiyi inye anyị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onye nchụaja ahụ ga-anara nkata ahụ, dọba ya nʼihu ebe ịchụ aja Onyenwe anyị Chineke gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, ị ga-ekwupụta nʼihu Onyenwe anyị Chineke gị sị, “Nna nna m bụ onye Aram na-awagharị awagharị, onye jere Ijipt izere ndụ.",
+          {
+            "noteId": 488
+          },
+          "Ha dị ole na ole mgbe ha gara Ijipt, ma nʼIjipt ha ghọrọ mba dị ukwuu, ndị dị ike, na ndị bara ụba nʼọnụọgụgụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma ndị Ijipt mejọrọ anyị, mee ka anyị taa ahụhụ nʼihi ọrụ dị ike nke ha bokwasịrị anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ahụ, anyị tikuru Onyenwe anyị Chineke nna nna anyị. Onyenwe anyị nụrụ olu anyị, hụkwa mmegbu a na-emegbu anyị, na ndọgbu anyị na-adọgbu onwe anyị nʼọrụ, na ọnọdụ ọjọọ anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Onyenwe anyị ji aka dị ike na ogwe aka o setịrị eseti, nʼọtụtụ ihe oke egwu na ọrụ ịrịbama, na ihe ebube, si nʼIjipt kpọpụta anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọ kpọbatara anyị nʼebe a, nye anyị ala a, ala mmiri ara ehi na mmanụ aṅụ na-eru na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ya mere, ugbu a, Onyenwe anyị, lee, ewebatala m mkpụrụ mbụ sitere nʼala i nyere m.” Dọba nkata ahụ nʼihu Onyenwe anyị Chineke gị, kpọọkwa isiala nye ya nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ, gị na ndị Livayị, na ndị mbịarambịa bi nʼetiti unu, ga-aṅụrị ọṅụ nʼihe ọma niile Onyenwe anyị Chineke gị nyere gị na ezinaụlọ gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼafọ nke atọ ọbụla, ị ga-enye onyinye pụrụ iche, onyinye otu ụzọ nʼụzọ iri, nke ihe ubi gị. Nʼafọ ahụ, ị ga-enye ndị Livayị, na ndị ọbịa, na ụmụ mgbei, na ndị inyom di ha nwụrụ, onyinye otu ụzọ nʼụzọ iri gị, ka ha rie ya nʼobodo gị dị iche iche, ka afọ jukwa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ị ga-ekwupụta nʼihu Onyenwe anyị Chineke gị sị, “Esitela m nʼụlọ wepụ oke ahụ dị nsọ, nye ha ndị Livayị, na ndị ọbịa, na ụmụ mgbei, na ndị inyom di ha nwụrụ, dịka i nyere m nʼiwu, enupughị m isi maọbụ chefuo iwu gị ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Erighị m ihe ọbụla si nʼime ya mgbe m na-eru ụjụ maọbụ wepụ ihe ọbụla nʼime ya nʼọnọdụ adịghị ọcha m, ọ dịkwaghị nke m ji chụọrọ ndị nwụrụ anwụ aja. Egeela m ntị nʼolu Onyenwe anyị Chineke m, meekwa ihe niile i nyere m nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Site nʼebe obibi nsọ gị dị nʼeluigwe ledata anya gị, gọzie ndị gị Izrel na ala a i nyere anyị, ala mmiri ara ehi na mmanụ aṅụ na-eru na ya, dịka i kwere nna nna anyị ha na nkwa.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ịgbaso iwu Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Onyenwe anyị Chineke gị na-enye gị iwu taa si gị gbaso ụkpụrụ ndị a na iwu ndị a. Lezie anya hụ na i ji obi gị niile na mkpụrụobi gị niile debe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "I kwupụtala taa na Onyenwe anyị bụ Chineke gị, i kweekwala nkwa na ị ga-ege ya ntị, debe iwu ya niile, na ụkpụrụ ya niile, na ị ga-emekwa ihe niile ọ sị gị mee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Taa kwa, Onyenwe anyị ekwupụtala na unu bụ ndị nke aka ya, dịka o kwere na nkwa, na ị ga-edebekwa ihe niile o nyere nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "O kwuru na ọ ga-emekwa ka i karịa mba niile o kere elu, nʼotuto, nʼaha, nsọpụrụ na ịja mma. Na unu ga-abụkwa mba dị nsọ nye Onyenwe anyị Chineke unu, dịka o kwere na nkwa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 488,
+        "caller": "+",
+        "text": "Onye a na-ekwu banyere ya bụ Jekọb, Hos 12:12; Jen 43:3; 45:7,11",
+        "reference": {
+          "chapter": 26,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/DEU/26.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/DEU/27.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/DEU/25.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

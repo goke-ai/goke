@@ -1,0 +1,320 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 42,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụnne Josef abịaruo Ijipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, Jekọb nụrụ na ọka dị nʼIjipt. Ọ sịrị ụmụ ya, “Kedụ ihe anyị jiri nọrọ na-elerịta onwe anyị anya”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ sịrị, “Lee anụrụ m na ọka dị nʼIjipt. Gbadatanụ nʼebe ahụ zụtara anyị ọka ka anyị dị ndụ ghara ịnwụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ụmụnne Josef iri ndị ahụ gbadara Ijipt ịzụta ọka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma Jekọb ekweghị ka Benjamin nwanne nta Josef soro ha gaa, nʼihi na ọ tụrụ egwu na ihe ndaba ọjọọ nwere ike ịbịakwasị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Otu a, ụmụ Izrel so nʼọtụtụ ndị ọzọ ndị jekwara ịzụrụ nri nʼIjipt, nʼihi na ụnwụ ahụ dị njọ nʼala Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Nʼoge a, Josef na-achị ala Ijipt, bụrụkwa onye iresi ndị obodo ọka dị nʼaka. Ya mere, mgbe ụmụnne Josef rutere, ha bịara hulata kpọọ isiala nye Josef."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe Josef hụrụ ụmụnne ya, ọ matara ndị ha bụ. Ma ọ kpara agwa dịka onye na-amaghị ha, gwa ha okwu nʼolu ike, sị ha, “Ebee ka unu si bịa?” Ha zara, “Anyị si ala Kenan bịa. Anyị bịara ịzụrụ nri.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Josef matara ụmụnne ya, ma ha onwe ha amataghị onye ọ bụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Josef chetakwara nrọ ndị ahụ ọ rọrọ banyere ha. Ọ gwara ha okwu sị ha, “Unu bụ ndị nnyocha. Ịchọpụta adịghị ike ala anyị mere unu ji bịa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha zara sị, “Nna anyị ukwu, anyị bụ ndị ohu gị bịara ịzụrụ nri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Anyị niile bụ ụmụ otu nna. Ndị ohu gị bụ ndị kwesiri ntụkwasị obi. Anyị abụghị ndị nnyopụta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma Josef gwara ha sị, “Mba! Unu bịara ịchọpụta akụkụ obodo anyị nke a na-echezighị nke ọma.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ha zara sị ya, “Ndị ohu gị dị ụmụnne iri na abụọ. Ọ bụkwa otu nna mụrụ anyị niile. Nna anyị na nwanne anyị nta, onye ikpeazụ ọ mụrụ nọ na Kenan ugbu a. Ma otu onye nʼime anyị anwụọla.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Josef sịrị, “Ihe unu na-akọ na-egosi na unu bụ ndị nnyopụta, dịka m gwara unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Nke a ka a ga-eji anwale unu. Nʼaha Fero dị ndụ, unu agaghị esi nʼebe a laa tutu nwanne unu nke nta ahụ abịa nʼebe a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Zipụnụ otu onye nʼime unu ka ọ gaa kpọta nwanne unu nwoke. Ma aga m etinye ndị fọdụrụ nʼụlọ mkpọrọ, tutu m chọpụta ma ihe unu kwuru ọ bụ eziokwu maọbụ ụgha. Ọ bụrụ ụgha nʼezie, dịka Fero na-adị ndụ, unu bụ ndị nnyopụta.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "O tinyere ha niile nʼụlọ mkpọrọ, hapụ ha nʼebe ahụ abalị atọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Josef gwara ha, nʼụbọchị nke atọ, “Nke a bụ ihe unu ga-eme ma dị ndụ, nʼihi na abụ m onye na-atụ egwu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọ bụrụ na unu bụ ndị ezi mmadụ, ka otu onye nʼime unu nọdụ nʼebe a, nʼụlọ mkpọrọ, ka ndị fọdụrụ buru ọka bulaara ndị ezinaụlọ unu nọ nʼagụụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma kpọtaranụ m nwanne unu nke nta nʼebe a, nke a ga-egosi na okwu unu bụ eziokwu, na unu agaghịkwa anwụ.” Ha mere otu a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ha gwarịtara onwe ha okwu sị, “Nʼezie, ọ bụ nʼihi nwanne anyị nwoke ka ahụhụ ndị a ji abịakwasị anyị. Anyị hụrụ obi mgbawa ya, mgbe ọ na-arịọ ka anyị chebe ndụ ya, ma anyị egeghị ya ntị. Ọ bụ nke a mere mmekpa ahụ ndị a ji bịakwasị anyị ugbu a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ruben zara sị ha, “Ọ bụ na mụ agwaghị unu sị unu hapụ imejọ nwantakịrị ahụ, ma unu egeghị ntị? Ugbu a, anyị na-asa ajụjụ banyere ọbara ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ha amataghị na Josef na-anụ ihe ha na-ekwu, nʼihi na onye nsụgharị okwu nọ nʼetiti ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "O sitere nʼebe ha nọ tụgharịa gaa kwaa akwa. Ọ lọghachikwutere ha ọzọ gwakwa ha okwu. O si nʼetiti ha kpọpụta Simiọn kee ya agbụ ka ha na-ele ya anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Josef nyere iwu ka e kpojuo ọka nʼakpa ha, tinyekwara onye ọbụla ego ọ kwụrụ nʼakpa ya. Ọ nyere iwu ka e nye ha ihe ha ga-eri nʼụzọ. Mgbe e mesịrị ihe ndị a,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "ha bokwasịrị ịnyịnya ibu akpa ọka ha nʼotu nʼotu. Ha hapụrụ Ijipt lawa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ha ruru ebe ha nọrọ ọnọdụ abalị, otu nʼime ha meghere akpa ya ka o nye ịnyịnya ibu ya ọka, ọ hụrụ ego ya nʼọnụ akpa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọ gwara ụmụnne ya sị, “Lee, e tighachiri ego m kwụrụ. Lee ya nʼakpa ọka m.” Ike gwụrụ onye ọbụla nʼime ha. Site nʼahụ ịma jijiji ha lerịtara onwe ha anya sị, “Gịnị bụ ihe a Chineke mere anyị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Mgbe ha lakwutere nna ha Jekọb nʼala Kenan, ha kọọrọ ya ihe niile dakwasịrị ha. Ha gwara ya sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "“Nwoke na-achị ala ahụ gwara anyị okwu nʼolu ike. O mesoro anyị mmeso dịka anyị bụ ndị bịara inyochapụta obodo ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma anyị gwara ya sị, ‘Anyị bụ ndị kwesiri ntụkwasị obi, ndị na-abụghị ndị nnyopụta obodo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Anyị dị ụmụnne iri na abụọ ndị nwere otu nna. Otu nʼime anyị anọkwaghị, ma nke ntakịrị na nna anyị nọ na nʼala Kenan taa.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "“Mgbe ahụ, nwoke a, onye na-achị ala ahụ, sịrị anyị, ‘Nke a ka m ga-eji mata ma unu bụ ndị ezi mmadụ. Hapụrụnụ m otu nwanne unu. Burunu ọka, bulaara ndị ezinaụlọ unu agụụ na-agụgbu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ma kpọtara m nwanne unu nke nta. Mgbe ahụ ka m ga-ama ihe unu bụ. Ma unu bụ ndị nnyopụta maọbụ ndị ezi mmadụ. Mgbe ahụ, aga m ahapụrụ unu nwanne unu. Unu ga na-azụkwa ahịa nʼala a.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mgbe ha bidoro ịwụpụtasị ọka dị nʼakpa ha, lee, nʼime akpa ọka onye ọbụla, a chọtara ego ọ kwụrụ nʼakpa ya. Mgbe ha na nna ha hụrụ ego ndị a, ha tụrụ egwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ya mere, nna ha Jekọb gwara ha sị, “Unu agbawala m aka ụmụ. Josef anọghị, Simiọn anọkwaghị. Ma unu na-achọ iwezuga Benjamin. Naanị m ka ihe niile ndị a na-emegide!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Mgbe ahụ, Ruben gwara nna ya sị, “I nwere ike gbuo ụmụ m ndị ikom abụọ ma ọ bụrụ na m akpọghachighị Benjamin. Tifee ya nʼaka m, aga m akpọghachikwara gị ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ma Jekọb sịrị, “Nwa m agaghị eso unu gaa. Nʼihi na nwanne ya anwụọla, ọ bụkwa naanị ya ka ọ fọdụrụ. Ọ bụrụ na nsogbu ezute ya nʼụzọ nʼije a, unu ga-eme ka m jiri isi awọ m laa nʼili nʼọnọdụ mwute.”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/42.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/43.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/41.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

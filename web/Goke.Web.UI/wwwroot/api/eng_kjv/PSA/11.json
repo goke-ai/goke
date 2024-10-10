@@ -1,0 +1,152 @@
+{
+  "translation": {
+    "id": "eng_kjv",
+    "name": "King James (Authorized) Version",
+    "website": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=eng-kjv2006",
+    "shortName": "KJV",
+    "englishName": "King James (Authorized) Version",
+    "language": "eng",
+    "textDirection": "ltr",
+    "sha256": "2995affbde2fa4c0107d68ac973bf9efd1b07a56e24d02de75bcc257024a4b29",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/eng_kjv/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31102,
+    "languageName": "English",
+    "languageEnglishName": "English"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "eng_kjv",
+    "name": "Psalms",
+    "commonName": "Psalms",
+    "title": "The Book of Psalms",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "58e4db840fe4924126c9dfedf474e1f8cf4d5e072f67c57234708250110185df",
+    "firstChapterApiLink": "/api/eng_kjv/PSA/1.json",
+    "lastChapterApiLink": "/api/eng_kjv/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 11,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "To the chief Musician, A Psalm of David."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+            "poem": 1
+          },
+          {
+            "noteId": 20998
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "If the foundations be destroyed, what can the righteous do?",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
+            "poem": 1
+          },
+          {
+            "noteId": 20999
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 20998,
+        "caller": "+",
+        "text": "11.2 privily: Heb. in darkness",
+        "reference": {
+          "chapter": 11,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 20999,
+        "caller": "+",
+        "text": "11.6 an horrible…: or, a burning tempest",
+        "reference": {
+          "chapter": 11,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/eng_kjv/PSA/11.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/eng_kjv/PSA/12.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/eng_kjv/PSA/10.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

@@ -1,0 +1,94 @@
+﻿<li class="dropdown" data-nav-id="products">
+    <NavLink class="nav-link" href="products">
+        <span class="nav-item-wrapper">
+            <span class="icon">
+                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                    <use xlink:href="sprites.svg#cubes-solid"></use>
+                </svg>
+            </span>
+            <span class="nav-item-text">
+                Products
+                <DropDownIcon NavOrientation="@NavOrientation" />                
+            </span>
+        </span>
+    </NavLink>
+    <ul class="dropdown-list @PopStyle">
+        <li>
+            <NavLink class="nav-link" href="products/chemistry">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#flask-vial-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Chemistry
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="products/maths">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#calculator-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Maths
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="products/gasific">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#fire-flame-curved-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Gasific
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="products/biomanetics">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#poop-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Biomanetics
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+        <li>
+            <NavLink class="nav-link" href="products/plots">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#wave-square-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Plots
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+    </ul>
+</li>
+@code {
+    [Parameter]
+    public string? PopStyle { get; set; }
+    [Parameter]
+    public string? NavOrientation { get; set; } = "Horizontal";
+
+}

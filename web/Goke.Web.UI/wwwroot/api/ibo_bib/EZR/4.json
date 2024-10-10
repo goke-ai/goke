@@ -1,0 +1,271 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZR",
+    "translationId": "ibo_bib",
+    "name": "Ezra",
+    "commonName": "Ezra",
+    "title": "Ezra",
+    "order": 15,
+    "numberOfChapters": 10,
+    "sha256": "55fb1ed601140a3772b88951338bf08f2bdc42dc3e530ce470f7aaa6a16b6ea2",
+    "firstChapterApiLink": "/api/ibo_bib/EZR/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZR/10.json",
+    "totalNumberOfVerses": 280
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndị iro"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ndị iro Juda na Benjamin",
+          {
+            "noteId": 668
+          },
+          "nụrụ na ndị ahụ a dọtara nʼagha alọtala, nụkwa na ha na-ewugharị ụlọnsọ ukwu Onyenwe anyị, Chineke Izrel,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "ha bịakwutere Zerubabel na ndịisi ezinaụlọ sị ha, “Kwerenụ ka anyị nyere unu aka nʼọrụ iwu ụlọ a, nʼihi na anyị hụrụ Chineke unu nʼanya dịka unu onwe unu si hụ ya nʼanya. Lee na kemgbe Isahadon eze Asịrịa butere anyị nʼebe a, anyị alabeghị azụ ịchụrụ ya aja.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma Zerubabel, na Jeshua na ndịisi ọzọ zara sị ha, “Unu enweghị oke ọbụla nʼọrụ iwuru Chineke anyị ụlọnsọ. Naanị ndị anyị ga-ewuru Onyenwe anyị, Chineke Izrel ụlọ ukwu a dịka Sairọs eze Peshịa nyere nʼiwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere ndị niile nọ ha gburugburu malitere ime ihe ga-ewetara ndị Juda ịda mba nʼobi, na ihe ga-eme ka ụjọ tụọ ha ịga nʼihu nʼọrụ iwu ụlọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ha ji ngarị gota ụfọdụ ndịisi ka ha megide ha, mebikwaa atụmatụ ha niile nʼoge niile Sairọs bụ eze Peshịa, ruokwa nʼoge Daraiọs ghọrọ eze ọhụrụ Peshịa."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mmegide nʼoge ọchịchị eze Ahasuerọs na Ataksekses"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na mmalite ọchịchị Sekses, ha deere ya akwụkwọ ebubo megide ndị Juda na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼụbọchị niile ahụ Ataksekses bụ eze ndị Peshịa, ka Bishlam, na Mitredat, na Tabeel, na ndị otu ya fọdụrụ degaara Ataksekses akwụkwọ. E dere akwụkwọ ozi ahụ nʼodide akwụkwọ ndị Aramaik, a sụgharịkwara ya nʼasụsụ Aramaik."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị ọzọ soro ha gbaa ajọ izu a bụ Rehum onyeisi ọchịchị, na Shimshai ode akwụkwọ. Ha deere Ataksekses akwụkwọ megide ndị Jerusalem sị ya:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Akwụkwọ ozi a si nʼaka Rehum, onyeisi agha na Shimshai ode akwụkwọ, na ndị otu anyị ndị ọzọ, na ndị ikpe, na ndịisi obodo na-elekọta ndị ahụ niile si Tripolis, na Peshịa, na Erek, na Babilọn, na Susa nke dị nʼElam,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "na ọtụtụ ndị ọzọ ahụ onye ukwu ahụ na onye a na-asọpụrụ bụ Ashobanipal",
+          {
+            "noteId": 669
+          },
+          "si nʼala ha bupụ bute na Sameria, na obodo ndị ọzọ dị nʼọdịda anyanwụ Yufretis.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nke a bụ ihe ha dere nʼakwụkwọ ha zigaara Eze Ataksekses. Ọ bụ gị, eze ukwu Ataksekses, ka ndị ohu gị bi nʼakụkụ ọdịda anyanwụ Yufretis na-edetara akwụkwọ a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a bụ ime ka ị mata na ndị Juu si Babilọn lọta Jerusalem ọhụrụ a ebidola iwughachi obodo ọjọọ nke nnupu isi ahụ. Ha ewuolarị mgbidi ya, tọkwaa ntọala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Anyị chọrọ ka o doo gị anya na ọ bụrụ na ha ewuchaa ya, ọ ga-abụ nsogbu nye alaeze gị, nʼihi na ndị Juu agaghị ekwekwa ịtụrụ gị ụtụ isi ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ebe anyị na-asọpụrụ gị dịka nna anyị ukwu, anyị achọghị ka ihe ọjọọ mee nʼalaeze gị, ya mere anyị ji kpebie idere gị akwụkwọ a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Anyị chọrọ ka i leba anya nʼakwụkwọ akụkọ nke mgbe ochie, ka ị chọpụta na ọ dịghị mgbe Jerusalem na-ejighị bụrụ obodo nnupu isi. Nʼezie, ọ bụ nʼihi nnupu isi a na nkwulu nke ha na-ekwulu ndị eze dị iche iche, ka e ji bibie ya na mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Anyị chọrọ ka ị mata na ọ bụrụ na e wuchaa mgbidi obodo a, ọ ga-esi ike ka akụkụ alaeze gị a, nke dị ruo nʼosimiri Yufretis, bụrụkwa nke gị ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Eze ahụ si otu a saa akwụkwọ ahụ, Ọ sịrị ha, Rehum onyeisi ọchịchị, na Shimshai ode akwụkwọ, na ndị otu ha bi na Sameria ruo nʼọdịda anyanwụ nke osimiri Yufretis. Ndeewonụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Akwụkwọ ozi ahụ unu zitere anyị, agụọla ma tapịakwaa ya nʼihu m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Enyere m iwu ka e nyochaa chọpụta, e mere nyochaa, a chọpụtakwara ya nʼakwụkwọ na obodo a siterị nʼoge gara aga bụ obodo na-ebuli onwe ya megide ọtụtụ ndị eze,",
+          {
+            "noteId": 670
+          },
+          "bụrụkwa ebe na-akpali nnupu isi na okwu na-eweta ọgbaaghara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Jerusalem e nweela ụfọdụ ndị eze nke chịrị nʼIzrel, ndị dị ike a maara aha ha, ndị alaeze ha gbasara rute nʼosimiri Yufretis, ndị a na-atụkwara ụtụ dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ugbu a, nye iwu ka ndị ikom ndị ahụ kwụsị ọrụ, ka a ghara iwuzi obodo a tutu ruo mgbe m ga-enye iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Lezienụ anya ka unu ghara i lepụrụ okwu a anya. Gịnị ga-eme ka a hapụ ihe iyi egwu a ka ọ gaa nʼihu, ime ka ihe jọrọ alaeze a njọ karịa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ngwangwa a gụrụ akwụkwọ ozi si nʼaka eze Ataksekses, nye Rehum na Shimshai bụ ode akwụkwọ, na ndị otu ha, ha mere ọsịịsọ gakwuru ndị Juu na Jerusalem jiri ike kwagide ha ka ha kwụsị ịrụ ọrụ ahụ."
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ya mere, ha kwụsịrị ịrụ ọrụ nʼụlọnsọ ukwu Chineke na Jerusalem tutu ruo nʼafọ abụọ nke ọchịchị Daraiọs eze Peshịa."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 668,
+        "caller": "+",
+        "text": "Sameria bụ isi obodo alaeze ugwu, ndị agbụrụ Benjamin bụ ndị bi nʼobodo ugwu Izrel, ya mere ha ji bụrụ ndị Sameria.",
+        "reference": {
+          "chapter": 4,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 669,
+        "caller": "+",
+        "text": "Maọbụ, Osanapa, dịka e si sụgharịa ya nʼakwụkwọ nsọ ụfọdụ",
+        "reference": {
+          "chapter": 4,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 670,
+        "caller": "+",
+        "text": "Ebe a na-arụtụ aka na nsogbu, na nnupu isi dịrịị nʼoge ọchịchị eze Hezekaya, Jehoiakim nakwa Zedekaya, megide ọchịchị ike nke ndị iro ha na-achị ha. 2Ez 18; 19; 2Ez 24:20; 2Ih 36:13.",
+        "reference": {
+          "chapter": 4,
+          "verse": 19
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZR/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZR/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZR/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

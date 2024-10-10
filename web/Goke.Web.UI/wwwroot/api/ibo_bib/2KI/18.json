@@ -1,0 +1,411 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2KI",
+    "translationId": "ibo_bib",
+    "name": "2 Ndị Eze",
+    "commonName": "2 Ndị Eze",
+    "title": "2 Ndị Eze",
+    "order": 12,
+    "numberOfChapters": 25,
+    "sha256": "ef5236a4bf8f2ef841995e04d82bf4f37b3f368a02d2b12f0ec9671c38f7b59d",
+    "firstChapterApiLink": "/api/ibo_bib/2KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2KI/25.json",
+    "totalNumberOfVerses": 719
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hezekaya eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼafọ nke atọ nke ọchịchị Hoshea nwa Elaa eze Izrel ka Hezekaya nwa Ehaz eze Juda malitere ọchịchị nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ gbara iri afọ abụọ na ise mgbe ọ malitere ị bụ eze. Ọ chịrị iri afọ abụọ na itoolu na Jerusalem. Aha nne ya bụ Abija,",
+          {
+            "noteId": 292
+          },
+          "ada Zekaraya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O mere ihe ziri ezi nʼanya Onyenwe anyị, dịka nna nna ya Devid."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "O wepụrụ ebe niile dị elu, kurisie ogidi nsọ niile, gbutukwa ogidi Ashera niile. O tipịakwara agwọ bronz ahụ Mosis mere, nʼihi na ruo nʼoge ahụ, ụmụ Izrel na-esure aja nsure ọkụ na-esi isi ụtọ nye ya. (A kpọrọ ya Nehushtan.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Hezekaya tụkwasịrị Onyenwe anyị, Chineke Izrel obi ya. Nʼezie, o nwekwaghị onye ọzọ dị ka ya nʼetiti ndị eze Juda niile, ndị bu ya ụzọ chịa, na ndị so ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ gbasoro Onyenwe anyị nʼụzọ niile. O sitekwaghị nʼụzọ Onyenwe anyị wezuga onwe ya. O debere ihe niile Onyenwe anyị nyere Mosis nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onyenwe anyị nọnyeere ya nʼebe ọbụla ọ gara, ihe niile o mere gaara ya nke ọma. O nupuru isi jụ ịnọkwa nʼokpuru eze ndị Asịrịa, o fekwaghị ya ofufe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "O tigburu ndị Filistia nʼala ha niile ruo na Gaza, na obodo dị ya gburugburu. Ọ lara obodo ahụ niile nʼiyi, obodo ukwu niile e wusiri ike na obodo nta niile a na-ewusighị ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼafọ nke anọ nke ọchịchị Hezekaya, nke bụkwa afọ nke asaa nke ọchịchị Hoshea nwa Elaa, bụ eze Izrel, Shalmanesa, eze Asịrịa gbagoro imegide Sameria, nọchibido ya gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe afọ atọ gasịrị, nʼafọ nke isii nke ọchịchị Hezekaya, na afọ nke itoolu nke ọchịchị Hoshea, bụ eze Izrel, ndị agha Asịrịa dọtara Sameria nʼagha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ bụ nʼoge ahụ ka eze Asịrịa bupụrụ ndị Izrel niile bulaa ha Asịrịa nʼime obodo Hala, na Gozan nʼakụkụ iyi ukwu Hoboa, na nʼobodo ndị Midia."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nke a mere nʼihi na ha jụrụ ige ntị nʼolu Onyenwe anyị bụ Chineke ha, jụkwa ime ihe ọ chọrọ ka ha mee. Ha edebeghị ọgbụgba ndụ ya na iwu niile Mosis onyeozi Onyenwe anyị nyere ha. Ha jụrụ ige ntị nʼiwu ndị a, maọbụ debe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼafọ nke iri na anọ nke ọchịchị eze Hezekaya, Senakerib bụ eze Asịrịa, busoro obodo Juda niile e wusiri ike agha, merikwaa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ, Hezekaya chọrọ ụzọ ọ ga-esi mee udo, zie ozi zigara eze Asịrịa nʼobodo Lakish sị ya, “Emehiela m, biko, site nʼala m pụọ. Aga m akwụ gị ihe ọbụla ị chọrọ nʼaka m.” Eze Asịrịa sitere nʼaka Hezekaya eze Juda nara narị talenti ọlaọcha atọ, na iri talenti ọlaedo atọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Hezekaya chịịrị ọlaọcha niile ọ chọtara nʼụlọnsọ ukwu Onyenwe anyị, na akụ niile dị nʼụlọeze, nye ya eze Asịrịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼoge ahụ, Hezekaya bụ eze Juda, nyakapụtachara ọlaedo niile o ji techie ibo na ibo ọnụ ụzọ ụlọnsọ ukwu Onyenwe anyị, chịrị ihe ndị a niile nye eze Asịrịa."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Senakerib ebuo agha megide Jerusalem"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Eze Asịrịa sitere na Lakish zipụ ọchịagha",
+          {
+            "noteId": 293
+          },
+          "onye ọkwa ya kasị ukwuu, onyeisi ndị na-eje ozi na ọchịagha ya na usuu ndị agha ka ha jekwuru Hezekaya na Jerusalem. Ndị agha a bịaruru Jerusalem kwụsị nʼakụkụ olulu warawara",
+          {
+            "noteId": 294
+          },
+          "e gwuru ebe Ọdọ mmiri dị elu si nʼasọfe, nʼụzọ e si aga obosara ala ndị na-asụ akwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mgbe ha kpọrọ eze oku ka ọ bịa, Eliakịm nwa Hilkaya, onye nlekọta ụlọeze, na Shebna, ode akwụkwọ eze, na Joa nwa Asaf, onye ndekọ akụkọ ihe mere, pụrụ jekwuru ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọchịagha ahụ sịrị ha, “Gwanụ Hezekaya: “ ‘Otu a ka eze ukwu ahụ, bụ eze Asịrịa na-ekwu, Ọ bụ na gịnị ka ntụkwasị obi gị dabere?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ị na-ekwu na i nwere ndụmọdụ na ike ibu agha, maọbụ naanị egbe ọnụ",
+          {
+            "noteId": 295
+          },
+          "ka ị na-agba. Ọ bụ onye ka ị na-atụkwasị obi mere i ji enupu isi nʼokpuru m?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Lee, amatara m na ị na-atụkwasị obi nʼIjipt, mkpanaka achara ahụ gbajiri agbaji, nke na-adụwa aka onye ọbụla na-adabere na ya. Otu a ka Fero, eze Ijipt dị nye ndị niile na-atụkwasị ya obi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ma ọ bụrụ na unu asị m, “Anyị na-atụkwasị Onyenwe anyị bụ Chineke anyị obi.” Ọ bụghị ya ka Hezekaya wezugara ebe ya niile dị elu na ebe ịchụ aja ya niile, na-asị Juda na Jerusalem, “Unu aghaghị ịkpọ isiala nʼebe ịchụ aja dị nʼime Jerusalem?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "“ ‘Ma ugbu a, bịa kwee nna m ukwu, bụ eze Asịrịa nkwa. Aga m enye gị puku ịnyịnya abụọ ma ọ bụrụ na i nwere ike ịchọta ndị ga-agba ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ị ga-esi aṅaa jụ otu onyeisi nke dịkarịsịrị nta nʼime ndịisi ọrụ onyenwe m, na-agbanyeghịkwa na i na-atụkwasị obi nʼIjipt maka inweta ụgbọ agha na ndị na-agba ịnyịnya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Tinyere nke a, abịara m ibuso ala a agha na ibibi ya ma enweghị okwu sitere na Chineke bịa? Ọ bụ Onyenwe anyị ya onwe ya gwara m ka m bilie megide obodo a, lakwaa ya nʼiyi.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ, Eliakịm nwa Hilkaya, Shebna na Joa sịrị ọchịagha ahụ, “Biko, gwa ndị ohu gị okwu nʼasụsụ Aramaik,",
+          {
+            "noteId": 296
+          },
+          "ebe ọ bụ na anyị na-aghọta ya. Agwala anyị okwu nʼasụsụ Hibru, ebe ndị nọ nʼelu mgbidi ga-anụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Ma ọchịagha ahụ zaghachiri, “Ọ bụ nʼihi naanị nna unu ukwu na nye unu onwe unu ka nna m ukwu ji zite m, ka m kwuo ihe ndị a? Ọ bụghị nʼihi ndị mmadụ ahụ na-anọdụ nʼelu mgbidi, ndị, dịka unu, ha ga-eso rie nsị ha nyụrụ, ṅụọkwa mamịrị ha nyụrụ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe ahụ, ọchịagha ahụ guzoro were oke olu kwuo nʼasụsụ Hibru, sị, “Nụrụnụ okwu eze ukwu ahụ, bụ eze Asịrịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Nke a bụ ihe eze sịrị, unu ekwela ka Hezekaya duhie unu. Ọ pụghị ịzọpụta unu site nʼaka m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Unu ekwela ka Hezekaya mee ka unu tụkwasị Onyenwe anyị obi. Mgbe ọ na-asị, ‘Nʼezie, Onyenwe anyị aghaghị ịnapụta anyị, a gaghị enyefe obodo a nʼaka eze Asịrịa.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "“Unu aṅakwala Hezekaya ntị. Ihe a ka eze Asịrịa kwuru: Pụkwutenụ m, bịanụ ka mụ na unu mee udo.",
+          {
+            "noteId": 297
+          },
+          "Mgbe ahụ, onye ọbụla nʼime unu ga-eri mkpụrụ si nʼubi vaịnị ya na nke si nʼosisi fiig ya, ṅụọkwa mmiri",
+          {
+            "noteId": 298
+          },
+          "nke si nʼihe icheta mmiri ya:"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "ruo mgbe m ga-abịa duru unu gaa nʼala dịka nke unu, bụ ala mkpụrụ ọka na nke mmanya ọhụrụ, ala achịcha na ubi vaịnị, ala mmanụ aṅụ na osisi oliv jupụtara nʼime ya. Họrọnụ ndụ ka unu ghara ịnwụ. “Unu egela Hezekaya ntị, nʼihi na ọ bụ nrafu ka ọ na-arafu unu mgbe ọ na-asị, ‘Onyenwe anyị ga-anapụta anyị.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "O nwere chi mba ọbụla nke napụtara ha site nʼaka eze Asịrịa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Olee ebe ka chi ndị Hamat na Apad nọ? Olee ebe ka chi ndị Sefavaim, Hena na Iva nọkwa? Ha anapụtala Sameria site nʼaka m?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Olee chi nʼime chi mba ndị a niile bụ nke zọpụtarala ala ya site nʼaka m? Unu si aṅaa chee na Onyenwe anyị pụrụ ịzọpụta Jerusalem site nʼaka m?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ma ndị ahụ niile gbara nkịtị, ha ekwughị ihe ọbụla, nʼihi na eze nyere ha iwu sị, “Unu azaghachila ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Mgbe ahụ, Eliakịm nwa Hilkaya, onye na-elekọta ụlọeze, na Shebna ode akwụkwọ eze, na Joa nwa Asaf ode akwụkwọ, ha yi uwe ha dọwara adọwa, bịakwute Hezekaya gwa ya ihe niile onyeisi agha ahụ kwuru."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 292,
+        "caller": "+",
+        "text": "Maọbụ, Abi",
+        "reference": {
+          "chapter": 18,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 293,
+        "caller": "+",
+        "text": "A na-akpọ Tatan",
+        "reference": {
+          "chapter": 18,
+          "verse": 17
+        }
+      },
+      {
+        "noteId": 294,
+        "caller": "+",
+        "text": "Olulu warawara mmiri nke eze Hezekaya gwuru, bụ maka i ji webata mmiri nʼime obodo site nʼiyi Gaihọn.",
+        "reference": {
+          "chapter": 18,
+          "verse": 17
+        }
+      },
+      {
+        "noteId": 295,
+        "caller": "+",
+        "text": "Ọ bụ sọsọ okwu egbugbere ọnụ",
+        "reference": {
+          "chapter": 18,
+          "verse": 20
+        }
+      },
+      {
+        "noteId": 296,
+        "caller": "+",
+        "text": "Asụsụ Aramaik (ndị Siria) bụ asụsụ mba na mba ji emekọrịta ihe nʼoge ahụ, ma ọ mesịrị ghọọ asụsụ ndị Juu, site na senchuri nke ise tupu a mụọ Kraịst.",
+        "reference": {
+          "chapter": 18,
+          "verse": 26
+        }
+      },
+      {
+        "noteId": 297,
+        "caller": "+",
+        "text": "Na mgbe ochie a na-eme udo site nʼịgba ndụ",
+        "reference": {
+          "chapter": 18,
+          "verse": 31
+        }
+      },
+      {
+        "noteId": 298,
+        "caller": "+",
+        "text": "Nke a na-egosi ọnọdụ udo na ọganihu.",
+        "reference": {
+          "chapter": 18,
+          "verse": 31
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2KI/18.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2KI/19.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2KI/17.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 37
+}

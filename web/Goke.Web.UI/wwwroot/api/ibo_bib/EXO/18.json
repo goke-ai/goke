@@ -1,0 +1,257 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "ibo_bib",
+    "name": "Ọpụpụ",
+    "commonName": "Ọpụpụ",
+    "title": "Ọpụpụ",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "774d546ab55fe8a892b28e8acd9db4ac825cb56f7c17b3a54855a28aa16a7122",
+    "firstChapterApiLink": "/api/ibo_bib/EXO/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EXO/40.json",
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 18,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ndụmọdụ Jetro"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ihe ndị a gasịrị, Jetro, nna nwunye Mosis, onye bụkwa onye nchụaja Midia, nụrụ banyere ihe niile Chineke meere Mosis na Izrel ndị nke ya, na ụzọ Onyenwe anyị si napụta Izrel site nʼaka ndị Ijipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jetro ọgọ nwoke Mosis kpọọrọ Zipọra, nwunye Mosis, mgbe Mosis chụlara ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "na ụmụ ya ndị ikom abụọ. Aha nwa ya nke mbụ bụ Geshọm, nke pụtara, abụ m ọbịa na mba ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Aha nwa nwoke nke abụọ bụ Elieza, nke bụ, Onyenwe anyị bụ onye inyeaka m. Nʼihi na mgbe Mosis mụrụ Elieza o kwuru sị, “Chineke nna m bụ onye inyeaka m, nʼihi na ọ napụtara m site na mma agha Fero.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Jetro, ọgọ nwoke Mosis, bịakwutere ha nʼime ọzara. O dutere ụmụ ndị ikom Mosis abụọ na nwunye Mosis. Nʼoge ahụ, Mosis na ụmụ Izrel mara ụlọ ikwu ha nʼakụkụ ugwu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O ziri Mosis ozi sị, “Mụ bụ Jetro ọgọ gị nwoke bịakwutere gị, nwunye gị na ụmụ gị abụọ sokwa m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Nʼihi ya, Mosis gara zute ọgọ ya nwoke, kpọọ isiala nye ọgọ ya, sutu ya ọnụ. Emesịa, ọ kpọbatara ha nʼime ụlọ ikwu ya. Jetro na ọgọ ya Mosis kwurịtara okwu, jụọ ihe banyere otu ihe si agara ibe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mosis kọọrọ nna nwunye ya ihe niile Onyenwe anyị mere Fero na ndị Ijipt niile nʼihi ndị Izrel. Ọ kọkwaara ya banyere ihe ndakwasị niile dakwasịrị ha nʼime ọzara, na otu Onyenwe anyị si napụta ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Jetro soro Mosis ṅụrịa ọṅụ nke ukwuu nʼihi ihe niile Onyenwe anyị meere ndị Izrel, na otu o siri napụta ha site nʼaka ndị Ijipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Jetro kwuru sị, “Onye a gọziri agọzi ka Onyenwe anyị bụ. Onye napụtara unu site nʼaka ndị Ijipt na site nʼaka Fero."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ugbu a, amaara m na Onyenwe anyị kachasị chi ndị ọzọ niile elu, nʼihi na ọ zọpụtara ndị ya site nʼaka ndị Ijipt ndị sitere na mpako ha meso Izrel mmeso.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Jetro, nna nwunye Mosis chụọrọ Chineke aja nsure ọkụ na aja ndị ọzọ. Emesịa, Erọn na ndị okenye Izrel bịara soro Mosis na ọgọ ya nwoke rie ihe nʼihu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼụbọchị nke ọzọ ya, Mosis bịara nọdụ ala ikpere ndị mmadụ ikpe. Igwe mmadụ nọgidere Mosis site nʼụtụtụ ruo nʼanyasị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọgọ Mosis hụrụ ihe niile ọ na-emere ndị mmadụ, nke a mere na ọ jụrụ, “Gịnị bụ ihe nke a ị na-emere ndị a? Gịnị mere i ji nọdụ ala naanị gị, ndị a niile gbaa gị gburugburu malite nʼụtụtụ ruo nʼanyasị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mosis zara nna nwunye ya sị, “Nʼihi na ha bịara ịjụta m ihe si nʼaka Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ bụrụ na esemokwu adịrị nʼetiti mmadụ ọbụla na ibe ya, ha na-abịakwute m, ka m kpebie ihe dị nʼetiti mmadụ na ibe ya. Ana m eme ka ha mata iwu na ụkpụrụ Chineke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe Jetro, nna nwunye Mosis, nụrụ ihe ndị a niile, ọ sịrị Mosis, “Ihe ị na-eme adịghị mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ike ga-agwụ gị, gwụkwa igwe mmadụ ndị a. Ọrụ a ị na-arụ dị ukwuu karịa gị. Naanị gị agaghị ebuli ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ugbu a, gee m ntị. M ga-adụ gị ọdụ, ka Chineke nọnyekwara gị. Ọ ga-adị mma ma ọ bụrụ na ị bụ onye na-anọchi anya ndị a nʼihu Chineke. Nʼụzọ dị otu a, i nwere ike iweta nsogbu niile ha nwere nʼihu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ihe ọzọ ị ga-eme bụ nke a: ị ga-akụziri ha iwu na ụkpụrụ Chineke, gosikwa ha ụzọ ha ga-esi bie ndụ, na ọrụ ha kwesiri ịrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ma site nʼetiti ndị a họpụta ndị ikom tozuru, ndị ikom na-atụ egwu Chineke, ndị kwesiri ntụkwasị obi na ndị kpọrọ uru nʼezighị ezi",
+          {
+            "noteId": 570
+          },
+          "asị. Mee ha ndịisi na-achị imerime puku ndị mmadụ, ndịisi narị mmadụ, ndịisi iri mmadụ ise na ndịisi mmadụ iri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mee ka ha bụrụ ndị ikpe nye ndị mmadụ oge niile. Nye iwu ka ha na-ewetara gị okwu dịkarịsịrị ike, ma na-ekpe ikpe gbasara okwu dị mfe na ndị ọzọ niile dị iche iche. Nʼụzọ dị otu a, ndị ikpe ndị ahụ ga-enyere gị aka ime ka ibu arọ gị dị mfe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ bụrụ na ị ga-eme ihe niile ndị a, ọ bụrụkwa na Chineke ekwenye, ị ga-enwe ike nagide nsogbu niile. Mmadụ niile ga-ewere udo na ọṅụ birikwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mosis gere ntị nʼihe niile nna nwunye ya gwara ya. O mekwara ihe niile o kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "O sitere nʼetiti ụmụ Izrel họpụta ndị kwesiri ekwesi mee ka ha bụrụ ndịisi. Ụfọdụ ka o mere ndịisi na-elekọta imerime puku mmadụ, ụfọdụ na-achị narị mmadụ, ụfọdụ, iri mmadụ ise, ụfọdụ, mmadụ iri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ha jere ozi dịka ndị ikpe nye ndị mmadụ nʼoge niile. Ha na-ewetara Mosis okwu niile siri ike, ma ha onwe ha na-ekpe ikpe banyere okwu nke dịkarịsịrị nta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ahụ, Mosis zilagara nna nwunye ya. Jetro laghachikwara nʼobodo nke aka ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 570,
+        "caller": "+",
+        "text": "Ya bụ ndị na-enweghị anya ukwu",
+        "reference": {
+          "chapter": 18,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EXO/18.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EXO/19.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EXO/17.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 27
+}

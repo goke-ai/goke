@@ -1,0 +1,89 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "HOS",
+    "translationId": "ibo_bib",
+    "name": "Hosiya",
+    "commonName": "Hosiya",
+    "title": "Hosiya",
+    "order": 28,
+    "numberOfChapters": 14,
+    "sha256": "be95de0597e0aba372c720c5d9f574ebf665cd1b20944f3b30f6ff1fb3b64cf2",
+    "firstChapterApiLink": "/api/ibo_bib/HOS/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/HOS/14.json",
+    "totalNumberOfVerses": 197
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hosiya na nwunye ya adịrịkwa na mma"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gwara m ọzọ, “Gakwuru nwanyị a na-akwa iko, nke na-emekwa enyi na-ezighị ezi, gosi ya ịhụnanya gị dịka Onyenwe anyị si hụ ndị Izrel nʼanya, nʼagbanyeghị na ha na-eso chi ndị ọzọ na-enwekwa mmasị dị ukwuu nʼachịcha nsọ e ji mkpụrụ osisi a mịkpọrọ amịkpọ mee.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼihi ya, eweere m ego ọlaọcha dị iri na ise, na otu ntụju ọka homa, na ọka balị zụta ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ agwara m ya, “Mụ na gị ga-ebi ọtụtụ ụbọchị, ị gaghị agbakwa akwụna, maọbụ nwee nwoke ọbụla gị na ya ga-enwe mmekọ, otu a ka m ga-emekwa nʼebe ị nọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nke a na-egosi na Izrel ga-anọ ogologo mgbe na-enweghị eze maọbụ onye ọchịchị. Ọ gaghị enwe ịchụ aja maọbụ nkume nsọ maọbụ efọọd maọbụ arụsị ezinaụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe nke a gasịrị, Izrel ga-alọghachi, chọọ Onyenwe anyị bụ Chineke ha, na Devid bụ eze ha. Ha ga-ewere ịma jijiji bịakwute Onyenwe anyị, bịaghachitekwa ngọzị ya nʼoge ikpeazụ a."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/HOS/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/HOS/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/HOS/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

@@ -1,0 +1,24 @@
+﻿@inherits LayoutComponentBase
+
+<section class="primary-layout flex">
+    <Drawer />
+
+    <section class="page">
+        <MainNavMenu />
+
+        <main>
+            <div class="wrapper flow">
+                @Body
+            </div>
+        </main>
+
+        <footer>
+            <div class="footer-wrapper">
+               
+            </div>
+        </footer>
+
+    </section>
+</section>
+
+<SideBar />

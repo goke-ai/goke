@@ -1,0 +1,180 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "ibo_bib",
+    "name": "Ọpụpụ",
+    "commonName": "Ọpụpụ",
+    "title": "Ọpụpụ",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "774d546ab55fe8a892b28e8acd9db4ac825cb56f7c17b3a54855a28aa16a7122",
+    "firstChapterApiLink": "/api/ibo_bib/EXO/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EXO/40.json",
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mmesi ike nke ọgbụgba ndụ ahụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ọ gwara Mosis sị, “Rigokwute Onyenwe anyị, gị na Erọn, na Nadab, na Abihu, na mmadụ iri asaa site na ndị okenye Izrel. Ma unu ga-efe ofufe site nʼebe dị anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Emesịa, ọ bụ naanị Mosis ga-abịarute Onyenwe anyị nso. Ndị nke ọzọ agaghị abịaru nso. Ndị mmadụ ndị ọzọ agaghịkwa eso ya rigota.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, Mosis bịara gwa ndị Izrel okwu niile na iwu niile Onyenwe anyị nyere. Ha niile zaghachiri ya nʼotu olu sị, “Anyị ga-emezu ihe niile Onyenwe anyị kwuru.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mosis deturu ihe niile Onyenwe anyị kwuru. Nʼisi ụtụtụ echi ya, o biliri wuo ebe ịchụ aja na ndịda ugwu ahụ. O gwunyere ogidi nkume iri na abụọ nke nọchiri anya ebo iri na abụọ ụmụ Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mosis zipụtara ụmụ okorobịa Izrel, ndị chụrụ aja nsure ọkụ ma werekwa ụmụ oke ehi chụọ aja udo nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mosis tinyere ọkara ọbara ehi ndị ahụ nʼime efere. Ma o fesara ọkara ọbara nke fọdụrụ nʼelu ebe ịchụ aja ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Emesịa, Mosis guzoro nʼebe ahụ gụpụta na ntị mmadụ niile, ihe dị nʼAkwụkwọ Ọgbụgba ndụ ahụ. Mgbe ụmụ Izrel nụrụ ya, ha weere otu olu kwuo sị, “Anyị anụla, anyị ga-eme ihe niile Onyenwe anyị kwuru. Anyị ga-erube isi.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ahụ, Mosis weere ọbara ahụ dị nʼime efere, fesaa ya nʼahụ ndị ahụ niile, sị, “Nke a bụ ọbara ọgbụgba ndụ ahụ nke dị nʼetiti unu na Onyenwe anyị, dịka okwu niile ndị a si dị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mosis rigoro nʼelu ugwu, ya na Erọn, na Nadab na Abihu, na mmadụ iri asaa site na ndị okenye Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha hụrụ Chineke nke Izrel. Nʼokpuru ụkwụ ya abụọ, e were ihe dịka ebe nzọkwasị ụkwụ nke e ji nkume safaia mee. Nkume ndị a na-enwukwa ezi onwunwu dịka mbara eluigwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ọ bụ ezie na ndị okenye Izrel hụrụ Chineke anya ma ọ laghị ha nʼiyi. Kama o mere ka ha nọọ nʼihu ya rie, ṅụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe nke a gasịrị, Onyenwe anyị gwara Mosis okwu sị, “Rigota, bịakwute m nʼelu ugwu, nọdụkwa ebe ahụ, maka na aga m enye gị mbadamba nkume nke iwu na ụkpụrụ dị na ya, nke m ji aka m dee maka i ji kuziere ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mosis biliri, ya na Joshua onye na-agara ya ozi. Mosis nʼonwe ya rigokwara nʼelu ugwu Chineke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ gwara ndị okenye Izrel okwu sị, “Cherenụ anyị nʼebe a tutu ruo mgbe anyị ga-alaghachikwute unu. Unu na Erọn na Hua nọ, onye ọbụla nwere nsogbu jekwuru ha.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ngwangwa, Mosis rigoro nʼelu ugwu ahụ, oke igwe ojii kpuchiri ugwu ahụ niile,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "ebube Onyenwe anyị kpuchikwara elu ugwu ahụ. Ọ bụ ụbọchị isii ka igwe ojii kpuchiri ugwu ahụ. Nʼụbọchị nke asaa, Onyenwe anyị sitere nʼetiti igwe ojii ahụ kpọọ Mosis oku."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ma nʼebe ndị Izrel nọ, ebube Onyenwe anyị na-enwu dịka ọkụ na-achọ irechapụ ugwu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mosis banyere nʼime igwe ojii ahụ mgbe ọ na-arịgo ugwu ahụ. Ọ nọgidere nʼelu ugwu ahụ iri ụbọchị anọ, ehihie na abalị."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EXO/24.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EXO/25.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EXO/23.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

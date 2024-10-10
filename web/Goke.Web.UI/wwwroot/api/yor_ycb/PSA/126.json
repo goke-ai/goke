@@ -1,0 +1,157 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 126,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Orin fún ìgòkè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Nígbà tí Olúwa mú ìkólọ Sioni padà,",
+            "poem": 1
+          },
+          {
+            "text": "àwa dàbí ẹni tí ó ń lá àlá.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Nígbà náà ni ẹnu wa kún fún ẹ̀rín,",
+            "poem": 1
+          },
+          {
+            "text": "àti ahọ́n wa kọ orin;",
+            "poem": 2
+          },
+          {
+            "text": "nígbà náà ni wọ́n wí nínú àwọn kèfèrí pé,",
+            "poem": 1
+          },
+          {
+            "text": "Olúwa ṣe ohun ńlá fún wọn.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Olúwa ṣe ohun ńlá fún wa;",
+            "poem": 1
+          },
+          {
+            "text": "nítorí náà àwa ń yọ̀.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Olúwa mú ìkólọ wa padà,",
+            "poem": 1
+          },
+          {
+            "text": "bí ìṣàn omi ní gúúsù.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Àwọn tí ń fi omijé fún irúgbìn",
+            "poem": 1
+          },
+          {
+            "text": "yóò fi ayọ̀ ka.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ẹni tí ń fi ẹkún rìn lọ,",
+            "poem": 1
+          },
+          {
+            "text": "tí ó sì gbé irúgbìn lọ́wọ́,",
+            "poem": 2
+          },
+          {
+            "text": "lóòtítọ́, yóò fi ayọ̀ padà wá,",
+            "poem": 1
+          },
+          {
+            "text": "yóò sì ru ìtí rẹ̀.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/126.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/127.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/PSA/125.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

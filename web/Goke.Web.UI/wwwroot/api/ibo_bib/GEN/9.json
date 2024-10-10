@@ -1,0 +1,309 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọgbụgba Ndụ Chineke na Noa gbara"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ihe ndị a gasịrị, Chineke gọziri Noa na ụmụ ya sị ha: “Mụọnụ, baanụ, jupụtanụ nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Egwu unu na ụjọ unu ga-adakwasị anụmanụ niile nke ụwa nke dị ndụ, na anụ ufe niile nke eluigwe, na ihe e kere eke niile na-akpụgharị nʼala, na azụ niile dị nʼosimiri. Ewerela m ha niile nyefee unu nʼaka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ihe ọbụla dị ndụ nke na-ejegharị ejegharị ga-abụ nri unu. Enyela m unu ihe niile ugbu a dịka m si nye unu ahịhịa ndụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "“Ma unu agaghị eri anụ ọbụla nke ọbara ndụ ya dị ya nʼahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ma gbasara ọbara ndụ unu, unu ga-asara ọnụ unu nʼihu m. Anụmanụ ọbụla ga-asara ọnụ ya nʼihu m. Mmadụ ọbụla kwa ga-asara ọnụ ya nʼihu m banyere ndụ mmadụ ibe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“Onye ọbụla wufuru ọbara mmadụ,",
+            "poem": 1
+          },
+          {
+            "text": "nʼaka mmadụ ka a ga-awụfu ọbara nke ya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi nʼoyiyi Chineke",
+            "poem": 1
+          },
+          {
+            "text": "ka Chineke mere mmadụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma unu onwe unu, mịanụ mkpụrụ, mụbaanụ, jupụtanụ ụwa, baakwanụ ụba nʼime ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Chineke gwara Noa na ụmụ ya sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Ugbu a, ana m ehiwe ọgbụgba ndụ nʼetiti mụ na unu, na nʼetiti agbụrụ unu ndị ga-anọchi unu,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "na nʼetiti ihe niile nwere ndụ nke unu na ha so, ụmụ anụ ufe, na ụmụ anụ ụlọ, na ụmụ anụ ọhịa niile, ndị ahụ niile so unu si nʼụgbọ mmiri pụta, bụ ihe niile nwere ndụ nʼụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ebe ọ bụ na m ehiwela ọgbụgba ndụ m nʼetiti mụ na unu, ọ gaghị emekwa ọzọ na a ga-eji uju mmiri kpochapụ ihe niile e kere eke, ọ gaghị emekwa ọzọ na a ga-eji uju mmiri bibie ụwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Chineke kwuru sị, “Nke a bụ ihe ama nke ọgbụgba ndụ nke m na-etinye nʼetiti mụ na unu, na nʼetiti ihe niile nwere ndụ so unu, ọgbụgba ndụ nke ga-adị nye ọgbọ niile na-abịa nʼihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Etinyela m eke na egwurugwu m na mbara eluigwe, ka ọ bụrụ ihe ama nke ọgbụgba ndụ dị nʼetiti mụ na ụwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ọbụla m zitere igwe ojii nʼụwa, ọ bụrụ na eke na egwurugwu apụta ìhè na mbara eluigwe,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "aga m echeta ọgbụgba ndụ m mere ka ọ dịrị nʼetiti mụ na unu, na nʼetiti mụ na ihe niile nwere ndụ site nʼihe niile e kere eke. Ọ gaghị emekwa ọzọ na mmiri ga-aghọ uju mmiri ibibi ihe niile nwere ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mgbe ọbụla eke na egwurugwu pụtara nʼigwe ojii, aga m ahụ ya cheta ọgbụgba ndụ ebighị ebi nke dị nʼetiti Chineke na ihe niile nwere ndụ site nʼihe niile e kere eke nọ nʼelu ụwa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Chineke gwara Noa sị, “Nke a bụ ihe ama ọgbụgba ndụ ahụ m hiwere nʼetiti mụ na ihe niile nwere ndụ nʼụwa.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ ndị ikom Noa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ụmụ ndị ikom Noa ndị si nʼụgbọ mmiri pụta bụ Shem, Ham na Jafet. (Ham bụ nna Kenan.)"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ndị a bụ ụmụ ndị ikom atọ Noa mụrụ. Ọ bụ site na ha ka ndị mmadụ niile gbasara nʼụwa niile si pụta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Noa, onye ọrụ ubi, bidoro ịkụ ubi vaịnị a gbara ogige."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ọ ṅụrụ mmanya si nʼubi a, ṅụbiga ya oke, ọ gbaara ọtọ dinaa ala nʼime ụlọ ikwu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ham, nna Kenan, hụrụ ọtọ nna ya, gaa kọọrọ ụmụnne ya abụọ nọ nʼezi ihe ọ hụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma Shem na Jafet weere akwa tụkwasị nʼubu ha, were azụ jere ije ruo nʼebe nna ha nọ, hapụ akwa ahụ ka ọ dakwasị nna ha kpuchikwaa ọtọ ya. Ma ha chepuru ihu nʼebe ọzọ mgbe ha na-eme nke a, nʼihi ya, ha elekwasịghị ọtọ nna ha anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe Noa si nʼụra mmanya ya bilie, chọpụta ihe nwa ya nwoke nke nta mere,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "o kwuru sị,",
+          {
+            "text": "“Onye a bụrụ ọnụ ka Kenan bụ!",
+            "poem": 1
+          },
+          {
+            "text": "Ohu ndị ohu,",
+            "poem": 2
+          },
+          {
+            "text": "ka ọ ga-abụrụ ụmụnne ya.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Ọ sịkwara,",
+          {
+            "text": "“Ngọzị dịrị Onyenwe anyị Chineke Shem.",
+            "poem": 1
+          },
+          {
+            "text": "Ka Kenan bụrụ ohu Shem.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          {
+            "text": "Ka Chineke mee ka ebe obibi Jafet saa mbara,",
+            "poem": 1
+          },
+          {
+            "text": "ka Jafet biri nʼụlọ ikwu Shem,",
+            "poem": 2
+          },
+          {
+            "text": "meekwa ka Kenan bụrụ ohu ya.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Mgbe uju mmiri ahụ gabigachara, Noa biri ndụ narị afọ atọ na iri afọ ise ọzọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ọnụọgụgụ afọ Noa niile mgbe ọ nwụrụ, bụ narị afọ itoolu na iri afọ ise."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 29
+}

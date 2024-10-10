@@ -1,0 +1,498 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "NUM",
+    "translationId": "ibo_bib",
+    "name": "Ọnụọgụgụ",
+    "commonName": "Ọnụọgụgụ",
+    "title": "Ọnụọgụgụ",
+    "order": 4,
+    "numberOfChapters": 36,
+    "sha256": "f5518fcb941bfc1a51f1c654e32d182d7a1c76169a0c29f6a5b0982e974f8fd4",
+    "firstChapterApiLink": "/api/ibo_bib/NUM/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/NUM/36.json",
+    "totalNumberOfVerses": 1288
+  },
+  "chapter": {
+    "number": 24,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge a, Belam aghọtala nʼuche ya na ọ masịrị Onyenwe anyị ịgọzi Izrel. Ya mere, ọ họrọghị ịgba afa dịka o mere nʼoge ndị gara aga, kama o chere ihu ya nʼọzara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe Belam lepụrụ anya ọ hụrụ ụmụ Izrel dịka ha si maa ụlọ ikwu nʼebo nʼebo. Mgbe ahụ kwa, Mmụọ nke Chineke dakwasịrị ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O buru amụma ndị a sị,",
+          {
+            "text": "“Okwu si nʼọnụ Belam nwa Beoa pụta,",
+            "poem": 1
+          },
+          {
+            "text": "okwu onye ahụ anya ya saghere asaghe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Okwu onye ahụ na-anụ okwu Chineke",
+            "poem": 1
+          },
+          {
+            "text": "onye na-ahụ ọhụ site nʼaka onye pụrụ ime ihe niile.",
+            "poem": 2
+          },
+          {
+            "text": "Onye na-ada nʼala ma anya ya na-eghe oghe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "“Lee ka ebe obibi gị si maa mma, gị Jekọb,",
+            "poem": 1
+          },
+          {
+            "text": "ebe obibi gị niile, gị Izrel!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“Dịka ndagwurugwu dị iche iche ka ha gbasapụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "dịka ubi a gbara ogige dị nʼakụkụ osimiri,",
+            "poem": 2
+          },
+          {
+            "text": "dịka osisi aloos nke Onyenwe anyị kụrụ,",
+            "poem": 1
+          },
+          {
+            "text": "dịka osisi sida dị nʼakụkụ mmiri.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Mmiri ga-esi nʼite mmiri ha na-erupụta,",
+            "poem": 1
+          },
+          {
+            "text": "mkpụrụ ha ga-enwekwa mmiri dị ukwuu.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "“Eze ha ga-adị ukwuu karịa Agag,",
+            "poem": 1
+          },
+          {
+            "text": "a ga-ebulikwa alaeze ha elu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "“Chineke sitere nʼala Ijipt kpọpụta ha.",
+            "poem": 1
+          },
+          {
+            "text": "Ha nwere ike dịka atụ.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-eripịa mba niile na-ebili imegide ha.",
+            "poem": 1
+          },
+          {
+            "text": "Ha ga-anyajisi ọkpụkpụ ha niile,",
+            "poem": 2
+          },
+          {
+            "text": "jirikwa ọtụtụ àkụ ha gbatuo ha.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Ha na-amakpuru, dinara ala dịka ọdụm,",
+            "poem": 1
+          },
+          {
+            "text": "dịka nne ọdụm, onye pụrụ ịkpọte ha?",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "“Ngọzị na-adịrị onye ọ bụla na-agọzi gị,",
+            "poem": 1
+          },
+          {
+            "text": "ma ọbụbụ ọnụ na-adịrị onye ọbụla na-akọcha gị.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Iwe Balak dị ọkụ megide Belam nʼoge a. Ọ kụkọtara aka ya abụọ nʼiwe. Tie mkpu sị Belam, “Akpọrọ m gị ka ị bịa bụọrọ m ndị iro m ọnụ. Ma ị gọziela ha ugboro atọ a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Si nʼebe m nọ wezuga onwe gị! Laghachi nʼụlọ gị! Akwadobere m inye gị ọnọdụ dị elu, ma Onyenwe anyị e gbochiela gị inweta ụgwọ ọrụ a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Belam zara Balak sị, “Ọ bụ na m agwaghị ndị ozi gị niile, bụ ndị ị zitere m,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "‘na a sịkwarịị na Balak enye m ọlaọcha na ọlaedo niile nke dị nʼụlọeze ya, apụghị m ime ihe ọbụla nʼike aka, maọbụ ihe ọma maọbụ ihe ọjọọ, ị gabiga iwu Onyenwe anyị. Ọ bụkwa naanị ihe Onyenwe anyị na-ekwu ka m ga-ekwu’?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ugbu a, ana m alakwuru ndị m, ma bịa, ka m dọọ gị aka na ntị banyere ihe ndị a ga-eme ndị gị nʼụbọchị ndị a na-abịa nʼihu.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke anọ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya mere Belam kwuru okwu ndị a:",
+          {
+            "text": "“Amụma Belam nwa Beoa,",
+            "poem": 1
+          },
+          {
+            "text": "amụma nke onye ahụ anya ya nʼahụ ụzọ nke ọma,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "amụma onye ahụ nke na-anụ okwu Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "onye ihe ọmụma ya si nʼebe Onye kachasị ihe niile elu na-abịa.",
+            "poem": 2
+          },
+          {
+            "text": "Onye na-ahụ ọhụ site nʼaka Onye pụrụ ime ihe niile.",
+            "poem": 1
+          },
+          {
+            "text": "Onye na-ada nʼala, ma anya ya abụọ ghekwa oghe.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "“Ana m ahụ ya, ma ọ bụghị ugbu a,",
+            "poem": 1
+          },
+          {
+            "text": "ana m ele ya anya, ma ọ nọghị nso.",
+            "poem": 2
+          },
+          {
+            "text": "Otu kpakpando ga-esi nʼime Jekọb zolie.",
+            "poem": 1
+          },
+          {
+            "text": "Mkpara eze ga-esi nʼetiti Izrel bilie.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ ga-etipịa egedege ihu ndị Moab,",
+            "poem": 1
+          },
+          {
+            "text": "na okpokoro isi ndị ikom Shet niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "A ga-emeri Edọm,",
+            "poem": 1
+          },
+          {
+            "noteId": 1514
+          },
+          {
+            "text": "Sia, onye iro ya, ka a ga-emeri nʼagha.",
+            "poem": 2
+          },
+          {
+            "text": "Ma Izrel ga-eto, ghọọ onye dị ike.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Otu onye ọchịchị ga-esi na Jekọb pụta.",
+            "poem": 1
+          },
+          {
+            "text": "Bibie ndị niile fọdụrụ nʼobodo ahụ.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke ise"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Mgbe ahụ, Belam lepụrụ anya legide ụlọ ndị Amalek niile, buo amụma banyere ha sị:",
+          {
+            "text": "“Amalek bụ mba mbụ nʼetiti mba niile,",
+            "poem": 1
+          },
+          {
+            "text": "ma ikpeazụ ya bụ mbibi!”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke isii"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọ hụrụ ndị Ken anya, kwuo okwu ya:",
+          {
+            "text": "“E, i bi ugbu a nʼebe e wusiri ike,",
+            "poem": 1
+          },
+          {
+            "noteId": 1515
+          },
+          {
+            "text": "akwụ gị dị nʼime oke nkume ahụ!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Ma, a ga-ebibi unu ndị Ken niile,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe Ashọ ga-adọta unu nʼagha.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma Belam nke asaa"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ndị a bụ okwu o ji mechie amụma ya:",
+          {
+            "text": "“Onye ga-adị ndụ mgbe Chineke ga-eme ihe ndị a?",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          {
+            "text": "Ụgbọ mmiri ga-esi nʼọnụ mmiri Saiprọs bịa.",
+            "poem": 2
+          },
+          {
+            "text": "Ha ga-eji ike dobe ndị Eba",
+            "poem": 1
+          },
+          {
+            "noteId": 1516
+          },
+          {
+            "text": "na ndị Ashọ nʼokpuru ha,",
+            "poem": 1
+          },
+          {
+            "text": "ma a ga-ebibikwa ha onwe ha.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Emesịa, Belam biliri laghachi nʼụlọ ya, ma Balak gbasoro ụzọ nke ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1514,
+        "caller": "+",
+        "text": "Ndị Edọm si nʼagbụrụ Ịsọ. Jen 36:1-9",
+        "reference": {
+          "chapter": 24,
+          "verse": 18
+        }
+      },
+      {
+        "noteId": 1515,
+        "caller": "+",
+        "text": "Ya bụ nke nʼadịgide adịgide",
+        "reference": {
+          "chapter": 24,
+          "verse": 21
+        }
+      },
+      {
+        "noteId": 1516,
+        "caller": "+",
+        "text": "Eba bụ nna nna ndị Hibru. Jen 10:21; 1Ih 1:25-27",
+        "reference": {
+          "chapter": 24,
+          "verse": 24
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/NUM/24.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/NUM/25.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NUM/23.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

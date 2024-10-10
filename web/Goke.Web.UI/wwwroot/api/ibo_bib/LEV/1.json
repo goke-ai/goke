@@ -1,0 +1,187 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "ibo_bib",
+    "name": "Levitikọs",
+    "commonName": "Levitikọs",
+    "title": "Levitikọs",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a697f6450e0872fd69a6be8769aac9e60686399b5c87d52110a527c461a04bb",
+    "firstChapterApiLink": "/api/ibo_bib/LEV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LEV/27.json",
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Aja nsure ọkụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị sitere nʼụlọ nzute ahụ kpọ Mosis oku, gwa ya sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Gwa ụmụ Izrel sị, ‘Mgbe onye ọbụla nʼime unu wetaara Onyenwe anyị onyinye, ka onyinye ọ ga-eweta bụrụ anụ ụlọ si nʼetiti igwe ehi maọbụ igwe ewu na atụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "“ ‘Ọ bụrụ na ọ bụ onyinye aja nsure ọkụ",
+          {
+            "noteId": 1191
+          },
+          "e wetara site nʼigwe ehi, ọ bụ oke ehi nke na-enweghị ntụpọ ka ọ ga-eweta. Nʼọnụ ụzọ ụlọ nzute ka ọ ga-eweta ya, ka ọ bụrụ ihe Onyenwe anyị ga-anabata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Onye ahụ wetara ya ga-ebikwasị aka ya nʼisi anụ aja nsure ọkụ ahụ, a ga-anabata ya maka iji kpuchie mmehie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nwoke ahụ ga-egbu nwa oke ehi ahụ nʼihu Onyenwe anyị. Ụmụ ndị ikom Erọn, bụ ndị nchụaja ga-ewere ọbara ya fesa ya nʼakụkụ niile nke ebe ịchụ aja, nʼọnụ ụzọ e si abata ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ị ga-agba ehi aja nsure ọkụ ahụ akpụkpọ, bọkasịa ya ntakịrị ntakịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ụmụ Erọn, ndị nchụaja ga-etinye ọkụ nʼebe ịchụ aja ahụ, doo nkụ nʼusoro nʼelu ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ahụ, ụmụ Erọn ndị nchụaja ga-atụkwasị akụkụ ehi ahụ niile, na isi ya, na abụba ya, nʼelu nkụ ahụ na-enwu ọkụ nʼebe ịchụ aja ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ma a ga-asacha ihe ndị dị nʼime afọ ya, na ụkwụ ya mmiri. Onye nchụaja ga-akpọ ha niile ọkụ nʼebe ịchụ aja ahụ. Ọ bụ onyinye aja nsure ọkụ, onyinye e nyere site nʼọkụ nke dị ezi ụtọ nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“ ‘Ọ bụrụ na onyinye aja nsure ọkụ ahụ si nʼigwe ewu na atụrụ, ọ ga-abụrịrị mkpi maọbụ ebule na-enweghị nkwarụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Onye wetara ya ga-egbu ya nʼihu Onyenwe anyị nʼakụkụ ebe ịchụ aja chere ihu nʼugwu. Ụmụ ndị ikom Erọn, bụ ndị nchụaja, ga-efesa ọbara ya nʼakụkụ niile nke ebe ịchụ aja ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe nke a gasịrị, onye ahụ wetara ya, ga-abọ ya. Onye nchụaja ga-ewere akụkụ ya niile, na isi ya, na abụba ya tụkwasị ha nʼelu nkụ ahụ na-enwu ọkụ dị nʼebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ma ihe ndị dị nʼime afọ ya, na ụkwụ ya, ka onye ahụ ga-asa mmiri, tupu onye nchụaja eweta ha niile kpọọ ha ọkụ nʼebe ịchụ aja. Ọ bụ onyinye aja nsure ọkụ, onyinye e nyere site nʼọkụ, nke isisi ya dị ezi ụtọ nye Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "“ ‘Ọ bụrụ na onyinye ọ na-enye Onyenwe anyị dịka aja nsure ọkụ bụ site nʼụmụ anụ ufe, ọ ghaghị ịbụ nduru, maọbụ nwa kpalakwukwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Onye nchụaja ga-ewebata anụ ufe ahụ nʼebe ịchụ aja, tụbipụ isi ya, wụsa ọbara ya nʼakụkụ ebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ ga-ewepụ akpa nri ya, na ihe dị ya nʼime, tụnye ha nʼakụkụ ọwụwa anyanwụ nke ebe ịchụ aja ahụ; ebe a na-ekposa ntụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ọ ga-ejide nku ya abụọ nyawaa ha, ma ọ gaghị anyakapụcha ha. Mgbe ahụ, onye nchụaja ahụ ga-akpọ ya ọkụ nʼelu ebe ịchụ aja. Ọ bụ aja nsure ọkụ, onyinye e nyere site nʼọkụ, nke isisi ya dị Onyenwe anyị ezi ụtọ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1191,
+        "caller": "+",
+        "text": "Aja nsure ọkụ Ọ bụ ụzọ anụ atọ ka a na-eji achụ aja nsure ọkụ, nke a na-adaba dịka aka si ruo onye ahụ na-achụ aja. Nke mbụ bụ ehi, nke dịrị ndị ọgaranya. Ọzọkwa, bụ ewu na atụrụ, ma banyere ndị ogbenye, ihe ha ga-eweta bụ nnụnụ nduru ma ọ bụ kpalakwukwu. Lev 1:3,10,14; 5:7; 12:8; Luk 1:24",
+        "reference": {
+          "chapter": 1,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/LEV/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LEV/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EXO/40.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

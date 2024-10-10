@@ -1,0 +1,193 @@
+﻿@page "/products/chemistry"
+
+@inject ILogger<Chemistry> Logger
+
+<PageTitle>Chemistry</PageTitle>
+
+<h1>Chemistry</h1>
+
+<div class="card">
+    <div class="card-header">Calculator</div>
+    <div class="card-body">
+        <div style="border: solid 1px gray; 
+                min-height:6em; 
+                display:flex; 
+                flex-direction:column; justify-content:space-between;
+                padding-inline:0.5em;">
+            <div>@expressionText</div>
+            <div style="font-size:2em; text-align:right;">@inputText</div>
+        </div>
+
+        <div style="padding-block:0.5em;">
+            <div style="display:flex; flex-wrap:wrap; gap:0.1em; padding-bottom:0.2em;">
+                <button @onclick="OnMolarMass"
+                        style="padding:0.2em; min-width:2em;"
+                        title="Molar Mass">
+                    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                        <div>Molar Mass</div>
+                    </div>
+                </button>
+            </div>
+
+            <div style="display:flex; flex-wrap:wrap; gap:0.1em; padding-bottom:0.2em;">
+                @foreach(var k in numbers)
+                {
+                    <button @onclick="()=>OnKeyPress(k, KeyType.Number)"
+                            style="padding:0;width:2em; aspect-ratio:1;"
+                            title="@k">
+                        <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                            <div style="font-size:1em;">@k</div>
+                        </div>
+                    </button>
+                }
+                @foreach (var k in operators)
+                {
+                    <button @onclick="()=>OnKeyPress(k,KeyType.Operator)"
+                            style="padding:0;width:2em; aspect-ratio:1;"
+                            title="@k">
+                        <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                            <div style="font-size:1em;">@k</div>
+                        </div>
+                    </button>
+                }
+                <button @onclick="OnClear"
+                        style="padding:0;width:2em; aspect-ratio:1;"
+                        title="C">
+                    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                        <div style="font-size:1em;">C</div>
+                    </div>
+                </button>
+                <button @onclick="OnAnswer"
+                        style="padding:0;width:2em; aspect-ratio:1;"
+                        title="ans">
+                    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                        <div style="font-size:1em;">ans</div>
+                    </div>
+                </button>
+            </div>
+
+            <div style="display:flex; flex-wrap:wrap; gap:0.1em; padding-bottom:0.2em;">
+                <button @onclick="@(() => isBigSize = !isBigSize)"
+                        style="padding:0;width:2em;aspect-ratio:1;@(isBigSize ? "width:4em":"width:2em")">
+                    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                        @if (isBigSize)
+                        {
+                            <div style="font-size:1em;">Small</div>
+                        }
+                        else
+                        {
+                            <div style="font-size:1em;">Big</div>
+                        }
+
+                    </div>
+                </button>
+                @foreach (var c in elements)
+                {
+                    <button class="primary" @onclick="()=>OnKeyPress(c.Symbol!, KeyType.Element)"
+                            style='padding:0;aspect-ratio:1;@(isBigSize ? "width:4em":"width:2em")'
+                            title='@($"#{c.AtomicNumber} | {c.Name} | {c.AtomicWeight}" )'>
+                        <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; width:100%;">
+                            @if (isBigSize)
+                            {
+                                <div style="font-size:0.6em;line-height:1;">@c.AtomicNumber</div> 
+                            }
+                            <div style="font-size:1em;">@c.Symbol</div>
+                            @if (isBigSize)
+                            {
+                                <div style="font-size:0.6em;">@c.Name</div>
+                                <div style="font-size:0.6em;line-height:1;">@c.AtomicWeight</div>
+                            }
+                        </div>
+                    </button>
+                }
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+@code {
+    bool isBigSize = true;
+    enum KeyType{None, Number, Operator, Element}
+    List<Goke.Core.Chemistry.Element> elements = Goke.Core.Chemistry.AllElements.OrderBy(o => o.AtomicNumber).ToList();
+    char[] numbers = "1234567890.".ToCharArray();
+    char[] operators = "+-*/=".ToCharArray();
+
+    string expressionText = string.Empty;
+    string inputText = "0";
+    bool firstKey = true;
+    double answer = 0f;
+
+    void OnKeyPress(string key, KeyType keyType)
+    {
+        switch (keyType)
+        {
+            case KeyType.Number:
+                if (firstKey)
+                {
+                    inputText = key;
+                    firstKey = false;
+                }
+                else
+                {
+                    inputText += key;
+                }
+                break;
+            case KeyType.Element: 
+                if (firstKey)
+                {
+                    inputText = key;
+                    firstKey = false;
+                }
+                else
+                {
+                    inputText += key;
+                }
+                break;
+            case KeyType.Operator:
+                switch (key)
+                {
+                    case "+": break;
+                    case "-": break;
+                    case "*": break;
+                    case "/": break;
+                    default: break;
+                }
+                break;
+            default:break;
+        }
+    }
+
+    void OnKeyPress(char key, KeyType keyType)
+    {
+        OnKeyPress(key.ToString(), keyType);
+    }
+
+    void OnClear()
+    {
+        inputText = "0";
+        firstKey = true;
+    }
+
+    void OnAnswer()
+    {
+        inputText = answer.ToString();
+    }
+
+    private void OnMolarMass()
+    {
+        try
+        {
+            expressionText += $"MolarMass({inputText}) ";
+
+            answer = Goke.Core.Chemistry.MolarMass(inputText);
+            inputText = answer.ToString();
+            firstKey = true;
+        }
+        catch (Exception)
+        {
+        }        
+    }
+}

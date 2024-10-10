@@ -1,0 +1,282 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JHN",
+    "translationId": "ibo_bib",
+    "name": "Jọn",
+    "commonName": "Jọn",
+    "title": "Oziọma Jọn",
+    "order": 43,
+    "numberOfChapters": 21,
+    "sha256": "246d26c1aa6a0b17c44834ecd64e3ce234ce4312c35223f4e11e125d88fd8d58",
+    "firstChapterApiLink": "/api/ibo_bib/JHN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JHN/21.json",
+    "totalNumberOfVerses": 879
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs emee mmiri ya aghọọ mmanya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼụbọchị nke atọ, o nwere mmemme agbamakwụkwọ na Kena nke Galili, nne Jisọs bịakwara ebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "A kpọkwara Jisọs na ndị na-eso ụzọ ya oku na mmemme agbamakwụkwọ a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe mmanya ha gwụrụ, nne Jisọs sịrị ya, “Ha enweghị mmanya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jisọs sịrị ya,",
+          {
+            "text": "“Nwanyị, gịnị gbasara mụ na gị na nke a? Oge awa m erubeghị.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nne ya gwara ndị na-eje ozi, “Ihe ọbụla ọ gwara unu, meenụ ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "A dọbara ite mmiri nkume isii buru ibu nʼakụkụ ebe ahụ, nke a na-eji agbanye mmiri ndị Juu na-eji asachasị onwe ha ma ha chọọ ikpe ekpere. Otu nʼime ha na-eri ihe dị ka galọọnụ iri abụọ ma ihe ruru iri atọ.",
+          {
+            "noteId": 1068
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Jisọs gwara ha,",
+          {
+            "text": "“Gbajuonụ ite ndị a mmiri.”",
+            "wordsOfJesus": true
+          },
+          "Ya mere, ha gbajupụtara ha mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ahụ, ọ gwara ha,",
+          {
+            "text": "“Ugbu a, gbapụtanụ ụfọdụ bugara onyeisi oche.”",
+            "wordsOfJesus": true
+          },
+          "Ha mekwara nke a."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ onyeisi oche ahụ detụrụ mmiri ahụ e mere ka ọ ghọọ mmanya ọnụ. Ọ mataghị ebe o siri pụta (ma ndị na-eje ozi, ndị kutere mmiri ahụ matara), onyeisi oche ahụ kpọpụtara onye ahụ na-alụ nwunye ọhụrụ iche"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "sị ya, “Nʼoge mmemme ọbụla, a na-ebu ụzọ buputa mmanya dị ụtọ, ma bupụtakwa nke na-adịghị ụtọ nʼikpeazụ, mgbe ndị mmadụ ṅụjuchara afọ, ma i chebere mmanya dị ụtọ buputa ya ugbu a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nke a bụ mmalite ihe ama Jisọs mere na Kena nke Galili, o sitere na nke a kpughee ebube ya, ndị na-eso ụzọ ya kwenyekwara na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe nke a gasịrị, ọ gara Kapanọm, ya na nne ya na ụmụnne ya, nakwa ndị na-eso ụzọ ya. Ha nọrọ ụbọchị ole na ole nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mmemme Ngabiga"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe mmemme oriri Ngabiga nke ndị Juu na-abịaru nso, Jisọs gara Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼime ụlọnsọ ukwu, ọ hụrụ ndị na-ere ehi, na atụrụ na nduru. Hụkwa ndị nọdụrụ na tebul na-agbanwe ego."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya mere, o jiri eriri mere ụtarị chụpụsịa ndị niile nọ na-ere ahịa nʼụlọnsọ ukwu ahụ, tinyekwara ehi na atụrụ ha. Ọ kwafusịrị mkpụrụ ego ndị ahụ na-agbanwe ego, kpugharịakwa tebul ha ihu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ sịrị ndị ahụ na-ere nduru,",
+          {
+            "text": "“Wepụnụ ihe ndị a nʼebe a. Kwụsịnụ ime ụlọ Nna m ka ọ bụrụ ebe a na-azụ ahịa.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị na-eso ụzọ ya chetara na e dere ya rịị nʼakwụkwọ nsọ, “Ihe banyere ụlọ gị na-anụ m ọkụ nʼobi.”",
+          {
+            "noteId": 1069
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ma ndị Juu sịrị ya, “Olee ihe ịrịbama ị pụrụ igosi anyị na ikike i ji eme ihe ndị a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Jisọs zara sị,",
+          {
+            "text": "“Kwatuonụ ụlọnsọ ukwu a, aga m ewughachikwa ya nʼabalị atọ.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ndị Juu kwuru, “Ụlọnsọ ukwu a were anyị iri afọ anọ na isii ịrụ ya, ị ga-ewughachi ya nʼabalị atọ?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ma ụlọnsọ o kwuru maka ya bụ ahụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Ndị na-eso ụzọ ya chetara okwu ya a mgbe o siri nʼọnwụ bilie. Mgbe ahụkwa, ha kweere akwụkwọ nsọ ya na okwu niile Jisọs kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mgbe ọ nọ na Jerusalem nʼoge Mmemme Ngabiga, ọtụtụ mmadụ hụrụ ihe ịrịbama o mere kweere na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ma Jisọs atụkwasịghị ha obi nʼihi na ọ matara mmadụ niile nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọ dịghị ya mkpa ka onye ọbụla gbaa akaebe banyere ụmụ mmadụ, nʼihi na ya onwe ya maara ihe dị nʼime mmadụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1068,
+        "caller": "+",
+        "text": "Nke a bụ ihe dị ka lita iri asaa na ise maọbụ ihe ruru narị na iri ise.",
+        "reference": {
+          "chapter": 2,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1069,
+        "caller": "+",
+        "text": "Abụ 69:9",
+        "reference": {
+          "chapter": 2,
+          "verse": 17
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JHN/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JHN/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JHN/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 25
+}

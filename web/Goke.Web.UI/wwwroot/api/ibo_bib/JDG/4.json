@@ -1,0 +1,236 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JDG",
+    "translationId": "ibo_bib",
+    "name": "Ndị Ikpe",
+    "commonName": "Ndị Ikpe",
+    "title": "Ndị Ikpe",
+    "order": 7,
+    "numberOfChapters": 21,
+    "sha256": "95a9df0a510a3a753ad4f2c854a524222839cc364d9faaaefaf342ef3795e4ed",
+    "firstChapterApiLink": "/api/ibo_bib/JDG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JDG/21.json",
+    "totalNumberOfVerses": 618
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Debọra"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Ehud nwụsịrị, ụmụ Izrel mekwara ihe ọjọọ megide Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼihi ya, Onyenwe anyị renyere ha nʼaka Jabin, eze Kenan, onye chịrị nʼobodo Hazọ. Aha onyeisi ndị agha ya bụ Sisera, onye bi nʼobodo a na-akpọ Heroshet Hagoyim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼihi na o nwere narị ụgbọ agha igwe itoolu, ma megbukwaa ụmụ Izrel nke ukwu iri afọ abụọ, ha tikuru Onyenwe anyị mkpu akwa, ka o nyere ha aka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Nʼoge a, Debọra, bụ nwanyị na-ebu amụma, nwunye Lapidọt bụ onyendu ụmụ Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ na-anọ nʼokpuru osisi nkwụ a na-akpọ Nkwụ Debọra, nke dị nʼagbata Rema na Betel, bụ nʼala ugwu ugwu Ifrem na-ekpe ikpe. Nʼebe ahụ ka ụmụ Izrel na-ejekwuru ya ka o doziere ha okwu ha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "O ziri ozi kpọọ Barak, nwa Abinoam, onye bi nʼobodo Kedesh, nke dị nʼime Naftalị, ọ sịrị ya, “Onyenwe anyị Chineke ụmụ Izrel na-enye gị iwu, ‘Gaa chịkọtaa puku ndị agha iri bụ ndị sitere nʼebo Naftalị na Zebụlọn, duru ha jeruo ugwu Taboa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Aga m edute Sisera, ọchịagha ndị agha Jabin, mee ka ọ bịaruo nso iyi ukwu Kishọn, ya na ụgbọ agha ya niile na ndị agha ya niile ma nyefee ha nʼaka gị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Barak sịrị ya, “Ejikeere m ịga ma ọ bụrụ na ị ga-eso m. Ọ bụrụkwanụ na ị jụ iso m, agaghị m aga.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Debọra sịrị, “Aghaghị m isoro gị jee ma nʼihi mkpebi gị nʼihe a, nsọpụrụ agaghị abụ nke gị, nʼihi na Onyenwe anyị ga-enyefe Sisera nʼaka nwanyị.” Ya mere, Debọra biliri soro Barak jee obodo Kedesh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Barak sitere nʼebo Zebụlọn na Naftalị kpọkọtaa ndị ikom ga-eso ya jee agha ahụ, puku ndị agha iri ndị dịnyere ya. Debọra sokwa ya jee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼoge a, Heba,",
+          {
+            "noteId": 960
+          },
+          "onye Ken, ahapụla ndị Ken ndị ọzọ, ndị bụ ụmụ ụmụ Hobab, nwanne nwunye Mosis gaa maa ụlọ ikwu ya nʼokpuru osisi ukwu dị na Zaananim, nke dị nso Kedesh."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ha gwara Sisera na Barak nwa Abinoam arịgorola nʼelu ugwu Taboa,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Sisera kpọkọtara ndị agha ya niile, tinyere narị ụgbọ agha itoolu ya, site na Haroshet Haroyim gaa nʼiyi ukwu Kishọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ, Debọra sịrị Barak, “Gaa nʼihu! Taa bụ ụbọchị nke Onyenwe anyị nyefere Sisera nʼaka gị. Ọ bụ na Onyenwe anyị apụbeghị jee nʼihu gị?” Nʼihi nke a, Barak duuru puku ndị agha iri ahụ gbada ndịda ugwu Taboa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị jiri mma agha ya chụsaa Sisera na ndị agha ya na ụgbọ agha igwe ha nʼihu Barak. Sisera nʼonwe ya hapụrụ ụgbọ agha ya jiri ụkwụ gbapụ ọsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Barak na ndị agha ya chụrụ ndị agha ahụ ọsọ, ha na ụgbọ agha igwe ha niile, chụruo ha Haroshet Hagoyim. Ha ji mma agha tigbuo ndị agha Sisera niile. Ọ dịkwaghị otu onye nʼime ha fọdụrụ ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ma Sisera gbapụrụ ọsọ gaa zoo onwe ya nʼụlọ ikwu Jael, nwunye Heba, onye Ken. Nʼihi udo dị nʼetiti eze Jabin, onye Hazọ, na ndị ezinaụlọ Heba, onye Ken."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Jael pụrụ ije zute Sisera sị ya, “Bịa Onyenwe m, bakwute m. Atụla ụjọ.” Ya mere na ọ bara nʼime ụlọ ikwu ya, o weere akwa ịchụ oyi kpuchie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe ahụ, ọ sịrị ya, “Akpịrị na-akpọ m nkụ, nyetụ m mmiri ka m ṅụọ.” O meghere karama akpụkpọ mmiri ara ehi, nye ya ihe ọṅụṅụ, jirikwa akwa ahụ sachie ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Sisera gwara nwanyị ahụ bụ Jael okwu sị, “Guzo nʼọnụ ụzọ ụlọ a. Ọ bụrụ na onye ọbụla abịa jụọ gị, ‘O nwere onye gbabatara nʼebe a?’ sị ya, ‘Mba.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ike gwụrụ nnọọ Sisera. Mgbe ahụ, ọ malitere ịrahụ ụra, Jael, nwunye Heba, wepụtara otu ǹtu e ji a kpọgide ụlọ ikwu ahụ nʼala, werekwa mkpirisi igwe nʼaka ya. O jiri nwayọọ jekwuuru Sisera ebe o dina na-arahụ ụra, kpọọ ya ǹtu ahụ nʼegedege ihu ya. Otu a ka Sisera si nwụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe Barak bịara ịchọ Sisera, Jael jekwuru ya sị, “Bịa ka m gosi gị nwoke ahụ ị na-achọ.” Barak sooro ya jee, ma lee, Sisera anwụọlarị site na ǹtu ahụ a kpọrọ ya nʼisi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Nʼụbọchị ahụ, Chineke meriri Jabin, eze ndị Kenan nʼihu ụmụ Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Aka ụmụ Izrel bụ nke dị ike na-adịkwa ike nke ukwu megide Jabin bụ eze Kenan ruo mgbe ha lara ya nʼiyi."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 960,
+        "caller": "+",
+        "text": "Ezi mmekọrịta nke dị nʼetiti ndị Izrel na ndị Ken, bidoro nʼoge Mosis. Ọpụ 3:1Ndị Ken nyeere ụmụ Izrel aka imeri ndị iro ha, mgbe ha na-achọ inweta Kenan bụ ala nkwa ahụ Nkp 1:16",
+        "reference": {
+          "chapter": 4,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/JDG/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JDG/5.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JDG/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

@@ -1,0 +1,222 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "LEV",
+    "translationId": "ibo_bib",
+    "name": "Levitikọs",
+    "commonName": "Levitikọs",
+    "title": "Levitikọs",
+    "order": 3,
+    "numberOfChapters": 27,
+    "sha256": "4a697f6450e0872fd69a6be8769aac9e60686399b5c87d52110a527c461a04bb",
+    "firstChapterApiLink": "/api/ibo_bib/LEV/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/LEV/27.json",
+    "totalNumberOfVerses": 859
+  },
+  "chapter": {
+    "number": 9,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mbido ọrụ ndị nchụaja"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼụbọchị nke asatọ, Mosis kpọrọ Erọn na ụmụ ya ndị ikom, na ndị okenye Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ gwara Erọn sị, “Site nʼime igwe ehi were nwa oke ehi ị ga-eji chụọ aja mmehie. Werekwa ebule na-enweghị ntụpọ ị ga-eji chụọ aja nsure ọkụ, nke m ga-eche nʼihu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ọ gwakwara ụmụ Izrel sị ha, ‘Họrọnụ mkpi a ga-eji chụọ aja mmehie, na nwa ehi, na nwa atụrụ na-enweghị ntụpọ, ndị gbara naanị otu afọ, a ga-eji chụọ aja nsure ọkụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "na ehi, na ebule a ga-eji chụọ aja udo nʼihu Onyenwe anyị, tinyere mkpụrụ ọka a gwara mmanụ. Nʼihi na taa ka Onyenwe anyị ga-eme ka unu hụ ya anya.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ha wetara ihe ndị a niile bịa nʼọnụ ụzọ ụlọ nzute dịka Mosis nyere nʼiwu. Ọgbakọ ụmụ Izrel niile bịara nso guzo nʼihu Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ahụ, Mosis sịrị ha, “Ihe ndị a bụ ihe Onyenwe anyị nyere unu nʼiwu idebe, ka ebube ya si otu a pụta ìhè nʼihu unu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mosis sịrị Erọn, “Bịa nso nʼebe ịchụ aja. Chụọ aja mmehie, na aja nsure ọkụ nke a ga-eji kpuchie mmehie gị na mmehie ndị ahụ niile. Chụọ aja onyinye dịrị ndị ahụ, maka ikpuchiri ha mmehie ha, dịka Onyenwe anyị nyere nʼiwu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Erọn bịara nso nʼebe ịchụ aja, gbuo nwa ehi ahụ ka ọ bụrụ aja mmehie nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ụmụ Erọn buteere ya ọbara ehi ahụ. O tinyere mkpịsịaka ya nʼime ọbara ahụ tee ya na mpi dị nʼebe ịchụ aja. Ọ wụrụ ọbara fọdụrụ nʼụkwụ ala ala ebe ịchụ aja ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ kpọrọ abụba ya, na akụrụ ya abụọ, na ihe kpuchiri umeju si nʼaja mmehie ahụ ọkụ nʼebe ịchụ aja dịka Onyenwe anyị nyere Mosis iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma anụ ahụ ya, na akpụkpọ ya, ka ọ kpọrọ ọkụ nʼazụ ebe obibi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Emesịa, o gburu anụ e wetara maka aja nsure ọkụ ahụ. Ụmụ ya ndị ikom nyere ya ọbara anụ ahụ, nke o fesara gburugburu ebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ha nyefere ya aja nsure ọkụ ahụ nʼaka nʼotu ha sị bọọ ya, tinyere isi ya. Ọ kpọrọ ihe niile ọkụ nʼebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ sachara ihe dị nʼime afọ ya, na ụkwụ ya, kpọọ ha ọkụ, dịka aja nsure ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Emesịa, Erọn wetara onyinye nke dị maka ndị mmadụ, o were ewu ahụ bụ maka mmehie ndị mmadụ, gbuo ya, were chụọ aja mmehie, dịka o mere nke mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ọ chụkwara aja nsure ọkụ nʼusoro dịka iwu e nyere si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "O webatakwara aja mkpụrụ ọka ahụ, kporo nke juru ya aka, kpọọ ya ọkụ nʼelu ebe ịchụ aja, tinyekwara aja nsure ọkụ nke ụtụtụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼikpeazụ, o gburu ehi na ebule ahụ, nke bụ aja udo ndị Izrel. Ụmụ Erọn buteere ya ọbara nke o fesara gburugburu ebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ọ chịkọtara abụba niile dị ehi na ebule ndị ahụ nʼahụ, na ọdụdụ ha, na abụba kpuchiri ihe ime ha, ya na akụrụ ha, na abụba kpuchiri umeju ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "tụkwasị ha nʼobi anụ ndị ahụ, kpọọ ha ọkụ nʼebe ịchụ aja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe ahụ, Erọn fufere, dịka onyinye mfufe, obi anụ ahụ, na apata aka nri ha nʼihu Onyenwe anyị dịka Mosis nyere nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Erọn weliri aka ya elu nʼebe ụmụ Izrel nọ, gọzie ha. Emesịa, mgbe ọ chụchara aja mmehie, na aja nsure ọkụ na aja udo, o sitere nʼebe ịchụ aja ahụ rịdata."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Mosis na Erọn bara nʼime ụlọ nzute. Mgbe ha pụtara, ha gọziri ọha mmadụ ahụ. Mgbe ahụ kwa, ebube Onyenwe anyị pụtara ìhè nye mmadụ niile nʼọgbakọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ọkụ sitekwara nʼebe Onyenwe anyị nọ daa, rechapụ aja nsure ọkụ ahụ, na abụba ahụ dị nʼebe ịchụ aja. Mgbe ndị Izrel hụrụ ya, ha tiri mkpu ọṅụ. Daa, kpuo ihu nʼala."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/LEV/9.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LEV/10.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/LEV/8.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 24
+}

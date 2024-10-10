@@ -1,0 +1,326 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EXO",
+    "translationId": "ibo_bib",
+    "name": "Ọpụpụ",
+    "commonName": "Ọpụpụ",
+    "title": "Ọpụpụ",
+    "order": 2,
+    "numberOfChapters": 40,
+    "sha256": "774d546ab55fe8a892b28e8acd9db4ac825cb56f7c17b3a54855a28aa16a7122",
+    "firstChapterApiLink": "/api/ibo_bib/EXO/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EXO/40.json",
+    "totalNumberOfVerses": 1213
+  },
+  "chapter": {
+    "number": 40,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nguzo e guzobere ụlọ nzute"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe ahụ, Onyenwe anyị gwara Mosis okwu sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Guzobe ụlọ nzute ahụ nʼụbọchị mbụ nke ọnwa mbụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Dọnye igbe ọgbụgba ndụ nke Ihe Ama ahụ nʼime ya. Konyekwa akwa mgbochi nke ga-ezo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Webata tebul ahụ, na ngwongwo dị nʼelu ya, webatakwa ihe ịdọba oriọna ahụ. Mụnyekwa oriọna ndị ahụ ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Doo ebe ịchụ aja ọlaedo ahụ nke e mere maka ịchụ aja ihe nsure ọkụ na-esi isi ụtọ nʼihu igbe iwu ọgbụgba ndụ ahụ. Konyekwa akwa mgbochi nke kwesiri ịdị nʼọnụ ụzọ e si abata nʼime ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Doo ebe ịchụ aja nke aja nsure ọkụ ahụ nʼihu ọnụ ụzọ ịbata nʼụlọ nzute bụ ụlọ ikwu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Dọnye efere ukwu ịsa mmiri ahụ nʼetiti ụlọ nzute na ebe ịchụ aja ahụ. Gbajukwaa ya mmiri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Guzobe ogige gburugburu ụlọ nzute ahụ. Konyekwa akwa mgbochi nʼọnụ ụzọ ogige ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "“Were mmanụ nsọ ahụ tee ụlọ nzute ahụ, ya na ihe niile dị nʼime ya, si otu a doo ha nsọ ma ngwongwo ịchọ mma ya niile. Ọ ga-abụ ebe dị nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ahụ, tee ebe ịchụ aja nke aja nsure ọkụ ahụ mmanụ ya na ihe ya niile e ji eje ozi. Doo ebe ịchụ aja ahụ nsọ, ọ ga-abụkwa ebe dịkarịsịrị nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Tekwaa efere ukwu ịsa mmiri ahụ na ụkwụ ya mmanụ. Doo ha nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "“Kpọbata Erọn na ụmụ ya ndị ikom nʼọnụ ụzọ ụlọ nzute. Jiri mmiri saa ha ahụ nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Yikwasị Erọn uwe nsọ ya. Tekwaa ya mmanụ, ido ya nsọ maka i jere m ozi dịka onye nchụaja."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mekwaa ka ụmụ ya ndị ikom bịaruo nso, yikwasịkwa ha uwe ime ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Tee ha mmanụ dịka i si tee nna ha, ime ka ha bụrụ ndị na-ejere m ozi dịka ndị nchụaja. Otite mmanụ ha ga-abụ nye ọrụ nchụaja ha nke ga-adịgide site nʼọgbọ ruo nʼọgbọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Mosis mezuru ihe niile dịka Onyenwe anyị nyere ya nʼiwu ime."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "O ruo, nʼụbọchị mbụ nke ọnwa mbụ, nʼafọ nke abụọ, e mere ka ụlọ nzute ahụ guzo ọtọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mosis mere ka ụlọ nzute ahụ guzo ọtọ site nʼitinye mbudo ibo ya niile, ụkwụ ya na mkpọrọ osisi ya niile nʼọnọdụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Emesịa, ọ gbasapụrụ ihe mkpuchi nʼelu ụlọ nzute ahụ, tụkwasịkwa okpukpu ihe mkpuchi nke abụọ nʼelu ya dịka Onyenwe anyị nyere ya iwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "O tinyere Ihe Ama nʼime igbe ọgbụgba ndụ ahụ. Emesịa, ọ tụkwasịkwara mkpara e ji ebu igbe ahụ nʼakụkụ igbe ahụ, were okwuchi igbe ahụ, nke bụ Oche Ebere ahụ, kpuchie igbe iwu ọgbụgba ndụ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Emesịa, o bubatara igbe ahụ nʼime ụlọ nzute ahụ, kwụnyekwa akwa mgbochi nke mgbochi, kewapụ igbe iwu ọgbụgba ndụ ahụ, dịka Onyenwe anyị nyere ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mosis dọnyere tebul ahụ nʼakụkụ ugwu nke ụlọ nzute ahụ, na mpụta nke akwa mgbochi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ dọkwasịrị achịcha ahụ a na-edo nʼihu Onyenwe anyị nʼelu tebul ahụ, dịka Onyenwe anyị nyere ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Ọ dọkwasịrị ihe ịdọba oriọna ahụ nʼime ụlọ nzute nʼakụkụ tebul ahụ, nʼakụkụ ndịda nke ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Ọ mụnyere oriọna ndị ahụ nʼihu Onyenwe anyị dịka Onyenwe anyị si nye nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mosis debere ebe ịchụ aja ọlaedo ahụ nʼime ụlọ nzute nso nso ebe akwa mgbochi ahụ dị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "surekwaa ihe nsure ọkụ na-esi isi ụtọ nʼelu ya, dịka Onyenwe anyị nyere ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ọ kwụbara akwa mgbochi nʼọnụ ụzọ ụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Debekwa ebe ịchụ aja nke aja nsure ọkụ ahụ nso ọnụ ụzọ ịba ụlọ nzute ahụ. O surekwara aja nsure ọkụ nʼelu ya, na aja onyinye mkpụrụ ọka dịka Onyenwe anyị si nye ya nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ọ dọbara efere ịsa mmiri ahụ nʼetiti ụlọ nzute na ebe ịchụ aja, wụjuo ya mmiri, maka iji sachaa ihe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mosis, na Erọn, na ụmụ ya ndị ikom na-eji ya akwọcha aka ha, sakwaa ụkwụ ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Mgbe ọbụla ha na-abanye nʼụlọ nzute na mgbe ha na-abịa nso ebe ịchụ aja, ha na-asacha, dịka Onyenwe anyị nyere ya Mosis nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mosis guzobere ogige ahụ gburugburu ụlọ nzute ahụ na ebe ịchụ aja ahụ. O konyekwara akwa mgbochi nʼụzọ mbata nke ogige ụlọ nzute ahụ. Otu a, Mosis rụzuru ọrụ niile ahụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ebube Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe ahụ, igwe ojii kpuchiri ụlọ nzute ahụ, ebube Onyenwe anyị jupụtakwara nʼime ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mosis nʼonwe ya enweghị ike ịbanye nʼime ụlọ nzute ahụ nʼihi igwe ojii kpuchiri elu ya na ebube Onyenwe anyị jupụtara nʼụlọ nzute ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nʼime njegharị ha niile, mgbe ọbụla igwe ojii ahụ si nʼelu ụlọ nzute ahụ bilie, mgbe ahụ ka ụmụ Izrel na-ebuli njem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Ma ọ bụrụ na igwe ojii ahụ ebilighị, ụmụ Izrel adịghị ebulikwa njem tutuu ruo mgbe o biliri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Igwe ojii Onyenwe anyị ahụ na-anọgide nʼelu ụlọ nzute ahụ nʼehihie ma nʼabalị, ọkụ na-esi nʼime ya na-enwupụta. Ndị Izrel niile na-ahụkwa ya anya ụbọchị niile nke ha jegharịrị nʼọzara."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EXO/40.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/LEV/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EXO/39.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 38
+}

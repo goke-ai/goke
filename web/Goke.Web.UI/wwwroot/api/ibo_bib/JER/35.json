@@ -1,0 +1,187 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "JER",
+    "translationId": "ibo_bib",
+    "name": "Jeremaya",
+    "commonName": "Jeremaya",
+    "title": "Jeremaya",
+    "order": 24,
+    "numberOfChapters": 52,
+    "sha256": "0397ef00fd34ebc90598a8a0de165577419add601acce23253bd544ab8ec71e9",
+    "firstChapterApiLink": "/api/ibo_bib/JER/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/JER/52.json",
+    "totalNumberOfVerses": 1364
+  },
+  "chapter": {
+    "number": 35,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ụmụ Rekab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ndị a bụ okwu Onyenwe anyị nke ruru Jeremaya ntị nʼoge ọchịchị Jehoiakim nwa Josaya eze Juda sị ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Jee nʼụlọ ụmụ Rekab kpọọ ha oku ka ha bịa nʼụlọnsọ Onyenwe anyị, nʼotu nʼime ọnụụlọ ya, nọdụ nʼebe ahụ nye ha mmanya ka ha ṅụọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ya mere, ejekwuuru m Jaazanaya nwa Jeremaya, nwa Habazinaya na ụmụnne ya, na ụmụ ya ndị ikom, ya bụ, ndị ezinaụlọ Rekab niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Akpọbatara m ha nʼụlọnsọ Onyenwe anyị, nʼime ọnụụlọ ụmụ Hanan nwa Igdalaya, onye nke Chineke. Ọnụụlọ a dị nso nʼọnụụlọ ndịisi ụlọnsọ, nke dị nʼelu ọnụụlọ Maaseia nwa Shalum, onye nche ọnụ ụzọ ụlọnsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, e doziri m ọkwa ụfọdụ jupụtara na mmanya na iko ụfọdụ nʼihu ụmụ Rekab, sị ha, “Ngwanụ, ṅụanụ mmanya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma ha zara sị, “Anyị adịghị aṅụ mmanya, nʼihi na nna nna anyị Jehonadab nwa Rekab nyere anyị iwu sị anyị, ‘Unu aṅụkwala mmanya, unu na ụmụ ụmụ unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ọzọkwa, unu ewurula onwe unu ụlọ, unu akụla mkpụrụ ubi, maọbụ kụọ ubi vaịnị. Unu adọtarala onwe unu ihe ndị a niile, kama na-ebinụ nʼụlọ ikwuu. Ọ bụ nʼụzọ dị otu a ka unu ga-esi bie ogologo ndụ nʼala ahụ unu bụ ndị ọbịa nʼime ya.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Anyị erubela isi nʼihe niile nna nna anyị Jehonadab nwa Rekab gwara anyị. Anyị na ndị nwunye anyị na ụmụ anyị ndị ikom na ndị inyom adịghị aṅụ mmanya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "maọbụ wuo ụlọ, maọbụ nwee ubi vaịnị, ala ubi maọbụ mkpụrụ ọkụkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ bụkwa nʼụlọ ikwuu ka anyị na-ebi dị ka nna nna anyị Jehonadab nyere anyị nʼiwu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma mgbe Nebukadneza eze Babilọn busoro ala anyị agha, anyị kpebiri sị, ‘Bịanụ ka anyị gbaba Jerusalem si otu a gbanarị ndị agha Babilọn, na ndị agha ndị Aram.’ Ọ bụ nke a mere anyị ji biri na Jerusalem.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ahụ, okwu Onyenwe anyị ruru Jeremaya ntị sị ya"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel kwuru, “Gaa gwa ndị Juda na ndị bi na Jerusalem, ‘Ọ bụ na unu agaghị esite nʼịdọ aka na ntị mụta irubere okwu m isi?’ ka Onyenwe anyị kwupụtara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "‘Jehonadab nwa Rekab nyere ụmụ ụmụ ya iwu sị ha aṅụla mmanya, ha na-edebe iwu ahụ. Ruo taa, ha adịghị aṅụ mmanya, nʼihi na ha na-edebe iwu nna nna ha nyere ha. Ma mụ onwe m agwala unu okwu mgbe na mgbe, ma unu jụrụ irubere m isi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe mgbe ka m ziteere unu ụmụ ohu m bụ ndị amụma, ndị bịara gwa unu okwu sị, “Dozienụ ụzọ unu, sitekwanụ nʼajọ omume unu tụgharịa. Unu niile nʼotu nʼotu, unu agbasola chi ndị ọzọ ife ha. Ọ bụrụ na unu emee otu a, unu ga-ebi nʼala a m nyere unu na nna nna unu ha.” Ma unu jụrụ ịṅa ntị, jụkwa ige m ntị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ụmụ ụmụ Jehonadab, nwa Rekab, emeela ihe nna nna ha nyere ha nʼiwu, ma ndị a jụrụ irubere m isi.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "“Nʼihi ya, ihe ndị a ka Onyenwe anyị Chineke Onye pụrụ ime ihe niile, Chineke Izrel kwuru: ‘Geenụ ntị! Lee, ana m aga ime ka ihe ọjọọ bịakwasị Juda na ndị niile bi na Jerusalem, dịka m kwuru na ọ ga-adị. Nʼihi na agwala m ha okwu, ma ha jụrụ ige m ntị. Akpọrọ m ha oku, ma ha jụrụ ịza.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mgbe ahụ, Jeremaya gwara ndị ezinaụlọ Rekab, “Ihe ndị a ka Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel kwuru, ‘Unu erubeela isi mee ihe niile nna nna unu bụ Jehonadab nyere unu nʼiwu.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi ya, Onyenwe anyị, Onye pụrụ ime ihe niile, bụ Chineke Izrel, kwuru sị, ‘O nweghị mgbe ọbụla nwoke ga-ejere m ozi ga-akọ nʼezinaụlọ Jehonadab nwa Rekab.’ ”"
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/JER/35.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JER/36.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/JER/34.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 19
+}

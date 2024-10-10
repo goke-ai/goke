@@ -1,0 +1,140 @@
+﻿@page "/products/Gasific"
+
+@implements IAsyncDisposable
+
+@inject IJSRuntime JS
+@inject ILogger<Gasific> Logger
+
+<PageTitle>Gasific</PageTitle>
+
+<h1>Gasific</h1>
+
+
+<button @onclick="OnSimulate">Simulate</button>
+
+@if (moles?.Components is not null)
+{
+    <Slider Value="H2O" Label="H2O" OnChangeValue="SetH2OAsync" />
+    <Slider Value="Air" Label="Air" OnChangeValue="SetAirAsync" />
+    <Slider Value="Temperature" Label="Temperature" Maximum="2000" OnChangeValue="SetTemperatureAsync" />
+    <Slider Value="Pressure" Label="Pressure" Maximum="10" OnChangeValue="SetPressureAsync" />
+
+
+
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Formula</th>
+            <th>Inlet</th>
+            <th>Outlet</th>
+        </tr>
+   @foreach (var item in moles.Components)
+    {
+        <tr>
+                <td>@item.Name</td>
+                <td>@item.Formula</td>
+                <td>@item.Inlet</td>
+            <td>@item.Outlet</td>
+        </tr>
+        
+    }
+    </table>
+}
+
+<button @onclick="OnShowPlot">ShowPlot</button>
+<button id="btn">Click Me!</button>
+
+<div id="myplot4"></div>
+
+
+@code {
+    private IJSObjectReference? module;
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            module = await JS.InvokeAsync<IJSObjectReference>("import",
+                "./Pages/Products/Gasific.razor.js");
+
+            await module.InvokeVoidAsync("addHandlers");
+        }
+    }
+
+    async void OnShowPlot()
+    {
+        if (module is not null)
+        {
+
+            char[] alphabeths = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".ToCharArray();
+            var data4 = alphabeths.Select(s => new { Letter = s, Frequency = Random.Shared.Next(20) });
+
+            await module.InvokeVoidAsync("plot4", "#myplot4", data4);
+        }
+    }
+
+    double H2O = 0.0;
+    Task SetH2OAsync(double value)
+    {
+        H2O = value;
+        OnSimulate();
+        
+        return Task.CompletedTask;
+    }
+
+    double Air = 0.0;
+    Task SetAirAsync(double value)
+    {
+        Air = value;
+        OnSimulate();
+
+        return Task.CompletedTask;
+    }
+
+    double Temperature = 600;
+    Task SetTemperatureAsync(double value)
+    {
+        Temperature = value;
+        OnSimulate();
+
+        return Task.CompletedTask;
+    }
+
+    double Pressure = 1;
+    Task SetPressureAsync(double value)
+    {
+        Pressure = value;
+        OnSimulate();
+
+        return Task.CompletedTask;
+    }
+
+    Goke.Biomass.GasificService.GasificResult? moles = null;
+
+    async void OnSimulate()
+    {
+
+        var x = Goke.Biomass.GasificService.Simulate(H2O, Air, Temperature, Pressure);
+        moles = x;
+
+        if (module is not null && moles?.Components is not null)
+        {
+
+            var data4 = moles.Components.Where(w => w.Name?.Contains("Biomass") == false);//.Select(s => new { Formula = s.Formula, Outlet = float.Parse(s.Outlet.ToString("0.0000")) });
+
+            await module.InvokeVoidAsync("plot4", "#myplot4", data4);
+        }
+
+        StateHasChanged();
+    }
+
+    async ValueTask IAsyncDisposable.DisposeAsync()
+    {
+        if (module is not null)
+        {
+            await module.DisposeAsync();
+        }
+    }
+
+}
+

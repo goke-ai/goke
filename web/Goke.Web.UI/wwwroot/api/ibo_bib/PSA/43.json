@@ -1,0 +1,175 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 43,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Arịrịọ maka enyemaka"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "O Chineke, kpepụta m,",
+            "poem": 1
+          },
+          {
+            "text": "kpechitere m ikpe m",
+            "poem": 2
+          },
+          {
+            "text": "nʼebe mba na-amaghị Chineke nọ;",
+            "poem": 2
+          },
+          {
+            "text": "gbapụta m site nʼaka",
+            "poem": 1
+          },
+          {
+            "text": "ndị ajọ omume na ndị aghụghọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ị bụ Chineke, ebe m e wusiri ike.",
+            "poem": 1
+          },
+          {
+            "text": "Gịnị mere i ji jụ m?",
+            "poem": 2
+          },
+          {
+            "text": "Gịnị mere m ga-eji na-ejegharị nʼiru ụjụ,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi mmegbu nke onye iro?",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Zipụ ìhè gị na eziokwu gị,",
+            "poem": 1
+          },
+          {
+            "text": "ka ha duo m;",
+            "poem": 2
+          },
+          {
+            "text": "ka ha kpọbata m nʼugwu nsọ gị,",
+            "poem": 1
+          },
+          {
+            "text": "bụ ebe i bi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Mgbe ahụ, aga m aga nʼebe ịchụ aja Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "gakwuru Chineke, bụ ọṅụ m na obi ụtọ m.",
+            "poem": 2
+          },
+          {
+            "text": "Aga m eji ụbọ akwara too gị,",
+            "poem": 1
+          },
+          {
+            "text": "O Chineke, bụ Chineke m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "O mkpụrụobi m, gịnị mere i ji daa mba?",
+            "poem": 1
+          },
+          {
+            "text": "Gịnị mere i ji na-asụ ude nʼime m?",
+            "poem": 2
+          },
+          {
+            "text": "Nwee olileanya na Chineke,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na m ka ga-eto ya ọzọ,",
+            "poem": 2
+          },
+          {
+            "text": "onye Nzọpụta m na Chineke m.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/43.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/44.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/42.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 5
+}

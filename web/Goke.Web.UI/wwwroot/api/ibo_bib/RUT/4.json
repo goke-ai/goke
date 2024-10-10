@@ -1,0 +1,277 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "RUT",
+    "translationId": "ibo_bib",
+    "name": "Rut",
+    "commonName": "Rut",
+    "title": "Rut",
+    "order": 8,
+    "numberOfChapters": 4,
+    "sha256": "1483e28957a09254c2d69df1e31aa260074b1284960b779773536a6b5bfd69b3",
+    "firstChapterApiLink": "/api/ibo_bib/RUT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/RUT/4.json",
+    "totalNumberOfVerses": 85
+  },
+  "chapter": {
+    "number": 4,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Boaz alụọ Rut"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ya mere, Boaz pụrụ gaa nʼọnụ ụzọ ama obodo ahụ, nọdụ ala nʼebe ahụ. Ọ dịghị anya onye mgbapụta ahụ dị nso nke Boaz kwuru okwu banyere ya si nʼebe ahụ na-agafe. Boaz kpọrọ ya sị, “Enyi m bịa nọdụ ala.” Ọ bịara nọdụ ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Boaz kpọrọ mmadụ iri, ndị bụ ndị okenye obodo ahụ, gwa ha, “Nọdụnụ ala nʼebe a.” Ha mere otu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe ahụ, ọ gwara nwoke onye mgbapụta ahụ dị nso sị, “Naomi, onye si nʼala ndị Moab lọta, na-achọ ire ala nwanna anyị nwoke Elimelek."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ahụrụ m na o kwesiri ka m buru ụzọ gwa gị ka ị zụọ ya nʼihu ndị a nọ ọdụ nʼebe a, na nʼihu ndị okenye obodo anyị. Ọ bụrụ na ị ga-agbara ya, gwa m, ọ bụrụkwanụ na ị gaghị agbara ya, gwa m, ka m mara ihe m ga-eme. Nʼihi na ọ bụ gị ka ọ dịrị ịgbapụta ya. Mụ onwe m na-esote gị.” Ọ zara sị, “Aga m agbapụta ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Boaz sịrị, “Nʼụbọchị ị ga-azụrụ ala ahụ site nʼaka Naomi ka ị ga-enwetakwa Rut onye Moab bụ nwunye onye ahụ nwụrụ anwụ, ime ka aha onye ahụ nwụrụ anwụ na ihe nketa ya na-adịgide.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Na nke a, onye nchekwa mgbapụta ahụ sịrị, “Apụghị m ịgbapụta ya nʼihi na e nwere m ike itinye ihe nketa m na nsogbu. Gị onwe gị gbapụta ya. Nke a agaghị ekwe m omume.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Na mgbe ochie nʼala Izrel,",
+          {
+            "noteId": 1836
+          },
+          "ime ka mgbapụta ihe na iwefe ihe site nʼaka baa nʼaka zuo oke, otu onye ga-eyipụ akpụkpọụkwụ",
+          {
+            "noteId": 1837
+          },
+          "ya were ya nye onye nke ọzọ. Otu a ka e si ekpebi okwu gbasara orire na ọzụzụ, na-ime ka ihe ndị ọzọ guzosie ike nʼala Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nʼihi ya, mgbe nwoke ahụ gwara Boaz sị ya, “Zụrụ ala ahụ nʼonwe gị,” o yipụtara akpụkpọụkwụ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, Boaz kwupụtara na ntị ndị okenye ndị ahụ na ndị mmadụ nọ nʼebe ahụ sị ha, “Unu bụ ndị akaebe na esitela m nʼaka Naomi zụrụ ala niile Elimelek, na Kilịọn na Mahlọn nwere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Azụrụkwala m Rut onye Moab, nwunye Mahlọn ka ọ bụrụ nwunye m, ime ka aha onye nwụrụ anwụ na ihe nketa ya na-adịgide, ka aha ha hapụ ifu nʼetiti ndị ikwu ya maọbụ site nʼobodo ebe amụrụ ya. Taa unu niile bụ ndị akaebe m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mgbe ahụ, ndị okenye na ndị niile nọ nʼọnụ ụzọ ama kwuru sị, “Anyị bụ ndị akaebe. Ka Onyenwe anyị mee nwanyị a na-abata nʼezinaụlọ gị ka ọ dịrị ka Rechel na Lịa,",
+          {
+            "noteId": 1838
+          },
+          "ndị ebo Izrel niile sitere na ha pụta! Ka ị bụrụkwa ọgaranya nʼagbụrụ Efrata, ghọọkwa onye a ma ama na Betlehem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Site nʼụmụ Onyenwe anyị ga-enye gị site na nwanyị a, ka ezinaụlọ gị dịrị ka nke Perez",
+          {
+            "noteId": 1839
+          },
+          "onye Tama mụụrụ Juda.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nwa nwoke a mụtara Naomi"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Boaz kpọọrọ Rut ka ọ bụrụ nwunye ya. Mgbe ya na Rut dinakọrọ, Onyenwe anyị nyeere ya aka ịtụrụ ime. Ọ mụkwara nwa nwoke."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe ahụ, ndị inyom obodo ahụ bịakwutere Naomi sị ya, “Onye a gọziri agọzi ka Onyenwe anyị bụ, onye na-agbawaghị gị aka onye agbụrụ mgbapụta dị nso. Ka aha ya bụrụ ihe ga-ada ụda nʼala Izrel niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ya wetakwara gị ntute na ndụ gị ma bụrụkwa onye ga-azụ gị nʼisi awọ gị. Nʼihi na nwunye nwa gị, onye hụrụ gị nʼanya, onye baara gị uru karịa ndị ikom asaa, amụọrala gị nwa nwoke.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Naomi kuuru nwantakịrị ahụ, jikụọ ya nʼapata ya, lekọtaa ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ndị inyom ndị agbataobi ya sịrị, “Ugbu a, nʼikpeazụ, Naomi enwetala nwa nwoke ọzọ!” Ha gụrụ ya Obed. Ọ bụkwa onye ahụ bụ nna Jesi, onye bụ nna Devid."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Usoro ọmụmụ Devid"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nke a bụ usoro ndị a mụrụ site na Perez.",
+          {
+            "lineBreak": true
+          },
+          "Perez mụrụ Hezrọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Hezrọn mụrụ Ram Ram mụrụ Aminadab"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Aminadab mụrụ Nashọn Nashọn mụrụ Salmọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Salmọn mụrụ Boaz Boaz mụrụ Obed"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Obed mụrụ Jesi Jesi mụrụ Devid."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1836,
+        "caller": "+",
+        "text": "Dit 25:7-10",
+        "reference": {
+          "chapter": 4,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 1837,
+        "caller": "+",
+        "text": "Gbaa mba niile dị nʼetiti ọwụwa anyanwụ gburugburu, akpụkpọụkwụ bụ ihe na-egosipụta onye nwe ihe. Mgbe mmadụ nyere onye ọzọ akpụkpọụkwụ ya, nʼihi ihe ọbụla, nke a pụtara inye ya ikike i sị, site ugbu a gawa ihe ahụ a bụrụla nke gị. Abụ 60:8; Ems 2:6; 8:6",
+        "reference": {
+          "chapter": 4,
+          "verse": 7
+        }
+      },
+      {
+        "noteId": 1838,
+        "caller": "+",
+        "text": "Rechel na Lịa bụ ndị mụrụ ebo niile nke Izrel, nʼotu aka ahụkwa, agbụrụ Devid na onye nzọpụta ahụ sitere na Rut pụta. Ị ga-agụta nke a nʼakwụkwọ Mat 1:5,6,16",
+        "reference": {
+          "chapter": 4,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 1839,
+        "caller": "+",
+        "text": "Perez bụ nna ochie Boaz. Mat 1:3; Luk 3:33",
+        "reference": {
+          "chapter": 4,
+          "verse": 12
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/RUT/4.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1SA/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/RUT/3.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

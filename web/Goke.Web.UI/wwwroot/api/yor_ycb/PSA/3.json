@@ -1,0 +1,186 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "yor_ycb",
+    "name": "Saamu",
+    "commonName": "Saamu",
+    "title": "Ìwé Saamu",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "0ad2683a279b6e0fa232310ea04ed3216c9da675f26a00ab4a8af4bfc4c3b24d",
+    "firstChapterApiLink": "/api/yor_ycb/PSA/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Saamu ti Dafidi. Nígbà ti ó sá fún ọmọ rẹ̀ Absalomu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Olúwa, báwo ni àwọn ọ̀tá mi ṣe pọ̀ tó báyìí!",
+            "poem": 1
+          },
+          {
+            "text": "Báwo ni àwọn ti ó dìde sí mi ṣe pọ̀ tó!",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ọ̀pọ̀lọpọ̀ ni ó ń sọ ní ti tèmi, pé",
+            "poem": 1
+          },
+          {
+            "text": "“Ọlọ́run kò nígbà á là.” Sela.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ṣùgbọ́n ìwọ ni asà yí mi ká, Olúwa;",
+            "poem": 1
+          },
+          {
+            "text": "ìwọ fi ògo fún mi, ìwọ sì gbé orí mi sókè.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Olúwa ni mo kígbe sókè sí,",
+            "poem": 1
+          },
+          {
+            "text": "ó sì dá mi lóhùn láti orí òkè mímọ́ rẹ̀ wá. Sela.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Èmi dùbúlẹ̀, mo sì sùn;",
+            "poem": 1
+          },
+          {
+            "text": "mo sì tún padà jí, nítorí Olúwa ni ó ń gbé mi ró.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Èmi kì yóò bẹ̀rù ẹgbẹẹgbẹ̀rún ènìyàn",
+            "poem": 1
+          },
+          {
+            "text": "tí wọ́n rọ̀gbà yí mi ká.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Dìde, Olúwa!",
+            "poem": 1
+          },
+          {
+            "text": "Gbà mí, Ọlọ́run mi!",
+            "poem": 2
+          },
+          {
+            "text": "Lu gbogbo àwọn ọ̀tá mi ní àgbọ̀n;",
+            "poem": 1
+          },
+          {
+            "text": "kí o sì ká eyín àwọn ènìyàn búburú.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Láti ọ̀dọ̀ Olúwa ni ìgbàlà ti wá.",
+            "poem": 1
+          },
+          {
+            "text": "Kí ìbùkún rẹ wà lórí àwọn ènìyàn rẹ. Sela.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/PSA/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/PSA/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/PSA/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

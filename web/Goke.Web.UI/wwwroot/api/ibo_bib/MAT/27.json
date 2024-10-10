@@ -1,0 +1,648 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 27,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jisọs nʼihu Pailet"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe chi bọrọ, ndịisi nchụaja niile na ndị okenye gbara izu megide Jisọs otu ha ga-esi gbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ya mere, ha kere ya agbụ, duru ya pụọ, nyefee ya nʼaka Pailet onye bụ gọvanọ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ Judas"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe Judas, onye ahụ rara Jisọs nye, hụrụ na a maala Jisọs ikpe ọnwụ, o chegharịrị weghachikwara ndịisi nchụaja na ndị okenye iri ego ọlaọcha atọ ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ọ kwuru sị, “Emehiela m, site na ịrara onye aka ya dị ọcha nye ọnwụ.” Ma ha sịrị, “Nke ahụ agbasaghị anyị, ọ bụ mkpa dịrị gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ wụsara ego ọlaọcha ahụ nʼala ụlọnsọ, pụọ gaa kwụọ ụdọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ndịisi nchụaja tụtụkọtara ego ahụ kwuo sị, “O megidere iwu itinye ego a nʼime ụlọakụ, nʼihi na ọ bụ ego ọbara.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ha gbasịrị izu, ha kwekọtara ma were ego ahụ zụta ala nʼaka otu ọkpụ ite. Ha mere ala ahụ ka ọ bụrụ ebe a na-eli ndị ọbịa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Nke a mere e ji na-akpọ ala ahụ, “Ala Ọbara,”",
+          {
+            "noteId": 1388
+          },
+          "ruo taa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼụzọ dị otu a, okwu e kwuru site nʼọnụ Jeremaya onye amụma mezuru. “Ha tụtụkọtara mkpụrụ ego ọlaọcha iri atọ, bụ ọnụahịa onye ahụ, nke ụfọdụ nʼime ụmụ Izrel kpebiri na a ga-akwụ nʼisi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha ji ego ahụ zụọ ubi onye ọkpụ ite, dị ka Onyenwe anyị nyere m iwu.”",
+          {
+            "noteId": 1389
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Pailet ajụọ Jisọs ajụjụ"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Nʼoge a Jisọs guzo nʼihu gọvanọ. Gọvanọ jụrụ ya sị, “Ị bụ eze ndị Juu?” Jisọs sịrị ya,",
+          {
+            "text": "“Gị onwe gị kwuru ya.”",
+            "wordsOfJesus": true
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ndịisi nchụaja na ndị okenye boro ya ebubo ụgha, o kwughị ihe ọbụla."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ya mere, Pailet sịrị ya, “Ị naghị anụ ihe ndị a niile ha na-ebo gị?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma ọ zaghị ọ bụladị otu mkpụrụ okwu nʼebubo ndị ahụ. Ihe a gbagwojuru gọvanọ anya nke ukwuu."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ikpe ọnwụ a mara Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ugbu a, ọ bụ omenaala gọvanọ nʼoge mmemme na ọ ga-ahapụ otu onye mkpọrọ, bụ onye igwe mmadụ họọrọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma nʼoge a e nwere otu onye mkpọrọ nke ọtụtụ mmadụ maara nke ọma. A na-akpọ Jisọs Barabas."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Mgbe igwe mmadụ niile zukọrọ, Pailet sịrị ha, “Onye ka unu chọrọ ka m hapụrụ unu, ọ bụ Jisọs Barabas ka ọ bụ Jisọs onye a na-akpọ Kraịst?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼihi na ọ maara nke ọma na ọ bụ site nʼekworo ka ha ji rara Jisọs nye nʼaka ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe ọ nọkwasịrị nʼelu oche ikpe ya, nwunye ya zitere ozi sị ya, “Wepụkwa aka gị nʼihe gbasara nwoke onye ezi omume ahụ. Nʼihi na ahụjuru m anya na nrọ nʼabalị gara aga nʼihi ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ma ndịisi nchụaja na ndị okenye kwagidere igwe mmadụ ahụ ka ha rịọ ya, ka ọ hapụrụ ha Barabas, ma nye ha Jisọs ka ha gbuo ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ọzọkwa, gọvanọ sịrị ha, “Nʼime mmadụ abụọ ndị a onye ka unu chọrọ ka m hapụrụ unu?” Ha sịrị, “Barabas!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Pailet sịrị ha, “Gịnị ka m ga-eme Jisọs onye a na-akpọ Kraịst?” Ha niile sịrị, “Kpọgide ya nʼobe!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ jụrụ ha sị, “Ọ bụ nʼihi gịnị? Olee ihe ọjọọ o mere?” Ma ha tiri mkpu karịa ka ha si eti na mbụ, na-asị, “Kpọgide ya nʼobe! Kpọgide ya nʼobe!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mgbe Pailet hụrụ na o nweghị ihe ọ pụrụ ime, kama na ụzụ na ọgbaaghara na-amalite. O weere mmiri kwọọ aka ya nʼihu igwe mmadụ ahụ sị ha, “Aka m dị ọcha nʼebe ọbara nwoke a dị. Jirinụ aka unu hụ maka ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Igwe mmadụ ahụ zaghachiri ya nʼotu olu sị, “Ka ọbara ya dị nʼisi anyị na nʼisi ụmụ anyị!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe ahụ ọ hapụụrụ ha Barabas. Mgbe ọ pịachara Jisọs ihe, ọ raara ya nye ka ha kpọgide ya nʼobe."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị agha ejiri Jisọs mee ihe ọchị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe ahụ ndị agha gọvanọ duuru Jisọs baa nʼogige ụlọ ndị agha,",
+          {
+            "noteId": 1390
+          },
+          "mee ka otu ndị agha niile gbaa ya gburugburu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Ha yipụrụ ya uwe ya, yinye ya uwe mwụda na-acha uhie uhie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ha kpara okpueze nke e ji ogwu mee, kpukwasị ya nʼisi. Ha tinyekwara ya mkpara achara nʼaka nri, gbuo ikpere nʼala nʼihu ya, na-akwa ya emo na-asị, “Ekele, Eze ndị Juu!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ha gbụrụ ya ọnụ mmiri asọ, werekwa osisi ahụ kụọ ya nʼisi ọtụtụ mgbe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe ha ji ya mechaa ihe ọchị, ha yipụrụ ya uwe ahụ, yinyekwa ya uwe nke ya, duuru ya pụọ, ịga kpọgide ya nʼobe."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ha akpọgide ya nʼobe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Mgbe ha na-apụ, ha zutere otu nwoke onye obodo Sirini a na-akpọ Saimọn. Ha manyere ya ka o buru obe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Mgbe ha bịarutere nʼebe a na-akpọ Gọlgọta (nke pụtara, “ebe okpokoro isi”)."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Ha nyere ya mmanya a gwara ọgwụ ilu ka ọ ṅụọ. Mgbe o detụrụ ya ire, o kweghị ya ọṅụṅụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Mgbe ha kpọgidechara ya nʼelu obe. Ha fere nza nke ha jiri kee uwe ya nʼetiti onwe ha.",
+          {
+            "noteId": 1391
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Ha nọdụkwara ala nʼebe ahụ na-eche ya nche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Nʼelu ebe isi ya dị, ka ha debere ihe ha dekwasịrị ebubo ha boro ya. Nke a bụ ihe ha dere: Onye a bụ Jisọs, Eze ndị Juu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Ha kpọgidekwara ya na ndị ohi abụọ nʼobe. Otu onye nʼaka nri, onye nke ọzọ nʼaka ekpe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Ndị na-agafe nʼụzọ na-ekwutọ ya, na-efufekwa isi ha,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "na-asịkwa, “Leenụ onye nwere ike ịkwatu ụlọnsọ Chineke wughachi ya na mkpụrụ ụbọchị atọ! Zọpụtanụ onwe gị! Ọ bụrụ na ị bụ Ọkpara Chineke si nʼelu obe ahụ rịdata!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Ndịisi nchụaja, ndị ozizi iwu na ndị okenye sokwa na-eme ya ihe ọchị, na-asị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "“Ọ zọpụtara ndị ọzọ, ma o nweghị ike ịzọpụta onwe ya. Ọ bụ eze ndị Izrel; ya si nʼelu obe rịdata ugbu a, anyị ga-ekwerekwa na ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Ọ tụkwasịrị Chineke obi, ọ bụrụ na ọ masịrị Chineke, ya napụta ya ugbua, nʼihi na o kwuru sị, ‘Abụ m Ọkpara Chineke. ’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 44,
+        "content": [
+          "Ọ bụladị ndị ohi ahụ a kpọgidekọrọ ha na ya nʼobe nọkwa na-akparị ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ọnwụ Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 45,
+        "content": [
+          "Ma site nʼelekere iri na abụọ nke ehihie ruo nʼelekere atọ nke ehihie, ọchịchịrị gbachikọtara nʼala ahụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 46,
+        "content": [
+          "Nʼoge dị ka elekere atọ nke ehihie, Jisọs tiri mkpu nʼoke olu sị, “Elọi, Elọi, lama sabaktani?” (nke pụtara,",
+          {
+            "text": "“Chineke m, Chineke m, gịnị mere i jiri hapụ m?”",
+            "wordsOfJesus": true
+          },
+          ").",
+          {
+            "noteId": 1392
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 47,
+        "content": [
+          "Mgbe ụfọdụ ndị guzo nʼebe ahụ nụrụ nke a, ha sịrị, “Ọ na-akpọ Ịlaịja.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 48,
+        "content": [
+          "Nʼotu oge ahụ kwa otu onye nʼime ha gbaara ọsọ were ogbo denye ya na mmanya gbara ụka, fanye ya nʼosisi, welie ya elu, chee ya ka ọ ṅụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 49,
+        "content": [
+          "Ma ndị ọzọ sịrị, “Hapụnụ, ka anyị lee ma Ịlaịja ọ ga-abịa ịzọpụta ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 50,
+        "content": [
+          "Ọzọkwa, Jisọs jiri oke olu tie mkpu, kubie ume."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 51,
+        "content": [
+          "Nʼotu ntabi anya ahụ kwa, akwa mgbochi nke ụlọnsọ ahụ gbawara site nʼelu ruo nʼala. Ala makwara jijiji. Nkume tiwasịkwara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 52,
+        "content": [
+          "Ala ili meghere. A hụrụ ọtụtụ ndị nsọ, ndị nwụrụ anwụ, ka e mere ka ha si nʼọnwụ bilie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 53,
+        "content": [
+          "Mgbe ha sitere nʼọnwụ bilie, ha hapụrụ ili ha banye nʼime obodo nsọ, gosikwa ọtụtụ mmadụ onwe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 54,
+        "content": [
+          "Mgbe ọchịagha, na ndị ya ha nọ nʼebe ahụ na-eche Jisọs nche hụrụ ala ọma jijiji a, na ihe niile mere, ha tụrụ oke egwu. Ha kwuru sị, “Nʼezie, nwoke a bụ Ọkpara Chineke!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 55,
+        "content": [
+          "Ọtụtụ ụmụ nwanyị nọ nʼebe ahụ, ndị guzo nʼebe dị anya na-ele ihe na-eme. Ha si Galili soro Jisọs, na-ejere ya ozi.",
+          {
+            "noteId": 1393
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 56,
+        "content": [
+          "Nʼime ha bụ Meri Magdalin, na Meri nne Jemis na Josef, na nne ụmụ Zebedi."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Olili Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 57,
+        "content": [
+          "Mgbe o ruru anyasị, otu onye ọgaranya si Arimatia aha ya bụ Josef. Onye ya onwe ya bụkwa onye na-eso ụzọ Jisọs,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 58,
+        "content": [
+          "jekwuuru Pailet rịọọ ya ka e bunye ya ozu Jisọs. Pailet nyere iwu ka e bunye ya ozu ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 59,
+        "content": [
+          "Josef buuru ozu ya, were ezi akwa ọcha linin na-enwu enwu fụchie ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 60,
+        "content": [
+          "ma gaa lie ya nʼili ọhụrụ nke o gwuuru onwe ya, nʼetiti nkume. O jikwa otu nkume buru ibu kpuchie ọnụ ụzọ ili ahụ, hapụ ya laa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 61,
+        "content": [
+          "Meri Magdalin na Meri nke ọzọ nọ na-ebe ahụ, ha nọdụrụ ala na ncherita ihu ili ahụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ndị nche nʼili Jisọs"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 62,
+        "content": [
+          "Nʼechi ya, nke bụ ụbọchị na-eso ụbọchị Nkwadebe, ndịisi nchụaja na ndị Farisii zukọrọ jekwuru Pailet."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 63,
+        "content": [
+          "Ha kwuru sị, “Nna anyị ukwu, anyị na-echeta na mgbe onye ụgha ahụ dị ndụ, ọ sịrị na ya ga-esi nʼọnwụ bilie mgbe ụbọchị atọ gasịrị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 64,
+        "content": [
+          "Ya mere, nye iwu ka ndị agha gị na-eche ili ya nche, ruo mgbe ụbọchị atọ gasịrị. Nke a ga-egbochi ndị na-eso ụzọ ya ịga zuru ozu ya. Ka ha ghara ị sịkwa ndị mmadụ na o sitela nʼọnwụ bilie. Ọ bụrụ na ha agha ụgha dị otu a, ọ ga-ajọrọ anyị njọ mgbe ahụ karịa na mbụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 65,
+        "content": [
+          "Pailet gwara ha sị, “Unu nwere otu ndị agha na-eche nche, kpọrọnụ ha gaa mechisie ili ahụ ike dị ka unu si maara eme.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 66,
+        "content": [
+          "Ya mere, ha kpọrọ ndị agha gaa mechizie ọnụ ili ahụ. Ha kakwara akara nʼelu nkume ahụ."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1388,
+        "caller": "+",
+        "text": "Maọbụ, Ubi Ọbara",
+        "reference": {
+          "chapter": 27,
+          "verse": 8
+        }
+      },
+      {
+        "noteId": 1389,
+        "caller": "+",
+        "text": "Zek 11:12,13; Jer 19:1-13; 32:6-9",
+        "reference": {
+          "chapter": 27,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 1390,
+        "caller": "+",
+        "text": "Nke a na-akpọ Pritoriọm nʼasụsụ Griik.",
+        "reference": {
+          "chapter": 27,
+          "verse": 27
+        }
+      },
+      {
+        "noteId": 1391,
+        "caller": "+",
+        "text": "Imezu ihe e dere nʼAbụ Ọma 22:18.",
+        "reference": {
+          "chapter": 27,
+          "verse": 35
+        }
+      },
+      {
+        "noteId": 1392,
+        "caller": "+",
+        "text": "Abụ 22:1",
+        "reference": {
+          "chapter": 27,
+          "verse": 46
+        }
+      },
+      {
+        "noteId": 1393,
+        "caller": "+",
+        "text": "Nʼihi ịhụ maka mkpa ya",
+        "reference": {
+          "chapter": 27,
+          "verse": 55
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/27.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/28.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAT/26.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 66
+}

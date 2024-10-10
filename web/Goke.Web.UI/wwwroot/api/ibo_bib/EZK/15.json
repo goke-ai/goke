@@ -1,0 +1,124 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Jerusalem, osisi vaịnị na-abaghị uru"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Okwu Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nwa nke mmadụ, olee, ụzọ osisi vaịnị si pụọ iche site nʼalaka osisi ndị ọzọ dị nʼime oke ọhịa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "A na-esi nʼime osisi ya were mepụta ihe ọbụla bara uru? Ọ bụ site na ya ka a na-esi emepụta osisi nke e ji ekonye ihe?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Uru ha bara bụ iji ha menye ọkụ. Ma mgbe isi ya abụọ repịara, mgbe etiti ya rekwara ọkụ, o nwere ihe ọzọ mmadụ nwere ike iji ya mee?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ bụrụ na ọ baghị uru mgbe o zuruoke, a ga-esi aṅa were ya mepụta ihe bara uru mgbe ọkụ repịasịrịla ya, ọ ghọọ unyi?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "“Nʼihi ya, ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị na-ekwu, dịka m sitere nʼetiti ọhịa niile wepụta osisi vaịnị nye ka ọ bụrụ nkụ e ji emenye ọkụ, otu a ka m ga-esi mesoo ndị bi na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Aga m eche ihu m",
+          {
+            "noteId": 607
+          },
+          "imegide ha. Ọ bụ ezie na ha esitela nʼọkụ pụta, ma ọkụ ga-erepịa ha. Unu ga-amata na mụ onwe m bụ Onyenwe anyị, mgbe m guzoro onwe m megide ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Aga m emekwa ka ala ha tọgbọrọ nʼefu, nʼihi na ha bụ ndị na-ekwesighị ntụkwasị obi. Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 607,
+        "caller": "+",
+        "text": "Maọbụ, Aga m eguzo onwe m",
+        "reference": {
+          "chapter": 15,
+          "verse": 7
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

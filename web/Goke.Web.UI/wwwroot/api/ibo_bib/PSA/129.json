@@ -1,0 +1,204 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 129,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ nrigo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ekpere megide ndị iro Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Site na mgbe m bụ nwantakịrị, ha kpagburu m ọtụtụ oge,",
+            "poem": 1
+          },
+          {
+            "text": "ka Izrel kwuo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Site na mgbe m bụ nwantakịrị, ha kpagburu m ọtụtụ oge,",
+            "poem": 1
+          },
+          {
+            "text": "ma ha enweghị ike merie m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ndị ikom na-akọ ubi akọgharịala azụ m dịka ala ubi,",
+            "poem": 1
+          },
+          {
+            "text": "mee ebe ha kọrọ akọ ka ọ dị ogologo.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ma Onyenwe anyị bụ onye ezi omume;",
+            "poem": 1
+          },
+          {
+            "text": "ọ tọpụla m site nʼagbụ niile nke ndị ajọ omume.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ka ndị niile kpọrọ Zayọn asị",
+            "poem": 1
+          },
+          {
+            "text": "bụrụ ndị ga-alaghachi azụ nʼihere.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Ka ha niile dịrị ka ahịhịa na-epu nʼelu ụlọ",
+            "poem": 1
+          },
+          {
+            "text": "nke na-akpọnwụ tupu o pupụta;",
+            "poem": 2
+          },
+          {
+            "noteId": 1695
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "nke onye na-ewe ihe ubi na-adịghị eji ha kpojuo aka ya abụọ,",
+            "poem": 1
+          },
+          {
+            "text": "maọbụ onye mkpokọta e nwee ike kpojuo aka ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Ka ndị si nʼụzọ na-agafe hapụ ị sị ha,",
+            "poem": 1
+          },
+          {
+            "text": "“Ngọzị Onyenwe anyị dịrị unu.",
+            "poem": 2
+          },
+          {
+            "text": "Anyị na-agọzi unu nʼaha Onyenwe anyị.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1696
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1695,
+        "caller": "+",
+        "text": "Ọ bụ ụrọ a gwakọtara ntụ na aja ka e ji emechi elu ụlọ nʼIzrel. Nʼoge mmiri ozuzo, ahịhịa na-epu nʼelu ụlọ ndị a nʼihi na ha dị larịị, ma ha adịghị adịgide. Mgbe ọkọchị bịara, nʼihi na mgbọrọgwụ ha abanyeghị nʼime aja elu ụlọ ndị a, ha na-akpọnwụ Abụ 37:2",
+        "reference": {
+          "chapter": 129,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1696,
+        "caller": "+",
+        "text": "Rut 2:4",
+        "reference": {
+          "chapter": 129,
+          "verse": 8
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/129.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/130.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/128.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

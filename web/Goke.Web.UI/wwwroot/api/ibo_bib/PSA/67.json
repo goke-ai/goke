@@ -1,0 +1,185 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 67,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma dịrị onyeisi abụ. Abụ eji ụbọ akwara akpọ. Abụ Ọma. Otu Abụ."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Abụ ekele"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Ka Chineke meere anyị amara ma gọzie anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ma mee ka ihu ya chakwasị anyị,",
+            "poem": 2
+          },
+          {
+            "noteId": 1636
+          },
+          {
+            "text": "Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Ka a mara ụzọ gị niile nʼụwa,",
+            "poem": 1
+          },
+          {
+            "text": "marakwa nzọpụta gị nʼetiti mba niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Ka mmadụ niile too gị, O Chineke;",
+            "poem": 1
+          },
+          {
+            "text": "ka mmadụ niile too gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ka mba niile ṅụrịa ma bụọ abụ ọṅụ,",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na ị na-eji ikpe ziri ezi na-achị ndị mmadụ,",
+            "poem": 2
+          },
+          {
+            "text": "na-edukwa mba niile nke ụwa. Sela",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Ka mmadụ niile too gị, O Chineke;",
+            "poem": 1
+          },
+          {
+            "text": "ka mmadụ niile too gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Mgbe ahụ, ala ga-amịpụta ihe owuwe ubi ya,",
+            "poem": 1
+          },
+          {
+            "text": "Chineke, onye bụ Chineke anyị, ga-agọzikwa anyị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Chineke ga-agọzi anyị,",
+            "poem": 1
+          },
+          {
+            "text": "nsọtụ niile nke ụwa ga-atụ egwu ya.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1636,
+        "caller": "+",
+        "text": "Ọnụ 6:25",
+        "reference": {
+          "chapter": 67,
+          "verse": 1
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/67.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/68.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/66.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 7
+}

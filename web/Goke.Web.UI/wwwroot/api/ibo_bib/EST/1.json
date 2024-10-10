@@ -1,0 +1,260 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "ibo_bib",
+    "name": "Esta",
+    "commonName": "Esta",
+    "title": "Esta",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "5881b095ce54f80d61363ebb2cb7b87a73a9f707399baa21d7236502107718f7",
+    "firstChapterApiLink": "/api/ibo_bib/EST/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EST/10.json",
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 1,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọdịda eze nwanyị Vashti"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nke a bụ ihe mere nʼoge ọchịchị eze Sekses, bụ Sekses nke chiri alaeze",
+          {
+            "noteId": 527
+          },
+          "nwere mpaghara dị iche iche nke karịrị otu narị na iri abụọ na asaa (127), nke gbasakwara site nʼIndia rụọ Kush.",
+          {
+            "noteId": 528
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Nʼoge ahụ, isi ọchịchị obodo eze Sekses bụ Susa",
+          {
+            "noteId": 529
+          },
+          "ebe ocheeze ya dịkwa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼafọ nke atọ nke ọchịchị ya, o mere mmemme oke oriri nye ndịisi ọrụ ya niile. Ndị ọzọ ọ kpọkwara bụ ndịisi agha nke Peshịa na Midia, na ụmụ eze, na ndị ọchịchị sitere na mba dị iche iche ọ na-achị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mmemme a were otu narị na iri ụbọchị asatọ (180). Eze jikwa oge a gosi akụnụba, na ịma mma na ebube nke alaeze ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ụbọchị ndị a gafesịrị, eze kpọrọ oke oriri nọrọ ụbọchị asaa nʼubi a gbara ogige dị nʼụlọeze, nye ndị niile nọ na Susa, site nʼonye ukwu ruo nʼonye nta."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ihe ịchọ mma e ji dozie ogige ahụ bụ ezi akwa mgbochi dị ọcha, nke e ji ogho ọcha kpaa na nke e jikwa ogho na-acha anụnụ anụnụ kpaa. E jikwa eriri ogho dị ezi ọcha na nke na-acha odo odo kekọtaa akwa mgbochi ndị ahụ, nʼihe mgbaaka ọlaọcha dị nʼogidi nkume dị oke ọnụahịa e wuru nʼebe ahụ. A dọbakwara oche",
+          {
+            "noteId": 530
+          },
+          "ọlaọcha na ọlaedo ndị ahụ nʼebe e wulitụrụ elu, nke e ji nkume mabụl na nkume ndị ọzọ dị oke ọnụahịa, ndị na-acha ezi ọcha, ndị na-acha odo odo na nke na-eji oji wuo ala ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "E jikwa iko ọlaedo ṅụọ ihe ọṅụṅụ. Iko ọlaedo ọbụla e wepụtara nʼụbọchị ahụ dị iche nʼiche. O nweghị nke yiri ibe ya. E mekwara ka mmanya eze baa ụba dịka afọ ọma aka eze si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "E nyeghịkwa iwu ọbụla banyere iko mmanya ole mmadụ kwesiri ịṅụ kama ndị chọrọ ga-aṅụ dịka o si masị ha. Nʼihi na eze agwalarị ndịisi ozi ya na onye ọbụla kwesiri ịṅụ dịka o si chọọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼotu oge ahụ, eze nwanyị Vashti, kpọkwara oke oriri nye ụmụ nwanyị niile nọ nʼụlọeze, Sekses."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼụbọchị nke asaa, mgbe obi dị eze Sekses mma nʼihi mmanya ọ ṅụrụ, ọ nyere ndị onozi asaa ndị a na-ejere ya ozi iwu, ha bụ, Mehuman, na Bizta, na Habona, na Bigta, na Abagta, na Zeta, na Kakas,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "sị ha gaa kpọọ Vashti nwunye eze ka ọ bịakwute ya. Eze nyekwara iwu ka Vashti kpuru okpueze nʼisi ya, maka igosi ndị mmadụ niile na ndị a na-asọpụrụ nọ nʼebe ahụ ịma mma ya. Nʼihi na Vashti mara mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ma mgbe e mere ka ozi eze ruo ya ntị, eze nwanyị, bụ Vashti jụrụ ịbịa. Nke a mere ka iwe wee eze nke ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Dịka eze Sekses na-eme, ọ kpọkwara ndị ọkachamara nʼihe gbasara iwu na ikpe ziri ezi. Eze na ndị a mara ihe, bụ ndị maara ihe ụbọchị nyere kparịtara ụka."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ha bụkwa ndị na-anọkarị eze nso. Aha ha bụ Kashena, na Sheta, na Admata, na Tashish, na Meres, na Masena, na Memukan. A maara aha mmadụ asaa ndị a nʼala Midia na Peshịa. Ha bụ ndị na-aga nʼihu eze mgbe ọbụla ha chọrọ, bụrụkwa ndị dịkarịsịrị elu nʼalaeze ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Eze jụrụ sị, “Dịka iwu si dị, gịnị ka a ga-eme Vashti bụ nwunye eze nʼihi na o nupuru isi nʼiwu eze Sekses nyere nke o zigaara ya site nʼọnụ ndị onozi ya?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Memukan kwuchitere ọnụ ndị ọzọ sị, “Ihe Vashti nwunye eze mere jọrọ njọ. O mehiela eze, mehiekwa ndị ọchịchị niile, na ndị niile bi nʼakụkụ niile nke alaeze Sekses."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Nʼihi na ndị inyom niile ga-amata ihe eze nwanyị mere, malite ilelị ndị di ha anya, ma na-ekwu sị, ‘Eze Sekses nyere Vashti nwunye ya iwu ka ọ bịa nʼihu ya, ma ọ jụrụ ịbịa.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Nʼụbọchị taa ka ndị inyom ndịisi nke Peshịa na Midia, bụ ndị nụrụ banyere omume nwunye eze mere, ga-azakwa ndịisi ọchịchị alaeze gị nʼụzọ dị otu a. A ga-enwe nleda anya na esemokwu nʼala a mgbe niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "“Ya mere, ọ bụrụ na ọ masị eze, ya nye iwu, nke a ga-edepụta, ka ọ bụrụ iwu nʼala Peshịa na Midia, nke na-agaghị agbanwe, na Vashti agaghị abatakwa nʼihu eze Sekses ọzọ. Ka eze werekwa ọnọdụ eze nwanyị ahụ nye onye ọzọ ka ya mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ọ ga-erukwa na mgbe a gụpụtara iwu a eze nyere nʼakụkụ alaeze a niile, ndị inyom niile ga-asọpụrụ ndị di ha site nʼonye dịkarịsịrị nta nʼetiti ha ruo nʼonye dị ukwuu.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Eze na ndịisi ọchịchị ya nabatara ndụmọdụ a, nʼihi ya, eze mere ihe Memukan kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "O zipụrụ akwụkwọ ozi a nye akụkụ niile a na-achị achị nke alaeze ahụ. E dekwara akwụkwọ ozi ahụ nʼasụsụ dị iche iche, na-ekwupụta nʼasụsụ ọbụla na nwoke ọbụla kwesiri ịbụ onye na-achị ezinaụlọ ya."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 527,
+        "caller": "+",
+        "text": "E kewara alaeze a ụzọ isi, nwee isi ọchịchị iri abụọ. Mpaghara ọbụla nọ nʼokpuru otu isi ọchịchị.",
+        "reference": {
+          "chapter": 1,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 528,
+        "caller": "+",
+        "text": "Nke bụ mgbago osimiri Naịl",
+        "reference": {
+          "chapter": 1,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 529,
+        "caller": "+",
+        "text": "Susa bụ otu nʼime isi obodo anọ nke alaeze ahụ. Ndị ọzọ bụ Babilọn, Peshịapolis na Ekbatana. Obodo Susa bụ na ndagwurugwu Taịgria ka ọ dị, ọ bụkwa nʼebe ahụ ka ndị eze atọ chịrị alaeze a na-anọ nʼoge oke oyi.",
+        "reference": {
+          "chapter": 1,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 530,
+        "caller": "+",
+        "text": "Ndị Peshịa na-adabere nʼoche ma ha na-eri ihe.",
+        "reference": {
+          "chapter": 1,
+          "verse": 6
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EST/1.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EST/2.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/NEH/13.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

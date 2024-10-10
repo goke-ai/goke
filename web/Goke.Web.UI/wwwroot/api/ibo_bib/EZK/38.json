@@ -1,0 +1,248 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 38,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Mmeri dị ukwuu nke Onyenwe anyị meriri ọtụtụ mba"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Okwu Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nwa nke mmadụ, chee ihu nʼala Magog, bukwaa amụma megide Gog, bụ onyeisi nke Meshek",
+          {
+            "noteId": 646
+          },
+          "na Tubal. Buo amụma megide ya,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "sị, ‘Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Ana m edo onwe m imegide gị, Gog, eze ukwu ndị Meshek na Tubal."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Aga m echigharị gị, tinye gị nko nʼagba gị abụọ, jiri ya kpụpụta gị na usuu ndị agha gị niile, na ịnyịnya gị, na ndị na-agba ịnyịnya gị na ihe agha ha, na usuu ndị agha gị niile, ndị ji ọta ukwu na ọta nta, ndị niile na-ejide mma agha ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Peshịa na Itiopia,",
+          {
+            "noteId": 647
+          },
+          "na Put, ga-esonyere ha, ha niile ga-ejikwa ọta ha na okpu agha ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Goma na usuu ndị agha ya niile, na ndị agha Bet Togama ndị si nʼakụkụ ugwu, dị ebe dị anya na ọtụtụ ndị mba ọzọ ga-eso gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "“ ‘Jikere! Jikere onwe gị, gị onwe gị na usuu ndị agha ahụ nọ gị gburugburu, gị Gog, bụrụkwa onyendu ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mgbe ọtụtụ ụbọchị gasịrị, a ga-akpọlite gị ibu agha. Nʼogologo oge dị nʼihu, ị ga-ebuso ala ahụ agha bụ ala ahụ na-enwetaghachi onwe ya site na mbibi nke ibu agha; ala ahụ e si na mba dị iche iche chịkọtaa ndị bi nʼime ya, mee ka ha birikwa nʼugwu niile nke Izrel ahụ naara atọgbọ nʼefu. E bulatara ha site na mba dị iche iche, ma ugbu a, ha anọrọla nʼudo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Gị onwe gị, na ndị agha gị niile, na ọtụtụ ndị mba ahụ dị iche iche ndị na-eso gị, jiri ọsọ, dịka ikuku siri ike, rigoo, kpuchie ala ahụ dịka igwe ojii."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“ ‘Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Nʼụbọchị ahụ, echiche ọjọọ ga-abata nʼobi gị, mgbe ị na-atule ọtụtụ ihe dị iche iche nʼobi gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ị ga-asị, “Aga m ebuli megide nʼala na-enweghị mgbidi, aga m awakpo ndị nọ nʼudo na-adịghị atụ anya nsogbu ọbụla, ha niile bụ ndị bi nʼebe na-enweghị mgbidi, ha enweghịkwa ibo ọnụ ụzọ na mkpọrọ e ji akpọchi ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Aga m akwata ihe nkwata, lụtakwa ihe nlụta nʼagha. Aga m eweli aka m megide obodo ndị a niile e wugharịrị ewugharị, megidekwa ndị a niile e si na mba dị iche iche chịkọtaa, bụ ndị bara ọgaranya nʼanụ ụlọ na ngwongwo dị iche iche, ndị bikwa nʼetiti ala a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ndị Sheba na Dedan, na ndị ahịa Tashish niile, na ụmụ ọdụm ya niile ga-ajụ gị, “Ị bịara ịkwata ihe nkwata? Ị chịkọtara usuu ndị agha gị nʼihi ịkwara ihe nlụta, na iburu ọlaọcha na ọlaedo, na ịchịrị igwe anụ ụlọ ha, na ngwongwo ha, na ịkwakọrọ ihe ha nwere nʼike?” ’"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Amụma megide Gog"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "“Nʼihi ya, nwa nke mmadụ, buo amụma sị Gog, ‘Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Nʼụbọchị ahụ mgbe ndị m bụ Izrel na-ebi nʼudo nʼala ha, ọ bụ na ị gaghị ahụta ya?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ị ga-esi nʼebe obibi gị dị nʼugwu bịa, gị na ọtụtụ mba dị iche iche, ndị na-anọkwasị nʼịnyịnya. Ha ga-adị ukwuu, bụrụ ndị agha dị ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Unu ga-abịa ibuso ndị m Izrel agha, kpuchie ala ha dịka igwe ojii. Nʼụbọchị ndị ahụ dị nʼihu, aga m eme ka gị, bụ Gog, bịa buso ala m agha, ka mba niile si otu a mata m, mgbe m mere ka ịdị nsọ m pụta ìhè nʼanya ha site nʼihe m ga-eme.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "“ ‘Ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Ọ bụ gị, bụ onye ahụ m kwuru okwu banyere ya nʼoge gara aga, site nʼọnụ ndị ohu m, bụ ndị amụma Izrel, ndị buru amụma ọtụtụ afọ na mgbe ahụ, sị, na m ga-eme ka ị megide ndị m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Lee ihe ga-eme nʼụbọchị ahụ. Mgbe Gog busoro ala Izrel agha, ọ ga-esi otu a kpalie iwe m dị ọkụ. Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwupụtara."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Nʼihi na esitere m nʼịnụ ọkụ nke obi m, na oke iwe m kwupụta sị, na ala ọma jijiji dị ukwuu ga-adị nʼIzrel nʼụbọchị ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Azụ niile dị nʼoke osimiri, na anụ ufe nke eluigwe, na anụ ọhịa, na ihe niile na-akpụ akpụ, na mmadụ niile nọ nʼelu ụwa ga-ama jijiji nʼihu m. A ga-akwatu ugwu niile, ebe niile dị mkputamkpu ga-adarukwa ala."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Aga m akpọlite mma agha ka o megide Gog nʼugwu m niile. Onye ọbụla ga-ejikwa mma agha ya megide nwanne ya nwoke. Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Aga m eji ọrịa na-efe efe na iwusi ọbara kpee ya ikpe. Aga m awụkwasị ya na ndị agha ya na ọtụtụ mba dị iche iche ndị ahụ so ya, oke mmiri ozuzo na akụmmiri, na nkume ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Otu a ka m ga-esi gosi ịdị ukwuu m, na ịdị nsọ nke aha m. Aga m emekwa ka a mara m nʼanya mba niile dị iche iche. Mgbe ahụ, ha ga-amata na mụ onwe m bụ Onyenwe anyị.’"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 646,
+        "caller": "+",
+        "text": "Ya bụ, Roshu",
+        "reference": {
+          "chapter": 38,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 647,
+        "caller": "+",
+        "text": "Maọbụ, Kush.",
+        "reference": {
+          "chapter": 38,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/38.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/39.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/37.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

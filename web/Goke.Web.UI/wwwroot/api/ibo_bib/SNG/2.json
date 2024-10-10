@@ -1,0 +1,413 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "SNG",
+    "translationId": "ibo_bib",
+    "name": "Abụ nke Abụ",
+    "commonName": "Abụ nke Abụ",
+    "title": "Abụ nke Abụ",
+    "order": 22,
+    "numberOfChapters": 8,
+    "sha256": "6514d7dce5ded66021cc784856cb2aed328424d30f41fe6e5dd039e3c7ac7844",
+    "firstChapterApiLink": "/api/ibo_bib/SNG/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/SNG/8.json",
+    "totalNumberOfVerses": 117
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Abụ m okoko osisi ọhịa nke Sharọn,",
+            "poem": 1
+          },
+          {
+            "noteId": 1844
+          },
+          {
+            "text": "na okoko lili nke na-epu na ndagwurugwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "E, dịka okoko lili nke na-epu nʼetiti ogwu,",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka ọmasịrị m dị nʼetiti ụmụ agbọghọ ndị ọzọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Onye m hụrụ nʼanya dịka osisi apụl, nʼetiti osisi na-amị mkpụrụ nʼọhịa,",
+            "poem": 1
+          },
+          {
+            "text": "mgbe e ji ya tụnyere ụmụ okorobịa ndị ọzọ.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ na-enye m obi ụtọ ịnọ nʼokpuru ndo ya,",
+            "poem": 1
+          },
+          {
+            "text": "mkpụrụ ya dịkwa ụtọ nʼọnụ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ka ọ kpọrọ m jee nʼụlọ oriri,",
+            "poem": 1
+          },
+          {
+            "text": "ka ọkọlọtọ ya nʼekpuchi m bụrụ ịhụnanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Were mkpụrụ osisi a mịkpọrọ amịkpọ gbaa m ume;",
+            "poem": 1
+          },
+          {
+            "text": "werekwa mkpụrụ osisi apụl mee ka ahụ m dị ike,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na abụ m onye ịhụnanya mere ka ike gwụsịa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Aka ekpe ya dị nʼokpuru isi m,",
+            "poem": 1
+          },
+          {
+            "text": "aka nri ya na-ejikụ m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Unu ụmụ agbọghọ Jerusalem,",
+            "poem": 1
+          },
+          {
+            "text": "eji m nne mgbada niile na nne ele ọhịa niile na-agba unu iyi sị:",
+            "poem": 2
+          },
+          {
+            "text": "Unu akpọtela maọbụ mee ka ịhụnanya teta,",
+            "poem": 1
+          },
+          {
+            "text": "ruo mgbe ọ masịrị ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Gee ntị! Onye m hụrụ nʼanya!",
+            "poem": 1
+          },
+          {
+            "text": "Lee ya ka ọ na-abịa,",
+            "poem": 2
+          },
+          {
+            "text": "na-amali elu nʼelu ugwu niile,",
+            "poem": 1
+          },
+          {
+            "text": "na-amafekwa nʼelu ugwu nta niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Onye m hụrụ nʼanya yiri mgbada, o yiri nwa ele.",
+            "poem": 1
+          },
+          {
+            "text": "Lee ya ka ọ na-eguzo nʼazụ mgbidi anyị,",
+            "poem": 2
+          },
+          {
+            "text": "ọ na-esikwa na oghereikuku",
+            "poem": 1
+          },
+          {
+            "text": "na nʼoghere dị ya na-elebata anya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "Onye m hụrụ nʼanya gwara m okwu sị m,",
+            "poem": 1
+          },
+          {
+            "text": "“Bilie, onye ihe ya na-atọ m ụtọ,",
+            "poem": 2
+          },
+          {
+            "text": "onye m mara mma, soro m.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Lee, oge oyi agafeela,",
+            "poem": 1
+          },
+          {
+            "text": "udu mmiri agabigakwala.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Okoko osisi epupụtala nʼala;",
+            "poem": 1
+          },
+          {
+            "text": "oge eji agụ egwu eruokwala,",
+            "poem": 2
+          },
+          {
+            "text": "a na-anụ abụ nduru",
+            "poem": 1
+          },
+          {
+            "text": "nʼala anyị niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Mkpụrụ osisi fiig ebidola ịmịpụta mkpụrụ ya nke mbụ,",
+            "poem": 1
+          },
+          {
+            "noteId": 1845
+          },
+          {
+            "text": "isi osisi vaịnị na-amịpụta okoko na-esiju ebe niile.",
+            "poem": 2
+          },
+          {
+            "text": "Bilie, ma bịa, ọmasịrị m.",
+            "poem": 1
+          },
+          {
+            "text": "Onye nke m mara mma! Bịa ka i sooro m.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "Nduru m nọ nʼọgba nkume,",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe nzuzo nke akụkụ ugwu,",
+            "poem": 2
+          },
+          {
+            "text": "gosi m ihu gị,",
+            "poem": 1
+          },
+          {
+            "text": "mee ka m nụ olu gị,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na olu gị dị ụtọ,",
+            "poem": 1
+          },
+          {
+            "text": "ihu gị makwara mma.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Jidenụ nkịta ọhịa,",
+            "poem": 1
+          },
+          {
+            "text": "ụmụ nkịta ọhịa niile",
+            "poem": 2
+          },
+          {
+            "text": "na-emebiri anyị ubi,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụladị ubi vaịnị anyị na-agbawa okoko.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "Onye m hụrụ nʼanya bụ nke m, mụ onwe m bụkwa nke ya.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ na-azụ igwe atụrụ ya nʼetiti okoko urodi,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "tutu chi ụtụtụ abọọ",
+            "poem": 1
+          },
+          {
+            "text": "mgbe onyinyo niile na-agabigakwa.",
+            "poem": 2
+          },
+          {
+            "text": "Tụgharịa, onye m hụrụ nʼanya,",
+            "poem": 1
+          },
+          {
+            "text": "dị ka mgbada",
+            "poem": 2
+          },
+          {
+            "text": "maọbụ nwa ele",
+            "poem": 1
+          },
+          {
+            "text": "nke nọ nʼelu ugwu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1844,
+        "caller": "+",
+        "text": "Okoko osisi a bụ otu nʼime okoko osisi ndị na-epu nʼọkọchị, na ndịda akụkụ osimiri Kamel Aịz 35:1-2",
+        "reference": {
+          "chapter": 2,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 1845,
+        "caller": "+",
+        "text": "Osisi fiig na-amị mkpụrụ ugboro abụọ nʼafọ nʼIzrel. Ọ bụ nʼoge ọkọchị ka ọ kachasị amị mkpụrụ, amaokwu a na-ekwu banyere owuwe ihe ubi nke mkpụrụ fiig mbụ.",
+        "reference": {
+          "chapter": 2,
+          "verse": 13
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/SNG/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/SNG/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/SNG/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

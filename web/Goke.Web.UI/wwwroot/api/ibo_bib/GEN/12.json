@@ -1,0 +1,269 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 12,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọkpụkpọ Ebram"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Onyenwe anyị gwara Ebram okwu sị, “Site nʼobodo gị, sikwa na ụmụnna gị na ezinaụlọ nna gị, gaa nʼala m ga-egosi gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "“Aga m eme gị mba ukwu,",
+            "poem": 1
+          },
+          {
+            "text": "aga m agọzi gị,",
+            "poem": 2
+          },
+          {
+            "text": "aga m eme ka aha gị dị ukwuu,",
+            "poem": 1
+          },
+          {
+            "text": "ị ga-abụ ngọzị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Aga m agọzi ndị na-agọzi gị,",
+            "poem": 1
+          },
+          {
+            "text": "ma onye ọbụla kọchara gị ka m ga-akọcha;",
+            "poem": 2
+          },
+          {
+            "text": "a ga-agọzikwa agbụrụ niile nọ nʼụwa",
+            "poem": 1
+          },
+          {
+            "text": "site na gị.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ya mere, Ebram hapụrụ gaa dịka Onyenwe anyị gwara ya. Lọt sokwa ya. Ebram agbaala iri afọ asaa na ise mgbe o si na Haran bulie ije."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "O duru nwunye ya Serai na Lọt nwa nwanne ya, chịkọtakwa akụ niile ha kpakọbara, na ndị ohu niile ha nwetara nʼala Haran, chee ihu ịga nʼala Kenan. Emesịa ha rutere nʼebe ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebram jere ije nʼime ala Kenan jeruo nʼebe osisi ukwu More, nke dị nʼobodo Shekem. Ndị Kenan bi nʼala ahụ nʼoge ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Onyenwe anyị mere ka Ebram hụ ya anya, ọ sịrị, “Aga m enye mkpụrụ gị ala a.” Ya mere, Ebram wuru ebe ịchụ aja nʼebe ahụ nye Onyenwe anyị onye gosiri ya onwe ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Emesịa, Ebram hapụrụ ebe ahụ chee ihu nʼala ugwu dị nʼọwụwa anyanwụ Betel, maa ụlọ ikwu ya. Obodo Betel dị nʼakụkụ ọdịda anyanwụ, ma obodo Ai dị nʼakụkụ ọwụwa anyanwụ ebe ọ mara ụlọ ikwu ya. Nʼebe nsọ ahụ Ebram wuru ebe ịchụ aja, nọrọ nʼebe ahụ kpọkuo aha Onyenwe anyị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Ọzọ, Ebram si nʼebe ahụ pụọ gaa ije rute Negev.",
+          {
+            "noteId": 706
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ebram ejee Ijipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Nʼoge ahụ, oke ụnwụ dara nʼala ahụ.",
+          {
+            "noteId": 707
+          },
+          "Nʼihi ya, Ebram hapụrụ ala ahụ gaa nʼala",
+          {
+            "noteId": 708
+          },
+          "Ijipt, ebe o biri nwa oge."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma mgbe ha na-akwado ịbanye ala Ijipt, ọ gwara Serai nwunye ya sị, “Amaara m na ị bụ nwanyị mara mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mgbe ndị Ijipt ga-ahụ gị, ha ga-asị, ‘Onye a bụ nwunye ya.’ Mgbe ahụ, ha ga-egbu m ma hapụ gị ndụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Gwa ha na ị bụ nwanne m nwanyị, ka ha meso m mmeso ọma nʼihi gị. Ha ga-echebekwa m ndụ nʼihi gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Mgbe Ebram rutere Ijipt, ndị Ijipt hụrụ na nwunye ya bụ nwanyị mara mma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ndị ozi Fero hụrụ ya, ha toro ya nʼihu Fero. Nʼihi nke a, ha kpọbatara Serai nʼụlọeze Fero."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Fero mesoro Ebram mmeso ọma nʼihi nwunye ya. Ebram nwetara igwe atụrụ, na ehi, na nne ịnyịnya ibu, oke na nwunye, na ndị ohu ndị nwoke na ndị nwanyị, na ịnyịnya kamel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ma Onyenwe anyị jiri ajọọ ọrịa tie Fero na ndị ezinaụlọ ya ihe otiti nʼihi Serai nwunye Ebram."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mgbe ahụ, Fero kpọrọ Ebram sị ya, “Gịnị bụ ihe a i mere? Gịnị mere ị gwaghị m na ọ bụ nwunye gị?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Gịnị mere i ji sị na ọ bụ nwanne gị nwanyị, si otu a mee m ka m kpọrọ ya ka ọ bụrụ nwunye m? Ugbu a, lee nwunye gị, kpọrọ ya laa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Fero nyere iwu banyere Ebram na ndị ikom so ya. Ha zilagara ya, ya na nwunye ya, na ihe niile o nwere."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 706,
+        "caller": "+",
+        "text": "Ihe aha a pụtara bụ “ala kpọrọ nkụ.” Nke a bụ nʼihi ala ahụ tọgbọrọ nʼefu, gbatịa gbadaa ndịda Jerusalem, nʼụzọ ọzara.",
+        "reference": {
+          "chapter": 12,
+          "verse": 9
+        }
+      },
+      {
+        "noteId": 707,
+        "caller": "+",
+        "text": "Jen 26:1; 41:56",
+        "reference": {
+          "chapter": 12,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 708,
+        "caller": "+",
+        "text": "Nʼoge a, ụkọ mmiri ozuzo e metụtabeghị ihe ubi nʼala Ijipt, nʼihi na ha na-esite na iyi ha rụrụ na-agba ubi ha mmiri.",
+        "reference": {
+          "chapter": 12,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/12.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/13.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/11.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 20
+}

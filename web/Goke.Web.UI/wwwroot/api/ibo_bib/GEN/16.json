@@ -1,0 +1,228 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "GEN",
+    "translationId": "ibo_bib",
+    "name": "Jenesis",
+    "commonName": "Jenesis",
+    "title": "Jenesis",
+    "order": 1,
+    "numberOfChapters": 50,
+    "sha256": "231e2c8c231bd49873b5cf8d053c4859c82b9c9a994e14d8976861257ccf9408",
+    "firstChapterApiLink": "/api/ibo_bib/GEN/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/GEN/50.json",
+    "totalNumberOfVerses": 1533
+  },
+  "chapter": {
+    "number": 16,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Hega na Ishmel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ma Serai nwunye Ebram, amụtaghị nwa. Serai nwere odibo nwanyị onye Ijipt, aha ya bụ Hega."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ya mere ọ gwara Ebram sị, “Lee, ugbu a, Onyenwe anyị egbochiela m ịmụta ụmụ.",
+          {
+            "noteId": 712
+          },
+          "Ugbu a, bakwuru nwanyị na-ejere m ozi. Ma eleghị anya, aga m esi na ya wulite ezinaụlọ m.” Ebram kweere ihe Serai kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ya mere Serai nwunye Ebram, duuru Hega, odibo nwanyị ya, onye Ijipt, dunye Ebram ka ọ bụrụ nwunye ya. Ihe a mere na ngwụcha afọ iri site na mgbe Ebram bịara biri nʼala Kenan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ebram na Hega dinara. Hega tụụrụ ime. Ma mgbe Hega matara na ọ dịrịla ime, ọ malitere ileda nne ya ukwu bụ Serai anya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Mgbe ahụ, Serai gwara Ebram sị, “Ọ bụ gị butere ahụhụ a m nọ nʼime ya. Ọ bụ m were nwaodibo nwanyị m kunye gị nʼaka, ma ugbu a ọ hụrụ na ọ dị ime, abụrụla m onye ọ na-eleda anya. Ka Onyenwe anyị kpee ikpe a nʼetiti mụ na gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ebram zara Serai sị, “Lee, ohu gị nwanyị dị gị nʼaka. Jiri ya mee ihe ọbụla dị gị mma nʼanya.” Nʼihi nke a, Serai mesiri ya ihe ike, nke mere ka o si nʼebe Serai nọ gbapụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma mmụọ ozi Onyenwe anyị hụrụ ya nʼakụkụ isi iyi mmiri dị nʼọzara, nʼakụkụ ụzọ Shua,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "jụọ ya sị, “Hega, ohu nwanyị Serai, olee ebe i si bịa, olee ebe ka ị na-ejekwa?” Hega zara sị, “Ọ bụ site nʼihu nne m ukwu Serai ka m na-agba ọsọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mmụọ ozi Onyenwe anyị gwara ya sị, “Laghachikwuru nne gị ukwu. Doo onwe gị nʼokpuru ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mmụọ ozi Onyenwe anyị sịkwa ya, “Aga m amụba ụmụ gị, ka a hapụ inwe ike ịgụta ole ha dị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Mmụọ ozi Onyenwe anyị gwakwara ya sị,",
+          {
+            "text": "“Ị dị ime ugbu a,",
+            "poem": 1
+          },
+          {
+            "text": "ị ga-amụ nwa nwoke.",
+            "poem": 2
+          },
+          {
+            "text": "Aha ị ga-agụ ya bụ Ishmel",
+            "poem": 1
+          },
+          {
+            "text": "nʼihi na Onyenwe anyị anụla maka nhụju anya gị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Nwoke dịka ịnyịnya ibu a na-azụghị azụ ka ọ ga-abụ.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ ga-emegide onye ọbụla,",
+            "poem": 2
+          },
+          {
+            "text": "onye ọbụla ga-emegidekwa ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ ga-ebi nʼime ibu iro,",
+            "poem": 1
+          },
+          {
+            "text": "megide ụmụnna ya niile.”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Hega kpọkuru aha Onyenwe anyị, onye gwara ya okwu sị, “Ị bụ Chineke m na-ahụ m.” Nʼihi na Hega kwuru sị, “Ahụla m, ugbu a, onye ahụ na-ahụ m.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ bụ ya mere e ji na-akpọ olulu mmiri ahụ, Bịa-Lahai-Rọị.",
+          {
+            "noteId": 713
+          },
+          "Ọ ka dị ebe ahụ, nʼetiti Kadesh na Bered."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Emesịa, Hega mụtaara Ebram nwa nwoke. Ebram kpọrọ nwa nwoke ahụ Hega mụtaara ya Ishmel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ebram gbara iri afọ asatọ na isii mgbe Hega mụtaara ya Ishmel."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 712,
+        "caller": "+",
+        "text": "Amụtaghị nwa bụ ihe ndị mmadụ na-ahụta dị ka ntaramahụhụ si nʼaka Chineke. Ọ bụrụ na nwanyị amụtaghị nwa, nʼebe ụfọdụ, omenaala na-akwado ya ị họtara di ya nwanyị ọzọ, onye ga-amụrụ ya ụmụ. Ụmụ niile nwanyị ahụ ga-amụta na-abụ nke nwanyị ahụ na-amụtaghị nwa. Jen 20:18; 30:3",
+        "reference": {
+          "chapter": 16,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 713,
+        "caller": "+",
+        "text": "Ma o bụ, Olulu Mmiri nke Onye ahụ dị ndụ na-ahụ m.",
+        "reference": {
+          "chapter": 16,
+          "verse": 14
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/GEN/16.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/GEN/17.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/GEN/15.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 16
+}

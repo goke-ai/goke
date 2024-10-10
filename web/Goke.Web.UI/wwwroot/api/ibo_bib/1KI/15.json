@@ -1,0 +1,323 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Eze",
+    "commonName": "1 Ndị Eze",
+    "title": "1 Ndị Eze",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "bc19177f5947d59e115a1a111245ea4249ce6da42aa6c8da3080fae6d4b373fb",
+    "firstChapterApiLink": "/api/ibo_bib/1KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1KI/22.json",
+    "totalNumberOfVerses": 816
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọchịchị eze Abija"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Abija malitere ịbụ eze Juda, nʼafọ iri na asatọ nke ọchịchị eze Jeroboam nwa Nebat."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ọ chịrị afọ atọ na Jerusalem. Aha nne ya bụ Maaka, nwa nwanyị Abishalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "O mere mmehie niile nna ya mere nʼihu ya; o jighị obi zuruoke gbasoo Onyenwe anyị Chineke ya, dịka obi nna nna ya Devid dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ma nʼihi Devid, Onyenwe anyị Chineke ya nyere ya oriọna na Jerusalem, site na-ime ka nwa ya nwoke nọchie ọnọdụ ya nakwa ime ka Jerusalem guzosie ike."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼihi na Devid mere ihe ziri ezi nʼanya Onyenwe anyị, ọ dịghịkwa iwu Onyenwe anyị ọbụla nke ọ na-edebeghị nʼụbọchị ndụ ya niile, ma ọ bụghị naanị ihe banyere okwu Ụraya, onye Het."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Agha dị nʼetiti Abija na Jeroboam nʼụbọchị niile nke ndụ Abija."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma banyere ihe ndị ọzọ niile mere nʼoge ọchịchị Abija, o bụ na e deghị ha nʼakwụkwọ akụkọ ndị eze Juda? Agha dịgidere nʼetiti Abija na Jeroboam."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Abija sooro nna nna ya ha dina nʼọnwụ, e lie ya nʼobodo Devid. Asa, nwa ya nwoke ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Asa, eze Juda"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Nʼafọ nke iri abụọ nke ọchịchị Jeroboam eze Izrel, ka Asa ghọrọ eze Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ọ chịrị iri afọ anọ na otu na Jerusalem. Aha nne nne ya bụ Maaka, nwa nwanyị Abishalom."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Asa mere ihe ziri ezi nʼanya Onyenwe anyị dịka Devid nna ya mere.",
+          {
+            "noteId": 95
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "O sitere nʼala ahụ niile chụpụ ndị ikom akwụna ụlọ arụsị niile, wezugakwa arụsị niile nke ndị nna nna ya ha mere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ọ chụdakwara ọbụladị nne nne ya bụ Maaka, site nʼọnọdụ ya dịka nne eze, nʼihi na ọ kpụrụ ihe arụ, ogidi Ashera maka iji fee ya ofufe. Asa gbuturu ya kpọọ ya ọkụ na ndagwurugwu iyi Kidrọn."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ọ bụ ezie na o wezugaghị ugwu niile dị elu, ma Asa ji obi zuruoke jere Onyenwe anyị ozi nʼoge ndụ ya niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "O webatara nʼime ụlọnsọ Onyenwe anyị ọlaọcha na ọlaedo na ihe niile nke nna ya na ya onwe ya doro nsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ma agha dịgidere nʼetiti Asa na Baasha, eze Izrel ụbọchị ọchịchị ha niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Baasha eze Izrel, busoro Juda agha, wuchie Rema igbochi onye ọbụla na-apụ apụ maọbụ onye na-abata abata nʼoke ala Asa, eze Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Mgbe ahụ, Asa chịịrị ọlaọcha na ọlaedo niile dị nʼụlọakụ ụlọnsọ Onyenwe anyị, na ndị dị nʼụlọeze ya, nyefee ya nʼaka ndị ozi ya ka ha chịrị ha zigara Ben-Hadad, nwa Tabrimọm, nwa Hezion, bụ eze Aram, onye na-achị na Damaskọs, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "“Biko, ka anyị gbaa ndụ dịka nna m na nna gị mere. Lee, ana m ezitere gị onyinye ọlaọcha na ọlaedo. Ugbu a, mebie ọgbụgba ndụ dị nʼetiti gị na Baasha, bụ eze Izrel, ka o si nʼebe m nọ wezuga onwe ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Ben-Hadad kwenyere eze Asa, zipụ ndị ọchịagha ndị agha ya ka ha gaa buso obodo Izrel niile agha. Ọ lụgburu Ijon, Dan, Ebel-Bet-Maaka na ala Kineret niile, tinyere ala niile nke ndị Naftalị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Mgbe Baasha nụrụ nke a, ọ kwụsịrị iwu Rema, laghachi biri na Tịaza."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ahụ, eze Asa nyere iwu zigara ndị Juda niile, na ọ dịghị onye iwu ahụ hapụrụ, ha bịara bupusịa nkume na osisi niile dị na Rema, nke Baasha ji na-ewu ihe nʼebe ahụ. Eze Asa ji ihe ndị a wulie Geba nke Benjamin, wuokwa Mizpa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma banyere ihe ndị ọzọ niile mere nʼoge ọchịchị Asa, na ihe niile ọ rụpụtara na obodo niile ndị o wuru, ọ bụ na e deghị ha nʼakwụkwọ akụkọ ihe e mere nʼoge ndị eze Juda? Ma ọ rịara ọrịa nke metụtara ụkwụ ya abụọ, mgbe o mere agadi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Asa sooro ndị nna nna ya ha dina nʼọnwụ, e lie ya nʼebe e liri ha, nʼobodo Devid, bụ nna ya. Jehoshafat nwa ya ghọrọ eze nʼọnọdụ ya."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nadab, eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Nadab, nwa Jeroboam, malitere ịbụ eze Izrel, nʼafọ nke abụọ nke Asa, eze Juda. Ọ chịrị Izrel afọ abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "O mere ihe dị njọ nʼanya Onyenwe anyị. Ọ gbasoro ụzọ niile nke nna ya ma na-emekwa otu mmehie ahụ nke nna ya ji duba Izrel nʼime mmehie."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Baasha nwa Ahija, onye si nʼebo Isaka gbara izu ọjọọ megide ya. O tidara ya na Gibeton, nʼotu obodo ndị Filistia, mgbe Nadab na ndị Izrel niile nọchibidoro ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Baasha gburu Nadab, nọchie ọnọdụ ya dịka eze, nʼafọ nke atọ nke ọchịchị Asa, eze Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ngwangwa, mgbe ọ malitere ọchịchị ya, o gburu ndị ezinaụlọ Jeroboam niile. O kweghị ka onye ọbụla na-eku ume fọdụ, kama ọ lara ha niile nʼiyi, dịka okwu Onyenwe anyị kwuru site nʼọnụ onyeozi ya, bụ Ahija onye Shilo."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ihe ndị a mere nʼihi mmehie niile Jeroboam mere, nke o mere ka Izrel mee, nakwa nʼihi na ọ kpasuru Onyenwe anyị, bụ Chineke Izrel iwe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Ma banyere ihe ndị ọzọ niile mere nʼoge ọchịchị Nadab, o bụ na e deghị ha nʼakwụkwọ akụkọ ihe mere nʼoge ndị eze Izrel?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ma agha dịgidere nʼetiti Asa na Baasha, eze Izrel, ụbọchị ọchịchị ha niile."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Baasha, eze Izrel"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Nʼafọ nke atọ nke Asa, eze Juda, Baasha nwa Ahija ghọrọ eze ndị Izrel niile na Tịaza. Ọ chịrị iri afọ abụọ na abụọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "O mere ọtụtụ ihe dị njọ nʼanya Onyenwe anyị. Ọ gbasoro ụzọ ọjọọ niile nke Jeroboam, jeekwa ije nʼime otu mmehie ahụ nke Jeroboam dubara ndị Izrel ime."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 95,
+        "caller": "+",
+        "text": "2Ih 14:2; 1Ez 9:4; 14:8",
+        "reference": {
+          "chapter": 15,
+          "verse": 11
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1KI/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1KI/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1KI/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 34
+}

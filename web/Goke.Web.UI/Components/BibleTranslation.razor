@@ -1,0 +1,70 @@
+﻿@using System.Text.Json
+@using Goke.Bible.Entities
+
+@inject NavigationManager NavigationManager
+@inject ILogger<BibleToc> Logger
+
+<h1>Translations</h1>
+
+<div>
+    @if (Translations is null)
+    {
+        <div>Loading...</div>
+    }
+    else
+    {
+        <table class="primary">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Language</th>
+                </tr>
+            </thead>
+            @foreach (var item in Translations)
+            {
+                <tr>
+                    <td>
+                        <span @onclick="() => OnSelectedTranslation(item)"
+                              style="cursor:pointer;"
+                              title="@item.Id #@item.NumberOfBooks">
+                            @item.EnglishName
+                        </span>
+                    </td>
+                    <td>
+                        @item.LanguageEnglishName
+                    </td>
+
+                </tr>
+            }
+        </table>
+
+    }
+</div>
+
+
+@code {
+
+    [Parameter]
+    public List<Translation>? Translations { get; set; }
+    [Parameter]
+    public string? Translation { get; set; }
+    [Parameter]
+    public EventCallback<string> OnChangeTranslation { get; set; }
+
+    string? _selectedTranslation;
+    private void OnSelectedTranslation(Translation translation)
+    {
+        if (_selectedTranslation == translation.Id)
+        {
+            _selectedTranslation = null;
+        }
+        else
+        {
+            _selectedTranslation = translation.Id;
+        }
+
+
+        OnChangeTranslation.InvokeAsync(_selectedTranslation);
+    }
+
+}

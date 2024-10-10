@@ -1,0 +1,411 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "ibo_bib",
+    "name": "Abụ Ọma",
+    "commonName": "Abụ Ọma",
+    "title": "Abụ Ọma",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "ed29eb4ce1e9bedf7b40f92c886135e0ff805e20907597331d15a33bafe1f1bf",
+    "firstChapterApiLink": "/api/ibo_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 103,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Abụ Ọma Devid."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Gọzie Onyenwe anyị"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Mkpụrụobi m, too Onyenwe anyị;",
+            "poem": 1
+          },
+          {
+            "text": "ka ihe niile dị nʼime m too aha nsọ ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Mkpụrụobi m, too Onyenwe anyị;",
+            "poem": 1
+          },
+          {
+            "text": "echefukwala mmeso ọma ya niile,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "ọ bụ ya na-agbaghara gị mmehie gị niile;",
+            "poem": 1
+          },
+          {
+            "text": "na-agwọkwa gị ọrịa gị niile,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "onye na-agbapụta ndụ gị site nʼolulu",
+            "poem": 1
+          },
+          {
+            "text": "werekwa ịhụnanya na ọmịiko kpukwasị gị dịka okpueze,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "onye na-eji ezi ihe na-emejupụta ọchịchọ gị niile,",
+            "poem": 1
+          },
+          {
+            "text": "ka oge okorobịa gị bụrụ ihe a gbanwere dịka nke ugo.",
+            "poem": 2
+          },
+          {
+            "noteId": 1675
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Onyenwe anyị na-arụ ọrụ ezi omume,",
+            "poem": 1
+          },
+          {
+            "text": "na-ekpe ikpe ziri ezi nye ndị a na-emegbu emegbu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "O mere ka Mosis mata ụzọ ya,",
+            "poem": 1
+          },
+          {
+            "text": "mekwaa ka ụmụ Izrel mara ọrụ ya dị iche iche:",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Onyenwe anyị nwere obi ọmịiko na-emekwa amara.",
+            "poem": 1
+          },
+          {
+            "text": "Ọ dịghị ewe iwe ọsịịsọ, o jupụtara nʼịhụnanya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Iwe ya anaghị adịgide ruo mgbe ebighị ebi,",
+            "poem": 1
+          },
+          {
+            "text": "ọ bụghị oge niile ka ọ na-anọgide na-ata mmadụ ụta;",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          {
+            "text": "ọ bụghị dịka mmehie anyị si dị ka ọ na-emeso anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị akwụghachi anyị dịka ajọ omume anyị si dị.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          {
+            "text": "Nʼihi na dịka eluigwe si dị elu karịa ụwa,",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka ịhụnanya ya si dị ukwuu nʼebe ndị na-atụ egwu ya nọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          {
+            "text": "Dịka ọwụwa anyanwụ si dị anya, site nʼọdịda anyanwụ,",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka o sirila mee ka mmehie anyị niile dịrị anya site nʼebe anyị nọ.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          {
+            "text": "Dịka nna si enwe obi ebere nʼebe ụmụ ya nọ,",
+            "poem": 1
+          },
+          {
+            "text": "otu a ka Onyenwe anyị si enwe obi ebere nʼebe ndị na-atụ egwu ya nọ,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          {
+            "text": "nʼihi na ya onwe ya maara otu e si kpụọ anyị,",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-echeta na anyị bụ aja.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          {
+            "text": "Ebe mmadụ nọ, ụbọchị ya niile dị ka ahịhịa,",
+            "poem": 1
+          },
+          {
+            "text": "ọ na-etopụta, na-awasa dịka okoko osisi ọhịa,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          {
+            "text": "ifufe na-efesi ya ike, ọ na-adakwa,",
+            "poem": 1
+          },
+          {
+            "text": "adịghị echetakwa ya nʼọnọdụ mbụ ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          {
+            "text": "Ma ịhụnanya Onyenwe anyị na-adịgide site",
+            "poem": 1
+          },
+          {
+            "text": "nʼebighị ebi ruo ebighị ebi nʼetiti ndị na-atụ egwu ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ezi omume ya na-adịgidekwara ụmụ ụmụ ha,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "nye ndị ahụ niile na-edebe ọgbụgba ndụ ya",
+            "poem": 1
+          },
+          {
+            "text": "na ndị na-echeta irubere ụkpụrụ ya isi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          {
+            "text": "Onyenwe anyị emeela ka ocheeze ya guzosie ike nʼeluigwe,",
+            "poem": 1
+          },
+          {
+            "text": "alaeze ya na-achị ihe niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          {
+            "text": "Toonu Onyenwe anyị, unu ndị mmụọ ozi ya,",
+            "poem": 1
+          },
+          {
+            "text": "unu ndị dị ike ndị na-eme ihe ọ chọrọ,",
+            "poem": 2
+          },
+          {
+            "text": "na-erubere okwu ya isi.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          {
+            "text": "Toonu Onyenwe anyị unu usuu ndị agha ya niile;",
+            "poem": 1
+          },
+          {
+            "text": "unu ndị na-ejere ya ozi, ndị na-eme uche ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          {
+            "text": "Toonu Onyenwe anyị, ọrụ aka ya niile",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe ọbụla ọ na-achị.",
+            "poem": 2
+          },
+          {
+            "lineBreak": true
+          },
+          {
+            "text": "Mkpụrụobi m, too Onyenwe anyị.",
+            "poem": 1
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1675,
+        "caller": "+",
+        "text": "Ugo Ọ bụ ịdị ike na ndụ ogologo ka e ji mara nnụnụ ugo.",
+        "reference": {
+          "chapter": 103,
+          "verse": 5
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/PSA/103.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/PSA/104.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/PSA/102.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 22
+}

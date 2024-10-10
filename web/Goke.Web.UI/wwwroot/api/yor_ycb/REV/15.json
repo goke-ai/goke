@@ -1,0 +1,149 @@
+{
+  "translation": {
+    "id": "yor_ycb",
+    "name": "Biblica® ní oore ọ̀fẹ́ láti lo Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+    "website": "https://ebible.org/Scriptures/details.php?id=yor",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=yor",
+    "shortName": "YCB",
+    "englishName": "YCB",
+    "language": "yor",
+    "textDirection": "ltr",
+    "sha256": "ac5a1477ad622ee1294c7e5f74ee25f474b2797bb50a31e1895b2124c9aa2324",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/yor_ycb/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31087,
+    "languageName": "Èdè Yorùbá",
+    "languageEnglishName": "Yoruba"
+  },
+  "book": {
+    "id": "REV",
+    "translationId": "yor_ycb",
+    "name": "Ìfihàn",
+    "commonName": "Ìfihàn",
+    "title": "Ìwé Ìfihàn ti Johanu",
+    "order": 66,
+    "numberOfChapters": 22,
+    "sha256": "dfb90e8b0a627f75bac193f64bffee6fb2d0b9a8af2a15f447995ddba904a9f1",
+    "firstChapterApiLink": "/api/yor_ycb/REV/1.json",
+    "lastChapterApiLink": "/api/yor_ycb/REV/22.json",
+    "totalNumberOfVerses": 404
+  },
+  "chapter": {
+    "number": 15,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Angẹli méje pẹ̀lú ìyọnu méje"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mo sì rí àmì mìíràn ní ọ̀run tí ó tóbi tí ó sì ya ni lẹ́nu, àwọn angẹli méje tí ó ni àwọn ìyọnu méje ìkẹyìn, nítorí nínú wọn ni ìbínú Ọlọ́run dé òpin."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mo sì rí bí ẹni pé, Òkun dígí tí o dàpọ̀ pẹ̀lú iná: àwọn tí ó sì dúró lórí Òkun dígí yìí jẹ́ àwọn ti wọ́n ṣẹ́gun ẹranko náà, àti àwòrán rẹ̀, àti àmì rẹ̀ àti nọ́mbà orúkọ rẹ̀, wọn ní ohun èlò orin Ọlọ́run."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Wọ́n sì ń kọ orin ti Mose, ìránṣẹ́ Ọlọ́run, àti orin ti Ọ̀dọ́-Àgùntàn, wí pé:",
+          {
+            "text": "“Títóbi àti ìyanu ni àwọn iṣẹ́ rẹ,",
+            "poem": 1
+          },
+          {
+            "text": "Olúwa Ọlọ́run Olódùmarè;",
+            "poem": 2
+          },
+          {
+            "text": "òdodo àti òtítọ́ ni ọ̀nà rẹ̀,",
+            "poem": 1
+          },
+          {
+            "text": "ìwọ ọba àwọn orílẹ̀-èdè.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ta ni kì yóò bẹ̀rù, Olúwa,",
+            "poem": 1
+          },
+          {
+            "text": "tí kì yóò sì fi ògo fún orúkọ rẹ̀?",
+            "poem": 2
+          },
+          {
+            "text": "Nítorí ìwọ nìkan ṣoṣo ni mímọ́.",
+            "poem": 1
+          },
+          {
+            "text": "Gbogbo àwọn orílẹ̀-èdè ni yóò sì wá,",
+            "poem": 1
+          },
+          {
+            "text": "ti yóò sì foríbalẹ̀ níwájú rẹ,",
+            "poem": 2
+          },
+          {
+            "text": "nítorí a ti fi ìdájọ́ rẹ hàn.”",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Lẹ́yìn náà mo sì wo, sì kíyèsi i, a ṣí tẹmpili àgọ́ ẹ̀rí ní ọ̀run sílẹ̀;"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "àwọn angẹli méje náà sì ti inú tẹmpili jáde wá, wọ́n ni ìyọnu méje náà, a wọ̀ wọ́n ní aṣọ ọ̀gbọ̀ funfun ti ń dán, a sì fi àmùrè wúrà dìwọ́n ni oókan àyà."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Àti ọ̀kan nínú àwọn ẹ̀dá alààyè mẹ́rin náà fi ìgò wúrà méje fún àwọn angẹli méje náà, tí ó kún fún ìbínú Ọlọ́run, ẹni tí ń bẹ láààyè láé àti láéláé."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Tẹmpili náà sì kún fún èéfín láti inú ògo Ọlọ́run àti agbára rẹ̀ wá; ẹnikẹ́ni kò sì lè wọ inú tẹmpili náà lọ títí a fi mú ìyọnu méjèèje àwọn angẹli méje náà ṣẹ."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/yor_ycb/REV/15.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/yor_ycb/REV/16.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/yor_ycb/REV/14.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 8
+}

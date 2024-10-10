@@ -1,0 +1,14 @@
+﻿@if (NavOrientation == "Horizontal")
+{
+    <span>&#x2b9f;</span>
+}
+else if (NavOrientation == "Vertical")
+{
+    <span>&#x2b9e;</span>
+}
+
+@code {
+    [Parameter]
+    public string? NavOrientation { get; set; }
+
+}

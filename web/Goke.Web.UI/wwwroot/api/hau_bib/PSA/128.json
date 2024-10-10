@@ -1,0 +1,153 @@
+{
+  "translation": {
+    "id": "hau_bib",
+    "name": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™",
+    "website": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=hausa",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "hau",
+    "textDirection": "ltr",
+    "sha256": "f7b98712d68944c90ac6eda799ede1e61c24c14e7b2140ccb01e230d07e049ba",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/hau_bib/books.json",
+    "numberOfBooks": 65,
+    "totalNumberOfChapters": 1177,
+    "totalNumberOfVerses": 30730,
+    "languageName": "Hausa",
+    "languageEnglishName": "Hausa"
+  },
+  "book": {
+    "id": "PSA",
+    "translationId": "hau_bib",
+    "name": "Zabura",
+    "commonName": "Zabura",
+    "title": "Zabura",
+    "order": 19,
+    "numberOfChapters": 150,
+    "sha256": "e78067311fcd1738fecf41d9125bd907b5108451faa2568b2f100137459efee1",
+    "firstChapterApiLink": "/api/hau_bib/PSA/1.json",
+    "lastChapterApiLink": "/api/hau_bib/PSA/150.json",
+    "totalNumberOfVerses": 2461
+  },
+  "chapter": {
+    "number": 128,
+    "content": [
+      {
+        "type": "hebrew_subtitle",
+        "content": [
+          "Waƙar haurawa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          {
+            "text": "Masu albarka ne dukan masu tsoron Ubangiji,",
+            "poem": 1
+          },
+          {
+            "text": "waɗanda suke tafiya a hanyoyinsa.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          {
+            "text": "Za ka ci amfanin aikinka;",
+            "poem": 1
+          },
+          {
+            "text": "albarku da wadata za su zama naka.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Matarka za tă zama kamar kuringar inabi mai ’ya’ya",
+            "poem": 1
+          },
+          {
+            "text": "a cikin gidanka;",
+            "poem": 2
+          },
+          {
+            "text": "’ya’yanka maza za su zama kamar tohon zaitun",
+            "poem": 1
+          },
+          {
+            "text": "kewaye da teburinka.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "Ta haka mai albarka yake",
+            "poem": 1
+          },
+          {
+            "text": "wanda yake tsoron Ubangiji.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "line_break"
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Bari Ubangiji ya albarkace ka daga Sihiyona",
+            "poem": 1
+          },
+          {
+            "text": "dukan kwanakin ranka;",
+            "poem": 2
+          },
+          {
+            "text": "bari ka ga wadatar Urushalima,",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "bari kuma ka rayu ka ga ’ya’ya ’ya’yanka.",
+            "poem": 1
+          },
+          {
+            "text": "Salama tă kasance tare da Isra’ila.",
+            "poem": 2
+          }
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/hau_bib/PSA/128.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/hau_bib/PSA/129.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/hau_bib/PSA/127.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 6
+}

@@ -1,0 +1,209 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 3,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Nkwusa nke Jọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Nʼoge ahụ, Jọn omee baptizim bịara na-ezisa ozi nʼọzara Judịa. Isi okwu ya bụ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Chegharịanụ, nʼihi na alaeze eluigwe dị nso.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Nʼihi na nwoke a bụ onye e kwuru okwu banyere ya site nʼọnụ onye amụma Aịzaya sị,",
+          {
+            "text": "“Otu onye na-eti mkpu nʼọzara, na-asị,",
+            "poem": 1
+          },
+          {
+            "text": "‘Dozienụ ụzọ maka Onyenwe anyị,",
+            "poem": 1
+          },
+          {
+            "text": "meenụ ka okporoụzọ ya guzozie.’ ”",
+            "poem": 2
+          },
+          {
+            "noteId": 1299
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jọn yi uwe e ji ajị ịnyịnya kamel mee. O kekwara ihe okike ukwu nke akpụkpọ anụ nʼukwu ya. Nri ya bụ igurube na mmanụ aṅụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Nʼoge ahụ, ndị mmadụ sitere Jerusalem, na Judịa niile, nʼala niile dị Jọdan gburugburu, na-apụkwuru ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Mgbe ha na-ekwupụta mmehie ha, o mere ha baptizim nʼosimiri Jọdan."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ma mgbe ọhụrụ ọtụtụ ndị Farisii na ndị Sadusii ka ha na-abịa ka e mee ha baptizim, ọ sịrị ha, “Unu ụmụ ajụala, onye dọrọ unu aka na ntị sị unu gbanarị ọnụma nke na-abịa?"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Mịanụ mkpụrụ na-egosipụta nchegharị unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Unu echekwala na unu pụrụ ị sị nʼime onwe unu, ‘Anyị nwere Ebraham dịka nna,’ nʼihi na Chineke pụrụ isite na nkume ndị a mepụtara Ebraham ụmụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma ugbu a atụkwasịla anyụike na mgbọrọgwụ osisi niile. Osisi ọbụla nke na-adịghị amị ezi mkpụrụ ka a ga-egbutu, tụba ya nʼime ọkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "“Mụ onwe m ji mmiri eme unu baptizim nʼihi nchegharị, ma onye dị ike karịa m na-abịa. Onye m na-erughị ịchịta akpụkpọụkwụ ya. Ọ ga-eji Mmụọ Nsọ na ọkụ were mee unu baptizim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ihe ịfụcha ọka ya dị ya nʼaka, ọ ga-azacha ebe ịzọcha ọka ya nke ọma, chịkọta mkpụrụ ọka wiiti tinye ha nʼọba, ma jiri ọkụ a na-apụghị imenyụ emenyụ rechapụ igbugbo ọka.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jọn emee Jisọs baptizim"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ahụ, Jisọs sitere na Galili bịa nʼosimiri Jọdan ka Jọn mee ya baptizim."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma Jọn chọrọ igbochi ya, sị, “Ọ bụ m kwesiri ịbịakwute gị ka ị mee m baptizim. Gịnị mere i ji abịakwute m?”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ma Jisọs zara ya sị,",
+          {
+            "text": "“Kwere ka ọ dịrị otu a ugbu a, o kwesiri ka anyị mezuo ezi omume niile.”",
+            "wordsOfJesus": true
+          },
+          "Mgbe ahụ Jọn kwenyere."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Ngwangwa e mechara Jisọs baptizim, o sitere na mmiri ahụ rịpụta. Nʼotu oge ahụ, eluigwe meghere, Jọn hụrụ Mmụọ nke Chineke ka o si nʼelu fedata dị ka nduru na-ebekwasị Jisọs nʼisi."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Otu olu sitere nʼeluigwe kwuo okwu sị, “Onye a bụ Ọkpara m, onye m hụrụ nʼanya. Ihe ya dị m ezi mma.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1299,
+        "caller": "+",
+        "text": "Aịz 40:3",
+        "reference": {
+          "chapter": 3,
+          "verse": 3
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/3.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/4.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAT/2.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 17
+}

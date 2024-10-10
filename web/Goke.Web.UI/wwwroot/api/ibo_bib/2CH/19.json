@@ -1,0 +1,156 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "2CH",
+    "translationId": "ibo_bib",
+    "name": "2 Ihe E Mere",
+    "commonName": "2 Ihe E Mere",
+    "title": "2 Ihe e mere",
+    "order": 14,
+    "numberOfChapters": 36,
+    "sha256": "cde79ac1d8fb16cf2f2f233680e6fe152cad9f01601d717aa3d8c8a7ad473897",
+    "firstChapterApiLink": "/api/ibo_bib/2CH/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/2CH/36.json",
+    "totalNumberOfVerses": 822
+  },
+  "chapter": {
+    "number": 19,
+    "content": [
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe Jehoshafat, eze Juda, laghachiri nʼụlọ ya na Jerusalem nʼudo.",
+          {
+            "noteId": 212
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Jehu nwa Hanani, onye ọhụ ọhụ, pụrụ gaa izute ya; ọ sịrị eze Jehoshafat, “O kwesiri ka i nyere onye ọjọọ aka? Ọ bụkwa ndị na-akpọ Onyenwe anyị asị ka ị na-ahụ nʼanya? Nʼihi nke a iwe ọkụ Onyenwe anyị adakwasịla gị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Ma otu ọ dị, achọtara ezi ihe nʼime gị, i sitela nʼala a wezuga ogidi Ashera niile, dozieekwa obi gị ịchọ Chineke.”"
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Jehoshafat ahọpụta ndị Ikpe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Jehoshafat biri na Jerusalem. Ọ pụrụ gagharịa nʼetiti ndị ya site na Bịasheba ruo nʼobodo ugwu ugwu Ifrem, laghachikwutekwa Onyenwe anyị, bụ Chineke nke nna nna ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ọ họpụtara ndị ikpe nʼala ahụ, nʼotu nʼotu nʼobodo ndị ahụ niile e wusiri ike nke Juda."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ọ gwara ha si, “Lezienụ anya ihe unu na-eme nʼihi na ọ bụghị mmadụ ka unu na-ekpere ikpe kama ọ bụ Onyenwe anyị, onye na-anọnyere unu mgbe unu na-ekpebi ikpe."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Ugbu a, kwenụ ka egwu Onyenwe anyị dịrị nʼime unu. Kpeenụ ikpe ziri ezi, nʼihi na nʼebe Onyenwe anyị Chineke anyị nọ, ikpe ikpe na-ezighị ezi, maọbụ ile mmadụ anya nʼihu maọbụ iri ngarị adịghị ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ọzọkwa, nʼime Jerusalem, Jehoshafat họpụtara ụfọdụ ndị Livayị, na ndị nchụaja, na ndịisi ezinaụlọ Izrel ka ha bụrụ ndị na-ahazi iwu nke Onyenwe anyị na-edozikwa esemokwu. Ha bikwa na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "O nyere ha iwu ndị a, “Jirinụ ikwesi ntụkwasị obi, na ịtụ egwu Onyenwe anyị rụọ ọrụ unu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Mgbe ọbụla ụmụnna unu ndị bi nʼobodo unu dị iche iche buteere unu ikpe igbu mmadụ maọbụ ikpe mmebi iwu ọbụla, maọbụ ihe megidere ihe e nyere nʼiwu, maọbụ nke megidere ụkpụrụ, ma ọ bụkwanụ megide iwu na usoro ime ihe, unu ga-adọ ha aka na ntị ka ha ghara imehie megide Onyenwe anyị. Ọ bụrụ na unu emeghị otu a, iwe Onyenwe anyị ga-adakwasị unu na ụmụnna unu. Ma ọ bụrụ na unu arụọ ọrụ unu nke ọma, unu agaghị emehie.",
+          {
+            "noteId": 213
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "“Amaraya, onyeisi nchụaja, ga-abụ onyeisi unu nʼihe ọbụla metụtara Onyenwe anyị. Zebadaya nwa nwoke Ishmel, onyeisi nke ebo Juda ga-abụ onyeisi unu nʼihe o bụla metụtara eze. Ndị Livayị ga-abụ ndịisi ozi nʼihu unu. Bụrụkwanụ ndị dị ike, unu atụkwala ụjọ, ka Onyenwe anyị nọnyere ndị na-eme nke ọma.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 212,
+        "caller": "+",
+        "text": "Na-emerụghị ahụ ọbụla",
+        "reference": {
+          "chapter": 19,
+          "verse": 1
+        }
+      },
+      {
+        "noteId": 213,
+        "caller": "+",
+        "text": "Ikpe agaghị ama unu",
+        "reference": {
+          "chapter": 19,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/2CH/19.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/2CH/20.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/2CH/18.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 11
+}

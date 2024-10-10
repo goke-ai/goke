@@ -1,0 +1,366 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "MAT",
+    "translationId": "ibo_bib",
+    "name": "Matiu",
+    "commonName": "Matiu",
+    "title": "Oziọma Matiu",
+    "order": 40,
+    "numberOfChapters": 28,
+    "sha256": "da2fa190639fe3c6224bb891d8a81a5f77721300ac36e4d9681558b7d697c9fe",
+    "firstChapterApiLink": "/api/ibo_bib/MAT/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/MAT/28.json",
+    "totalNumberOfVerses": 1071
+  },
+  "chapter": {
+    "number": 2,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ọbịbịa ndị amamihe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Mgbe a mụchara Jisọs na Betlehem nke Judịa nʼoge Herọd bụ eze, ndị amamihe si ọwụwa anyanwụ bịaruru Jerusalem,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "na-ajụ ajụjụ sị, “Olee ebe ọ nọ, bụ onye a mụrụ ịbụ eze ndị Juu? Anyị hụrụ kpakpando ya",
+          {
+            "noteId": 1291
+          },
+          "nʼọwụwa anyanwụ, ma bịa ịkpọ isiala nye ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mgbe eze Herọd nụrụ nke a, obi lọrọ ya mmiri nke ukwuu, ya na ndị niile bi na Jerusalem."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Mgbe ọ kpọkọtara ndịisi nchụaja na ndị ozizi iwu niile, ọ jụrụ ha, olee ebe e kwuru na a ga-amụ Kraịst",
+          {
+            "noteId": 1292
+          },
+          "ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ha zara ya sị, “Na Betlehem nke Judịa. Nʼihi na otu a ka onye amụma ahụ dere nʼakwụkwọ sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "“ ‘Ma gị onwe gị, Betlehem, dị nʼala Juda,",
+            "poem": 1
+          },
+          {
+            "text": "ị dịghị nta karịchasịa nʼetiti ndị ọchịchị Juda,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ọ bụ site na gị ka onye ọchịchị ga-esi pụta,",
+            "poem": 1
+          },
+          {
+            "text": "onye ga-achị ndị nke m Izrel.’",
+            "poem": 2
+          },
+          {
+            "noteId": 1293
+          },
+          {
+            "text": "”",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Mgbe ahụ Herọd kpọrọ ndị amamihe ahụ na nzuzo jụpụta ha banyere oge kpakpando ahụ ji pụta ìhè."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "O zipụrụ ha ije Betlehem sị ha, “Gaanụ lee anya nke ọma chọpụta ebe nwantakịrị ahụ nọ. Mgbe unu chọtara ya, bịanụ mee ka m mara, ka m gaakwa kpọọ isiala nye ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ha nụrụ okwu eze, ha pụrụ gawa, ma kpakpando ahụ ha hụrụ nʼọwụwa anyanwụ pụtakwara ọzọ, na-aga nʼihu ha ruo mgbe ọ bịara guzo nʼelu ebe nwantakịrị ahụ nọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ha ṅụrịrị ọṅụ nke ukwuu mgbe ha hụrụ kpakpando ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ka ha banyere nʼụlọ ahụ, ha hụrụ nwantakịrị ahụ na nne ya Meri, ha gburu ikpere nʼala ma kpọọrọ ya isiala. Ha meghere akpa akụ ha nye ya onyinye ọlaedo na ọkpụrụkpụ eso osisi na-esi isi ụtọ a na-akpọ frankisens,",
+          {
+            "noteId": 1294
+          },
+          "ya na máá.",
+          {
+            "noteId": 1295
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Nʼihi na a dọrọ ha aka na ntị na nrọ ka ha ghara ịlaghachikwuru Herọd, ha sitere nʼụzọ ọzọ laghachi obodo ha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Mgbapụ gaa nʼala Ijipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Mgbe ndị amamihe ahụ lasịrị, mmụọ ozi Onyenwe anyị mere ka Josef hụ ya na nrọ, ọ sịrị ya, “Bilie ọsịịsọ kpọrọ nwantakịrị a na nne ya gbalaa Ijipt. Alọghachikwala tutu ruo mgbe m ga-agwa gị, nʼihi na Herọd na-achọ nwantakịrị a ka o gbuo ya.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Nʼoge abalị, Josef biliri kpọrọ Meri na nwantakịrị ahụ gbalaa Ijipt."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Ebe ahụ ka ha nọgidere tutu ruo mgbe Herọd nwụrụ. Nke a mere ka okwu ahụ Onyenwe anyị kwuru site nʼọnụ onye amụma mezuo. “Ọ bụkwa site nʼIjipt ka m kpọpụtara nwa m.”",
+          {
+            "noteId": 1296
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Iwe were Herọd nke ukwuu mgbe ọ chọpụtara na ndị amamihe ahụ aghọọla ya aghụghọ. Nʼihi ya, o nyere iwu banyere Betlehem na obodo nta ndị ọzọ gbara ya gburugburu, ka ha gbuo ụmụntakịrị niile nọ nʼobodo ndị a, bụ ndị gbara site nʼafọ abụọ gbadaa, dị ka ihe ọ nụtara site nʼọnụ ndị amamihe si dị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "E sitekwara otu a mezuo amụma ahụ Jeremaya buru sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          {
+            "text": "“A nụrụ otu olu na Rema,",
+            "poem": 1
+          },
+          {
+            "text": "ịkwa akwa na oke iru ụjụ dị,",
+            "poem": 2
+          },
+          {
+            "text": "Rechel na-akwa akwa nʼihi ụmụ ya;",
+            "poem": 1
+          },
+          {
+            "text": "ọ dịghị nkasiobi ọbụla dịrị ya,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na ha adịghịkwa.”",
+            "poem": 2
+          },
+          {
+            "noteId": 1297
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Nlọghachi na Nazaret"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Mgbe Herọd nwụrụ, mmụọ ozi Onyenwe anyị bịakwutere Josef na nrọ nʼIjipt"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "sị ya, “Bilie, kpọrọ nwantakịrị ahụ na nne ya laghachi nʼala Izrel nʼihi na ndị na-achọ igbu ya anwụọla.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ya mere, o biliri, kpọọrọ nwantakịrị ahụ na nne ya, laghachi nʼala Izrel."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Mgbe ọ nụrụ na eze ọhụrụ gbanwere Herọd na Judịa bụ nwa ya a na-akpọ Akelus,",
+          {
+            "noteId": 1298
+          },
+          "egwu tụrụ Josef ịlaghachi ebe ahụ. Ma nʼihi na adọwo ya aka na ntị na nrọ, ọ wezugara onwe ya gaa nʼakụkụ Galili."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ọ gara biri nʼobodo a na-akpọ Nazaret. E sitekwara otu a mezuo okwu ọnụ ndị amụma sị na, “A ga-akpọ ya onye Nazaret.”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 1291,
+        "caller": "+",
+        "text": "Kpakpando ya mgbe ọ walitere",
+        "reference": {
+          "chapter": 2,
+          "verse": 2
+        }
+      },
+      {
+        "noteId": 1292,
+        "caller": "+",
+        "text": "Maọbụ, Onye nzọpụta",
+        "reference": {
+          "chapter": 2,
+          "verse": 4
+        }
+      },
+      {
+        "noteId": 1293,
+        "caller": "+",
+        "text": "Mai 5:2",
+        "reference": {
+          "chapter": 2,
+          "verse": 6
+        }
+      },
+      {
+        "noteId": 1294,
+        "caller": "+",
+        "text": "Maọbụ, mgbaisiọma",
+        "reference": {
+          "chapter": 2,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 1295,
+        "caller": "+",
+        "text": "Maọbụ, mgba ilu",
+        "reference": {
+          "chapter": 2,
+          "verse": 11
+        }
+      },
+      {
+        "noteId": 1296,
+        "caller": "+",
+        "text": "Hos 11:1",
+        "reference": {
+          "chapter": 2,
+          "verse": 15
+        }
+      },
+      {
+        "noteId": 1297,
+        "caller": "+",
+        "text": "Jer 31:15",
+        "reference": {
+          "chapter": 2,
+          "verse": 18
+        }
+      },
+      {
+        "noteId": 1298,
+        "caller": "+",
+        "text": "Akelus Onye ketara ịchị otu ụzọ nʼụzọ atọ nʼalaeze Herọd.",
+        "reference": {
+          "chapter": 2,
+          "verse": 22
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/MAT/2.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/MAT/3.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/MAT/1.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 23
+}

@@ -1,0 +1,418 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "1KI",
+    "translationId": "ibo_bib",
+    "name": "1 Ndị Eze",
+    "commonName": "1 Ndị Eze",
+    "title": "1 Ndị Eze",
+    "order": 11,
+    "numberOfChapters": 22,
+    "sha256": "bc19177f5947d59e115a1a111245ea4249ce6da42aa6c8da3080fae6d4b373fb",
+    "firstChapterApiLink": "/api/ibo_bib/1KI/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/1KI/22.json",
+    "totalNumberOfVerses": 816
+  },
+  "chapter": {
+    "number": 20,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ben-Hadad ebuso Sameria agha"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Ugbu a, Ben-Hadad, bụ eze ndị Aram, chịkọtara ndị agha ya niile. Iri ndị eze atọ na abụọ sonyere ya, ha na ịnyịnya ha na ụgbọ agha ha. Ọ rịgooro nọchibido obodo Sameria buso ya agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Mgbe ahụ, eze ndị Siria zigaara Ehab, eze Izrel ozi nʼime obodo sị ya, “otu a ka Ben-Hadad sịrị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "‘Ọlaọcha na ọlaedo gị, nkem ka ha bụ, ndị nwunye gị na ụmụ gị, bụ ndị dị mma karịsịa nke m ka ha bụ.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          "Ehab eze Izrel, zighachiri ozi sị, “Ọ dị mma, onyenwe m, mụ onwe m, na ihe niile m nwere bụ nke gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          "Ngwangwa ndị ozi Ben-Hadad bịaghachiri zie Ehab ozi ọzọ sị ya, “Otu a ka Ben-Hadad sịrị, ‘Ọ bụ ezie na m ziteere gị ozi, sị, ọlaọcha gị na ọlaedo gị na ndị nwunye gị na ụmụ gị ka ị ga-enye m."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          "Ma ugbu a, nʼoge dị ka nke a, echi, aga m ezite ndị ozi m ka ha bịa nyochaa ụlọ gị niile na ụlọ ndị ozi gị niile. Ihe ọbụla dị oke ọnụahịa nʼanya gị ka ha ga-ewere.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          "Eze Izrel kpọrọ ndị okenye niile nke ala ahụ, sị ha, “Leenụ ugbu a, hụkwanụ otu nwoke a si achọ nsogbu. Mgbe o zitere m ozi inye ya ndị nwunye m, na ụmụ, na ọlaọcha m na ọlaedo m, ekwenyere m ya inye ya ihe ndị a.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          "Ndị okenye na ndị Izrel zara sị ya, “Aṅala ya ntị! Enyela ya ihe ọbụla.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          "Mgbe ahụ, ọ sịrị ndị ozi Ben-Hadad, “Gwanụ onyenwe m, bụ eze, ‘M bụ odibo gị jikeere ime ihe niile ị buru ụzọ kwuo na m ga-enye gị. Ma ekwenyeghị m nʼozi nke ugboro abụọ a.’ ” Ndị ozi ahụ laghachiri kọọrọ Ben-Hadad ihe niile Ehab kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "Ma Ben-Hadad zigakwaara Ehab ozi ọzọ sị, “Ka chi ndị a mesoo m mmeso,",
+          {
+            "noteId": 103
+          },
+          "otu ọbụla mmeso ahụ si dị njọ, ma ọ bụrụ na aja Sameria ga-afọdụ inye onye ọbụla nʼetiti ndị ikom m otu njuaka.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Ma eze Izrel zaghachiri, “Gwa ya, ‘Onye na-ebu agha na-anya isi naanị mgbe a lụchara agha, ọ bụghị tupu a lụọ agha.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Ben-Hadad nụrụ ozi Ehab ziri mgbe ya na ndị eze ndị ọzọ ahụ nọ na-aṅụ mmanya nʼụlọ ikwu ha manyere nʼọgbọ agha ahụ. Ben-Hadad nyere ndị agha ya iwu sị ha, “Jikerenụ, buso ndị Izrel agha.” Ya mere, ha kwadoro ibuso obodo ahụ agha."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Ehab emerie Ben-Hadad"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Nʼoge a, otu onye amụma bịakwutere Ehab, bụ eze Izrel sị, “Otu a ka Onyenwe anyị sịrị, ‘Ị hụrụ oke igwe ndị agha a? Aga m enyefe ha nʼaka gị taa, mgbe ahụ ị ga-amatakwa na mụ onwe m bụ Onyenwe anyị.’ ”",
+          {
+            "noteId": 104
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ma Ehab jụrụ sị, “Onye ga-eme nke a?” Onye amụma zara, “Ihe ndị a ka Onyenwe anyị kwuru, ‘Ọ bụ ụmụ okorobịa bụ ndịisi agha nọ nʼokpuru ndị ọchịagha na-achị akụkụ ala Izrel.’ ” Ehab jụkwara ọzọ, “Onye ga-amalite agha a?” Onye amụma ahụ zara, “Gị onwe gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "Mgbe ahụ, Ehab kpọkọtara ụmụ okorobịa bụ ndịisi agha si nʼakụkụ obodo ya. Ọnụọgụgụ ha dị narị abụọ na iri atọ na mmadụ abụọ. Ọnụọgụgụ ndị agha Izrel ndị ọzọ dị puku asaa."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Nʼetiti ehihie, mgbe Ben-Hadad na iri ndị eze atọ na abụọ ahụ, bụ ndị ahụ bịara inyere ya aka nọ na-aṅụ mmanya, na-aṅụbiga ya oke,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "ụmụ okorobịa, bụ ndị agha, ndị nọ nʼokpuru ndị ọchịagha na-achị akụkụ ala Izrel buru ụzọ pụọ ibu agha. Ma Ben-Hadad, nʼonwe ya ezipụlarị ndị nledo, ndị lọghachiri bịa gwa ya sị, “Ndị agha si Sameria na-abịa.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "Ọ sịrị, “Ọ bụrụ na ha abịa nʼihi udo, jidenụ ha na ndụ; ọ bụrụ na ha bịara maka ibu agha, jidenụ ha na ndụ!”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 19,
+        "content": [
+          "Ma ụmụ okorobịa ndị ọchịchị a bụ ndị nọ nʼokpuru ndịisi, na-achị akụkụ ala ahụ sitere nʼobodo zọlie ije ebe ndị agha so ha nʼazụ, pụọ ibu agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 20,
+        "content": [
+          "Onye ọbụla nʼime ha gburu onye agha Siria ọbụla lụsoro ya ọgụ. Nke a mere ka ndị agha Siria gbapụ ọsọ, ndị agha Izrel chụsokwara ha. Ma Ben-Hadad, eze Aram, na ndị agha na-agba ịnyịnya, sitekwara nʼihu ọgbọ agha ahụ gbapụkwa ọsọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 21,
+        "content": [
+          "Ma eze ndị Izrel pụkwuru ya, nwude ọtụtụ ịnyịnya na ụgbọ agha, butere ndị Aram ọghọm dị ukwuu."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 22,
+        "content": [
+          "Emesịa, onye amụma ahụ bịakwutere eze Izrel sị ya, “Mee onwe gị ka ị dị ike nke ọma, mara ihe e kwesiri ka e mee, nʼihi nʼetiti ọkọchị na udu mmiri nke afọ nʼabịa, eze Aram ga-abịa ibuso gị agha ọzọ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 23,
+        "content": [
+          "Ma otu ọ dị, ndịisi agha eze ndị Aram dụrụ ya ọdụ sị, “Chi ha bụ chi ugwu. Nʼihi ya ka ha ji dị ike karịa anyị. Ma ọ bụrụ na anyị ebuso ha agha nʼobosara ala dị larịị, anyị aghaghị ịdị ike karịa ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 24,
+        "content": [
+          "Mee ihe a, wepụ ndị eze a niile site nʼebe ha nọ, jiri ndị na-achị ala gbanwee ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 25,
+        "content": [
+          "Kpọkọtaakwa ndị agha ọzọ, ndị dị ukwuu nʼọnụọgụgụ, dịka ndị agha i du gaa agha na mbụ. Nyekwa anyị ịnyịnya na ụgbọ agha ga-ezuru anyị. Anyị ga-apụkwa buso ndị Izrel agha nʼobosara ala dị larịị. Ọ dịkwaghị ihe ga-egbochi anyị imeri ha nʼoge a.” Ben-Hadad, eze Aram, kwenyere, meere ha dịka ha rịọrọ ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 26,
+        "content": [
+          "Mgbe otu afọ gasịrị, Ben-Hadad chịkọtakwara ndị Aram niile duru ha gaa Afek ibuso Izrel agha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 27,
+        "content": [
+          "Mgbe a kpọkọtara ndị agha niile nọ nʼIzrel nye ha ngwa agha, ha pụrụ izute ha. Ndị agha Izrel mara ụlọ ikwu ha na ncherita ihu ndị agha Siria, dịka igwe ewu nta abụọ, ebe ndị Aram jupụtara ala ahụ niile."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 28,
+        "content": [
+          "Onye nke Chineke bịara gwa eze ndị Izrel, “Otu a ka Onyenwe anyị sịrị, ‘Nʼihi na ndị Aram na-eche na Onyenwe anyị bụ chi nke ugwu, na ọ bụghị chi ala ndagwurugwu, aga m arara igwe ndị agha a nyefee gị nʼaka, ka gị na ndị gị mata nʼeziokwu na m bụ Onyenwe anyị.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 29,
+        "content": [
+          "Ọ bụ ụbọchị asaa ka ha mara ụlọ ikwu ha na ncherita ihu ibe ha. Ma nʼụbọchị nke asaa ahụ, ndị agha malitere ibu agha. Ndị Izrel merụrụ narị puku ndị agha Aram ahụ nʼotu ụbọchị."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 30,
+        "content": [
+          "Ma ndị fọdụrụ nʼetiti ndị agha Aram gbapụrụ ọsọ gbalaga nʼobodo Afek. Ebe ahụ ka mgbidi obodo Afek nọ dagbuo iri puku ndị agha abụọ na asaa nʼime ha. Ma Ben-Hadad nʼonwe ya gbalagara, gbaba nʼime obodo ahụ, gaa zoo onwe ya nʼime ime otu ụlọ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 31,
+        "content": [
+          "Mgbe ahụ, ndịisi agha ya bịakwutere ya sị ya, “Lee, anyị nụrụ na ndị eze Izrel bụ ndị obi ebere. Ka anyị yiri akwa mkpe nʼukwu anyị, kee ụdọ nʼolu anyị, gaa rịọọ eze Izrel. Ma eleghị anya ọ ga-edebe gị ndụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 32,
+        "content": [
+          "Ya mere, ha yikwasịrị onwe ha akwa mkpe, nyarakwa ụdọ nʼolu ha, jekwuru eze Izrel sị ya, “Ohu gị bụ Ben-Hadad na-asị, ‘Biko, kwee ka m dịrị ndụ.’ ” Eze jụrụ ha sị, “Ọ bụ ezie na ọ ka dị ndụ ugbu a? Nwanne m ka ọ bụ.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 33,
+        "content": [
+          "Okwu a mere ka ndị ozi eze Aram nwee olileanya. Ha mere ngwangwa kwugharịakwa ihe ahụ o kwuru. Ha sịrị, “E, Nwanne gị bụ Ben-Hadad.” Mgbe ahụ, eze Ehab nyere ha iwu sị, “Gaanụ kpọpụta ya, dutekwanụ ya nʼebe a.” Mgbe Ben-Hadad bịara, Ehab mere ka ọ rigota nʼụgbọ agha nke ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 34,
+        "content": [
+          "Mgbe ahụ, Ben-Hadad gwara Ehab sị, “Obodo niile nke nna m naara nna gị, ka m ga-enyeghachi gị. I nwere ike iwuru onwe gị ọdụ ahịa nʼama obodo Damaskọs dịka nna m wuru nʼime Sameria.” Ehab kwuru, “Ọ bụrụ na anyị agbaa ndụ, aga m eme ka i nwere onwe gị.” Ya mere, ha abụọ gbara ndụ. Ehab hapụkwara ya ka ọ laa nʼudo."
+        ]
+      },
+      {
+        "type": "heading",
+        "content": [
+          "Onye amụma amaa Ehab ikpe"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 35,
+        "content": [
+          "Emesịa, okwu Onyenwe anyị rutere otu onye nʼetiti ụmụ ndị amụma. Ọ gwara otu nwoke nʼime ụmụ ndị amụma ahụ nọ ya nso sị ya, “Jiri ngwa agha dị gị nʼaka tie m ihe.” Ma nwoke ahụ jụrụ ime ihe onye amụma ahụ kwuru."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 36,
+        "content": [
+          "Nʼihi nke a, onye amụma gwara nwoke ahụ okwu sị, “Ebe ọ bụ na ị jụrụ ime ihe Onyenwe anyị nyere nʼiwu, lee ihe ga-adakwasị gị. Mgbe i si nʼebe a na-ala nʼụlọ gị, ọdụm ga-ezute gị nʼụzọ dọgbuo gị.” Amụma a mezukwara, nʼihi na mgbe nwoke ahụ tụgharịrị si nʼebe ahụ na-ala, ọdụm lụsoro ya ọgụ nʼụzọ gbuo ya.",
+          {
+            "noteId": 105
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 37,
+        "content": [
+          "Onye amụma ahụ pụkwara chọta onye ọzọ sị ya, “Biko, tie m ihe.” Nwoke ahụ tiri ya ihe tihịa ya ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 38,
+        "content": [
+          "Mgbe ahụ, onye amụma ahụ e tiri ihe jiri akwa kechie ihu ya, ka mmadụ ọbụla ghara ịmata onye ọ bụ. Ọ pụrụ gaa guzo nʼakụkụ ụzọ ebe eze Izrel ga-esi gafee."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 39,
+        "content": [
+          "Mgbe eze na-agafe, onye amụma ahụ tiri mkpu sị, “Onyenwe m, biko gee m ntị. Lee, otu onye agha bịakwutere m mgbe m nọ nʼihu agha sị m, ‘Lee nwoke a a dọtara nʼagha; chee ya nche. Ekwekwala ka ọ gbanarị gị. Nʼihi na ọ bụrụ na o site nʼaka gị gbapụ,",
+          {
+            "noteId": 106
+          },
+          "ị ga-anwụ, maọbụ i jiri otu talenti ọlaọcha gbara isi gị.’"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 40,
+        "content": [
+          "Ma mgbe m nọ na-arụ ọrụ ọzọ, nwoke ahụ a dọtara nʼagha gbapụrụ. Ahụkwaghị m ya anya ọzọ.” Mgbe ahụ, eze Izrel zara sị ya, “I jirila ọnụ gị maa onwe gị ikpe. Ị ghaghị ịnata ahụhụ dịrị gị.”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 41,
+        "content": [
+          "Mgbe ahụ, onye amụma ahụ mere ngwangwa wepụ akwa ahụ o ji kechie anya ya abụọ. Eze Izrel matakwara na ọ bụ otu onye nʼime ndị amụma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 42,
+        "content": [
+          "Onye amụma ahụ gwara eze okwu sị ya, “Otu a ka Onyenwe anyị kwuru, ‘Ebe i mere ka nwoke a laa, bụ onye m nyere gị nʼaka ime ka ọ nwụọ, ugbu a, ị ghaghị ịnwụ nʼọnọdụ ya. A ga-alakwa ndị gị nʼiyi, nʼọnọdụ ndị nke ya.’ ”"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 43,
+        "content": [
+          "Nʼihi okwu a, eze Izrel ji iwe na ihu mgbarụ laa nʼụlọ ya dị na Sameria."
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 103,
+        "caller": "+",
+        "text": "1Ez 19:2; 2Ez 6:31",
+        "reference": {
+          "chapter": 20,
+          "verse": 10
+        }
+      },
+      {
+        "noteId": 104,
+        "caller": "+",
+        "text": "1Ez 20:28",
+        "reference": {
+          "chapter": 20,
+          "verse": 13
+        }
+      },
+      {
+        "noteId": 105,
+        "caller": "+",
+        "text": "1Ez 13:24.",
+        "reference": {
+          "chapter": 20,
+          "verse": 36
+        }
+      },
+      {
+        "noteId": 106,
+        "caller": "+",
+        "text": "2Ez 10:24",
+        "reference": {
+          "chapter": 20,
+          "verse": 39
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/1KI/20.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/1KI/21.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/1KI/19.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 43
+}

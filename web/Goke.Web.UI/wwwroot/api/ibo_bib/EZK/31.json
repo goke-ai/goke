@@ -1,0 +1,347 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EZK",
+    "translationId": "ibo_bib",
+    "name": "Izikiel",
+    "commonName": "Izikiel",
+    "title": "Izikiel",
+    "order": 26,
+    "numberOfChapters": 48,
+    "sha256": "0b766d704729b36d8d35d529f4c7abd1935e8b6a36585f4dc46315a416c74e5e",
+    "firstChapterApiLink": "/api/ibo_bib/EZK/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EZK/48.json",
+    "totalNumberOfVerses": 1273
+  },
+  "chapter": {
+    "number": 31,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Fero dịka osisi sida nke Lebanọn"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "O ruo, nʼafọ nke iri na otu, nʼọnwa nke atọ, nʼụbọchị nke mbụ ya, okwu nke Onyenwe anyị ruru m ntị, sị,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "“Nwa nke mmadụ, gwa Fero eze Ijipt na ndị agha ya niile okwu sị ha,",
+          {
+            "text": "“ ‘Olee onye ahụ yiri gị nʼịdị ukwuu?",
+            "poem": 1
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          {
+            "text": "Tulee nʼobi gị ihe gbasara Asịrịa,",
+            "poem": 1
+          },
+          {
+            "text": "nke bụ oke obodo bụrụkwa mba a maara aha ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ dị ka osisi sida nke Lebanọn,",
+            "poem": 1
+          },
+          {
+            "text": "nke jupụtara nʼalaka mara mma,",
+            "poem": 2
+          },
+          {
+            "text": "nke ọtụtụ alaka ya na-enye ndo, nke dị ezi ogologo,",
+            "poem": 1
+          },
+          {
+            "text": "nke alaka ọnụ ya topụrụ tokarịa osisi ọhịa niile.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 4,
+        "content": [
+          {
+            "text": "O nwetara mmiri mere ka o buo ibu,",
+            "poem": 1
+          },
+          {
+            "text": "na isi iyi mmiri miri emi nke mere ka o too ogologo.",
+            "poem": 2
+          },
+          {
+            "text": "Iyi ha niile",
+            "poem": 1
+          },
+          {
+            "text": "na-asọ nʼokpuru ya.",
+            "poem": 2
+          },
+          {
+            "text": "Ebe ahụ ka ha si ezipu",
+            "poem": 1
+          },
+          {
+            "text": "ụzọ mmiri ndị na-enye osisi ndị ọzọ dị nʼọhịa mmiri.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 5,
+        "content": [
+          {
+            "text": "Nʼihi ya, o toro tokarịa",
+            "poem": 1
+          },
+          {
+            "text": "osisi niile nʼogologo.",
+            "poem": 2
+          },
+          {
+            "text": "Ngalaba ya bara ụba,",
+            "poem": 1
+          },
+          {
+            "text": "alaka ya topụkwara ogologo",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi ịdị ukwuu nke mmiri ha na-enweta.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 6,
+        "content": [
+          {
+            "text": "Nʼalaka ya niile",
+            "poem": 1
+          },
+          {
+            "text": "ka anụ ufe niile nke eluigwe na-akpa akwụ,",
+            "poem": 2
+          },
+          {
+            "text": "nʼokpuru ndo nke alaka ya niile",
+            "poem": 1
+          },
+          {
+            "text": "ka ụmụ anụ ọhịa niile mụrụ ụmụ,",
+            "poem": 2
+          },
+          {
+            "text": "oke mba niile dị iche iche",
+            "poem": 1
+          },
+          {
+            "text": "bikwara nʼokpuru ndo ya.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 7,
+        "content": [
+          {
+            "text": "Ọ mara mma nʼịdị ukwuu ya,",
+            "poem": 1
+          },
+          {
+            "text": "nʼogologo nke alaka ya nʼawasa,",
+            "poem": 2
+          },
+          {
+            "text": "nʼihi na mgbọrọgwụ ya mibara emiba",
+            "poem": 1
+          },
+          {
+            "text": "nʼebe mmiri dị ukwuu.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 8,
+        "content": [
+          {
+            "text": "Osisi sida niile dị nʼubi Chineke a gbara ogige",
+            "poem": 1
+          },
+          {
+            "text": "erughị ya nʼọtụtụ.",
+            "poem": 2
+          },
+          {
+            "text": "Ọ dịghị osisi junipa niile",
+            "poem": 1
+          },
+          {
+            "text": "nwere ngalaba a ga-eji tụnyere nke ya,",
+            "poem": 2
+          },
+          {
+            "text": "osisi plenụ niile",
+            "poem": 1
+          },
+          {
+            "text": "adịghịkwa ka alaka ya,",
+            "poem": 2
+          },
+          {
+            "text": "ọ dịghịkwa osisi dị nʼubi Chineke a gbara ogige,",
+            "poem": 1
+          },
+          {
+            "text": "nke yiri ya nʼịma mma ya",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 9,
+        "content": [
+          {
+            "text": "Emere m ya ka ọ maa mma",
+            "poem": 1
+          },
+          {
+            "text": "site nʼịba ụba nke alaka o nwere,",
+            "poem": 2
+          },
+          {
+            "text": "ọ bụ ihe ekworo nye osisi niile nọ nʼIden",
+            "poem": 1
+          },
+          {
+            "text": "nʼubi Chineke a gbara ogige.",
+            "poem": 2
+          }
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 10,
+        "content": [
+          "“ ‘Nʼihi ya, ihe ndị a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Nʼihi na o",
+          {
+            "noteId": 637
+          },
+          "toro ogologo tokarịa osisi ọhịa niile, nʼihi na ọ nyara isi banyere ọnọdụ ịdị ogologo ya karịa ndị ọzọ,"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 11,
+        "content": [
+          "Eweere m ya nyefee nʼaka onye ahụ na-achị mba niile, ka o mesie ya ike, dịka ịba ụba nke ajọ omume ya si dị. Ewezugakwara m ya nʼakụkụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 12,
+        "content": [
+          "Mba ahụ kachasị mba niile njọ na-enweghị obi ebere gbuturu ya, hapụ ya ka ọ tọgbọrọ nʼala. Ngalaba ya dara nʼelu ugwu ukwu niile nakwa nʼime ndagwurugwu niile. Alaka ya kwa dajisịrị danyesịa nʼime ebe niile gbawara agbawa nke ala mmiri si eru. Mba niile nke ụwa sitere nʼokpuru ndo ya pụta wezuga onwe ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 13,
+        "content": [
+          "Ụmụ nnụnụ niile bere nʼelu ukwu osisi ahụ dara ada, nʼetiti alaka ya niile ka ụmụ anụ ọhịa bịara biri."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 14,
+        "content": [
+          "Ya mere, ka osisi niile nke dị nʼakụkụ mmiri gharakwa eto ogologo, maọbụ ka ọnụ ọnụ ya ghakwara ịdị elu karịa alaka ndị ahụ bara ụba. Nyekwa na ọ dịkwaghị osisi ọbụla na-enwetazu mmiri nke ga-etoru osisi ndị ahụ nʼogologo. Nʼihi na edebela ha nye ọnwụ, nye ịrịdaru nʼokpuru ụwa, nʼetiti ndị mmadụ ndị na-arịda nʼolulu omimi ahụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 15,
+        "content": [
+          "“ ‘Otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwuru: Nʼụbọchị ahụ e mere ka ọ rịdaruo nʼala mmụọ, a kwụsịrị m ogbu mmiri niile were ha kpuchie ya. A kwụsịrị nsọgharị nke mmiri, meekwa ka ịba ụba nke mmiri ya niile kwụsị. Nʼihi ya, eyinyere m Lebanọn uwe mkpe, osisi niile nke ọhịa kpọnwụkwara nʼihi ya."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 16,
+        "content": [
+          "Emere m ka mba niile maa jijiji nʼegwu nʼihi ọdịda ya, mgbe m tụnyere ya na ndị ahụ na-aga nʼolulu nʼime ala mmụọ. Mgbe ahụ, a kasịrị osisi niile mara mma obi, bụ osisi ndị ahụ dị nʼogige Iden, na osisi ọma niile nke Lebanọn, ndị nke mgbọrọgwụ ha na-enweta mmiri nke ọma."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 17,
+        "content": [
+          "Ha onwe ha kwa, dịka sida ukwuu ahụ, sokwaara gbadaruo nʼala mmụọ, gakwuru ndị niile eji mma agha gbuo, ha na ndị ikom ji mma agha bụ ndị biri nʼokpuru ndo ya nʼetiti mba dị iche iche."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 18,
+        "content": [
+          "“ ‘Olee osisi dị nʼIden a ga-eji tụnyere gị nʼịma mma, na nʼịdị ebube? Ma gị onwe gị kwa, na osisi ndị a niile dị nʼIden ka a ga-eme ka unu rịdaruo nʼokpuru ụwa. Ị ga-edina nʼetiti ndị a na-ebighị ugwu, gị na ndị eji mma agha gbuo. “ ‘Nke a bụ Fero na usuu ndị agha ya niile, otu a ka Onye kachasị ihe niile elu, bụ Onyenwe anyị kwubiri.’ ”"
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "noteId": 637,
+        "caller": "+",
+        "text": "Ya bụ, sida ukwu ahụ",
+        "reference": {
+          "chapter": 31,
+          "verse": 10
+        }
+      }
+    ]
+  },
+  "thisChapterLink": "/api/ibo_bib/EZK/31.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/EZK/32.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EZK/30.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 18
+}

@@ -1,0 +1,75 @@
+{
+  "translation": {
+    "id": "ibo_bib",
+    "name": "Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ",
+    "website": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "licenseUrl": "https://ebible.org/Scriptures/details.php?id=ibo",
+    "shortName": "BIB",
+    "englishName": "BIB",
+    "language": "ibo",
+    "textDirection": "ltr",
+    "sha256": "d964c47cf8bb24ca4e236fe9f5225a45b8fb3e9d919ff2574188ff07a5a2b670",
+    "availableFormats": [
+      "json"
+    ],
+    "listOfBooksApiLink": "/api/ibo_bib/books.json",
+    "numberOfBooks": 66,
+    "totalNumberOfChapters": 1189,
+    "totalNumberOfVerses": 31103,
+    "languageName": "Igbo",
+    "languageEnglishName": "Igbo"
+  },
+  "book": {
+    "id": "EST",
+    "translationId": "ibo_bib",
+    "name": "Esta",
+    "commonName": "Esta",
+    "title": "Esta",
+    "order": 17,
+    "numberOfChapters": 10,
+    "sha256": "5881b095ce54f80d61363ebb2cb7b87a73a9f707399baa21d7236502107718f7",
+    "firstChapterApiLink": "/api/ibo_bib/EST/1.json",
+    "lastChapterApiLink": "/api/ibo_bib/EST/10.json",
+    "totalNumberOfVerses": 167
+  },
+  "chapter": {
+    "number": 10,
+    "content": [
+      {
+        "type": "heading",
+        "content": [
+          "Ịdị ukwuu nke Mọdekai"
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 1,
+        "content": [
+          "Eze bụ Ahasuerọs na-anakọta ụtụ site nʼaka ndị niile bi nʼalaeze ya tutu ruo nʼọnụ mmiri osimiri ebe alaeze ahụ sọtụrụ."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 2,
+        "content": [
+          "Ma ọrụ ukwu na ọrụ niile ọ rụrụ, ya na ihe niile gbasara ịdị ukwuu nke Mọdekai, na ugwu niile eze nyere ya, ha niile ka e dere nʼime akwụkwọ akụkọ ihe ndị eze Midia na Peshịa mere nʼoge ọchịchị ha."
+        ]
+      },
+      {
+        "type": "verse",
+        "number": 3,
+        "content": [
+          "Mọdekai, onye Juu, bụ onye na-esote eze Ahasuerọs nʼọkwa. Ọ bụ onye dị ukwuu nʼetiti ndị Juu, na onye ndị Juu ibe ya na-asọpụkwara, nʼihi na ọ na-elenye anya nʼihe gbasara udo ndị Juu. Ọ bụkwa onye na-ekwuchite ọnụ nʼihe banyere ọdịmma nke ndị Juu niile."
+        ]
+      }
+    ],
+    "footnotes": []
+  },
+  "thisChapterLink": "/api/ibo_bib/EST/10.json",
+  "thisChapterAudioLinks": {},
+  "nextChapterApiLink": "/api/ibo_bib/JOB/1.json",
+  "nextChapterAudioLinks": {},
+  "previousChapterApiLink": "/api/ibo_bib/EST/9.json",
+  "previousChapterAudioLinks": {},
+  "numberOfVerses": 3
+}

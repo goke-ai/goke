@@ -1,0 +1,633 @@
+@import url(base.css);
+@import url(icon.css);
+
+body {
+    font-size: 13px;
+}
+
+.primary-layout {
+    --gap: 0;
+    position: relative;
+    min-height: 100vh;
+}
+
+main {
+    /* min-height: 85vh; */
+}
+
+footer {
+    /* min-height: 15vh; */
+    /* background-color: steelblue; */
+}
+
+.drawer {
+    min-height: 100%;
+/*    padding-inline: calc(var(--size-300) * 5);*/
+    background: var(--clr-text);
+    background-image: linear-gradient(180deg, var(--clr-primary) 0%, var(--clr-card-bg) 20%);
+    /* max-width: 200px; */
+}
+
+@media (max-width: 35em) {
+    .drawer {
+        display: none;
+    }
+}
+
+.page {
+    width: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+.sidebar {
+    background: var(--clr-card-bg);
+}
+
+
+/* drawer */
+.drawer-wrapper {
+    display: flex;
+    gap: calc(var(--size-300) * 5);
+    flex-direction: column;
+    /* justify-content: space-between; */
+    padding: 0.5rem;
+    height: 90vh;
+}
+
+.drawer-content li:hover {
+    background-color: var(--clr-accent);
+    /* color: var(--clr-accent); */
+}
+
+    .drawer-content li:hover a {
+        color: var(--clr-card-bg);
+    }
+
+.drawer-wrapper.collapse .nav-item-text {
+    display: none;
+}
+
+@media (max-width: 35em) {
+    .drawer-wrapper .nav-item-text {
+        display: none;
+    }
+}
+
+.drawer-controller {
+    /* margin-top: var(--size-300); */
+}
+
+    .drawer-controller .icon::before {
+        content: "\21DA";
+    }
+
+.drawer-wrapper.collapse .drawer-controller .icon::before {
+    content: "\21DB";
+}
+
+@media (max-width: 35em) {
+    .drawer-controller {
+        /* display: none; */
+        visibility: collapse;
+    }
+}
+
+.drawer-nav-list {
+    --gap: calc(var(--size-300) / 4);
+    flex-direction: column;
+    --padding: 0;
+}
+
+    .drawer-nav-list .dropdown-list {
+        --padding: var(--size-300);
+    }
+
+.dropdown-list .icon {
+    --icon-sz: 0.7em;
+    background-color: transparent;
+    filter: contrast();
+}
+
+.nav-item-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 35em) {
+    .nav-item-wrapper {
+        justify-content:center;
+    }
+}
+
+
+    .nav-item-text {
+        padding-inline: 0.3em; /*var(--size-300);*/
+    }
+
+    /* primary navigation */
+    .primary-navigation {
+        justify-content: flex-start;
+        align-items: center;
+        gap: var(--size-700);
+        background: hsla(var(--hsl-text), 0.9);
+        /* background-image: linear-gradient(180deg, var(--clr-card-bg) 0%, var(--clr-body-bg) 90%); */
+        z-index: 999;
+    }
+
+
+    .logo {
+        /* min-width: 250px; */
+        /* min-height: 50px; */
+        /* margin: calc(var(--size-300) * 5);*/
+        /* outline: 2px solid var(--clr-accent); */
+        background-color: var(--clr-body);
+        padding: 1em 1.5em;
+        /* color: var(--clr-accent); */
+    }
+
+    .navbar-controller,
+    .navbar-controller-checkbox,
+    .navbar-controller-label {
+        display: none;
+    }
+
+    .primary-nav-list {
+        --gap: var( --size-300);
+        /* background: hsla(var(--hsl-text), 0.9); */
+        padding: var(--size-100);
+    }
+
+        .primary-nav-list li {
+            position: relative;
+        }
+
+        .primary-nav-list a.active {
+            background-color: var(--clr-accent);
+            color: var(--clr-body-bg);
+            pointer-events: none;
+            cursor: default;
+        }
+
+        .primary-nav-list a, .primary-nav-list .nav-link {
+            text-decoration: none;
+            display: block;
+            color: var(--clr-body-bg);
+            /* font-size: var(--size-400); */
+        }
+
+        .primary-nav-list a {
+            padding: var(--padding, var(--size-100));
+        }
+
+            .primary-nav-list a:hover {
+                width: 100%;
+                color: var(--clr-accent);
+            }
+
+            .primary-nav-list a::before {
+                content: "";
+                display: block;
+                height: 5px;
+                width: 100%;
+                background-color: var(--clr-accent);
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 0%;
+                transition: all ease-in-out 250ms;
+            }
+
+            .primary-nav-list a:hover::before {
+                width: 100%;
+            }
+
+        .primary-nav-list .dropdown-list li:hover {
+            background-color: var(--clr-accent);
+            /* color: var(--clr-accent); */
+        }
+
+
+
+    .dropdown {
+        position: relative;
+    }
+
+        .dropdown:has(.active) > a {
+            background-color: var(--clr-accent);
+            color: var(--clr-body-bg);
+        }
+
+        .dropdown:has(> ul .active) > a:not([href="#"]),
+        .dropdown:has(> ul .active) > a:not([href=""]),
+        .dropdown-nav-link {
+            pointer-events: unset;
+            cursor: pointer;
+        }
+
+
+    .dropdown-list {
+        display: none;
+        position: absolute;
+        background-color: var(--clr-body);
+        z-index: 99;
+    }
+
+        .dropdown-list li {
+            /* display: block; */
+            /* margin-block: var(--size-300); */
+            /* padding: var(--size-300) 0; */
+            /* background-color: red; */
+            --padding: 0.5em;
+        }
+
+            .dropdown-list li a, .dropdown-list li .nav-link {
+                color: var(--clr-body-bg);
+            }
+
+        .dropdown-list.pop-right li {
+            display: block;
+            /* margin: 0; */
+            /* padding: 0.calc(var(--size-300) * 5); */
+        }
+
+    li.dropdown:hover .dropdown-list {
+        display: block;
+        /* position: absolute; */
+    }
+
+    .pop-down {
+        top: 100%;
+        left: 0;
+    }
+
+    .pop-right {
+        top: 0;
+        left: 100%;
+    }
+
+    .pop-right {
+        top: 0;
+        left: 100%;
+    }
+
+    .pop-down-left {
+        top: 100%;
+        right: 0%;
+    }
+
+    @media (max-width: 35em) {
+        .primary-navigation {
+            display: block;
+            position: relative;
+        }
+
+        .primary-nav-list {
+            display: none;
+            position: absolute;
+            width: 100%;
+            text-align: center;
+            background: hsla(var(--hsl-text), 0.99);
+        }
+
+        @supports (backdrop-filter: blur(var(--size-300))) {
+            .primary-nav-list {
+                background: hsla(var(--hsl-text), 0.5);
+                backdrop-filter: blur(var(--size-300));
+            }
+        }
+
+        .navbar-controller-label {
+            display: block;
+            position: absolute;
+            top: 1.5em;
+            right: 1.5em;
+        }
+
+        input[type="checkbox"]:checked ~ .primary-nav-list {
+            display: flex;
+            flex-direction: column;
+            gap: var(--size-300);
+            /* justify-content: center; */
+            /* align-items: center; */
+
+            padding: var(--size-600);
+        }
+
+        .navbar-controller .icon:before {
+            content: "\2630";
+            /* font-size: var(--fs-600); */
+        }
+
+        input[type="checkbox"]:checked ~ .navbar-controller .icon:before {
+            content: "\00D7";
+        }
+
+        li.dropdown:hover .dropdown-list {
+            position: relative;
+        }
+    }
+
+    /* sidebar-wrapper */
+    .sidebar-wrapper {
+        --_sb-right: 0%;
+        --_sb-width: 300px;
+        position: fixed;
+        right: var(--_sb-right);
+        top: 0;
+        bottom: 0;
+        /* height: 100%; */
+        width: var(--_sb-width);
+        /* outline: 2px solid beige; */
+        background: inherit;
+        padding: var(--size-600);
+        /* overflow-y: scroll; */
+    }
+
+    @media (max-width: 35em) {
+        .sidebar-wrapper {
+            --_sb-width: 260px;
+        }
+    }
+
+    .sidebar-wrapper.collapse {
+        transform: translateX(100%);
+    }
+
+    .sidebar-content {
+        --label-align: left;
+        font-size: var(--fs-200);
+    }
+
+    .sidebar-controller {
+        position: absolute;
+        top: 35%;
+        right: var(--_sb-width);
+        /* color: var(--clr-body-bg); */
+    }
+
+    .sidebar-wrapper.collapse .sidebar-controller .icon::before {
+        content: "\2638";
+    }
+
+    .sidebar-controller .icon::before {
+        content: "\00D7";
+    }
+
+    /* footer-wrapper */
+    .footer-wrapper {
+        background-color: var(--clr-card-bg);
+        color: var(--clr-text);
+        padding: var(--size-300);
+        --icon-sz: 4em;
+        --_clr-icon-border: var(--clr-accent);
+        --icon-fs: 4em;
+    }
+
+
+    /* color-picker */
+    .color-picker {
+        width: fit-content;
+    }
+
+        .color-picker input[type="radio"] {
+            appearance: none;
+            width: var(--size-300);
+            height: var(--size-300);
+            outline: 3px solid var(--radio-color);
+            outline-offset: 3px;
+            border: none;
+            border-radius: 50%;
+        }
+
+    input[type="radio"]:checked {
+        background-color: var(--radio-color, var(--clr-text));
+    }
+
+    .color-picker input[type="radio"]#neutral {
+        --radio-color: gray;
+    }
+
+    .color-picker input[type="radio"]#pink {
+        --radio-color: pink;
+    }
+
+    .color-picker input[type="radio"]#blue {
+        --radio-color: blue;
+    }
+
+    .color-picker input[type="radio"]#green {
+        --radio-color: green;
+    }
+
+    .color-picker input[type="radio"]#light {
+        --radio-color: white;
+    }
+
+    .color-picker input[type="radio"]#dark {
+        --radio-color: black;
+    }
+
+    .neutral,
+    :root:has(#neutral:checked) {
+        --hsl-text: 0, 0%, 10%;
+        --hsl-background: 0, 0%, 90%;
+        --clr-primary-50: hsl(0, 0%, 95%);
+        --clr-primary-100: hsl(0, 0%, 90%);
+        --clr-primary-200: hsl(0, 0%, 70%);
+        --clr-primary-300: hsl(0, 0%, 25%);
+        --clr-primary-400: hsl(0, 0%, 10%);
+        --text: hsl(0, 0%, 7%);
+        --body-text: hsl(0, 0%, 10%);
+        --background: hsl(0, 0%, 95%);
+        --card-background: hsl(0, 0%, 85%);
+        --primary: hsl(0, 0%, 78%);
+        --secondary: hsl(0, 0%, 80%);
+        --accent: hsl(0, 0%, 40%);
+        --hsl-text: 0, 0%, 7%;
+        --hsl-background: 0, 0%, 95%;
+        --clr-text: var(--text);
+        --clr-card-bg: var(--card-background);
+        --clr-body: var(--body-text);
+        --clr-body-bg: var(--background);
+        --clr-primary: var(--primary);
+        --clr-secondary: var(--secondary);
+        --clr-accent: var(--accent);
+    }
+
+        .neutral .dark,
+        :root:has(#neutral:checked):has(#dark:checked) {
+            --hsl-text: 0, 0%, 90%;
+            --hsl-background: 0, 0%, 10%;
+            --clr-primary-50: hsl(0, 0%, 5%);
+            --clr-primary-100: hsl(0, 0%, 10%);
+            --clr-primary-200: hsl(0, 0%, 25%);
+            --clr-primary-300: hsl(0, 0%, 70%);
+            --clr-primary-400: hsl(0, 0%, 90%);
+            --text: hsl(0, 0%, 95%);
+            --body-text: hsl(0, 0%, 85%);
+            --background: hsl(0, 0%, 7%);
+            --card-background: hsl(0, 0%, 17%);
+            --primary: hsl(0, 0%, 22%);
+            --secondary: hsl(0, 0%, 1%);
+            --accent: hsl(0, 0%, 70%);
+            --hsl-text: 0, 0%, 95%;
+            --hsl-background: 0, 0%, 7%;
+        }
+
+    .pink,
+    :root:has(#pink:checked) {
+        --hsl-text: 310, 50%, 15%;
+        --hsl-background: 310, 50%, 90%;
+        --clr-primary-50: hsl(310, 50%, 95%);
+        --clr-primary-100: hsl(310, 50%, 90%);
+        --clr-primary-200: hsl(310, 50%, 80%);
+        --clr-primary-300: hsl(310, 50%, 25%);
+        --clr-primary-400: hsl(310, 50%, 15%);
+        --text: hsl(310, 44%, 7%);
+        --body-text: hsl(310, 44%, 10%);
+        --background: hsl(310, 44%, 95%);
+        --card-background: hsl(310, 44%, 85%);
+        --primary: hsl(310, 100%, 78%);
+        --secondary: hsl(310, 43%, 80%);
+        --accent: hsl(310, 43%, 40%);
+        --hsl-text: 310, 44%, 7%;
+        --hsl-background: 310, 44%, 95%;
+        --clr-text: var(--text);
+        --clr-card-bg: var(--card-background);
+        --clr-body: var(--body-text);
+        --clr-body-bg: var(--background);
+        --clr-primary: var(--primary);
+        --clr-secondary: var(--secondary);
+        --clr-accent: var(--accent);
+    }
+
+        .pink .dark,
+        :root:has(#pink:checked):has(#dark:checked) {
+            --text: hsl(310, 44%, 95%);
+            --body-text: hsl(310, 44%, 85%);
+            --background: hsl(310, 44%, 7%);
+            --card-background: hsl(310, 44%, 17%);
+            --primary: hsl(310, 100%, 22%);
+            --secondary: hsl(310, 60%, 1%);
+            --accent: hsl(310, 42%, 70%);
+            --hsl-text: 310, 44%, 95%;
+            --hsl-background: 310, 44%, 7%;
+        }
+
+    .blue,
+    :root:has(#blue:checked) {
+        --hsl-text: 220, 50%, 10%;
+        --hsl-background: 220, 50%, 90%;
+        --clr-primary-50: hsl(220, 50%, 95%);
+        --clr-primary-100: hsl(220, 50%, 90%);
+        --clr-primary-200: hsl(220, 100%, 80%);
+        --clr-primary-300: hsl(220, 50%, 25%);
+        --clr-primary-400: hsl(220, 50%, 15%);
+        --text: hsl(221, 44%, 7%);
+        --body-text: hsl(221, 44%, 10%);
+        --background: hsl(221, 44%, 95%);
+        --card-background: hsl(221, 44%, 85%);
+        --primary: hsl(221, 100%, 78%);
+        --secondary: hsl(221, 43%, 80%);
+        --accent: hsl(221, 43%, 40%);
+        --hsl-text: 221, 44%, 7%;
+        --hsl-background: 224, 44%, 95%;
+        --clr-text: var(--text);
+        --clr-card-bg: var(--card-background);
+        --clr-body: var(--body-text);
+        --clr-body-bg: var(--background);
+        --clr-primary: var(--primary);
+        --clr-secondary: var(--secondary);
+        --clr-accent: var(--accent);
+    }
+
+        .blue .dark,
+        :root:has(#blue:checked):has(#dark:checked) {
+            --text: hsl(224, 44%, 95%);
+            --body-text: hsl(224, 44%, 85%);
+            --background: hsl(221, 44%, 7%);
+            --card-background: hsl(221, 44%, 17%);
+            --primary: hsl(221, 100%, 22%);
+            --secondary: hsl(220, 60%, 1%);
+            --accent: hsl(222, 42%, 70%);
+            --hsl-text: 224, 44%, 95%;
+            --hsl-background: 221, 44%, 7%;
+        }
+
+    .green,
+    :root:has(#green:checked) {
+        --hsl-text: 140, 50%, 10%;
+        --hsl-background: 140, 50%, 90%;
+        --clr-primary-50: hsl(140, 50%, 95%);
+        --clr-primary-100: hsl(140, 50%, 90%);
+        --clr-primary-200: hsl(140, 50%, 80%);
+        --clr-primary-300: hsl(140, 50%, 25%);
+        --clr-primary-400: hsl(140, 50%, 15%);
+        --text: hsl(140, 44%, 7%);
+        --body-text: hsl(140, 44%, 10%);
+        --background: hsl(140, 44%, 95%);
+        --card-background: hsl(140, 44%, 85%);
+        --primary: hsl(140, 100%, 78%);
+        --secondary: hsl(140, 43%, 80%);
+        --accent: hsl(140, 43%, 40%);
+        --hsl-text: 140, 44%, 7%;
+        --hsl-background: 140, 44%, 95%;
+        --clr-text: var(--text);
+        --clr-card-bg: var(--card-background);
+        --clr-body: var(--body-text);
+        --clr-body-bg: var(--background);
+        --clr-primary: var(--primary);
+        --clr-secondary: var(--secondary);
+        --clr-accent: var(--accent);
+    }
+
+        .green .dark,
+        :root:has(#green:checked):has(#dark:checked) {
+            --text: hsl(140, 44%, 95%);
+            --body-text: hsl(140, 44%, 85%);
+            --background: hsl(140, 44%, 7%);
+            --card-background: hsl(140, 44%, 17%);
+            --primary: hsl(140, 100%, 22%);
+            --secondary: hsl(140, 60%, 1%);
+            --accent: hsl(140, 42%, 70%);
+            --hsl-text: 140, 44%, 95%;
+            --hsl-background: 140, 44%, 7%;
+        }
+
+
+.toolbar {
+    display: flex; 
+    flex-flow:row; 
+    gap:0.2em;
+    justify-content: space-between;
+    align-items: center;
+    border-block-end: solid 1px lightgray;
+    padding-block: 0.2em;
+    margin-block-end: 1em;
+    position: sticky;
+    top: 0; /* You can adjust this value to control the offset from the top */
+    background-color: var(--clr-body-bg); /* Optional: for visibility */
+    padding: 10px; /* Optional: for spacing */
+
+    filter: invert();
+   
+}
+
+.page-top-0 {
+    margin-top: calc(-1 * var(--size-600));
+}
+
+.horizontal-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--gap);
+}
+
+.vertical-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: var(--gap);
+}
