@@ -1,0 +1,49 @@
+﻿@page
+@model Goke.Web.ServerUI.Areas.Admin.Pages.Cards.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Card</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Card.Pin)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Card.Pin)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Card.From)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Card.From)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Card.To)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Card.To)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Card.Permission)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Card.Permission)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Card.Owner)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Card.Owner.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Card.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

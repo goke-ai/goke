@@ -29,6 +29,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Update="Components\BibleChapter.razor">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
     <Content Update="Pages\Admin.razor">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
     </Content>

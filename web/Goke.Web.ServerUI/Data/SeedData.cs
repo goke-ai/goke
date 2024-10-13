@@ -6,12 +6,14 @@ using System;
 using Goke.Web.ServerUI.Models;
 using Goke.Web.ServerUI.Data;
 using Microsoft.Extensions.DependencyInjection;
+using Goke.Core;
+using System.Text.Encodings.Web;
+using Goke.Web.Identity;
 
 namespace Goke.Web.ServerUI.Data;
 
 public class SeedData
 {
-
     public static async void InitializeAsync(WebApplication app)
     {
         // seed the database
@@ -29,22 +31,6 @@ public class SeedData
 
     private static readonly IEnumerable<SeedUser> seedUsers =
     [
-        new SeedUser()
-        {
-            Email = "sysadmin@ark.com",
-            NormalizedEmail = "SYSADMIN@ARK.COM",
-            NormalizedUserName = "SYSADMIN@ARK.COM",
-            RoleList = ["SystemAdministrators", "Administrators", "Managers" ],
-            UserName = "sysadmin@ark.com"
-        },
-        new SeedUser()
-        {
-            Email = "admin@ark.com",
-            NormalizedEmail = "ADMIN@ARK.COM",
-            NormalizedUserName = "ADMIN@ARK.COM",
-            RoleList = [ "Administrators", "Managers" ],
-            UserName = "admin@ark.com"
-        },
         new SeedUser()
         {
             Email = "manager@ark.com",
@@ -75,19 +61,30 @@ public class SeedData
     [
         new SeedUser()
         {
+            Email = "admin@goke.me",
+            NormalizedEmail = "ADMIN@GOKE.ME",
+            NormalizedUserName = "GOKE@ARK.COM",
+            RoleList = ["SystemAdministrators", "Administrators", "Managers" ],
+            UserName = "goke@ark.com",
+            Password = "goke@ARK#246800",
+        },
+        new SeedUser()
+        {
             Email = "sysadmin@ark.com",
             NormalizedEmail = "SYSADMIN@ARK.COM",
             NormalizedUserName = "SYSADMIN@ARK.COM",
-            RoleList = ["SystemAdministrators", "Administrators", "Managers" ],
-            UserName = "sysadmin@ark.com"
+            RoleList = ["SystemAdministrators", "Administrators", "Managers"],
+            UserName = "sysadmin@ark.com",
+            Password = "sysadmin@ARK#789",
         },
         new SeedUser()
         {
             Email = "admin@ark.com",
             NormalizedEmail = "ADMIN@ARK.COM",
             NormalizedUserName = "ADMIN@ARK.COM",
-            RoleList = [ "Administrators", "Managers" ],
-            UserName = "admin@ark.com"
+            RoleList = ["Administrators", "Managers"],
+            UserName = "admin@ark.com",
+            Password = "admin@ARK#135",
         },
     ];
 
@@ -102,12 +99,12 @@ public class SeedData
         using RoleManager<IdentityRole> roleManager = await SeedRoles(serviceProvider);
 
         var userStore = new UserStore<ApplicationUser>(context);
-        var password = new PasswordHasher<ApplicationUser>();
+        var hasher = new PasswordHasher<ApplicationUser>();
 
         using var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-        foreach (var user in seedUsers)
+        foreach (var user in adminUsers.Union(seedUsers))
         {
-            var hashed = password.HashPassword(user, "Passw0rd!");
+            var hashed = hasher.HashPassword(user, "Passw0rd!");
             user.PasswordHash = hashed;
 
             user.EmailConfirmed = true;
@@ -124,7 +121,6 @@ public class SeedData
                 }
             }
         }
-
         await context.SaveChangesAsync();
     }
 
@@ -135,37 +131,70 @@ public class SeedData
         context.Database.Migrate();
 
         using RoleManager<IdentityRole> roleManager = await SeedRoles(serviceProvider);
-        
-        var userStore = new UserStore<ApplicationUser>(context);
-        var password = new PasswordHasher<ApplicationUser>();
+
 
         var configuration = serviceProvider.GetRequiredService<IConfiguration>();
+
         using var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-        foreach (var user in seedUsers)
+        await SeedAdmins(context, configuration, userManager);
+
+        await context.SaveChangesAsync();
+    }
+
+    private static async Task SeedAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
+    {
+        var userStore = new UserStore<ApplicationUser>(context);
+        var hasher = new PasswordHasher<ApplicationUser>();
+        foreach (var user in adminUsers)
         {
-            var pwd = configuration.GetValue<string>(user.UserName!);
-            if (pwd != null)
+
+            var password = emailSender is not null ? Text.GeneratePin() : configuration.GetValue<string>($"{user.UserName!}:Secret") ?? user.Password;
+            if (password != null)
             {
-                var hashed = password.HashPassword(user, pwd);
+                var hashed = hasher.HashPassword(user, password);
                 user.PasswordHash = hashed;
 
                 user.EmailConfirmed = true;
 
-                var result = await userStore.CreateAsync(user);
+                await userStore.CreateAsync(user);
 
                 if (user.Email is not null)
                 {
                     var appUser = await userManager.FindByEmailAsync(user.Email);
 
-                    if (appUser is not null && user.RoleList is not null)
+                    if (appUser is not null)
                     {
-                        await userManager.AddToRolesAsync(appUser, user.RoleList);
+                        if (user.RoleList is not null)
+                        {
+                            await userManager.AddToRolesAsync(appUser, user.RoleList);
+                        }
+
+                        if (emailSender is not null)
+                        {
+                            var email = configuration.GetValue<string>($"{user.UserName!}:Email") ?? user.Email;
+                            await emailSender.SendPasswordResetCodeAsync(user, email, HtmlEncoder.Default.Encode($"{user.UserName!.ToUpper()[0..3]}|{password}"));
+                        }
                     }
                 }
             }
         }
+    }
 
-        await context.SaveChangesAsync();
+    public static async Task SeedResetAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
+    {
+        foreach (var user in adminUsers)
+        {
+            if (user.Email is not null)
+            {
+                var appUser = await userManager.FindByEmailAsync(user.Email);
+                if (appUser != null)
+                {
+                    await userManager.DeleteAsync(appUser);
+                }
+            }
+        }      
+
+        await SeedAdmins(context, configuration, userManager, emailSender);
     }
 
     private static async Task<RoleManager<IdentityRole>> SeedRoles(IServiceProvider serviceProvider)
@@ -189,5 +218,6 @@ public class SeedData
     private class SeedUser : ApplicationUser
     {
         public string[]? RoleList { get; set; }
+        public string? Password { get; set; }
     }
 }

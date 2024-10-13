@@ -1,0 +1,55 @@
+﻿@page
+@model Goke.Web.ServerUI.Areas.Admin.Pages.Cards.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Card</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Card.Id" />
+            <div class="form-group">
+                <label asp-for="Card.Pin" class="control-label"></label>
+                <input asp-for="Card.Pin" class="form-control" />
+                <span asp-validation-for="Card.Pin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Card.From" class="control-label"></label>
+                <input asp-for="Card.From" class="form-control" />
+                <span asp-validation-for="Card.From" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Card.To" class="control-label"></label>
+                <input asp-for="Card.To" class="form-control" />
+                <span asp-validation-for="Card.To" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Card.Permission" class="control-label"></label>
+                <input asp-for="Card.Permission" class="form-control" />
+                <span asp-validation-for="Card.Permission" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Card.OwnerId" class="control-label"></label>
+                <select asp-for="Card.OwnerId" class="form-control" asp-items="ViewBag.OwnerId"></select>
+                <span asp-validation-for="Card.OwnerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

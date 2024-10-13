@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Goke.Razor.Components", "..
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{DD268EE5-1010-4CFD-8C75-73F3263C8A3E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Goke.Core.Entities", "..\GokeApps\Goke.Core.Entities\Goke.Core.Entities.csproj", "{A00A0640-DF59-489A-AA74-1826AA9829E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{42CD41D8-D7A4-47D9-9F03-5CF8E1C9CED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42CD41D8-D7A4-47D9-9F03-5CF8E1C9CED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42CD41D8-D7A4-47D9-9F03-5CF8E1C9CED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00A0640-DF59-489A-AA74-1826AA9829E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00A0640-DF59-489A-AA74-1826AA9829E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00A0640-DF59-489A-AA74-1826AA9829E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00A0640-DF59-489A-AA74-1826AA9829E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{9937FAD4-6A35-492F-90E4-2B737F4CD996} = {DD268EE5-1010-4CFD-8C75-73F3263C8A3E}
 		{3E9610AB-028C-4D1F-93AC-E6747C6DB55D} = {DD268EE5-1010-4CFD-8C75-73F3263C8A3E}
 		{42CD41D8-D7A4-47D9-9F03-5CF8E1C9CED2} = {DD268EE5-1010-4CFD-8C75-73F3263C8A3E}
+		{A00A0640-DF59-489A-AA74-1826AA9829E0} = {DD268EE5-1010-4CFD-8C75-73F3263C8A3E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A7473D-F94E-4E36-BD80-F1A929B3B168}

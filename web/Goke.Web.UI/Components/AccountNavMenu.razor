@@ -24,24 +24,18 @@
                         Person
                     </NavLink>
                 </li>
-                <li data-nav-id="logout">
-                    <div class="nav-link">
+                <li>
+                    <NavLink class="nav-link" href="Logout">
                         <span class="nav-item-wrapper">
                             <span class="icon">
                                 <svg aria-hidden="true">
                                     <use xlink:href="sprites.svg#circle-user-solid"></use>
                                 </svg>
                             </span><span class="nav-item-text">
-                                <form action="Account/Logout" method="post" style="display:inline">
-                                    <AntiforgeryToken />
-                                    <input type="hidden" name="ReturnUrl" value="@CurrentUrl" />
-                                    <button type="submit" class="nav-link link">
-                                        Logout
-                                    </button>
-                                </form>
+                                Logout
                             </span>
                         </span>
-                    </div>
+                    </NavLink>
                 </li>
             </ul>
         </li>
@@ -53,7 +47,7 @@
                             <use xlink:href="sprites.svg#circle-user-solid"></use>
                         </svg>
                     </span><span class="nav-item-text">
-                        Register
+                        Logout
                     </span>
                 </span>
             </NavLink>

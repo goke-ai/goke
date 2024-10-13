@@ -1,0 +1,104 @@
+﻿<style>
+    label.verse {
+        cursor: pointer;
+    }
+
+        label.verse:hover {
+        }
+
+        label.verse > div[data-type="verse"] {
+            display: none;
+            border: solid 1px black;
+            border-radius: 5px;
+            padding: 1em;
+        }
+
+        label.verse:has(input[type="checkbox"]:checked) > div[data-type="verse"] {
+            display: block;
+        }
+
+        label.verse input[type="checkbox"] {
+            visibility: hidden;
+            width: 0;
+            height: 0;
+            padding: 0;
+            margin: 0;
+        }
+
+</style>
+
+
+@if (Notes is not null)
+{
+    @foreach (var note in Notes)
+    {
+        <div class="tile">
+            <div>
+                <div>Title</div>
+                <div>
+                    @((MarkupString)note.Body!)
+                </div>
+                <button>Edit</button>
+                <button>Delete</button>
+            </div>
+        </div>
+    }
+}
+
+@code {
+    [Parameter]
+    public List<Post>? Notes { get; set; } = new()
+    {
+        new(){
+            Body=@"
+<span>
+Everyone has power to recreate your world.
+<label class='verse'>
+    Gen 1:1
+    <input type='checkbox' />
+    <div id='1' data-type='verse'><sup>1</sup><!--!-->
+        <span><!--!-->In the beginning was the Word, and the Word was with God, and the Word was God.</span>
+    </div>
+</label>.
+<span>"
+},
+
+        new(){Body=@"
+<span>Word can change any man destiny
+    <label class='verse'>John1:1
+        <input type='checkbox' />
+        <div id='1' data-type='verse'><sup>1</sup><!--!-->
+            <span><!--!-->In the beginning was the Word, and the Word was with God, and the Word was God.</span>
+        </div>
+    </label>
+    and Jesus is THE WORD. Jesus is the name that can deliver from every shame and pain. 
+    Jesus is the name that can deliver from every shame and pain. 
+    Jesus is the name that can deliver from every shame and pain.
+</span>"
+},
+
+        new(){Body=@"
+<span>Word can change any man destiny
+    <label class='verse'>John1:1
+        <input type='checkbox' />
+        <div id='1' data-type='verse'><sup>1</sup><!--!-->
+            <span><!--!-->In the beginning was the Word, and the Word was with God, and the Word was God.</span>
+        </div>
+    </label>
+    and Jesus is THE WORD. Jesus is the name that can deliver from every shame and pain. 
+    Jesus is the name that can deliver from every shame and pain. 
+    Jesus is the name that can deliver from every shame and pain.
+</span>"
+}
+    };
+
+    public class Post
+    {
+        public string Id { get; set; } = Guid.NewGuid().ToString();
+        public string? Body { get; set; }
+        public string? AuthorId { get; set; }
+        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
+        public DateTime? EditedDate { get; set; }
+    }
+
+}

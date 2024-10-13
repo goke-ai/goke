@@ -1,3 +1,4 @@
+using Goke.Web.Identity;
 using Goke.Web.ServerUI.Data;
 using Goke.Web.ServerUI.Models;
 using Microsoft.AspNetCore.Identity;
@@ -19,7 +20,16 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddApiEndpoints();
 
-builder.Services.AddRazorPages();
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequireAdministratorRole",
+         policy => policy.RequireRole("SystemAdministrators", "Administrators"));
+});
+
+builder.Services.AddRazorPages(options =>
+{
+    options.Conventions.AuthorizeAreaFolder("Admin", "/", "RequireAdministratorRole");
+});
 
 //+--------
 // add a CORS policy for the client
@@ -37,6 +47,10 @@ builder.Services.AddCors(
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
+builder.Services.AddTransient<IEmailSender<ApplicationUser>, EmailSender>();
+
 //---------
 
 var app = builder.Build();
@@ -62,6 +76,12 @@ else
 
 //+-------------
 SeedData.InitializeAsync(app);
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+};
 //--------------
 
 
@@ -166,6 +186,7 @@ app.MapGet("/api/weatherforecast", () =>
 //--------------
 
 app.MapRazorPages();
+
 
 app.Run();
 

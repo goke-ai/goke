@@ -1,11 +1,125 @@
 ﻿@page "/products/banking"
+@using Goke.Web.UI.Models
 
 @inject ILogger<Banking> Logger
 
 <PageTitle>Banking</PageTitle>
 
-<h1>Banking</h1>
+<div class="remove-parent-padding">
+    <div class="tab" style="--tab-height: 90vh">
+        <div class="tab-controller ">
+            <div class="tab-controller-labels show-text show-radio">
+                <label class="tab-page-controller-label">
+                    <span>Accounts</span>
+                    <input type="radio" name="tab-page" id="tabpage1" class="tab-page-controller" checked>
+                </label>
+                <label class="tab-page-controller-label">
+                    <span>Payments</span>
+                    <input type="radio" name="tab-page" id="tabpage2" class="tab-page-controller">
+                </label>
+                <label class="tab-page-controller-label">
+                    <span>Cards</span>
+                    <input type="radio" name="tab-page" id="tabpage3" class="tab-page-controller">
+                </label>
+                <label class="tab-page-controller-label">
+                    <span>Plans</span>
+                    <input type="radio" name="tab-page" id="tabpage4" class="tab-page-controller">
+                </label>
 
+            </div>
+        </div>
+
+        <div class="tab-body">
+            <div class="accounts | tab-page pp-0 pt-0">
+
+                <div class="accounts | tile">
+                @if (Savings is not null)
+                {
+                    <div>Savings</div>
+                    <div>@Savings.Name</div>
+                    <div>@Savings.Number</div>
+                    <div style="font-size:3em;">@Savings.Balance</div>
+                    <hr />
+                    <ul>
+                    @foreach (var item in Savings.GetAccountHistory())
+                    {
+                        <li style="display:flex; justify-content:space-between;">
+                                <span>@item.Date.ToString("dd-MM-yyyy")</span>
+                            <span>@item.Note</span>
+                                <span>@item.Amount</span>
+                        </li>
+                    }
+                    </ul>
+                }
+                </div>
+
+                <div class="transactions | tile">
+                    <h4>Transactions</h4>
+                </div>
+
+                <div class="account-details | tile">
+                    <h4>Account-details</h4>
+                </div>
+
+                <div class="transaction-analysis | tile">
+                    <h4>Transaction-analysis</h4>
+                </div>
+
+                <div class="add-money | tile">
+                    <h4>Add-money</h4>
+                </div>
+
+                <div class="move-money | tile">
+                    <h4>Move-money</h4>
+                </div>
+            </div>
+
+            <div class="payments | tab-page">
+                <div class="transfers | tile">
+                    <h4>Transfers</h4>
+                </div>
+
+                <div class="transfer-details | tile">
+                    <h4>Transfer-details</h4>
+                </div>
+
+                <div class="new-transfer | tile">
+                    <h4>New-transfer</h4>
+                </div>
+
+                <div class="transfer-schedules | tile">
+                    <h4>Transfer-schedules</h4>
+                </div>
+            </div>
+
+            <div class="cards | tab-page">
+                <div class="cards | tile">
+                    <h4>Cards</h4>
+                </div>
+
+                <div class="new-card | tile">
+                    <h4>New-card</h4>
+                </div>
+
+                <div class="card-details | tile">
+                    <h4>Card-details</h4>
+                </div>
+
+            </div>
+
+            <div class="plans | tab-page">
+                <div class="plans | tile">
+                    <h4>Plans</h4>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
 @code{
-    
+    Bank bank = Bank.GetSampleBank("Lillian Oladokun");
+
+    Bank.Account? Savings => bank.InterestEarnings?.FirstOrDefault();
+
 }

@@ -856,7 +856,7 @@ button:has(.icon:only-child) {
 }
 
 /* wizard and carousel */
-.wizard,
+.wizard,.tab,
 .carousel {
     color: var(--clr-text);
     background-color: var(--clr-card-bg);
@@ -873,12 +873,17 @@ button:has(.icon:only-child) {
     min-height: var(--_wizard-height);
 }
 
+.tab {
+    --_tab-height: var(--tab-height, 50vh);
+    min-height: var(--_tab-height);
+}
+
 .carousel {
     --_carousel-height: var(--carousel-height, 20vh);
     min-height: var(--_carousel-height);
 }
 
-.wizard-body,
+.wizard-body,.tab-body,
 .carousel-body {
     height: 100%;
 }
@@ -888,19 +893,28 @@ button:has(.icon:only-child) {
     overflow-y: auto;
 }
 
+.tab-page {
+    height: var(--_tab-height);
+    overflow-y: auto;
+}
+
 .carousel-page {
     height: var(--_carousel-height);
 }
 
 .wizard-page,
+.tab-page,
 .carousel-page,
 .wizard-controller,
+.tab-controller,
 .carousel-controller {
     padding: var(--size-300) var(--size-600);
 }
 
     .wizard-controller,
     .wizard-controller > *,
+    .tab-controller,
+    .tab-controller > *,
     .carousel-controller,
     .carousel-controller > * {
         display: flex;
@@ -916,14 +930,20 @@ button:has(.icon:only-child) {
     flex-direction: column;
 }
 
-
-.wizard-page:nth-child(odd),
-.carousel-page:nth-child(odd) {
-    --form-disabled-border-color: var(--clr-body-bg);
-    background-color: var(--clr-body-bg);
+.tab-controller {
+    justify-content: start;
 }
 
+
+    .wizard-page:nth-child(odd),
+    .tab-page:nth-child(odd),
+    .carousel-page:nth-child(odd) {
+        --form-disabled-border-color: var(--clr-body-bg);
+        background-color: var(--clr-body-bg);
+    }
+
 .wizard-page:nth-child(even),
+.tab-page:nth-child(even),
 .carousel-page:nth-child(even) {
     --form-disabled-border-color: var(--clr-card-bg);
     background-color: var(--clr-card-bg);
@@ -931,8 +951,13 @@ button:has(.icon:only-child) {
 }
 
 .wizard-page,
+.tab-page,
 .carousel-page {
     display: none;
+}
+
+.tab-controller-labels{
+    gap:1em;
 }
 
 .wizard-controller label,
@@ -942,32 +967,52 @@ button:has(.icon:only-child) {
 }
 
 .wizard-controller input,
+.tab-controller input,
 .carousel-controller input {
     outline-color: var(--clr-body-bg);
 }
 
 .wizard-page-controller-label span,
+.tab-page-controller-label span,
 .carousel-page-controller-label span {
     display: none;
 }
 
+.tab-page-controller-label{
+    display: flex;
+    padding-inline: var(--size-300);
+}
+
+.tab-page-controller-label input[type=radio] {
+    visibility: hidden;
+    width: 0;
+    height:0;
+    margin:0;
+    padding:0;
+}
+
 .wizard-page-controller-label input[type=radio],
+.tab-page-controller-label input[type=radio],
 .carousel-page-controller-label input[type=radio] {
     display: none;
 }
 
 .wizard-controller:has(.show-text) .wizard-page-controller-label span,
+.tab-controller:has(.show-text) .tab-page-controller-label span,
 .carousel-controller:has(.show-text) .carousel-page-controller-label span {
     display: block;
 }
 
 .wizard-controller:has(.show-radio) .wizard-page-controller-label input[type=radio],
+.tab-controller:has(.show-radio) .tab-page-controller-label input[type=radio],
 .carousel-controller:has(.show-radio) .carousel-page-controller-label input[type=radio] {
     display: block;
 }
 
 .wizard-controller input:checked,
 .wizard-controller label:has(input:checked),
+.tab-controller input:checked,
+.tab-controller label:has(input:checked),
 .carousel-controller input:checked,
 .carousel-controller label:has(input:checked) {
     color: var(--clr-body);
@@ -985,7 +1030,8 @@ button:has(.icon:only-child) {
     .wizard-controller-labels:has(label:nth-child(7)>input:checked) > label:nth-child(6),
     .wizard-controller-labels:has(label:nth-child(8)>input:checked) > label:nth-child(7),
     .wizard-controller-labels:has(label:nth-child(9)>input:checked) > label:nth-child(8),
-    .wizard-controller-labels:has(label:nth-child(10)>input:checked) > label:nth-child(9) {
+    .wizard-controller-labels:has(label:nth-child(10)>input:checked) > label:nth-child(9)
+    {
         display: block;
     }
 
@@ -999,6 +1045,16 @@ button:has(.icon:only-child) {
 .wizard:has(.wizard-controller-labels label:nth-child(8)>input:checked) .wizard-page:nth-child(8),
 .wizard:has(.wizard-controller-labels label:nth-child(9)>input:checked) .wizard-page:nth-child(9),
 .wizard:has(.wizard-controller-labels label:nth-child(10)>input:checked) .wizard-page:nth-child(10),
+.tab:has(.tab-controller-labels label:nth-child(1)>input:checked) .tab-page:nth-child(1),
+.tab:has(.tab-controller-labels label:nth-child(2)>input:checked) .tab-page:nth-child(2),
+.tab:has(.tab-controller-labels label:nth-child(3)>input:checked) .tab-page:nth-child(3),
+.tab:has(.tab-controller-labels label:nth-child(4)>input:checked) .tab-page:nth-child(4),
+.tab:has(.tab-controller-labels label:nth-child(5)>input:checked) .tab-page:nth-child(5),
+.tab:has(.tab-controller-labels label:nth-child(6)>input:checked) .tab-page:nth-child(6),
+.tab:has(.tab-controller-labels label:nth-child(7)>input:checked) .tab-page:nth-child(7),
+.tab:has(.tab-controller-labels label:nth-child(8)>input:checked) .tab-page:nth-child(8),
+.tab:has(.tab-controller-labels label:nth-child(9)>input:checked) .tab-page:nth-child(9),
+.tab:has(.tab-controller-labels label:nth-child(10)>input:checked) .tab-page:nth-child(10),
 .carousel:has(.carousel-controller-labels label:nth-child(1)>input:checked) .carousel-page:nth-child(1),
 .carousel:has(.carousel-controller-labels label:nth-child(2)>input:checked) .carousel-page:nth-child(2),
 .carousel:has(.carousel-controller-labels label:nth-child(3)>input:checked) .carousel-page:nth-child(3),
@@ -1079,9 +1135,9 @@ display: revert;
     /*display: inline-block;*/
     padding: 2em;
     margin: 1em;
-    display: flex;
+    /*display: flex;
     gap: var(--size-100);
-    align-items: center;
+    align-items: center;*/
     --_clr-icon-fg: var(--clr-accent);
 }
 

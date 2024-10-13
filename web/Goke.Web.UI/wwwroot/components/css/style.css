@@ -5,6 +5,24 @@ body {
     font-size: 13px;
 }
 
+.pp-0{
+
+}
+
+*:has(>.remove-parent-padding),
+*:has(>.pp-0) {
+    padding: 0;
+}
+
+*:has(>.remove-parent-margin),
+*:has(>.pm-0) {
+    margin: 0;
+}
+
+.padding-top-0,.pt-0 {
+    padding-top: 0;
+}
+
 .primary-layout {
     --gap: 0;
     position: relative;
@@ -612,10 +630,6 @@ footer {
 
     filter: invert();
    
-}
-
-.page-top-0 {
-    margin-top: calc(-1 * var(--size-600));
 }
 
 .horizontal-group {

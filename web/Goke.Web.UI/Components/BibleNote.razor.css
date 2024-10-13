@@ -1,0 +1,12 @@
+﻿span.verse {
+    cursor: pointer;
+}
+
+    span.verse:hover {
+    }
+    span.verse > div[data-type="verse"] {
+        display: none;
+        border: solid 1px black;
+        border-radius: 5px;
+        padding: 1em;
+    }

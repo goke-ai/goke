@@ -1,0 +1,392 @@
+﻿@using System.Text.Json
+@using System.Text.RegularExpressions
+@using Goke.Bible.Entities
+@using Goke.Web.Shared.Models
+
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ILogger<Bible> Logger
+@inject State State
+
+<style>
+    i {
+        font-style: italic;
+    }
+
+        i[poem] {
+            color: blueviolet;
+        }
+
+        i[wordsofjesus="True"], i[wordsofjesus="True"]::after {
+            color: red !important;
+        }
+
+        i::before {
+            content: attr(noteId);
+            vertical-align: super;
+            font-size: 0.7em;
+            color: dimgray;
+        }
+
+    div[data-type]:not([data-type=verse]) {
+        color: brown;
+        font-weight: 600;
+        font-style: italic;
+        padding-block: 1em;
+    }
+
+    ::selection {
+        color: gold;
+        background-color: red;
+    }
+</style>
+
+@if (showTranslations)
+{
+    <div class="overlay">
+        <div>
+            <button class="primary" style="float:right;" @onclick="@(() => showTranslations=false)">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#xmark-solid"></use>
+                </svg>
+            </button>
+            <BibleTranslation Translations="@Translations"
+                              Translation=@Translation
+                              OnChangeTranslation="@OnChangeTranslation" />
+        </div>
+    </div>
+}
+
+@if (showTOC)
+{
+    <div class="overlay">
+        <div>
+            <button class="primary" style="float:right;" @onclick="@(() => showTOC=false)">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#xmark-solid"></use>
+                </svg>
+            </button>
+            <BibleToc Books="@Books" Translation="@Translation"
+                      OnChangeBook="@OnChangeBook"
+                      OnChangeChapter="@OnChangeChapter" />
+        </div>
+    </div>
+}
+
+@if (showSettings)
+{
+    <div class="overlay">
+        <div>
+            <button class="primary" style="float:right;" @onclick="@(() => showSettings=false)">
+                <svg class="icon" aria-hidden="true">
+                    <use xlink:href="sprites.svg#xmark-solid"></use>
+                </svg>
+            </button>
+            <ul style="display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100%;">
+                <li>
+                    <div>
+                        <button class="primary" @onclick=@(()=> fontSize -= 0.25f)>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="sprites.svg#minus-solid"></use>
+                            </svg>
+                        </button>
+                        Font Size
+                        <button class="primary" @onclick=@(()=>fontSize+=0.2f)>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="sprites.svg#plus-solid"></use>
+                            </svg>
+                        </button>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+}
+
+<div class="toolbar | " style="--gap:1px;">
+    <div class="horizontal-group" style="--gap:0.5em;">
+        <button class="primary" @onclick="@(()=> showTOC = true)"
+                title="@(chapter?.Book?.Title  + ", Chapter " + @chapter?.Chapter?.Number + " #" + chapter?.Chapter?.Verses?.Count(w => w.Type == "verse"))">
+            @chapter?.Book?.Name @chapter?.Chapter?.Number
+        </button>
+        |
+        <button class="primary" @onclick="@(()=>showTranslations = true)"
+                title="@chapter?.Translation?.LanguageEnglishName">
+            @chapter?.Translation?.ShortName
+        </button>
+    </div>
+    <div class="horizontal-group">
+        <button class="primary" @onclick="OnPrevious">
+            <svg class="icon" aria-hidden="true">
+                <use xlink:href="sprites.svg#angle-left-solid"></use>
+            </svg>
+        </button>
+        <button class="primary" @onclick="OnNext">
+            <svg class="icon" aria-hidden="true">
+                <use xlink:href="sprites.svg#angle-right-solid"></use>
+            </svg>
+        </button>
+    </div>
+    <div class="horizontal-group">
+        @* <button class="primary" @onclick="OnSearch">
+        <svg class="icon" aria-hidden="true">
+        <use xlink:href="sprites.svg#magnifying-glass-solid"></use>
+        </svg>
+        </button> *@
+        <button class="primary" @onclick="@(()=> showSettings = true)">
+            <svg class="icon" aria-hidden="true">
+                <use xlink:href="sprites.svg#gear-solid"></use>
+            </svg>
+        </button>
+    </div>
+</div>
+
+@if (chapter is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+    <div style="font-size: @(fontSize)em;">
+        @foreach (var item in chapter.Chapter?.Verses!/*?.Where(w => w.Type == "verse")!*/)
+        {
+            <div id="@item.Number" data-type="@item.Type">
+                <sup>@item.Number</sup>
+                <span>@((MarkupString)item.Verse!) </span>
+            </div>
+        }
+
+        <hr />
+
+        <ul style="font-size:0.7em; list-style-type: none; margin: 0; padding: 0;">
+            @foreach (var item in chapter.Chapter?.Footnotes!)
+            {
+                <li>@item.DisplayText</li>
+            }
+        </ul>
+
+    </div>
+
+    <div>License Url: <a href="@chapter.Translation?.LicenseUrl" target="_blank"> @chapter.Translation?.LicenseUrl </a></div>
+
+@*     <button type="button" onclick="document.getElementById('@VerseNumber').scrollIntoView({behavior:'smooth'})">Scroll To</button>
+ *@}
+
+@code {
+    [Parameter]
+    public string? Translation { get; set; } = "eng_kjv";
+    [Parameter]
+    public string? Book { get; set; } = "JHN";
+    [Parameter]
+    public int? ChapterNumber { get; set; } = 1;
+    [Parameter]
+    public int? VerseNumber { get; set; } = 1;
+
+    BookChapter? chapter;
+    bool showTranslations = false;
+    bool showTOC = false;
+    bool showSettings = false;
+    float fontSize = 1;
+    float[] fontSizes = { .1f, .2f, .3f, .4f, .5f, 0.75f, 1f, 1.25f, 1.5f, 1.75f, 2f };
+
+    public List<Translation>? Translations { get; set; }
+    public List<Book>? Books { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Translation ??= State["Bible.Translation.Id"]?.ToString() ?? "eng_kjv";
+            Book ??= State["Bible.Book.Id"]?.ToString() ?? "JHN";
+            ChapterNumber ??= int.TryParse(State["Bible.Chapter.Number"]?.ToString(), out int c) ? c : 1;
+            VerseNumber ??= int.TryParse(State["Bible.Verse.Number"]?.ToString(), out int v) ? v : 1;
+
+            await LoadChapter();
+            await LoadTranslations();
+            await LoadBooks();
+        }
+        catch (FileNotFoundException ex)
+        {
+            //jsonText = "Data file not found.";
+            Logger.LogError(ex, $"'/api/{Translation}/{Book}/{ChapterNumber}.json' not found.");
+        }
+    }
+
+    async Task LoadChapter()
+    {
+        // string jsonFilePath = Path.Combine(Env.WebRootPath, $"api/{Translation}/{Book}/{ChapterNumber}.json");
+        // var jsonText = await ReadData(jsonFilePath);
+
+        // var options = new JsonSerializerOptions
+        //     {
+        //         PropertyNameCaseInsensitive = true
+        //     };
+
+        //chapter = JsonSerializer.Deserialize<BookChapter>(jsonText, options);
+        chapter = await Http.GetFromJsonAsync<BookChapter>($"api/{Translation}/{Book}/{ChapterNumber}.json");
+
+        State["Bible.Translation.Id"] = Translation;
+        State["Bible.Book.Id"] = Book;
+        State["Bible.Chapter.Number"] = ChapterNumber;
+        State["Bible.Verse.Number"] = VerseNumber;
+
+        StateHasChanged();
+    }
+
+    async Task LoadTranslations()
+    {
+        try
+        {
+            // string jsonFilePath = Path.Combine(Env.WebRootPath, $"api/translations.json");
+
+            // var jsonText = await ReadData(jsonFilePath);
+
+            // var options = new JsonSerializerOptions
+            //     {
+            //         PropertyNameCaseInsensitive = true
+            //     };
+
+            // Translations = JsonSerializer.Deserialize<List<Translation>>(jsonText, options);
+            Translations = await Http.GetFromJsonAsync<List<Translation>>("api/translations.json");
+        }
+        catch (FileNotFoundException ex)
+        {
+            //jsonText = "Data file not found.";
+            Logger.LogError(ex, "'/api/translations.json' not found.");
+        }
+    }
+
+    async Task LoadBooks()
+    {
+        try
+        {
+            // string jsonFilePath = Path.Combine(Env.WebRootPath, $"api/{Translation}/books.json");
+            // var jsonText = await ReadData(jsonFilePath);
+
+            // var options = new JsonSerializerOptions
+            //     {
+            //         PropertyNameCaseInsensitive = true
+            //     };
+
+            // var bible = JsonSerializer.Deserialize<global::Goke.Bible.Entities.Bible>(jsonText, options);
+
+            var bible = await Http.GetFromJsonAsync<Goke.Bible.Entities.Bible>($"api/{Translation}/books.json");
+
+            Books = bible?.Books;
+        }
+        catch (FileNotFoundException ex)
+        {
+            //jsonText = "Data file not found.";
+            Logger.LogError(ex, $"'/api/{Translation}/books.json' not found.");
+        }
+    }
+
+    private async Task<string> ReadData(string jsonFilePath)
+    {
+        return await File.ReadAllTextAsync(jsonFilePath);
+
+        //using var stream = await FileSystem.OpenAppPackageFileAsync($"wwwroot/{Bible}/{Book}/{ChapterNumber}.json");
+        //using var reader = new StreamReader(stream);
+
+        //return await reader.ReadToEndAsync();
+    }
+
+    string X(string input)
+    {
+        string pattern = @"<i.*?>.*?</i>";
+        string replacement = "";
+        string result = Regex.Replace(input, pattern, replacement);
+        return result;
+    }
+
+    (string? translation, string? book, int chapter) FromChapterLink(string? chapterLink)
+    {
+
+        var x = chapterLink?.Split("/", StringSplitOptions.RemoveEmptyEntries);
+        if (x is not null)
+        {
+            return (x[1], x[2], int.Parse(x[3].Replace(".json", "")));
+        }
+
+        return (null, null, 0);
+    }
+
+    private async void OnPrevious(MouseEventArgs e)
+    {
+        if (ChapterNumber == 1)
+        {
+            (string? translation, string? book, int chapterNum) = FromChapterLink(chapter?.PreviousChapterApiLink);
+
+            Translation = translation ?? Translation;
+            Book = book ?? Book;
+            ChapterNumber = chapterNum == 0 ? ChapterNumber : chapterNum;
+        }
+        else
+        {
+            ChapterNumber -= 1;
+        }
+
+        //NavigationManager.NavigateTo($"bible/{Translation}/{Book}/{ChapterNumber}");
+        await LoadChapter();
+    }
+
+    private async void OnNext(MouseEventArgs e)
+    {
+        if (ChapterNumber == chapter?.Book?.NumberOfChapters)
+        {
+            (string? translation, string? book, int chapterNum) = FromChapterLink(chapter?.NextChapterApiLink);
+
+            Translation = translation ?? Translation;
+            Book = book ?? Book;
+            ChapterNumber = chapterNum == 0 ? ChapterNumber : chapterNum;
+        }
+        else
+        {
+            ChapterNumber += 1;
+        }
+        //NavigationManager.NavigateTo($"bible/{Translation}/{Book}/{ChapterNumber}");
+        await LoadChapter();
+    }
+
+    async Task OnChangeTranslation(string value)
+    {
+        State["Bible.Translation.Id"] = value;
+        Translation = value;
+
+        await LoadChapter();
+        await LoadBooks();
+
+        showTranslations = false;
+
+        StateHasChanged();
+    }
+    private void OnTranslations(MouseEventArgs e)
+    {
+        showTranslations = true;
+        //await LoadTranslations();
+    }
+
+    async Task OnChangeBook(string value)
+    {
+        State["Bible.Book.Id"] = value;
+        Book = value;
+
+        await LoadChapter();
+    }
+
+    async Task OnChangeChapter(int value)
+    {
+        State["Bible.Chapter.Number"] = value;
+        ChapterNumber = value;
+
+        await LoadChapter();
+    }
+
+    private void OnSearch()
+    {
+
+    }
+}
