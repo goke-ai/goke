@@ -5,6 +5,7 @@ using System.Net;
 using Microsoft.AspNetCore.Identity;
 using System.Text.Encodings.Web;
 using Goke.Web.ServerUI.Models;
+using Goke.Web.Data.Models;
 
 namespace Goke.Web.Identity
 {

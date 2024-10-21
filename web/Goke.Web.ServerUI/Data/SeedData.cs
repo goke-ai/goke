@@ -9,6 +9,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Goke.Core;
 using System.Text.Encodings.Web;
 using Goke.Web.Identity;
+using Goke.Web.Data;
+using Goke.Web.Data.Models;
 
 namespace Goke.Web.ServerUI.Data;
 

@@ -22,6 +22,7 @@
     <ProjectReference Include="..\..\..\GokeApps\Goke.Razor.Components\Goke.Razor.Components.csproj" />
     <ProjectReference Include="..\..\..\GokeApps\Goke.Web.Shared\Goke.Web.Shared.csproj" />
     <ProjectReference Include="..\..\cs\Goke.Core\Goke.Core.csproj" />
+    <ProjectReference Include="..\..\cs\Goke.FakeGen\Goke.FakeGen.csproj" />
   </ItemGroup>
 
   <ItemGroup>

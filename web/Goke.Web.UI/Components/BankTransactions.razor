@@ -1,0 +1,22 @@
+﻿@if(Transactions is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+<ul>
+    @foreach (var item in Transactions)
+    {
+        <li style="display:flex; justify-content:space-between;">
+            <span>@item.Date.ToString("dd-MM-yyyy")</span>
+            <span>@item.Note</span>
+            <span>@item.Amount.ToString("#,##0.00")</span>
+        </li>
+    }
+</ul>
+}
+@code {
+    [Parameter]
+    public List<Bank.Transaction>? Transactions { get; set; }
+
+}

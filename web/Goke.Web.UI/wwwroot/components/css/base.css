@@ -811,7 +811,7 @@ button:has(.icon:only-child) {
 .accordion-header,
 .accordion-body,
 .accordion-footer {
-    padding: var(--size-300) var(--size-600);
+    padding: var(--size-300) var(--size-300);
 }
 
 .card-header,
@@ -908,7 +908,7 @@ button:has(.icon:only-child) {
 .wizard-controller,
 .tab-controller,
 .carousel-controller {
-    padding: var(--size-300) var(--size-600);
+    padding: var(--size-300) var(--size-300);
 }
 
     .wizard-controller,

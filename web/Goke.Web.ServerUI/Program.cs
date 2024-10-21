@@ -1,18 +1,71 @@
+using Goke.Web.Data;
+using Goke.Web.Data.Models;
 using Goke.Web.Identity;
 using Goke.Web.ServerUI.Data;
 using Goke.Web.ServerUI.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.InteropServices;
 using System.Security.Claims;
+
+
+bool isWindows = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.Windows);
+bool isLinux = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.Linux);
+bool isOSX = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.OSX);
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(connectionString));
+//
+DatabaseType? databaseType = DatabaseType.MSSQL;
+if (isWindows)
+{
+    databaseType = DatabaseType.MSSQL;
+}
+if (isLinux)
+{
+    databaseType = DatabaseType.MySQL;
+}
+
+// uncomment below line to generate MySQL migration
+// databaseType = DatabaseType.MySQL;
+
+var connectionString = string.Empty;
+switch (databaseType)
+{
+    case DatabaseType.MSSQL:
+        connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+            ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+        //builder.Services.AddDbContext<ApplicationDbContext>(options =>
+        builder.Services.AddDbContextFactory<ApplicationDbContext>(options =>
+            options.UseSqlServer(connectionString, b => b.MigrationsAssembly("Goke.Web.Data.MSSQLMigrations")));
+        break;
+
+    case DatabaseType.MySQL:
+        connectionString = builder.Configuration.GetConnectionString("MariaDBDefaultConnection")
+            ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+        var serverVersion = new MariaDbServerVersion(new Version(8, 0, 2));
+
+        //builder.Services.AddDbContext<ApplicationDbContext>(options =>
+        builder.Services.AddDbContextFactory<ApplicationDbContext>(options =>
+            options.UseMySql(connectionString, serverVersion, b => b.MigrationsAssembly("Goke.Web.Data.MySQLMigrations")));
+
+        break;
+    case DatabaseType.Sqlite:
+        //builder.Services.AddDbContextFactory<ApplicationDbContext>(options =>
+        //    options.UseSqlite($"Data Source={nameof(Goke.Web)}.db"));
+        break;
+    default:
+        break;
+}
+
+//var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+//builder.Services.AddDbContext<ApplicationDbContext>(options =>
+//    options.UseSqlServer(connectionString));
+
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)

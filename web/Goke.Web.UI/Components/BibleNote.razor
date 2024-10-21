@@ -30,22 +30,40 @@
 
 @if (Notes is not null)
 {
-    @foreach (var note in Notes)
+    if (action == CRUD.None || action == CRUD.List)
     {
-        <div class="tile">
-            <div>
-                <div>Title</div>
+        foreach (var note in Notes)
+        {
+            <div class="tile">
                 <div>
-                    @((MarkupString)note.Body!)
+                    <div>Title</div>
+                    <div>
+                        @((MarkupString)note.Body!)
+                    </div>
+                    <button>Edit</button>
+                    <button>Delete</button>
                 </div>
-                <button>Edit</button>
-                <button>Delete</button>
             </div>
+        }
+
+    }
+    else if (action == CRUD.Edit)
+    {
+        <div contenteditable style="font: 1.5rem monospace; padding: 2rem;">
+            Start typing here...
         </div>
     }
 }
 
+
+
+
 @code {
+    enum CRUD {None, Add, Read, Edit, Delete, List}
+
+    CRUD action;
+
+
     [Parameter]
     public List<Post>? Notes { get; set; } = new()
     {

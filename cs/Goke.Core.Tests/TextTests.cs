@@ -13,7 +13,7 @@ namespace Goke.Core.Tests
     public class TextTests
     {
         [TestMethod()]
-        public void GenerateTest()
+        public void Generate_Generate_Text()
         {
             // Arrange
             var text = Text.Generate();
@@ -34,7 +34,7 @@ namespace Goke.Core.Tests
         }
 
         [TestMethod()]
-        public void GeneratePasswordTest()
+        public void GeneratePassword_Length21_Text()
         {
             // Arrange
             int length = 21;

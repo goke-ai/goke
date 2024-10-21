@@ -1,3 +1,4 @@
+using Goke.Web.Data.Models;
 using Goke.Web.ServerUI.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;

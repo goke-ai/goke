@@ -1,13 +1,12 @@
-﻿using Goke.Web.ServerUI.Models;
+﻿using Goke.Web.Data.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Goke.Web.ServerUI.Data
+namespace Goke.Web.Data
 {
     public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
     : IdentityDbContext<ApplicationUser>(options)
     {
-        public DbSet<Goke.Web.ServerUI.Models.Card> Cards { get; set; } = default!;
-        
+        public DbSet<Card> Cards { get; set; } = default!;        
     }
 }

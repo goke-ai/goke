@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace Goke.Web.ServerUI.Models
+namespace Goke.Web.Data.Models
 {
     public class ApplicationUser : IdentityUser
     {
-        IList<Card>? Cards { get; set; }
+        public IList<Card>? Cards { get; set; }
     }
 }

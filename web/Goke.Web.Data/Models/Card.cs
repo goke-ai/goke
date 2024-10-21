@@ -1,7 +1,6 @@
 
-namespace Goke.Web.ServerUI.Models;
+namespace Goke.Web.Data.Models;
 
-using Goke.Core;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -13,7 +12,7 @@ public partial class Card
 
     [Required(ErrorMessage = "The Pin is a mandatory Field.")]
     [Display(Name = "Pin")]
-    public string Pin { get; set; } = Text.GeneratePassword(16);
+    public string Pin { get; set; } = "0000-0000-0000-0000";
 
     [Required(ErrorMessage = "The From is a mandatory Field.")]
     [DataType(DataType.Date)]

@@ -1,7 +1,9 @@
-﻿namespace Goke.Web.UI.Models;
+﻿namespace Goke.Web.Shared.Models;
 
 public class Bank
 {
+    enum PageToShow { None, Accounts, Transactions, AccountDetails, TransactionAnalysis, AddMoney, MoveMoney, Transfers, TransferDetails, NewTransfer, TransferSchedules, Cards, NewCard, CardDetails, Plans };
+
     public List<Account.InterestEarning>? InterestEarnings { get; set; }
     public List<Account.LineOfCredit>? LineOfCredits { get; set; }
     public List<Account.GiftCard>? GiftCards { get; set; }
@@ -39,7 +41,19 @@ public class Bank
             savings.Deposit(750, DateTime.Now, "save some money");
             savings.Deposit(1250, DateTime.Now, "Add more savings");
             savings.Withdrawal(250, DateTime.Now, "Needed to pay monthly bills");
+            // savings.PerformMonthEndTransactions();
+
+            for (int i = 0; i < 20; i++)
+            {
+                decimal amount = (decimal)Goke.FakeGen.FakeGen.GetMONEY();
+                DateTime future = DateTime.Now.AddDays(Random.Shared.Next(0, i));
+                savings.Deposit(amount + 1, future, Goke.FakeGen.FakeGen.GetRECEIVETRANSACTIONS());
+                amount = (decimal)Goke.FakeGen.FakeGen.GetMONEY();
+                future = DateTime.Now.AddDays(Random.Shared.Next(0, i));
+                savings.Withdrawal(amount + 1, future, Goke.FakeGen.FakeGen.GetPAYTRANSACTIONS());
+            }
             savings.PerformMonthEndTransactions();
+
         }
 
         foreach (var lineOfCredit in data.LineOfCredits)
@@ -102,10 +116,10 @@ public class Bank
             Number = GetNewAccountNumber();
 
             Name = name;
-            this._minimumBalance = minimumBalance;
-            this._interestRate = interestRate;
+            _minimumBalance = minimumBalance;
+            _interestRate = interestRate;
             if (initialBalance > 0)
-                Deposit(initialBalance, DateTime.Now, "Initial balance");
+                Deposit(initialBalance, DateTime.UtcNow, "Initial balance");
         }
 
         private static string GetNewAccountNumber()
@@ -167,7 +181,7 @@ public class Bank
 
         public List<Transaction>? GetAccountHistory(int count = 10)
         {
-            return _transactions.OrderByDescending(o => o.Date).Take(10).ToList();
+            return _transactions.OrderByDescending(o => o.Date).Take(count).ToList();
         }
 
 
@@ -183,7 +197,7 @@ public class Bank
             {
                 if (Balance > _minimumBalance)
                 {
-                    decimal interest = Balance * _interestRate;
+                    decimal interest = Math.Round(Balance * _interestRate, 2);
                     Deposit(interest, DateTime.Now, "apply monthly interest");
                 }
             }
@@ -202,7 +216,7 @@ public class Bank
                 if (Balance < 0)
                 {
                     // Negate the balance to get a positive interest charge:
-                    decimal interest = -Balance * _interestRate;
+                    decimal interest = Math.Round(-Balance * _interestRate, 2); //-Balance * _interestRate;
                     Withdrawal(interest, DateTime.Now, "Charge monthly interest");
                 }
             }
@@ -240,7 +254,7 @@ public class Bank
     {
         public string Id { get; set; } = Guid.NewGuid().ToString();
         public decimal Amount { get; }
-        public DateTime Date { get; } 
+        public DateTime Date { get; }
         public string Note { get; }
 
         public Transaction(decimal amount, DateTime date, string note)
@@ -249,5 +263,5 @@ public class Bank
             Date = date;
             Note = note;
         }
-    }    
+    }
 }

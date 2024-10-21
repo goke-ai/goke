@@ -1,11 +1,17 @@
 ﻿@page "/products/banking"
-@using Goke.Web.UI.Models
 
 @inject ILogger<Banking> Logger
 
 <PageTitle>Banking</PageTitle>
 
-<div class="remove-parent-padding">
+<style>
+    .banking .card{
+        margin-block: var(--size-300);
+        border-radius: 5px;
+    }
+</style>
+
+<div class="banking | remove-parent-padding">
     <div class="tab" style="--tab-height: 90vh">
         <div class="tab-controller ">
             <div class="tab-controller-labels show-text show-radio">
@@ -30,96 +36,254 @@
         </div>
 
         <div class="tab-body">
-            <div class="accounts | tab-page pp-0 pt-0">
-
-                <div class="accounts | tile">
-                @if (Savings is not null)
+            <div class="accounts | tab-page pp-0 pt-0">                
+                @switch (accountsCurrentPage)
                 {
-                    <div>Savings</div>
-                    <div>@Savings.Name</div>
-                    <div>@Savings.Number</div>
-                    <div style="font-size:3em;">@Savings.Balance</div>
-                    <hr />
-                    <ul>
-                    @foreach (var item in Savings.GetAccountHistory())
-                    {
-                        <li style="display:flex; justify-content:space-between;">
-                                <span>@item.Date.ToString("dd-MM-yyyy")</span>
-                            <span>@item.Note</span>
-                                <span>@item.Amount</span>
-                        </li>
-                    }
-                    </ul>
+                    case PageToShow.None:
+                        break;
+                    case PageToShow.Accounts:
+                        <div class="accounts | card">
+                        <div class="card-body">
+                        
+                        <div class="accordion">
+                            <div class="accordion-header">
+                                <label class="accordion-controller" for="accordion_controller1">
+                                                Savings | @Savings?.Number | @Savings?.Balance.ToString("#,##0.00")
+                                </label>
+                                <input class="accordion-controller" id="accordion_controller1" name="accordion_controller1"
+                                       type="checkbox" checked />
+                            </div>
+                            <div class="accordion-body">
+                                @if (Savings is not null)
+                                {
+                                    <div>@Savings.Name</div>
+                                    <div>@Savings.Number</div>
+                                                <div style="font-size:3em;">@Savings.Balance.ToString("#,##0.00")</div>
+                                    <hr />
+                                    <BankTransactions Transactions="@Savings.GetAccountHistory()" />
+
+                                    <button @onclick="@(()=>OnAllTransactions(Savings))">See all transactions</button>
+                                }
+                            </div>
+
+                            <div class="accordion-header">
+                                <label class="accordion-controller" for="accordion_controller2">
+                                                Credit | @LineOfCredits?.Number | @LineOfCredits?.Balance.ToString("#,##0.00")
+                                </label>
+                                <input class="accordion-controller" id="accordion_controller2" name="accordion_controller2"
+                                       type="checkbox" />
+                            </div>
+                            <div class="accordion-body">
+                                @if (LineOfCredits is not null)
+                                {
+                                    <div>@LineOfCredits.Name</div>
+                                    <div>@LineOfCredits.Number</div>
+                                                <div style="font-size:3em;">@LineOfCredits.Balance.ToString("#,##0.00")</div>
+                                    <hr />
+                                    <BankTransactions Transactions="@LineOfCredits.GetAccountHistory()" />
+                                    <button @onclick="@(()=>OnAllTransactions(LineOfCredits))">See all transactions</button>
+                                }
+                            </div>
+
+                            <div class="accordion-header">
+                                <label class="accordion-controller" for="accordion_controller3">
+                                                Gift-Card | @GiftCards?.Number | @GiftCards?.Balance.ToString("#,##0.00")
+                                </label>
+                                <input class="accordion-controller" id="accordion_controller3" name="accordion_controller3"
+                                       type="checkbox" />
+                            </div>
+                            <div class="accordion-body">
+                                @if (GiftCards is not null)
+                                {
+                                    <div>@GiftCards.Name</div>
+                                    <div>@GiftCards.Number</div>
+                                                <div style="font-size:3em;">@GiftCards.Balance.ToString("#,##0.00")</div>
+                                    <hr />
+                                    <BankTransactions Transactions="@GiftCards.GetAccountHistory()" />
+                                    <button @onclick="@(()=>OnAllTransactions(GiftCards))">See all transactions</button>
+                                }
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                        break;
+                    case PageToShow.Transactions:
+                        <div class="transactions | card">
+                        <div class="card-body">
+                            <button @onclick="OnAccountsBack">Back</button>
+                            <h3>Transactions</h3>
+                            @if (account is not null)
+                            {
+                                <BankTransactions Transactions="@account.GetAccountHistory(100)" />
+                            }
+                        </div>
+                    </div>
+                        break;
+                    case PageToShow.AccountDetails:
+                        <div class="account-details | card">
+                            <div class="card-body">
+                                <h3>Account-details</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.TransactionAnalysis:
+                        <div class="transaction-analysis | card">
+                            <div class="card-body">
+                                <h3>Transaction-analysis</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.AddMoney:
+                        <div class="add-money | card">
+                            <div class="card-body">
+                                <h3>Add-money</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.MoveMoney:
+                        <div class="move-money | card">
+                            <div class="card-body">
+                                <h3>Move-money</h3>
+                            </div>
+                        </div>
+                        break;
+                    default:
+                    break;
                 }
-                </div>
-
-                <div class="transactions | tile">
-                    <h4>Transactions</h4>
-                </div>
-
-                <div class="account-details | tile">
-                    <h4>Account-details</h4>
-                </div>
-
-                <div class="transaction-analysis | tile">
-                    <h4>Transaction-analysis</h4>
-                </div>
-
-                <div class="add-money | tile">
-                    <h4>Add-money</h4>
-                </div>
-
-                <div class="move-money | tile">
-                    <h4>Move-money</h4>
-                </div>
             </div>
 
             <div class="payments | tab-page">
-                <div class="transfers | tile">
-                    <h4>Transfers</h4>
-                </div>
-
-                <div class="transfer-details | tile">
-                    <h4>Transfer-details</h4>
-                </div>
-
-                <div class="new-transfer | tile">
-                    <h4>New-transfer</h4>
-                </div>
-
-                <div class="transfer-schedules | tile">
-                    <h4>Transfer-schedules</h4>
-                </div>
+                @switch (paymentsCurrentPage)
+                {
+                    case PageToShow.Transfers:
+                        <div class="transfers | card">
+                            <div class="card-body">
+                                <h3>Transfers</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.TransferDetails:
+                        <div class="transfer-details | card">
+                            <div class="card-body">
+                                <h3>Transfer-details</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.NewTransfer:
+                        <div class="new-transfer | card">
+                            <div class="card-body">
+                                <h3>New-transfer</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.TransferSchedules:
+                        <div class="transfer-schedules | card">
+                            <div class="card-body">
+                                <h3>Transfer-schedules</h3>
+                            </div>
+                        </div>
+                        break;
+                    default:
+                        break;
+                }
             </div>
 
             <div class="cards | tab-page">
-                <div class="cards | tile">
-                    <h4>Cards</h4>
-                </div>
-
-                <div class="new-card | tile">
-                    <h4>New-card</h4>
-                </div>
-
-                <div class="card-details | tile">
-                    <h4>Card-details</h4>
-                </div>
-
+                @switch (cardsCurrentPage)
+                {
+                    case PageToShow.Cards:
+                        <div class="cards | card">
+                            <div class="card-body">
+                                <h3>Cards</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.NewCard:
+                        <div class="new-card | card">
+                            <div class="card-body">
+                                <h3>New-card</h3>
+                            </div>
+                        </div>
+                        break;
+                    case PageToShow.CardDetails:
+                        <div class="card-details | card">
+                            <div class="card-body">
+                                <h3>Card-details</h3>
+                            </div>
+                        </div>
+                        break;
+                    default:
+                        break;
+                }
             </div>
 
             <div class="plans | tab-page">
-                <div class="plans | tile">
-                    <h4>Plans</h4>
-                </div>
-
+                @switch (plansCurrentPage)
+                {
+                    case PageToShow.Plans:
+                        <div class="plans | card">
+                            <div class="card-body">
+                                <h3>Plans</h3>
+                            </div>
+                        </div>
+                        break;
+                    default:
+                        break;
+                }
             </div>
-
         </div>
     </div>
 </div>
-@code{
-    Bank bank = Bank.GetSampleBank("Lillian Oladokun");
+@code {
+    enum PageToShow { None, Accounts, Transactions, AccountDetails, TransactionAnalysis, AddMoney, MoveMoney, Transfers, TransferDetails, NewTransfer, TransferSchedules, Cards, NewCard, CardDetails, Plans};
+    
+    
+    Bank bank = Bank.GetSampleBank("Goke Oladokun");
 
     Bank.Account? Savings => bank.InterestEarnings?.FirstOrDefault();
+    Bank.Account? GiftCards => bank.GiftCards?.FirstOrDefault();
+    Bank.Account? LineOfCredits => bank.LineOfCredits?.FirstOrDefault();
+
+    Bank.Account? account;
+
+    PageToShow accountsPrevPage = PageToShow.Accounts;
+    PageToShow accountsCurrentPage = PageToShow.Accounts;
+
+    private void OnAccountsBack()
+    {
+        accountsCurrentPage = accountsPrevPage;
+    }
+
+    private void OnAllTransactions(Bank.Account account)
+    {
+        this.account = account;
+        accountsPrevPage = accountsCurrentPage;
+        accountsCurrentPage = PageToShow.Transactions;
+    }
+
+    PageToShow paymentsPrevPage = PageToShow.Transfers;
+    PageToShow paymentsCurrentPage = PageToShow.Transfers;
+
+    private void OnPaymentsBack()
+    {
+        paymentsCurrentPage = paymentsPrevPage;
+    }
+
+    PageToShow cardsPrevPage = PageToShow.Cards;
+    PageToShow cardsCurrentPage = PageToShow.Cards;
+
+    private void OnCardsBack()
+    {
+        cardsCurrentPage = cardsPrevPage;
+    }
+
+    PageToShow plansPrevPage = PageToShow.Plans;
+    PageToShow plansCurrentPage = PageToShow.Plans;
+
+    private void OnPlansBack()
+    {
+        plansCurrentPage = plansPrevPage;
+    }
+
 
 }
