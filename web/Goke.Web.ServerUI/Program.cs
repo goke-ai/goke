@@ -8,6 +8,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Runtime.InteropServices;
 using System.Security.Claims;
+using Goke.Web.ServerUI.Endpoints;
+using Microsoft.AspNetCore.Identity.Data;
+using Goke.Web.ServerUI.Identity;
 
 
 bool isWindows = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.Windows);
@@ -68,7 +71,10 @@ switch (databaseType)
 
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
+{
+    options.SignIn.RequireConfirmedAccount = true;
+})
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddApiEndpoints();
@@ -106,7 +112,15 @@ builder.Services.AddTransient<IEmailSender<ApplicationUser>, EmailSender>();
 
 //---------
 
+// builder.Services.AddTransient<IUserValidator<ApplicationUser>, Goke.Web.ServerUI.Identity.CustomUserValidator>();
+builder.Services.AddScoped<SignInManager<ApplicationUser>, CustomSignInManager>();
+builder.Services.AddScoped<UserManager<ApplicationUser>, CustomUserManager>();
+
+
+
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -159,86 +173,20 @@ app.UseCors("wasm");
 app.UseAuthentication();
 app.UseAuthorization();
 
+// Identity Endpoints
+app.MapIdentityEndpoints();
 
-// provide an endpoint to clear the cookie for logout
-//
-// For more information on the logout endpoint and antiforgery, see:
-// https://learn.microsoft.com/aspnet/core/blazor/security/webassembly/standalone-with-identity#antiforgery-support
-app.MapPost("/logout", async (SignInManager<ApplicationUser> signInManager, [FromBody] object empty) =>
-{
-    if (empty is not null)
-    {
-        await signInManager.SignOutAsync();
+// DataProcessing Endpoints
+app.MapDataProcessingEndpoints();
 
-        return Results.Ok();
-    }
-
-    return Results.Unauthorized();
-}).RequireAuthorization();
-
-// provide an endpoint for user roles
-app.MapGet("/roles", (ClaimsPrincipal user) =>
-{
-    if (user.Identity is not null && user.Identity.IsAuthenticated)
-    {
-        var identity = (ClaimsIdentity)user.Identity;
-        var roles = identity.FindAll(identity.RoleClaimType)
-            .Select(c =>
-                new
-                {
-                    c.Issuer,
-                    c.OriginalIssuer,
-                    c.Type,
-                    c.Value,
-                    c.ValueType
-                });
-
-        return TypedResults.Json(roles);
-    }
-
-    return Results.Unauthorized();
-}).RequireAuthorization();
-
-// provide an endpoint example that requires authorization
-app.MapPost("/data-processing-1", ([FromBody] FormModel model) =>
-    Results.Text($"{model.Message.Length} characters"))
-        .RequireAuthorization();
-
-// provide an endpoint example that requires authorization with a policy
-app.MapPost("/data-processing-2", ([FromBody] FormModel model) =>
-    Results.Text($"{model.Message.Length} characters"))
-        .RequireAuthorization(policy => policy.RequireRole("Managers"));
-
-// provide an endpoint example that requires authorization with a policy
-app.MapPost("/data-processing-3", ([FromBody] FormModel model) =>
-    Results.Text($"{model.Message.Length} characters"))
-        .RequireAuthorization(policy => policy.RequireRole("Administrators"));
-
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/api/weatherforecast", () =>
-{
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            index,
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+// WeatherForecast Endpoints
+app.MapWeatherForecastEndpoints();
 
 //--------------
 
 app.MapRazorPages();
+
+app.MapCardEndpoints();
 
 
 app.Run();

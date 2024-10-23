@@ -23,11 +23,11 @@ public class SeedData
 
         if (app.Environment.IsDevelopment())
         {
-            await SeedData.Development(scope.ServiceProvider);
+            await SeedData.EnsureDevelopment(scope.ServiceProvider);
         }
         else
         {
-            await SeedData.Production(scope.ServiceProvider);
+            await SeedData.EnsureProduction(scope.ServiceProvider);
         }
     }
 
@@ -91,14 +91,14 @@ public class SeedData
     ];
 
 
-    public static async Task Development(IServiceProvider serviceProvider)
+    public static async Task EnsureDevelopment(IServiceProvider serviceProvider)
     {
         using var context = new ApplicationDbContext(serviceProvider.GetRequiredService<DbContextOptions<ApplicationDbContext>>());
         
         context.Database.EnsureDeleted();
         context.Database.Migrate();
 
-        using RoleManager<IdentityRole> roleManager = await SeedRoles(serviceProvider);
+        using RoleManager<IdentityRole> roleManager = await EnsureRoles(serviceProvider);
 
         var userStore = new UserStore<ApplicationUser>(context);
         var hasher = new PasswordHasher<ApplicationUser>();
@@ -111,7 +111,8 @@ public class SeedData
 
             user.EmailConfirmed = true;
 
-            var result = await userStore.CreateAsync(user);
+            //var result = await userStore.CreateAsync(user);
+            var result = await userManager.CreateAsync(user, "Passw0rd!");
 
             if (user.Email is not null)
             {
@@ -127,38 +128,41 @@ public class SeedData
     }
 
 
-    public static async Task Production(IServiceProvider serviceProvider)
+    public static async Task EnsureProduction(IServiceProvider serviceProvider)
     {
         using var context = new ApplicationDbContext(serviceProvider.GetRequiredService<DbContextOptions<ApplicationDbContext>>());
         context.Database.Migrate();
 
-        using RoleManager<IdentityRole> roleManager = await SeedRoles(serviceProvider);
+        using RoleManager<IdentityRole> roleManager = await EnsureRoles(serviceProvider);
 
 
         var configuration = serviceProvider.GetRequiredService<IConfiguration>();
 
         using var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
-        await SeedAdmins(context, configuration, userManager);
+        await EnsureAdmins(context, configuration, userManager);
 
         await context.SaveChangesAsync();
     }
 
-    private static async Task SeedAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
+    private static async Task EnsureAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
     {
-        var userStore = new UserStore<ApplicationUser>(context);
-        var hasher = new PasswordHasher<ApplicationUser>();
+        // var userStore = new UserStore<ApplicationUser>(context);
+        // var hasher = new PasswordHasher<ApplicationUser>();
         foreach (var user in adminUsers)
         {
 
-            var password = emailSender is not null ? Text.GeneratePin() : configuration.GetValue<string>($"{user.UserName!}:Secret") ?? user.Password;
+            var password = emailSender is not null ? 
+                Text.GeneratePin() : 
+                configuration.GetValue<string>($"{user.UserName!}:Secret") ?? user.Password;
             if (password != null)
             {
-                var hashed = hasher.HashPassword(user, password);
-                user.PasswordHash = hashed;
+                //var hashed = hasher.HashPassword(user, password);
+                //user.PasswordHash = hashed;
 
                 user.EmailConfirmed = true;
 
-                await userStore.CreateAsync(user);
+                //await userStore.CreateAsync(user);
+                await userManager.CreateAsync(user, password);
 
                 if (user.Email is not null)
                 {
@@ -182,7 +186,7 @@ public class SeedData
         }
     }
 
-    public static async Task SeedResetAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
+    public static async Task EnsureResetAdmins(ApplicationDbContext context, IConfiguration configuration, UserManager<ApplicationUser> userManager, IEmailSender<ApplicationUser>? emailSender = null)
     {
         foreach (var user in adminUsers)
         {
@@ -196,10 +200,10 @@ public class SeedData
             }
         }      
 
-        await SeedAdmins(context, configuration, userManager, emailSender);
+        await EnsureAdmins(context, configuration, userManager, emailSender);
     }
 
-    private static async Task<RoleManager<IdentityRole>> SeedRoles(IServiceProvider serviceProvider)
+    private static async Task<RoleManager<IdentityRole>> EnsureRoles(IServiceProvider serviceProvider)
     {
         var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 

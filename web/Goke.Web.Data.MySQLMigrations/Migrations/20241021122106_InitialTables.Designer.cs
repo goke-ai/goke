@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Goke.Web.Data.MySQLMigrations.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241020142252_InitialTables")]
+    [Migration("20241021122106_InitialTables")]
     partial class InitialTables
     {
         /// <inheritdoc />
