@@ -22,7 +22,7 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
 
             MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
-            modelBuilder.Entity("Goke.Web.Data.Models.ApplicationUser", b =>
+            modelBuilder.Entity("Goke.AspNetCore.Identity.Models.ApplicationUser", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("varchar(95)");
@@ -86,7 +86,7 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
-            modelBuilder.Entity("Goke.Web.Data.Models.Card", b =>
+            modelBuilder.Entity("Goke.AspNetCore.Identity.Models.Card", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("varchar(95)");
@@ -250,9 +250,9 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("Goke.Web.Data.Models.Card", b =>
+            modelBuilder.Entity("Goke.AspNetCore.Identity.Models.Card", b =>
                 {
-                    b.HasOne("Goke.Web.Data.Models.ApplicationUser", "Owner")
+                    b.HasOne("Goke.AspNetCore.Identity.Models.ApplicationUser", "Owner")
                         .WithMany("Cards")
                         .HasForeignKey("OwnerId");
 
@@ -270,7 +270,7 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("Goke.Web.Data.Models.ApplicationUser", null)
+                    b.HasOne("Goke.AspNetCore.Identity.Models.ApplicationUser", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -279,7 +279,7 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("Goke.Web.Data.Models.ApplicationUser", null)
+                    b.HasOne("Goke.AspNetCore.Identity.Models.ApplicationUser", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -294,7 +294,7 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Goke.Web.Data.Models.ApplicationUser", null)
+                    b.HasOne("Goke.AspNetCore.Identity.Models.ApplicationUser", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -303,14 +303,14 @@ namespace Goke.Web.Data.MySQLMigrations.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
                 {
-                    b.HasOne("Goke.Web.Data.Models.ApplicationUser", null)
+                    b.HasOne("Goke.AspNetCore.Identity.Models.ApplicationUser", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });
 
-            modelBuilder.Entity("Goke.Web.Data.Models.ApplicationUser", b =>
+            modelBuilder.Entity("Goke.AspNetCore.Identity.Models.ApplicationUser", b =>
                 {
                     b.Navigation("Cards");
                 });

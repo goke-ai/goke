@@ -33,7 +33,7 @@
     <Content Update="Components\BibleChapter.razor">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
     </Content>
-    <Content Update="Pages\Admin.razor">
+    <Content Update="Pages\Auths\Admin.razor">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
     </Content>
   </ItemGroup>

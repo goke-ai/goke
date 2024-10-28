@@ -27,6 +27,15 @@
         /// <returns>The result of the request serialized to <see cref="FormResult"/>.</returns>
         public Task<FormResult> RegisterAsync(string email, string password);
 
+        /// <summary>
+        /// Registration service.
+        /// </summary>
+        /// <param name="email">User's email.</param>
+        /// <param name="password">User's password.</param>
+        /// <param name="code">User's code.</param>
+        /// <returns>The result of the request serialized to <see cref="FormResult"/>.</returns>
+        public Task<FormResult> RegisterAsync(string email, string password, string code);
+
         public Task<bool> CheckAuthenticatedAsync();
     }
 }

@@ -12,30 +12,56 @@
 </style>
 
 <div class="banking | remove-parent-padding">
-    <div class="tab" style="--tab-height: 90vh">
-        <div class="tab-controller ">
-            <div class="tab-controller-labels show-text show-radio">
-                <label class="tab-page-controller-label">
-                    <span>Accounts</span>
-                    <input type="radio" name="tab-page" id="tabpage1" class="tab-page-controller" checked>
+    <div class="tab tab-secondary" style="--tab-height: 90vh">
+        <ul class="tab-nav-wrapper ">
+            <li class="tab-nav-item">
+                <label>
+                    <span class="tab-nav-header">
+                        <svg class="tab-nav-icon" aria-hidden="true">
+                            <use xlink:href="sprites.svg#money-check-solid"></use>
+                        </svg>
+                        Accounts
+                    </span>
+                    <input type="radio" name="tab-banking" id="tabpage1" checked>
                 </label>
-                <label class="tab-page-controller-label">
-                    <span>Payments</span>
-                    <input type="radio" name="tab-page" id="tabpage2" class="tab-page-controller">
+            </li>
+            <li class="tab-nav-item">
+                <label>
+                    <span class="tab-nav-header">
+                        <svg class="tab-nav-icon" aria-hidden="true">
+                            <use xlink:href="sprites.svg#money-bill-transfer-solid"></use>
+                        </svg>
+                        Payments
+                    </span>
+                    <input type="radio" name="tab-banking" id="tabpage2" />
                 </label>
-                <label class="tab-page-controller-label">
-                    <span>Cards</span>
-                    <input type="radio" name="tab-page" id="tabpage3" class="tab-page-controller">
+            </li>
+            <li class="tab-nav-item">
+                <label>
+                    <span class="tab-nav-header">
+                        <svg class="tab-nav-icon" aria-hidden="true">
+                            <use xlink:href="sprites.svg#credit-card-solid"></use>
+                        </svg>
+                        Cards
+                    </span>
+                    <input type="radio" name="tab-banking" id="tabpage3" />
                 </label>
-                <label class="tab-page-controller-label">
-                    <span>Plans</span>
-                    <input type="radio" name="tab-page" id="tabpage4" class="tab-page-controller">
+            </li>
+            <li class="tab-nav-item">
+                <label>
+                    <span class="tab-nav-header">
+                        <svg class="tab-nav-icon" aria-hidden="true">
+                            <use xlink:href="sprites.svg#money-bill-trend-up-solid"></use>
+                        </svg>
+                        Plans
+                    </span>
+                    <input type="radio" name="tab-banking" id="tabpage4" />
                 </label>
 
-            </div>
-        </div>
+            </li>
+        </ul>
 
-        <div class="tab-body">
+        <div class="tab-pages-wrapper">
             <div class="accounts | tab-page pp-0 pt-0">                
                 @switch (accountsCurrentPage)
                 {

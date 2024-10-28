@@ -2,6 +2,7 @@ using Goke.Web.Shared.Models;
 using Goke.Web.UI;
 using Goke.Web.UI.Identity;
 using Goke.Web.UI.Identity.Models;
+using Goke.Web.UI.Services;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -45,6 +46,7 @@ builder.Services.AddHttpClient(
 //});
 
 builder.Services.AddScoped<State>();
+builder.Services.AddScoped<BuyPinService>();
 
 
 await builder.Build().RunAsync();

@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Component</title>
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+        body {
+            padding: 2em;
+        }
+
+        .card-standalone {
+
+            margin: auto;
+            width: 90%;
+            margin-bottom: 0.5em;
+        }
+
+        .tab-nav-icon {
+            background-color: var(--clr-accent);
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="card card-standalone">
+        <div class="card-header">Tabbox</div>
+        <div class="card-body">
+            <div class="tab tabbox">
+                <ul class="tab-nav-wrapper">
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                Tab 1
+                            </span>
+                            <input type="radio" name="tab3" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                Tab 2
+                            </span>
+                            <input type="radio" name="tab3">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                Tab 3
+                            </span>
+                            <input type="radio" name="tab3">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 4
+                            </span>
+                            <input type="radio" name="tab3">
+                        </label>
+                    </li>
+                </ul>
+                <div class="tab-pages-wrapper">
+                    <div class="tab-page">Tab Page 1</div>
+                    <div class="tab-page">Tab Page 2</div>
+                    <div class="tab-page">Tab Page 3</div>
+                    <div class="tab-page">Tab Page 4</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-secondary card-standalone">
+        <div class="card-header">Tab Bottom</div>
+        <div class="card-body">
+            <div class="tab tab-secondary" style="--tab-nav-height: 5em;">
+                <div class="tab-pages-wrapper">
+                    <div class="tab-page">Tab Page 1
+                        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe doloribus pariatur, quis
+                            error distinctio nulla necessitatibus modi hic est iste, accusamus atque reprehenderit non
+                            voluptas ea praesentium suscipit sapiente facilis!
+                            In corporis molestias, incidunt sed accusamus iure quas placeat ab voluptates officiis earum
+                            facilis! Distinctio dolore maxime expedita sit voluptas inventore voluptatum aliquam iste,
+                            assumenda perferendis cumque ducimus fugiat necessitatibus!
+                            Dignissimos laboriosam quis delectus vel quaerat, eum illo vitae earum, aliquid perspiciatis
+                            voluptatum aperiam modi ratione dolorem quidem sed nobis unde ipsam repellendus suscipit
+                            maiores. Enim autem commodi nulla earum.
+                            Alias ullam similique quisquam dolor consectetur labore voluptatem, magnam quis eius porro
+                            aliquam, cupiditate iure soluta amet non expedita quos nemo optio? Ex sed dolorem ab
+                            nesciunt maiores cum expedita!
+                            Autem nulla, inventore at voluptas rem explicabo molestias! Placeat voluptatem earum culpa
+                            officia! Fugiat hic dignissimos dolor animi omnis ex, autem accusantium unde obcaecati ipsam
+                            molestiae non corporis totam culpa?
+                            Alias eius placeat facere impedit beatae commodi cum possimus minus! Quibusdam alias ipsam
+                            commodi illo inventore officiis impedit dolore fugiat tempore sunt dolorum, soluta ducimus
+                            odit earum cumque labore molestias.
+                            Pariatur aspernatur provident quia error perferendis nostrum maxime. Commodi mollitia
+                            officiis molestiae nobis quo eum sint illum sunt ut, voluptas in natus quis quibusdam?
+                            Itaque quae veniam voluptatibus quibusdam fuga?
+                            Eaque impedit dolore voluptates laborum hic dolorum rem cum rerum, alias facilis sequi at
+                            officia. Libero beatae quod porro soluta, blanditiis iure, consectetur aut animi quibusdam
+                            rem, earum necessitatibus odit!
+                            Consectetur corrupti veniam repellat. Laborum cumque at vero beatae debitis ratione ipsa
+                            nisi iste repudiandae, eligendi hic doloremque earum tenetur rerum! Eum, maiores. Dicta
+                            nobis facilis dolorem, earum dolore dolores!
+                            Quod recusandae minima repellendus fugiat illum laudantium dolorum minus culpa vitae dolore
+                            accusamus, molestias beatae sint aliquam repudiandae incidunt corrupti hic nostrum, non
+                            dignissimos, quis aut qui consequuntur. Maiores, tempora.</div>
+                    </div>
+                    <div class="tab-page">Tab Page 2</div>
+                    <div class="tab-page">Tab Page 3</div>
+                    <div class="tab-page">Tab Page 4</div>
+                    <div class="tab-page">Tab Page 5</div>
+                    <div class="tab-page">Tab Page 6</div>
+                    <div class="tab-page">Tab Page 7</div>
+                    <div class="tab-page">Tab Page 8</div>
+                    <div class="tab-page">Tab Page 9</div>
+                    <div class="tab-page">Tab Page 10</div>
+                </div>
+                <ul class="tab-nav-wrapper">
+                    <li class="tab-nav-item">
+                        <label>Tab 1
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>Tab 2
+                            <input type="radio" name="tabb">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>Tab 3
+                            <input type="radio" name="tabb">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 4
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 5
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 6
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 7
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 8
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 9
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 10
+                            </span>
+                            <input type="radio" name="tabb" checked>
+                        </label>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="card card-standalone">
+        <div class="card-header">Tab Top</div>
+        <div class="card-body">
+            <div class="tab" style="--tab-nav-height: 5em;">
+                <ul class="tab-nav-wrapper">
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 1
+                            </span>
+                            <input type="radio" name="tab" checked>
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                Tab 2
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 3
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 4
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 5
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 6
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 7
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 8
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 9
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+                    <li class="tab-nav-item">
+                        <label>
+                            <span class="tab-nav-header">
+                                <svg class="tab-nav-icon" aria-hidden="true">
+                                    <use xlink:href="../sprites.svg#money-check-solid"></use>
+                                </svg>
+                                Tab 10
+                            </span>
+                            <input type="radio" name="tab">
+                        </label>
+                    </li>
+
+                </ul>
+                <div class="tab-pages-wrapper">
+                    <div class="tab-page">Tab Page 1
+                        <div>
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem qui in, non ipsam ullam
+                            adipisci voluptas. Repellat, nemo accusamus repudiandae rerum, recusandae quidem cum, ab
+                            exercitationem reiciendis excepturi doloremque?
+                            Obcaecati hic deserunt neque provident quod, consequuntur porro. Ad nulla explicabo tenetur
+                            amet voluptas repellat sequi. Cupiditate rem minima itaque eaque labore dolorem similique
+                            iusto voluptatibus, quasi nihil eius sunt.
+                            Vero, molestiae officiis dolor error et, ducimus distinctio similique saepe ipsam
+                            necessitatibus doloremque? Saepe quos, quam quis fuga corrupti iste optio officia nobis
+                            fugit doloremque! Facere commodi sapiente dolorem ad.
+                            Provident, accusantium deserunt quibusdam id maiores facere nobis tempora? Consequuntur
+                            incidunt quod soluta perferendis sunt minima libero, facere laborum earum voluptas officia
+                            beatae ab! Vero laborum eos iure ipsam pariatur.
+                            Quo impedit totam ab nisi perferendis qui. Perferendis ullam at maiores. Similique beatae
+                            aliquam sit quas praesentium aspernatur amet, nemo necessitatibus earum unde hic dolor qui
+                            officiis a repellendus sapiente?
+                            Optio fuga repellat ipsa vitae nam pariatur, molestias commodi fugiat corrupti distinctio
+                            doloribus, ipsum ducimus sint quia cumque eius. Distinctio, rem dignissimos. Quia, ipsa
+                            culpa molestiae quos incidunt labore pariatur.
+                            Sunt delectus ad qui neque distinctio vitae aperiam, libero labore accusamus assumenda
+                            aliquam? Nesciunt quidem minima unde obcaecati odit maxime dolor harum? Eum suscipit,
+                            impedit laudantium quibusdam cupiditate iste saepe.
+                            Reiciendis earum, quo rerum assumenda provident, voluptatem autem molestias ratione iusto
+                            cupiditate facere. Ipsa fuga adipisci fugit tempore optio at ea alias laborum consectetur
+                            magni doloribus sit, rerum et rem!
+                            Perferendis laboriosam veniam corrupti tenetur eveniet earum atque? Iusto, porro?
+                            Necessitatibus eveniet incidunt cum deserunt eaque sapiente reiciendis dicta animi natus
+                            rem, numquam similique illo? Et, tempore. Saepe, corporis provident.
+                            Veniam labore consequuntur deleniti perspiciatis et tempore vitae id deserunt repellendus,
+                            voluptates recusandae facere beatae dignissimos quam, a libero tempora qui numquam? Quod
+                            voluptatem natus, explicabo eveniet repellat amet facere.
+                        </div>
+                    </div>
+                    <div class="tab-page">Tab Page 2</div>
+                    <div class="tab-page">Tab Page 3</div>
+                    <div class="tab-page">Tab Page 4</div>
+                    <div class="tab-page">Tab Page 5</div>
+                    <div class="tab-page">Tab Page 6</div>
+                    <div class="tab-page">Tab Page 7</div>
+                    <div class="tab-page">Tab Page 8</div>
+                    <div class="tab-page">Tab Page 9</div>
+                    <div class="tab-page">Tab Page 10</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    
+<script src="js/base.js"></script>
+<script src="js/script.js"></script>
+</body>
+
+
+</html>

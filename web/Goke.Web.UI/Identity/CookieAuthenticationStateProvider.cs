@@ -106,6 +106,73 @@ namespace Goke.Web.UI.Identity
         }
 
         /// <summary>
+        /// Register a new user.
+        /// </summary>
+        /// <param name="email">The user's email address.</param>
+        /// <param name="password">The user's password.</param>
+        /// <returns>The result serialized to a <see cref="FormResult"/>.
+        /// </returns>
+        public async Task<FormResult> RegisterAsync(string email, string password, string code)
+        {
+            string[] defaultDetail = ["An unknown error prevented registration from succeeding."];
+
+            try
+            {
+                // make the request
+                var result = await httpClient.PostAsJsonAsync(
+                    "registerwithcode", new
+                    {
+                        email,
+                        password,
+                        code
+                    });
+
+                // successful?
+                if (result.IsSuccessStatusCode)
+                {
+                    return new FormResult { Succeeded = true };
+                }
+
+                // body should contain details about why it failed
+                var details = await result.Content.ReadAsStringAsync();
+                var problemDetails = JsonDocument.Parse(details);
+                var errors = new List<string>();
+                var errorList = problemDetails.RootElement.GetProperty("errors");
+
+                foreach (var errorEntry in errorList.EnumerateObject())
+                {
+                    if (errorEntry.Value.ValueKind == JsonValueKind.String)
+                    {
+                        errors.Add(errorEntry.Value.GetString()!);
+                    }
+                    else if (errorEntry.Value.ValueKind == JsonValueKind.Array)
+                    {
+                        errors.AddRange(
+                            errorEntry.Value.EnumerateArray().Select(
+                                e => e.GetString() ?? string.Empty)
+                            .Where(e => !string.IsNullOrEmpty(e)));
+                    }
+                }
+
+                // return the error list
+                return new FormResult
+                {
+                    Succeeded = false,
+                    ErrorList = problemDetails == null ? defaultDetail : [.. errors]
+                };
+            }
+            catch { }
+
+            // unknown error
+            return new FormResult
+            {
+                Succeeded = false,
+                ErrorList = defaultDetail
+            };
+        }
+
+
+        /// <summary>
         /// User login.
         /// </summary>
         /// <param name="email">The user's email address.</param>

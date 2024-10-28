@@ -1,0 +1,38 @@
+﻿<li class="dropdown" data-nav-id="evirtuallab">
+    <NavLink class="nav-link" href="evirtuallab">
+        <span class="nav-item-wrapper">
+            <span class="icon">
+                <svg class="icon" aria-hidden="true" style="--icon-sz:0.5em">
+                    <use xlink:href="sprites.svg#cubes-solid"></use>
+                </svg>
+            </span>
+            <span class="nav-item-text">
+                eVirtualLab
+                <DropDownIcon NavOrientation="@NavOrientation" />                
+            </span>
+        </span>
+    </NavLink>
+    <ul class="dropdown-list @PopStyle">
+        <li>
+            <NavLink class="nav-link" href="evirtuallab/titration">
+                <span class="nav-item-wrapper">
+                    <span class="icon" style="--icon-sz:0.7em;">
+                        <svg aria-hidden="true">
+                            <use xlink:href="sprites.svg#flask-vial-solid"></use>
+                        </svg>
+                    </span>
+                    <span class="nav-item-text">
+                        Titration
+                    </span>
+                </span>
+            </NavLink>
+        </li>
+    </ul>
+</li>
+@code {
+    [Parameter]
+    public string? PopStyle { get; set; }
+    [Parameter]
+    public string? NavOrientation { get; set; } = "Horizontal";
+
+}

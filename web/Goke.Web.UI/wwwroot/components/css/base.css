@@ -160,24 +160,24 @@ a {
     cursor: pointer;
 }
 
-    a:hover,
-    a:focus {
-        /*color: var(--clr-accent);*/
-        filter: invert(1);
-    }
+a:hover,
+a:focus {
+    /*color: var(--clr-accent);*/
+    filter: invert(1);
+}
 
-    a:not([href]):not([class]),
-    a:not([href]):not([class]):hover {
-        color: inherit;
-        text-decoration: none;
-    }
+a:not([href]):not([class]),
+a:not([href]):not([class]):hover {
+    color: inherit;
+    text-decoration: none;
+}
 
-    a:disabled,
-    a.disabled,
-    a[disabled],
-    a[disable-link]{
-        pointer-events: none;
-    }
+a:disabled,
+a.disabled,
+a[disabled],
+a[disable-link] {
+    pointer-events: none;
+}
 
 ::marker {
     color: var(--clr-primary);
@@ -203,22 +203,22 @@ select {
     font-size: var(--size);
 }
 
-    input:disabled,
-    button:disabled,
-    textarea:disabled,
-    select:disabled {
-        --_form-disabled-border-color: var(--form-disabled-border-color, var(--clr-body-bg));
-        opacity: 0.6;
-        border-color: var(--_form-disabled-border-color);
-    }
+input:disabled,
+button:disabled,
+textarea:disabled,
+select:disabled {
+    --_form-disabled-border-color: var(--form-disabled-border-color, var(--clr-body-bg));
+    opacity: 0.6;
+    border-color: var(--_form-disabled-border-color);
+}
 
-    button:disabled {
-        cursor: default;
-    }
+button:disabled {
+    cursor: default;
+}
 
-    button:hover:disabled {
-        filter: none !important;
-    }
+button:hover:disabled {
+    filter: none !important;
+}
 
 button {
     --_clr-bg: inherit;
@@ -234,49 +234,50 @@ button {
     min-width: 2rem;
     /*min-height: 2rem;*/
 }
-    button.link {
-        border: 0;
-        padding: 0;
-    }
 
-    button.default {
-        --_clr-bg: var(--clr-accent);
-        --_clr-fg: var(--clr-card-bg);
-    }
+button.link {
+    border: 0;
+    padding: 0;
+}
 
-    button:hover.default {
-        /*--_clr-bg: var(--clr-card-bg);*/
-        /*--_clr-fg: var(--clr-accent);*/
-        filter: invert(1);
-    }
+button.default {
+    --_clr-bg: var(--clr-accent);
+    --_clr-fg: var(--clr-card-bg);
+}
 
-    button.primary {
-        --_clr-bg: var(--clr-text);
-        --_clr-fg: var(--clr-body-bg);
-    }
+button:hover.default {
+    /*--_clr-bg: var(--clr-card-bg);*/
+    /*--_clr-fg: var(--clr-accent);*/
+    filter: invert(1);
+}
 
-    button:hover.primary {
-        /*--_clr-bg: var(--clr-body-bg);*/
-        /*--_clr-fg: var(--clr-text);*/
-        filter: invert(1);
-    }
+button.primary {
+    --_clr-bg: var(--clr-text);
+    --_clr-fg: var(--clr-body-bg);
+}
 
-    button.secondary {
-        --_clr-bg: var(--clr-secondary);
-        --_clr-fg: var(--clr-text);
-    }
+button:hover.primary {
+    /*--_clr-bg: var(--clr-body-bg);*/
+    /*--_clr-fg: var(--clr-text);*/
+    filter: invert(1);
+}
 
-    button:hover.secondary {
-        /*--_clr-bg: var(--clr-text);*/
-        /*--_clr-fg: var(--clr-secondary);*/
-        filter: invert(1);
-    }
+button.secondary {
+    --_clr-bg: var(--clr-secondary);
+    --_clr-fg: var(--clr-text);
+}
 
-    button > svg{
-        max-height: 100%;
-        width: 1em;
-        aspect-ratio: 1;
-    }
+button:hover.secondary {
+    /*--_clr-bg: var(--clr-text);*/
+    /*--_clr-fg: var(--clr-secondary);*/
+    filter: invert(1);
+}
+
+button>svg {
+    max-height: 100%;
+    width: 1em;
+    aspect-ratio: 1;
+}
 
 /*button:disabled,
 button:hover:disabled {
@@ -311,8 +312,7 @@ input[type="radio"] {
     border-radius: 50%;
 }
 
-input[type="checkbox"] {
-}
+input[type="checkbox"] {}
 
 h1 {
     --flow-space: 1.5em;
@@ -322,37 +322,37 @@ h2 {
     --flow-space: 1em;
 }
 
-nav {
+nav {}
+
+nav li {
+    white-space: nowrap;
+    /* margin: 0.25rem; */
+
+    font-size: var(--size);
 }
 
-    nav li {
-        white-space: nowrap;
-        /* margin: 0.25rem; */
+nav a.active {
+    background-color: var(--clr-accent);
+    color: var(--clr-body-bg);
+    pointer-events: none;
+    cursor: default;
+}
 
-        font-size: var(--size);
-    }
+nav a,
+.nav-link {
+    text-decoration: none;
+    display: block;
+    padding: var(--padding, var(--size-100));
+    color: var(--clr-text);
 
-    nav a.active {
-        background-color: var(--clr-accent);
-        color: var(--clr-body-bg);
-        pointer-events: none;
-        cursor: default;
-    }
+    font-size: var(--size);
+}
 
-    nav a, .nav-link {
-        text-decoration: none;
-        display: block;
-        padding: var(--padding, var(--size-100));
-        color: var(--clr-text);
-
-        font-size: var(--size);
-    }
-
-    /*nav button {
+/*nav button {
         color: var(--clr-body-bg) !important;*/
-        /*padding: var(--size-100);*/
-        /*border: 0;*/
-    /*}*/
+/*padding: var(--size-100);*/
+/*border: 0;*/
+/*}*/
 
 /* table */
 table {
@@ -390,11 +390,11 @@ th {
     font-size: var(--size);
 }
 
-th > *{
+th>* {
     cursor: pointer;
 }
 
-.grid-row-wrapper > * {
+.grid-row-wrapper>* {
     display: flex;
     align-items: center;
     padding: var(--size-100);
@@ -402,37 +402,37 @@ th > *{
 
 
 table tr:nth-child(odd),
-.grid-row-wrapper:nth-child(odd) > * {
+.grid-row-wrapper:nth-child(odd)>* {
     background-color: var(--clr-card-bg);
 }
 
 table tr:nth-child(even),
-.grid-row-wrapper:nth-child(even) > * {
+.grid-row-wrapper:nth-child(even)>* {
     background-color: var(--clr-body-bg);
     /*text-align: center;*/
 }
 
 table tr:hover,
-.grid-row-wrapper:hover > * {
+.grid-row-wrapper:hover>* {
     background-color: var(--clr-card-bg);
     filter: invert(1);
     /*filter: hue-rotate(90deg);*/
 }
 
-    table tr:hover td:has(img),
-    table tr:hover td:has(picture),
-    table tr:hover td:has(svg),
-    table tr:hover td:has(video),
-    .grid-row-wrapper:hover > *:has(img),
-    .grid-row-wrapper:hover > *:has(picture),
-    .grid-row-wrapper:hover > *:has(svg),
-    .grid-row-wrapper:hover > *:has(video) {
-        filter: invert(1);
-    }
+table tr:hover td:has(img),
+table tr:hover td:has(picture),
+table tr:hover td:has(svg),
+table tr:hover td:has(video),
+.grid-row-wrapper:hover>*:has(img),
+.grid-row-wrapper:hover>*:has(picture),
+.grid-row-wrapper:hover>*:has(svg),
+.grid-row-wrapper:hover>*:has(video) {
+    filter: invert(1);
+}
 
 table th,
 .grid-table .grid-th,
-.grid-table .grid-row-wrapper:first-child > * {
+.grid-table .grid-row-wrapper:first-child>* {
     padding-block: var(--size-300);
     /* text-align: left; */
     background-color: var(--clr-accent);
@@ -444,16 +444,16 @@ table th,
     display: block;
 }
 
-    table th button:has(.icon),
-    .grid-table .grid-th button:has(.icon) {
-        padding: 0.1em !important;
-    }
+table th button:has(.icon),
+.grid-table .grid-th button:has(.icon) {
+    padding: 0.1em !important;
+}
 
 
 th label input[type=checkbox],
-th label + input[type=checkbox],
+th label+input[type=checkbox],
 .grid-th label input[type=checkbox],
-.grid-th label + input[type=checkbox] {
+.grid-th label+input[type=checkbox] {
     display: none;
 }
 
@@ -484,25 +484,25 @@ th:has(input[type=checkbox]:checked),
 
 @media (max-width: 35em) {
 
-    table.mobile-col-1-2 tr > :nth-child(n+3),
-    table.mobile-col-1-3 tr > :nth-child(n+4),
-    table.mobile-col-1-4 tr > :nth-child(n+5),
-    table.mobile-col-1-5 tr > :nth-child(n+6),
-    table.mobile-col-1-6 tr > :nth-child(n+7),
-    table.mobile-col-1-7 tr > :nth-child(n+8),
-    table.mobile-col-1-8 tr > :nth-child(n+9),
-    table.mobile-col-1-9 tr > :nth-child(n+10),
+    table.mobile-col-1-2 tr> :nth-child(n+3),
+    table.mobile-col-1-3 tr> :nth-child(n+4),
+    table.mobile-col-1-4 tr> :nth-child(n+5),
+    table.mobile-col-1-5 tr> :nth-child(n+6),
+    table.mobile-col-1-6 tr> :nth-child(n+7),
+    table.mobile-col-1-7 tr> :nth-child(n+8),
+    table.mobile-col-1-8 tr> :nth-child(n+9),
+    table.mobile-col-1-9 tr> :nth-child(n+10),
     /* table.mobile-col-1 tr> :nth-child(1), */
-    table.mobile-remove-col-1 tr > :nth-child(1),
-    table.mobile-remove-col-2 tr > :nth-child(2),
-    table.mobile-remove-col-3 tr > :nth-child(3),
-    table.mobile-remove-col-4 tr > :nth-child(4),
-    table.mobile-remove-col-5 tr > :nth-child(5),
-    table.mobile-remove-col-6 tr > :nth-child(6),
-    table.mobile-remove-col-7 tr > :nth-child(7),
-    table.mobile-remove-col-8 tr > :nth-child(8),
-    table.mobile-remove-col-9 tr > :nth-child(9),
-    table.mobile-remove-col-10 tr > :nth-child(10) {
+    table.mobile-remove-col-1 tr> :nth-child(1),
+    table.mobile-remove-col-2 tr> :nth-child(2),
+    table.mobile-remove-col-3 tr> :nth-child(3),
+    table.mobile-remove-col-4 tr> :nth-child(4),
+    table.mobile-remove-col-5 tr> :nth-child(5),
+    table.mobile-remove-col-6 tr> :nth-child(6),
+    table.mobile-remove-col-7 tr> :nth-child(7),
+    table.mobile-remove-col-8 tr> :nth-child(8),
+    table.mobile-remove-col-9 tr> :nth-child(9),
+    table.mobile-remove-col-10 tr> :nth-child(10) {
         display: none;
     }
 
@@ -510,9 +510,9 @@ th:has(input[type=checkbox]:checked),
         --_col-num: 1 !important;
     }
 
-        .grid-table .grid-row-wrapper:first-child > * {
-            /* display: none; */
-        }
+    .grid-table .grid-row-wrapper:first-child>* {
+        /* display: none; */
+    }
 
     th:has(input[type=checkbox]) .search,
     .grid-th:has(input[type=checkbox]) .search {
@@ -524,10 +524,10 @@ th:has(input[type=checkbox]:checked),
         left: calc(0% + var(--_padding) + var(--_font-size) + calc(var(--_icon_padding) * 2));
     }
 
-        .grid-th:has(input[type=checkbox]) .search input {
-            background-color: var(--clr-accent);
-            opacity: 1;
-        }
+    .grid-th:has(input[type=checkbox]) .search input {
+        background-color: var(--clr-accent);
+        opacity: 1;
+    }
 }
 
 .column-control {
@@ -557,11 +557,11 @@ table:has(input[type="checkbox"].column-controller:checked) .column-control {
     padding: var(--size-600);
 }
 
-    .wrapper:has(.max-screen) {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-    }
+.wrapper:has(.max-screen) {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
 
 .flex,
 .flex-center,
@@ -572,9 +572,9 @@ table:has(input[type="checkbox"].column-controller:checked) .column-control {
     gap: var(--gap, var(--size-100));
 }
 
-    .flex-group > * {
-        flex: 1 1 0;
-    }
+.flex-group>* {
+    flex: 1 1 0;
+}
 
 .flex-column {
     flex-direction: column;
@@ -600,7 +600,7 @@ table:has(input[type="checkbox"].column-controller:checked) .column-control {
     }
 }
 
-.flow > * + * {
+.flow>*+* {
     margin-top: var(--flow-space, 0.5em);
 }
 
@@ -642,14 +642,14 @@ button:has(.icon:only-child) {
     /* border-radius: 1vh 0 0 1vh; */
 }
 
-    .icon:before,
-    .icon:after {
-        font-size: var(--fs-700);
-    }
+.icon:before,
+.icon:after {
+    font-size: var(--fs-700);
+}
 
-    .icon > * {
-        font-size: var(--icon-fs, var(--size-600));
-    }
+.icon>* {
+    font-size: var(--icon-fs, var(--size-600));
+}
 
 .rotate {
     /* Legacy vendor prefixes that you probably don't need... */
@@ -694,13 +694,13 @@ button:has(.icon:only-child) {
     margin-block: var(--size-200, 0.5rem);
 }
 
-.form-row > label {
+.form-row>label {
     text-align: var(--label-align, right);
 }
 
-    .form-row > label::after {
-        content: ":";
-    }
+.form-row>label::after {
+    content: ":";
+}
 
 .form-row-col-2 {
     display: flex;
@@ -709,11 +709,11 @@ button:has(.icon:only-child) {
     flex-wrap: wrap;
 }
 
-    .form-row-col-2 > div {
-        display: flex;
-        gap: 0.15rem;
-        align-items: center;
-    }
+.form-row-col-2>div {
+    display: flex;
+    gap: 0.15rem;
+    align-items: center;
+}
 
 .break-label .form-row,
 .sidebar .break-label .form-row {
@@ -722,16 +722,16 @@ button:has(.icon:only-child) {
     gap: 0;
 }
 
-    .break-label .form-row > label,
-    .sidebar .break-label .form-row > label {
-        text-align: left;
-        /* font-size: 1.2em; */
-        font-weight: bold;
-    }
+.break-label .form-row>label,
+.sidebar .break-label .form-row>label {
+    text-align: left;
+    /* font-size: 1.2em; */
+    font-weight: bold;
+}
 
-        .break-label .form-row > label::after {
-            content: "";
-        }
+.break-label .form-row>label::after {
+    content: "";
+}
 
 .sidebar .form-row-col-2 {
     flex-direction: row;
@@ -747,25 +747,25 @@ button:has(.icon:only-child) {
         margin-block: var(--size-200, 0.5rem);
     }
 
-        .form-row > label {
-            text-align: center;
-            font-size: var(--fs-400);
-            font-weight: 600;
-        }
+    .form-row>label {
+        text-align: center;
+        font-size: var(--fs-400);
+        font-weight: 600;
+    }
 
-            .form-row > label::after {
-                content: "";
-            }
+    .form-row>label::after {
+        content: "";
+    }
 
     .form-row-col-2 {
         flex-direction: column;
         gap: 0;
     }
 
-        .form-row-col-2 > div {
-            flex-direction: column;
-            gap: 0;
-        }
+    .form-row-col-2>div {
+        flex-direction: column;
+        gap: 0;
+    }
 }
 
 /* card, dialog, tile and accordion */
@@ -791,16 +791,16 @@ button:has(.icon:only-child) {
     transition: 0.3s;
 }
 
-    .card:hover,
-    .card-secondary:hover,
-    .dialog:hover,
-    .dialog-secondary:hover,
-    .accordion:hover,
-    .accordion-secondary:hover,
-    .tile:hover,
-    .tile-secondary:hover {
-        box-shadow: 0 8px 16px 0 hsl(var(--hsl-text), 0.8);
-    }
+.card:hover,
+.card-secondary:hover,
+.dialog:hover,
+.dialog-secondary:hover,
+.accordion:hover,
+.accordion-secondary:hover,
+.tile:hover,
+.tile-secondary:hover {
+    box-shadow: 0 8px 16px 0 hsl(var(--hsl-text), 0.8);
+}
 
 .card-header,
 .card-body,
@@ -847,16 +847,16 @@ button:has(.icon:only-child) {
     display: none;
 }
 
-.accordion-header > label {
+.accordion-header>label {
     width: 100%
 }
 
-.accordion-header:has(input[type="checkbox"]:checked) + .accordion-body {
+.accordion-header:has(input[type="checkbox"]:checked)+.accordion-body {
     display: block;
 }
 
 /* wizard and carousel */
-.wizard,.tab,
+.wizard,
 .carousel {
     color: var(--clr-text);
     background-color: var(--clr-card-bg);
@@ -873,17 +873,12 @@ button:has(.icon:only-child) {
     min-height: var(--_wizard-height);
 }
 
-.tab {
-    --_tab-height: var(--tab-height, 50vh);
-    min-height: var(--_tab-height);
-}
-
 .carousel {
     --_carousel-height: var(--carousel-height, 20vh);
     min-height: var(--_carousel-height);
 }
 
-.wizard-body,.tab-body,
+.wizard-body,
 .carousel-body {
     height: 100%;
 }
@@ -893,57 +888,41 @@ button:has(.icon:only-child) {
     overflow-y: auto;
 }
 
-.tab-page {
-    height: var(--_tab-height);
-    overflow-y: auto;
-}
-
 .carousel-page {
     height: var(--_carousel-height);
 }
 
 .wizard-page,
-.tab-page,
 .carousel-page,
 .wizard-controller,
-.tab-controller,
 .carousel-controller {
     padding: var(--size-300) var(--size-300);
 }
 
-    .wizard-controller,
-    .wizard-controller > *,
-    .tab-controller,
-    .tab-controller > *,
-    .carousel-controller,
-    .carousel-controller > * {
-        display: flex;
-        gap: 0.25em;
-        justify-content: center;
-        align-items: center;
-        color: var(--clr-body-bg);
-        background-color: var(--clr-accent);
-    }
+.wizard-controller,
+.wizard-controller>*,
+.carousel-controller,
+.carousel-controller>* {
+    display: flex;
+    gap: 0.25em;
+    justify-content: center;
+    align-items: center;
+    color: var(--clr-body-bg);
+    background-color: var(--clr-accent);
+}
 
 .wizard-controller,
 .carousel-controller {
     flex-direction: column;
 }
 
-.tab-controller {
-    justify-content: start;
+.wizard-page:nth-child(odd),
+.carousel-page:nth-child(odd) {
+    --form-disabled-border-color: var(--clr-body-bg);
+    background-color: var(--clr-body-bg);
 }
 
-
-    .wizard-page:nth-child(odd),
-    .tab-page:nth-child(odd),
-    .carousel-page:nth-child(odd) {
-        --form-disabled-border-color: var(--clr-body-bg);
-        background-color: var(--clr-body-bg);
-    }
-
 .wizard-page:nth-child(even),
-.tab-page:nth-child(even),
 .carousel-page:nth-child(even) {
     --form-disabled-border-color: var(--clr-card-bg);
     background-color: var(--clr-card-bg);
@@ -951,13 +930,8 @@ button:has(.icon:only-child) {
 }
 
 .wizard-page,
-.tab-page,
 .carousel-page {
     display: none;
-}
-
-.tab-controller-labels{
-    gap:1em;
 }
 
 .wizard-controller label,
@@ -967,73 +941,52 @@ button:has(.icon:only-child) {
 }
 
 .wizard-controller input,
-.tab-controller input,
 .carousel-controller input {
     outline-color: var(--clr-body-bg);
 }
 
 .wizard-page-controller-label span,
-.tab-page-controller-label span,
 .carousel-page-controller-label span {
     display: none;
 }
 
-.tab-page-controller-label{
-    display: flex;
-    padding-inline: var(--size-300);
-}
-
-.tab-page-controller-label input[type=radio] {
-    visibility: hidden;
-    width: 0;
-    height:0;
-    margin:0;
-    padding:0;
-}
-
 .wizard-page-controller-label input[type=radio],
-.tab-page-controller-label input[type=radio],
 .carousel-page-controller-label input[type=radio] {
     display: none;
 }
 
 .wizard-controller:has(.show-text) .wizard-page-controller-label span,
-.tab-controller:has(.show-text) .tab-page-controller-label span,
 .carousel-controller:has(.show-text) .carousel-page-controller-label span {
     display: block;
 }
 
 .wizard-controller:has(.show-radio) .wizard-page-controller-label input[type=radio],
-.tab-controller:has(.show-radio) .tab-page-controller-label input[type=radio],
 .carousel-controller:has(.show-radio) .carousel-page-controller-label input[type=radio] {
     display: block;
 }
 
 .wizard-controller input:checked,
 .wizard-controller label:has(input:checked),
-.tab-controller input:checked,
-.tab-controller label:has(input:checked),
 .carousel-controller input:checked,
 .carousel-controller label:has(input:checked) {
     color: var(--clr-body);
     outline-color: var(--clr-body);
 }
 
-    .wizard-controller label:has(input:checked),
-    .wizard-controller label:has(input:checked) + label,
-    /* previous sibling */
-    .wizard-controller-labels:has(label:nth-child(2)>input:checked) > label:nth-child(1),
-    .wizard-controller-labels:has(label:nth-child(3)>input:checked) > label:nth-child(2),
-    .wizard-controller-labels:has(label:nth-child(4)>input:checked) > label:nth-child(3),
-    .wizard-controller-labels:has(label:nth-child(5)>input:checked) > label:nth-child(4),
-    .wizard-controller-labels:has(label:nth-child(6)>input:checked) > label:nth-child(5),
-    .wizard-controller-labels:has(label:nth-child(7)>input:checked) > label:nth-child(6),
-    .wizard-controller-labels:has(label:nth-child(8)>input:checked) > label:nth-child(7),
-    .wizard-controller-labels:has(label:nth-child(9)>input:checked) > label:nth-child(8),
-    .wizard-controller-labels:has(label:nth-child(10)>input:checked) > label:nth-child(9)
-    {
-        display: block;
-    }
+.wizard-controller label:has(input:checked),
+.wizard-controller label:has(input:checked)+label,
+/* previous sibling */
+.wizard-controller-labels:has(label:nth-child(2)>input:checked)>label:nth-child(1),
+.wizard-controller-labels:has(label:nth-child(3)>input:checked)>label:nth-child(2),
+.wizard-controller-labels:has(label:nth-child(4)>input:checked)>label:nth-child(3),
+.wizard-controller-labels:has(label:nth-child(5)>input:checked)>label:nth-child(4),
+.wizard-controller-labels:has(label:nth-child(6)>input:checked)>label:nth-child(5),
+.wizard-controller-labels:has(label:nth-child(7)>input:checked)>label:nth-child(6),
+.wizard-controller-labels:has(label:nth-child(8)>input:checked)>label:nth-child(7),
+.wizard-controller-labels:has(label:nth-child(9)>input:checked)>label:nth-child(8),
+.wizard-controller-labels:has(label:nth-child(10)>input:checked)>label:nth-child(9) {
+    display: block;
+}
 
 .wizard:has(.wizard-controller-labels label:nth-child(1)>input:checked) .wizard-page:nth-child(1),
 .wizard:has(.wizard-controller-labels label:nth-child(2)>input:checked) .wizard-page:nth-child(2),
@@ -1045,16 +998,6 @@ button:has(.icon:only-child) {
 .wizard:has(.wizard-controller-labels label:nth-child(8)>input:checked) .wizard-page:nth-child(8),
 .wizard:has(.wizard-controller-labels label:nth-child(9)>input:checked) .wizard-page:nth-child(9),
 .wizard:has(.wizard-controller-labels label:nth-child(10)>input:checked) .wizard-page:nth-child(10),
-.tab:has(.tab-controller-labels label:nth-child(1)>input:checked) .tab-page:nth-child(1),
-.tab:has(.tab-controller-labels label:nth-child(2)>input:checked) .tab-page:nth-child(2),
-.tab:has(.tab-controller-labels label:nth-child(3)>input:checked) .tab-page:nth-child(3),
-.tab:has(.tab-controller-labels label:nth-child(4)>input:checked) .tab-page:nth-child(4),
-.tab:has(.tab-controller-labels label:nth-child(5)>input:checked) .tab-page:nth-child(5),
-.tab:has(.tab-controller-labels label:nth-child(6)>input:checked) .tab-page:nth-child(6),
-.tab:has(.tab-controller-labels label:nth-child(7)>input:checked) .tab-page:nth-child(7),
-.tab:has(.tab-controller-labels label:nth-child(8)>input:checked) .tab-page:nth-child(8),
-.tab:has(.tab-controller-labels label:nth-child(9)>input:checked) .tab-page:nth-child(9),
-.tab:has(.tab-controller-labels label:nth-child(10)>input:checked) .tab-page:nth-child(10),
 .carousel:has(.carousel-controller-labels label:nth-child(1)>input:checked) .carousel-page:nth-child(1),
 .carousel:has(.carousel-controller-labels label:nth-child(2)>input:checked) .carousel-page:nth-child(2),
 .carousel:has(.carousel-controller-labels label:nth-child(3)>input:checked) .carousel-page:nth-child(3),
@@ -1068,6 +1011,116 @@ button:has(.icon:only-child) {
     display: block;
 }
 
+/* Tab */
+.tab {
+    --_clr-bg: var(--clr-tab-bg, var(--clr-card-bg));
+    --_clr-active: var(--clr-tab-active, var(--clr-body-bg));
+    --_height: var(--tab-height, 40vh);
+    background-color: var(--_clr-bg);
+    height: var(--_height);
+}
+
+.tab-secondary {
+    --_clr-bg: var(--clr-tab-bg, var(--clr-body-bg));
+    --_clr-active: var(--clr-tab-active, var(--clr-card-bg));
+    background-color: var(--_clr-bg);
+}
+
+.tab>ul,
+.tab-nav-wrapper {
+    display: flex;
+    gap: 1px;
+
+    flex-wrap: wrap;
+}
+
+.tabbox>ul,
+.tabbox>.tab-nav-wrapper {
+    /* tabbox */
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
+
+
+.tab>ul>li,
+.tab-nav-item {
+    padding: .5em 1em;
+    cursor: pointer;
+}
+
+.tabbox>ul>li,
+.tabbox>.tab-nav-item {
+    width: 100%;
+}
+
+.tab ul>li>label>span,
+.tab-nav-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.tab ul>li>label>span>svg,
+.tab-nav-icon {
+    --_tab-icon-width: var(--icon-width, 1em);
+    --_tab-icon-height: var(--icon-height, 1em);
+
+    width: var(--_tab-icon-width);
+    height: var(--_tab-icon-height);
+}
+
+.tab label>input[type=radio],
+.tab-nav-wrapper>input[type=radio] {
+    clip: rect();
+    clip-path: inset(50%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.tab>div,
+.tab-pages-wrapper {
+    height: calc(100% - var(--tab-nav-height, 2.5em));
+}
+
+.tab>div>div,
+.tab-page {
+    display: none;
+    padding: 1em;
+    height: 100%;
+    overflow: auto;
+}
+
+li:nth-child(1):has(input:checked),
+li:nth-child(2):has(input:checked),
+li:nth-child(3):has(input:checked),
+li:nth-child(4):has(input:checked),
+li:nth-child(5):has(input:checked),
+li:nth-child(6):has(input:checked),
+li:nth-child(7):has(input:checked),
+li:nth-child(8):has(input:checked),
+li:nth-child(9):has(input:checked),
+li:nth-child(10):has(input:checked) {
+    background-color: var(--_clr-active);
+}
+
+.tab:has(li:nth-child(1) input:checked)>div>div:nth-child(1),
+.tab:has(li:nth-child(2) input:checked)>div>div:nth-child(2),
+.tab:has(li:nth-child(3) input:checked)>div>div:nth-child(3),
+.tab:has(li:nth-child(4) input:checked)>div>div:nth-child(4),
+.tab:has(li:nth-child(5) input:checked)>div>div:nth-child(5),
+.tab:has(li:nth-child(6) input:checked)>div>div:nth-child(6),
+.tab:has(li:nth-child(7) input:checked)>div>div:nth-child(7),
+.tab:has(li:nth-child(8) input:checked)>div>div:nth-child(8),
+.tab:has(li:nth-child(9) input:checked)>div>div:nth-child(9),
+.tab:has(li:nth-child(10) input:checked)>div>div:nth-child(10) {
+    display: block;
+    background-color: var(--_clr-active);
+    overflow: auto;
+}
 
 
 /* pagination */
@@ -1075,36 +1128,36 @@ button:has(.icon:only-child) {
     /* padding: 0.25rem; */
 }
 
-    .pagination ul {
-        display: flex;
-        align-items: center;
-    }
+.pagination ul {
+    display: flex;
+    align-items: center;
+}
 
-    .pagination a {
-        --p-num: 11;
-        --_padding: var(--size-300);
-        display: inline-block;
-        padding: calc(var(--_padding) / 2) var(--_padding);
-        /* border: 1px solid var(--clr-card-bg); */
-        box-shadow: 0 1px 2px 0 hsl(var(--hsl-text), 0.8);
-        background-color: var(--clr-body-bg);
-        color: var(--clr-body);
-        text-decoration: none;
-        transition: background-color 0.3s;
-        cursor: pointer;
-    }
+.pagination a {
+    --p-num: 11;
+    --_padding: var(--size-300);
+    display: inline-block;
+    padding: calc(var(--_padding) / 2) var(--_padding);
+    /* border: 1px solid var(--clr-card-bg); */
+    box-shadow: 0 1px 2px 0 hsl(var(--hsl-text), 0.8);
+    background-color: var(--clr-body-bg);
+    color: var(--clr-body);
+    text-decoration: none;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
 
-        .pagination a[data-active],
-        .pagination a.active {
-            background-color: var(--clr-accent);
-            color: var(--clr-body-bg);
-            padding: var(--_padding) calc(var(--_padding) * 1.5);
-            border-radius: var(--radius);
-        }
+.pagination a[data-active],
+.pagination a.active {
+    background-color: var(--clr-accent);
+    color: var(--clr-body-bg);
+    padding: var(--_padding) calc(var(--_padding) * 1.5);
+    border-radius: var(--radius);
+}
 
-        .pagination a:hover:not(.active) {
-            background-color: var(--clr-card-bg);
-        }
+.pagination a:hover:not(.active) {
+    background-color: var(--clr-card-bg);
+}
 
 @media (max-width: 35em) {
     .pagination a.active {
@@ -1141,9 +1194,9 @@ display: revert;
     --_clr-icon-fg: var(--clr-accent);
 }
 
-    .tile .icon {
-        --icon-sz: 2em;
-    }
+.tile .icon {
+    --icon-sz: 2em;
+}
 
 .tile-note {
     --_width: 3em;
@@ -1163,9 +1216,9 @@ display: revert;
     border-radius: 50%;
 }
 
-    .tile-note:hover {
-        filter: invert(1);
-    }
+.tile-note:hover {
+    filter: invert(1);
+}
 
 a:hover:has(> .tile-note),
 a:focus:has(> .tile-note) {
@@ -1187,19 +1240,19 @@ a:has(> .tile) {
 
 /*multiselector*/
 
-.multiselector > * {
+.multiselector>* {
     padding: var(--size-300);
 }
 
-.multiselector > :nth-child(odd) {
+.multiselector> :nth-child(odd) {
     background-color: var(--clr-card-bg);
 }
 
-.multiselector > :nth-child(even) {
+.multiselector> :nth-child(even) {
     background-color: var(--clr-body-bg);
 }
 
-.multiselector > :hover {
+.multiselector> :hover {
     background-color: var(--clr-card-bg);
     filter: invert(1);
     /*filter: hue-rotate(90deg);*/
@@ -1226,32 +1279,32 @@ a:has(> .tile) {
     /*cursor: pointer;*/
 }
 
-    .overlay > div,
-    .overlay-content {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-        /* border: var(--clr-primary-400) solid var(--size-100); */
-        border-radius: 5px;
-        z-index: 1002;
-        overflow: auto;
-        width: clamp(50%, 85vw, 90%);
-        height: clamp(50%, 85vh, 90%);
-        background-color: rgba(255, 255, 255, 0.7);
-        padding: 2em;
-    }
+.overlay>div,
+.overlay-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* border: var(--clr-primary-400) solid var(--size-100); */
+    border-radius: 5px;
+    z-index: 1002;
+    overflow: auto;
+    width: clamp(50%, 85vw, 90%);
+    height: clamp(50%, 85vh, 90%);
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 2em;
+}
 
-    .overlay .edit {
-        width: 100%;
-        /* height: 100%; */
-        margin: 0;
-    }
+.overlay .edit {
+    width: 100%;
+    /* height: 100%; */
+    margin: 0;
+}
 
 @media (max-width: 426px) {
 
-    .overlay > div,
+    .overlay>div,
     .overlay-content {
         width: 70%;
         height: 90%;
@@ -1285,6 +1338,7 @@ a:has(> .tile) {
         background-color: var(--clr-primary, black);
         color: var(--clr-accent, white);
     }
+
     /*25% {
     right: 0;
     filter: hue-rotate(45deg);
@@ -1294,6 +1348,7 @@ a:has(> .tile) {
         right: 0;
         filter: hue-rotate(180deg);
     }
+
     /*75% {
     right: 0;
     filter: hue-rotate(180deg);

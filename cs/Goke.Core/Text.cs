@@ -13,7 +13,7 @@ namespace Goke.Core
         //public static readonly char[] LOWERALPHABETH = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
         //public static readonly char[] NUMBER = "0123456789".ToCharArray();
 
-        public static readonly char[] SPECIAL = "@#%&+=.?".ToCharArray();
+        public static readonly char[] SPECIAL = "!@#%&+=.?".ToCharArray();
         public static readonly char[] UPPERALPHABETH = "ABCDEFGHJKLMNPQRSTUVWXYZ".ToCharArray();
         public static readonly char[] LOWERALPHABETH = "abcdefghijkmnpqrstuvwxyz".ToCharArray();
         public static readonly char[] NUMBER = "123456789".ToCharArray();
@@ -82,6 +82,19 @@ namespace Goke.Core
             return pin;
         }
 
+        public static string GeneratePassword(int length, string includeText)
+        {
+            int includeTextLength = includeText.Length;
+            int genLength = length - includeTextLength;
+
+            int textLength = genLength / 4;
+            int reminderLength = genLength % 4;
+
+            var pin = Generate(specialLength: textLength, numberLength: textLength, upperAlphabethLength: textLength, lowerAlphabethLength: textLength + reminderLength);
+
+            return pin.Insert(Random.Shared.Next(1, length), includeText);
+        }
+
         public static string GeneratePin()
         {
             var pin = Generate(specialLength: 1, numberLength: 12, upperAlphabethLength: 1, lowerAlphabethLength: 1);
@@ -92,6 +105,15 @@ namespace Goke.Core
         {
             var pin = Generate(specialLength: 1, numberLength: (length-3), upperAlphabethLength: 1, lowerAlphabethLength: 1);
             return pin;
+        }
+
+        public static string GeneratePin(int length, string includeText)
+        {
+            int includeTextLength = includeText.Length;
+            int otherCharactersLength = 3 + includeTextLength;
+            var pin = Generate(specialLength: 1, numberLength: (length - otherCharactersLength), upperAlphabethLength: 1, lowerAlphabethLength: 1);
+
+            return pin.Insert(Random.Shared.Next(1,length), includeText);
         }
 
         public static string MakePinReadable(string pin, int segment=4)

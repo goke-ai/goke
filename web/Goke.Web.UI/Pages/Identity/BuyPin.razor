@@ -1,0 +1,147 @@
+﻿@page "/buy-pin"
+@using Goke.Web.UI.Models
+@using Goke.Web.UI.Services
+
+@inject BuyPinService BuyPinService
+
+<PageTitle>Buy Pin</PageTitle>
+
+<h1>Buy Pin</h1>
+
+@if (success)
+{
+    <div class="alert alert-success">
+        You successfully purchased a pin/code.
+        <br />
+        Please check your email for your pin/code.
+        <br />
+        Please use the code to <a href="register">register</a>.
+    </div>
+}
+else
+{
+    if (errors)
+    {
+        foreach (var error in errorList)
+        {
+            <div class="alert alert-danger">@error</div>
+        }
+    }
+    <div class="card">
+        <div class="card-body">
+            <div class="form-row">
+                <label>Products</label>
+                <div class="form-row-col-2">
+                    <div style="display:unset;">
+                        @foreach (var item in items)
+                        {
+                            <div style="display: flex; gap:0.5em; align-items:center; padding-block:0.25em; ">
+                                <input type="radio" id="@item.Id" name="product" @bind-value="@item.Id" @onclick="@(()=>OnProductSelected(@item))">
+                                <label for="@item.Id">@item.Product?.Name ($@item.Price)</label>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+            <div>
+                Please supply a valid email to send your pin/code.
+            </div>
+            <div class="form-row">
+                <label for="email">Email</label>
+                <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
+            </div>
+            <div class="form-row">
+                <label for="confirmEmail">
+                    Retype email:
+                </label>
+                <input required id="confirmEmail" name="confirmEmailInput" placeholder="Re-enter your email" type="email" @bind-value="confirmEmail" />
+            </div>
+            <div class="form-row">
+                <div></div>
+                <div>
+                    <button class="primary" @onclick="OnBuyPinAsync">Buy</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+@code {
+    private bool success, errors;
+    private string[] errorList = [];
+
+    private string email = string.Empty;
+    private string confirmEmail = string.Empty;
+    OrderLineItem order = new();
+
+    List<ProductPrice> items = [
+        new(){Id=1, Product = new(){Id=1,Name="1 day"  }, Price=1m },
+    new(){Id=2,Product = new(){Id=2,Name="7 days"  }, Price=6.5m },
+    new(){Id=3,Product = new(){Id=3,Name="28 days"  }, Price=25m },
+    ];
+
+
+    void OnProductSelected(ProductPrice item)
+    {
+        order.ProductId = item.Product.Id;
+        order.Quantity = 1;
+        order.Price = item.Price;
+    }
+
+    private async Task OnBuyPinAsync()
+    {
+        success = errors = false;
+        errorList = [];
+
+        if (string.IsNullOrWhiteSpace(email))
+        {
+            errors = true;
+            errorList = ["Email is required."];
+
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(email))
+        {
+            errors = true;
+            errorList = ["Email is required."];
+
+            return;
+        }
+
+        if (string.IsNullOrWhiteSpace(confirmEmail))
+        {
+            errors = true;
+            errorList = ["Please confirm your email."];
+
+            return;
+        }
+
+        if (email != confirmEmail)
+        {
+            errors = true;
+            errorList = ["Emails don't match."];
+
+            return;
+        }
+
+        var result = await BuyPinService.BuyAsync(email, order);
+
+        if (result.Succeeded)
+        {
+            success = true;
+            email = email = confirmEmail = string.Empty;
+        }
+        else
+        {
+            errors = true;
+            errorList = result.ErrorList;
+        }
+    }
+
+
+
+}

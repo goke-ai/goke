@@ -15,10 +15,10 @@
         {
             <div class="alert alert-success">
                 You successfully registered.
-                <br />
+                @* <br />
                 Please check your email to confirm your account.
                 <br />
-                Then you can <a href="login">login</a>.
+                Then *@ Please you can <a href="login">login</a>.
             </div>
         }
         else
@@ -30,27 +30,123 @@
                     <div class="alert alert-danger">@error</div>
                 }
             }
-            <div class="flex-outer">
-                <div>
-                    <label for="email">
-                        Email:
-                    </label>
-                    <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
-                </div>
-                <div>
-                    <label for="password">
-                        Password:
-                    </label>
-                    <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" /><br />
-                </div>
-                <div>
-                    <label for="confirmPassword">
-                        Retype password:
-                    </label>
-                    <input required id="confirmPassword" name="confirmPasswordInput" placeholder="Re-enter your password" type="password" @bind-value="confirmPassword" />
-                </div>
-                <div>
-                    <button class="btn btn-primary" @onclick="DoRegisterAsync">Register</button>
+
+            <div class="card">
+                <div class="card-body">
+                    <div class="tab tabbox" style="--tab-height: 100%">
+                        <ul class="tab-nav-wrapper">
+                            <li class="tab-nav-item">
+                                <label>
+                                    <span class="tab-nav-header">
+                                        User
+                                    </span>
+                                    <input type="radio" name="tabbox" checked>
+                                </label>
+                            </li>
+                            <li class="tab-nav-item">
+                                <label>
+                                    <span class="tab-nav-header">
+                                        Institution
+                                    </span>
+                                    <input type="radio" name="tabbox">
+                                </label>
+                            </li>
+                            <li class="tab-nav-item">
+                                <label>
+                                    <span class="tab-nav-header">
+                                        Admin
+                                    </span>
+                                    <input type="radio" name="tabbox">
+                                </label>
+                            </li>
+                        </ul>
+                        <div class="tab-pages-wrapper">
+                            <div class="user | tab-page">
+                                <div>
+                                    <div class="form-row">
+                                        <label for="email">Email</label>
+                                        <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="password">
+                                            Password:
+                                        </label>
+                                        <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="confirmPassword">
+                                            Retype password:
+                                        </label>
+                                        <input required id="confirmPassword" name="confirmPasswordInput" placeholder="Re-enter your password" type="password" @bind-value="confirmPassword" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="code">Code</label>
+                                        <input autofocus autocomplete="on" required id="code" name="codeInput" placeholder="Enter your code" type="text" @bind-value="code" />
+                                    </div>
+
+                                    <div class="form-row">
+                                        <div></div>
+                                        <div>
+                                            <button class="primary" @onclick="OnRegisterAsync">Register</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="institution | tab-page">
+                                <div>
+                                    <div class="form-row">
+                                        <label for="email">Email</label>
+                                        <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="password">
+                                            Password:
+                                        </label>
+                                        <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="confirmPassword">
+                                            Retype password:
+                                        </label>
+                                        <input required id="confirmPassword" name="confirmPasswordInput" placeholder="Re-enter your password" type="password" @bind-value="confirmPassword" />
+                                    </div>
+                                    <div class="form-row">
+                                        <div></div>
+                                        <div>
+                                            <button class="primary" @onclick="OnRegisterAsync">Register</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="admin | tab-page">
+                                <div>
+                                    <div class="form-row">
+                                        <label for="email">Email</label>
+                                        <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="password">
+                                            Password:
+                                        </label>
+                                        <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" />
+                                    </div>
+                                    <div class="form-row">
+                                        <label for="confirmPassword">
+                                            Retype password:
+                                        </label>
+                                        <input required id="confirmPassword" name="confirmPasswordInput" placeholder="Re-enter your password" type="password" @bind-value="confirmPassword" />
+                                    </div>
+                                    <div class="form-row">
+                                        <div></div>
+                                        <div>
+                                            <button class="primary" @onclick="OnRegisterAsync">Register</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         }
@@ -59,12 +155,13 @@
 
 @code {
     private bool success, errors;
+    private string[] errorList = [];
     private string email = string.Empty;
     private string password = string.Empty;
     private string confirmPassword = string.Empty;
-    private string[] errorList = [];
+    private string code = string.Empty;
 
-    public async Task DoRegisterAsync()
+    public async Task OnRegisterAsync()
     {
         success = errors = false;
         errorList = [];
@@ -101,7 +198,7 @@
             return;
         }
 
-        var result = await Acct.RegisterAsync(email, password);
+        var result = await Acct.RegisterAsync(email, password, code);
 
         if (result.Succeeded)
         {

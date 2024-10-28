@@ -1,6 +1,7 @@
 ﻿@page "/login"
 @using Goke.Web.UI.Identity.Models
 @inject IAccountManagement Acct
+@inject NavigationManager NavigationManager
 
 <PageTitle>Login</PageTitle>
 
@@ -17,22 +18,29 @@
             {
                 <div class="alert alert-danger">@error</div>
             }
+
+            <button @onclick="OnBuyPin">Buy Pin</button>
         }
-        <div class="flex-outer">
-            <div>
-                <label for="email">
-                    Email:
-                </label>
-                <input required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
-            </div>
-            <div>
-                <label for="password">
-                    Password:
-                </label>
-                <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" />
-            </div>
-            <div>
-                <button class="btn btn-primary" @onclick="DoLoginAsync">Login</button>
+       
+        <div class="card">
+            <div class="card-body">
+                    <div class="form-row">
+                        <label for="email">Email</label>
+                        <input autofocus autocomplete="on" required id="email" name="emailInput" placeholder="Enter your email address" type="email" @bind-value="email" />
+                    </div>
+                    <div class="form-row">
+                        <label for="password">
+                            Password:
+                        </label>
+                        <input required id="password" name="passwordInput" placeholder="Enter your password" type="password" @bind-value="password" />
+                    </div>
+
+                    <div class="form-row">
+                        <div></div>
+                        <div>
+                            <button class="btn btn-primary" @onclick="OnLoginAsync">Login</button>
+                        </div>
+                    </div>
             </div>
         </div>
     </NotAuthorized>
@@ -44,7 +52,7 @@
     private string password = string.Empty;
     private string[] errorList = [];
 
-    public async Task DoLoginAsync()
+    public async Task OnLoginAsync()
     {
         success = errors = false;
         errorList = [];
@@ -77,5 +85,10 @@
             errors = true;
             errorList = result.ErrorList;
         }
+    }
+
+    private void OnBuyPin()
+    {
+        NavigationManager.NavigateTo("/buy-pin");
     }
 }

@@ -10,41 +10,44 @@
 <h1>Gasific</h1>
 
 
-<button @onclick="OnSimulate">Simulate</button>
-
+@* <button @onclick="OnSimulate">Simulate</button>
+ *@
 @if (moles?.Components is not null)
 {
     <Slider Value="H2O" Label="H2O" OnChangeValue="SetH2OAsync" />
     <Slider Value="Air" Label="Air" OnChangeValue="SetAirAsync" />
     <Slider Value="Temperature" Label="Temperature" Maximum="2000" OnChangeValue="SetTemperatureAsync" />
     <Slider Value="Pressure" Label="Pressure" Maximum="10" OnChangeValue="SetPressureAsync" />
-
-
-
-    <table>
-        <tr>
-            <th>Name</th>
-            <th>Formula</th>
-            <th>Inlet</th>
-            <th>Outlet</th>
-        </tr>
-   @foreach (var item in moles.Components)
-    {
-        <tr>
-                <td>@item.Name</td>
-                <td>@item.Formula</td>
-                <td>@item.Inlet</td>
-            <td>@item.Outlet</td>
-        </tr>
-        
-    }
-    </table>
 }
 
+    <div id="myplot4"></div>
+
+@if (moles?.Components is not null)
+{
+    <div class="grid-table" style="--_col-num: 4">
+        <div class="grid-row-wrapper">
+            <div class="grid-th">Name</div>
+            <div class="grid-th">Formula</div>
+            <div class="grid-th">Inlet</div>
+            <div class="grid-th">Outlet</div>
+        </div>
+        @foreach (var item in moles.Components)
+        {
+        <div class="grid-row-wrapper">
+            <div>@item.Name</div>
+            <div>@item.Formula</div>
+            <div>@item.Inlet</div>
+            <div>@item.Outlet</div>
+        </div>  
+        }
+    </div>
+}
+
+@*
 <button @onclick="OnShowPlot">ShowPlot</button>
 <button id="btn">Click Me!</button>
+*@
 
-<div id="myplot4"></div>
 
 
 @code {
@@ -58,7 +61,13 @@
                 "./Pages/Products/Gasific.razor.js");
 
             await module.InvokeVoidAsync("addHandlers");
+
+            OnSimulate();
         }
+    }
+
+    protected override void OnInitialized()
+    {
     }
 
     async void OnShowPlot()
@@ -78,7 +87,7 @@
     {
         H2O = value;
         OnSimulate();
-        
+
         return Task.CompletedTask;
     }
 
@@ -113,7 +122,6 @@
 
     async void OnSimulate()
     {
-
         var x = Goke.Biomass.GasificService.Simulate(H2O, Air, Temperature, Pressure);
         moles = x;
 
@@ -123,6 +131,7 @@
             var data4 = moles.Components.Where(w => w.Name?.Contains("Biomass") == false);//.Select(s => new { Formula = s.Formula, Outlet = float.Parse(s.Outlet.ToString("0.0000")) });
 
             await module.InvokeVoidAsync("plot4", "#myplot4", data4);
+            // await module.InvokeVoidAsync("plotly4", "#myDiv", data4);
         }
 
         StateHasChanged();

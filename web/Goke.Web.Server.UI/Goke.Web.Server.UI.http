@@ -1,0 +1,13 @@
+@Goke.Web.Server_HostAddress = http://localhost:5233
+
+GET {{Goke.Web.Server_HostAddress}}/api/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{Goke.Web.Server_HostAddress}}/login
+Content-Type: application/json
+{
+  "username":"admin@ark.com",
+  "password":"xxx"
+}

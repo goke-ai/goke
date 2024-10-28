@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+        body {
+            padding: 2em;
+        }
+
+        .card-standalone {
+
+            margin: auto;
+            width: 90%;
+            margin-bottom: 0.5em;
+        }
+
+        .tab2 {
+            height: 40vh;
+
+            background-color: var(--clr-card-bg);
+        }
+
+        .tab2 ul {
+            display: flex;
+            gap: 2px;
+
+            justify-content: center;
+
+        }
+
+        .tab2 ul li {
+            cursor: pointer;
+            padding: 1em;
+            /* width: 100%; */
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="card card-standalone">
+        <div class="card-header">tab2</div>
+        <div class="card-body">
+            <div class="tab2">
+                <ul>
+                    <li>Tab 1</li>
+                    <li>Tab 2</li>
+                    <li>Tab 3</li>
+                </ul>
+                <div>
+                    <div>Tab Page 1</div>
+                    <div>Tab Page 2</div>
+                    <div>Tab Page 3</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/base.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
