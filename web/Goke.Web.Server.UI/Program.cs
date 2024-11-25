@@ -8,27 +8,36 @@ using System.Runtime.InteropServices;
 using Goke.Web.Server.UI.Endpoints;
 using Goke.Web.Server.UI.Models;
 
-//var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(args);
 
-//// Add services to the container.
-//var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
-//builder.Services.AddDbContext<ApplicationDbContext>(options =>
-//    options.UseSqlServer(connectionString));
-//builder.Services.AddDatabaseDeveloperPageExceptionFilter();
+//// establish cookie authentication
+//builder.Services.AddAuthentication(IdentityConstants.ApplicationScheme).AddIdentityCookies();
 
-//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-//    .AddEntityFrameworkStores<ApplicationDbContext>();
-//builder.Services.AddRazorPages();
+//// Configure app cookie
+////
+//// The default values, which are appropriate for hosting the Backend and
+//// BlazorWasmAuth apps on the same domain, are Lax and SameAsRequest. 
+//// For more information on these settings, see:
+//// https://learn.microsoft.com/aspnet/core/blazor/security/webassembly/standalone-with-identity#cross-domain-hosting-same-site-configuration
+///*
+//builder.Services.ConfigureApplicationCookie(options =>
+//{
+//    options.Cookie.SameSite = SameSiteMode.Lax;
+//    options.Cookie.SecurePolicy = CookieSecurePolicy.SameAsRequest;
+//});
+//*/
 
+//// configure authorization
+//builder.Services.AddAuthorizationBuilder();
+
+// add the database
+//
 bool isWindows = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.Windows);
 bool isLinux = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.Linux);
 bool isOSX = System.Runtime.InteropServices.RuntimeInformation.IsOSPlatform(OSPlatform.OSX);
 
-var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 
-//
 DatabaseType? databaseType = DatabaseType.MSSQL;
 if (isWindows)
 {

@@ -1,0 +1,346 @@
+﻿@page "/evirtuallab/titration"
+@using Goke.Razor.Components
+@using Goke.Web.Shared.Experiments.Models
+
+@implements IAsyncDisposable
+
+@inject IJSRuntime JS
+@inject ILogger<AcidBase> Logger
+
+<PageTitle>Acid-Base</PageTitle>
+
+<div class="lab-page pp-0">
+    <div>
+        <a href="/">home</a> / <a href="evirtuallab">evirtuallab</a> / titration
+    </div>
+
+    <div class="lab-area">
+        <div class="lab-timer">@Time</div>
+        <div class="lab">
+            <div class="lab-left">
+                <ApparatusBar Apparatuses="@leftApparatuses"
+                              OnSelectedApparatus="OnSelectedApparatus" />
+            </div>
+            <div class="lab-center">
+                <div class="lab-instructions">
+                    <button class="secondary">Instructions</button>
+                </div>
+                <div class="lab-input">
+                    <div class="input-table">
+                        <div class="input-table-row">
+                            <div>Pipette Volume</div>
+                            <div>25 <span>cm<sup>3</sup></span></div>
+                        </div>
+                        <div class="input-table-row">
+                            <div>Base (Salt) Weight</div>
+                            <div>10 <span>g</span></div>
+                            
+                        </div>
+                        <div class="input-table-row">
+                            <div>Total Base Volume</div>
+                            <div>500 <span>cm<sup>3</sup> </span></div>                            
+                        </div>
+                    </div>
+                    <div>
+                        <div>HCl + NaOH -> NaCl + H2O</div>
+                    </div>
+                </div>
+                <div class="lab-main"
+                     @onclick="OnLaboratoryTable">
+                    @if (_showTitrationTimer)
+                    {
+                        <div>
+                            <button class="default" style="display: block; position: absolute; top: 0; left: 0;" @onclick=ToggleTitration>
+                                <div>
+                                    @(_isTitrationOn ? "STOP" : "START")
+                                </div>
+                                @TitrationTime
+                            </button>
+                        </div>
+                    }
+                    
+                    @if (!_isGameOn)
+                    {
+                        <button @onclick='GameStart'> START </button>
+                    }
+                    else
+                    {
+                        <div class="lab-video">
+                            @((MarkupString)_action)
+                        </div>
+                    }
+                </div>
+
+                <div class="lab-bottom">
+                    <ApparatusBar Apparatuses="@bottomApparatuses"
+                                  OnSelectedApparatus="OnSelectedApparatus" />
+
+                </div>
+            </div>
+            <div class="lab-right">
+                <ApparatusBar Apparatuses="@rightApparatuses"
+                              OnSelectedApparatus="OnSelectedApparatus" />
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    private IJSObjectReference? module;
+
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            module = await JS.InvokeAsync<IJSObjectReference>("import",
+                "./Pages/EVirtualLab/Titration.razor.js");
+
+
+        }
+    }
+
+    async ValueTask IAsyncDisposable.DisposeAsync()
+    {
+        if (module is not null)
+        {
+            await module.DisposeAsync();
+        }
+    }
+
+    AcidBaseModel experiment = new();
+    //List<Apparatus> _apparatuses = default!;
+
+    ApparatusType _selected;
+    ApparatusType _target;
+    ApparatusType _previousTarget;
+    string _action = @"<div>Drag and Drop Apparatus here or Click Apparatus then Click here.</div>";
+    int _actionTime, _minTimeInSeconds;
+    int _order;
+    Queue<ApparatusType>? queueItems;
+    Apparatus? _selectedApparatus;
+
+    int _runCount = 1;
+    int _totalRuns = 3; 
+
+    bool _isTitrationOn;
+    bool _showTitrationTimer;
+    int _titrationCounter;
+    string TitrationTime => TimeSpan.FromSeconds(_titrationCounter).ToString();
+
+    List<Apparatus>? leftApparatuses;
+    List<Apparatus>? rightApparatuses;
+    List<Apparatus>? bottomApparatuses;
+
+    bool _isGameOn;
+    GameStatus _gameStatus;
+    static System.Timers.Timer _timer = new(1000);
+    string _clock = default!;
+    int _gameCounter;
+    string Time => TimeSpan.FromSeconds(_gameCounter).ToString(); //ToString(@"hh\:mm\:ss");
+
+    protected override void OnInitialized()
+    {
+        SplitApparatuses();
+
+        _timer.Elapsed += (o, e) =>
+        {
+            _gameCounter++;
+            _actionTime++;
+
+            if (_isTitrationOn)
+            {
+                _titrationCounter++;
+                UpdateTitration();
+            }
+
+            _clock = e.SignalTime.ToString("HH:mm:ss");
+            this.InvokeAsync(StateHasChanged);
+        }; 
+        
+        
+    }
+
+    void GameStart()
+    {
+        _isGameOn = true;
+        StartTimer();
+        NextSequence(_order);
+    }
+
+    void StartTimer()
+    {
+        // Have the timer fire repeated events (true is the default)
+        _timer.AutoReset = true;
+
+        // Start the timer
+        _timer.Enabled = true;
+    }
+
+    void EndTimer()
+    {
+        // Have the timer fire repeated events (true is the default)
+        _timer.AutoReset = false;
+
+        // Start the timer
+        _timer.Enabled = false;
+    }
+
+    void NextSequence(int index)
+    {
+        if (index < AcidBaseModel.Sequences.Count)
+        {
+            queueItems = new(AcidBaseModel.Sequences[index]);
+            _target = ApparatusType.None;
+
+            if (queueItems?.Count() > 0)
+            {
+                _previousTarget = _target;
+                _target = queueItems!.Dequeue();
+            }
+        }
+    }
+
+    void OnLaboratoryTable()
+    {       
+        if (_target == _selected && _target != ApparatusType.None && _selected != ApparatusType.None)
+        {
+            _showTitrationTimer = _target == ApparatusType.Titration;
+
+            _selectedApparatus = experiment.Apparatuses.First(w => w.Type == _selected);
+            if (_selectedApparatus.Update is not null)
+            {
+                _selectedApparatus.Update(experiment.Apparatuses, _target, _previousTarget);
+            }
+            _action = _selectedApparatus.Action();
+
+            if (queueItems?.Count() > 0)
+            {
+                _previousTarget = _target;
+                _target = queueItems!.Dequeue();
+            }
+            else
+            {
+                NextSequence(_order += 1);
+            }
+        }
+        else
+        {
+
+        }
+    }
+
+    private void OnSelectedApparatus(Apparatus item)
+    {
+        _selected = item.Type;
+    }
+
+    void ToggleTitration()
+    {
+        _isTitrationOn = !_isTitrationOn;
+
+        if (_isTitrationOn == false)
+        {
+            _action = "END of Titration.";
+            if (_runCount < _totalRuns)
+            {
+                _runCount++;
+                _titrationCounter = 0;
+            }
+        }        
+    }
+
+    bool _beforeTitre;
+    bool _afterTitre;
+    bool _firstBeforeTitre;
+    int minTitrationStartTime;
+
+    async void UpdateTitration()
+    {
+        if (_titrationCounter <= minTitrationStartTime)
+        {
+
+        }
+
+        // never stopped
+        if (_titrationCounter > experiment.Titration?.MaxTitrationTime)
+        {
+            await AfterTitreStop();
+            ToggleTitration();
+        }
+        else
+        {
+            // titre not pass
+            if (_beforeTitre && _titrationCounter > minTitrationStartTime && _titrationCounter < experiment.Titration?.TitreTime)
+            {
+                @if (_isTitrationOn)
+                {
+                    await BeforeTitre();
+                }
+                else
+                {
+                    await BeforeTitreStop();
+                }
+
+                _beforeTitre = false;
+            }
+
+            // titre passed
+            if (_afterTitre && _titrationCounter >= experiment.Titration?.TitreTime)
+            {
+                if (_isTitrationOn)
+                {
+                    await AfterTitre();
+                }
+                else
+                {
+                    await AfterTitreStop();
+                }
+                _afterTitre = false;
+            }
+        }
+    }
+
+    private async Task BeforeTitre()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("loop", "#myvideo", experiment.BeforeTitreLoop.Start, experiment.BeforeTitreLoop.End);
+        }
+    }
+
+    private async Task BeforeTitreStop()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("loop", "#myvideo", experiment.BeforeTitreStopTime, experiment.BeforeTitreStopTime);
+        }
+    }
+
+    private async Task AfterTitre()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("loop", "#myvideo", experiment.AfterTitreLoop.Start, experiment.AfterTitreLoop.End);
+        }
+    }
+
+    private async Task AfterTitreStop()
+    {
+        if (module is not null)
+        {
+            await module.InvokeVoidAsync("loop", "#myvideo", experiment.AfterTitreStopTime, experiment.AfterTitreStopTime);
+        }
+    }
+
+    void SplitApparatuses()
+    {
+        var parts = Goke.Razor.Components.Functions.RandomSplit(experiment.Apparatuses, 3);
+
+        leftApparatuses = parts[0];
+        rightApparatuses = parts[1];
+        bottomApparatuses = parts[2];
+    }
+
+}

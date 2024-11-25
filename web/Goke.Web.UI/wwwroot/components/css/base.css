@@ -1412,3 +1412,177 @@ a:has(> .tile) {
     padding-block: var(--size-300);
     background-color: var(--clr-secondary);
 }
+
+.lab-page {
+    padding: 0.25em;
+}
+
+.lab-area {
+    background-color: var(--clr-card-bg);
+    padding: 0.5em;
+}
+
+.lab-timer {
+    display: flex;
+    justify-content: center;
+}
+
+.lab {
+    /*font-size: var(--fs-100);*/
+}
+
+.lab-instructions,
+.lab-input {
+    padding-block: 0.25em;
+    
+}
+
+.lab-instructions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lab-input {
+    padding-inline: 0.5em;
+    background-color: var(--clr-body-bg);
+    filter: invert(1);
+}
+
+.lab-main {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    min-height: 30vh;
+    background-color: var(--clr-body-bg);
+    outline: solid 1px var(--clr-card-bg);
+    padding-block: 1em;
+}
+
+.lab-video > video {
+    max-height: 300px;
+}
+
+.lab-left {
+}
+
+.lab-right {
+}
+
+.lab-bottom {
+}
+
+.toolbar-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 0.2em;
+}
+
+.toolbar-item {
+    width: 3.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: center;
+    padding-block: 0.25em;
+
+    cursor: pointer;
+}
+
+.toolbar-item-icon > img{
+    aspect-ratio: 1/1;
+}
+
+.toolbar-item-title {
+    text-align: center;
+    line-height: 1;
+}
+
+.input-table {
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    width: fit-content;
+}
+
+    .input-table-row,
+    .input-table > div {
+        display: contents;
+    }
+
+        .input-table-row > div {
+            display: flex;
+            gap: 0.2em;
+            align-items: center;
+            padding-inline-end: 1em;
+        }
+
+sup {
+    font-size: var(--fs-100);
+}
+
+@media(min-width: 35em) {
+
+    .lab {
+        display: flex;
+        gap: 1em;
+        /*font-size: unset;*/
+        justify-content:center;
+    }
+
+    .lab-center {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .lab-instructions,
+    .lab-input {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lab-main {
+        width: 600px;
+        min-height: 400px;
+    }    
+
+    .lab-left > .toolbar-wrapper,
+    .lab-right > .toolbar-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .toolbar-item {
+        width: 7em;
+    }
+
+    .toolbar-item-title {
+    }
+
+    .input-table {
+        display: flex;
+        gap: 1em;
+    }
+
+        .input-table-row,
+        .input-table > div {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+            .input-table-row > div {
+                display: flex;
+                /*gap: 0.2em;*/
+                padding-inline-end: 0;
+            }
+}
+

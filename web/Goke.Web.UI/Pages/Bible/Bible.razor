@@ -2,26 +2,28 @@
 
 <div class="remove-parent-padding">
     <div class="tab" style="--tab-height: 90vh">
-        <div class="tab-controller ">
-            <div class="tab-controller-labels show-text show-radio">
+        <ul class="tab-nav-wrapper">
+            <li class="tab-nav-item">
                 <label class="tab-page-controller-label">
                     <span>Bible</span>
                     <input type="radio" name="tab-page" id="tabpage1" class="tab-page-controller" checked>
                 </label>
+            </li>
+            <li>
                 <label class="tab-page-controller-label">
                     <span>Note</span>
                     <input type="radio" name="tab-page" id="tabpage2" class="tab-page-controller">
                 </label>
+            </li>
+            <li>
                 <label class="tab-page-controller-label">
                     <span>Parallel</span>
                     <input type="radio" name="tab-page" id="tabpage3" class="tab-page-controller">
                 </label>
-
-            </div>
-        </div>
-
-        <div class="tab-body">
-            <div class="tab-page pp-0 pt-0">
+            </li>
+        </ul>
+        <div class="tab-pages-wrapper">
+            <div class="tab-page pt-0" style="padding-top:0;">
                 <BibleChapter />
             </div>
 

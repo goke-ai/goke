@@ -1,0 +1,32 @@
+﻿@using Goke.Razor.Components
+
+@if(ToolbarItems is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+<div class="toolbar-wrapper">
+    @foreach(var item in ToolbarItems)
+    {
+    <div class="toolbar-item" @onclick=@(()=>HandleSelectItem(item))>
+        <div class="toolbar-item-icon">
+            <img src="@item.Image" />
+        </div>
+        <div class="toolbar-item-title">@item.Title</div>
+    </div>
+    }
+</div>
+}
+@code {
+
+    [Parameter]
+    public List<ToolbarItem>? ToolbarItems { get; set; }
+    [Parameter]
+    public EventCallback<ToolbarItem> OnSelectToolbarItem { get; set; }
+
+    private async Task HandleSelectItem(ToolbarItem item)
+    {
+        await OnSelectToolbarItem.InvokeAsync(item);
+    }
+}

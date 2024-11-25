@@ -1,4 +1,5 @@
-﻿@if(Transactions is null)
+﻿@using Goke.Web.Shared.Models.Banks
+@if(Transactions is null)
 {
     <div>Loading...</div>
 }
@@ -17,6 +18,6 @@ else
 }
 @code {
     [Parameter]
-    public List<Bank.Transaction>? Transactions { get; set; }
+    public List<Transaction>? Transactions { get; set; }
 
 }

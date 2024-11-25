@@ -1,0 +1,32 @@
+﻿@using Goke.Web.Shared.Models
+
+@if(Apparatuses is null)
+{
+    <div>Loading...</div>
+}
+else
+{
+<div class="toolbar-wrapper">
+    @foreach(var item in Apparatuses)
+    {
+    <div class="toolbar-item" @onclick=@(()=>HandleSelectedItem(item))>
+        <div class="toolbar-item-icon">
+            <img src="@item.Media" />
+        </div>
+        <div class="toolbar-item-title">@item.Title</div>
+    </div>
+    }
+</div>
+}
+@code {
+
+    [Parameter]
+    public List<Apparatus>? Apparatuses { get; set; }
+    [Parameter]
+    public EventCallback<Apparatus> OnSelectedApparatus { get; set; }
+
+    private async Task HandleSelectedItem(Apparatus item)
+    {
+        await OnSelectedApparatus.InvokeAsync(item);
+    }
+}

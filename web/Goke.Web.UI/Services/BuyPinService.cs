@@ -1,5 +1,5 @@
-﻿using Goke.Web.UI.Identity.Models;
-using Goke.Web.UI.Models;
+﻿using Goke.Web.Shared.Models.Markets;
+using Goke.Web.UI.Identity.Models;
 using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text.Json;
@@ -17,7 +17,7 @@ namespace Goke.Web.UI.Services
             httpClient = httpClientFactory.CreateClient("Auth");
         }
 
-        public async Task<FormResult> BuyAsync(string email, OrderLineItem order)
+        public async Task<FormResult> BuyAsync(string email, OrderItem order)
         {
             //return new FormResult { Succeeded = true };
 
@@ -25,7 +25,6 @@ namespace Goke.Web.UI.Services
 
             try
             {
-
                 // make the request
                 var result = await httpClient.PostAsJsonAsync(
                     "api/buypin", new

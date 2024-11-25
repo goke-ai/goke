@@ -1,4 +1,5 @@
 ﻿@page "/buy-pin"
+@using Goke.Web.Shared.Models.Markets
 @using Goke.Web.UI.Models
 @using Goke.Web.UI.Services
 
@@ -75,16 +76,12 @@ else
 
     private string email = string.Empty;
     private string confirmEmail = string.Empty;
-    OrderLineItem order = new();
+    OrderItem order = new();
 
-    List<ProductPrice> items = [
-        new(){Id=1, Product = new(){Id=1,Name="1 day"  }, Price=1m },
-    new(){Id=2,Product = new(){Id=2,Name="7 days"  }, Price=6.5m },
-    new(){Id=3,Product = new(){Id=3,Name="28 days"  }, Price=25m },
-    ];
+    List<ShopItem> items = Market.SHOPITEMS;
 
 
-    void OnProductSelected(ProductPrice item)
+    void OnProductSelected(ShopItem item)
     {
         order.ProductId = item.Product.Id;
         order.Quantity = 1;

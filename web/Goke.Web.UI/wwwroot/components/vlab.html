@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vlab</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+        .lab-area * {
+            /*outline: solid orangered 1px;*/
+        }
+
+        .lab-area {
+            height: 90vh;
+            outline: solid orangered 1px;
+        }
+
+        .lab {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            height: 100%;
+            outline: solid purple 1px;
+        }
+
+        .lab-top {
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+
+        }
+
+        .lab-bottom {}
+
+
+
+        .lab-video {
+            height: 50vh;
+            outline: solid green 1px
+        }
+
+        .lab-toolbar-left,
+        .lab-toolbar-right {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .lab-toolbar-left,
+        .lab-toolbar-right,
+        .lab-toolbar-bottom {
+            overflow: auto;
+            white-space: nowrap;
+        }
+
+        .toolbar-item {
+            display: inline-block;
+            width: 8em;
+            padding: 0.25em;
+
+            vertical-align: top;
+        }
+
+        .toolbar-icon {
+            width: 100%;
+        }
+
+        .toolbar-title {
+            text-align: center;
+            line-height: 1;
+            white-space: wrap;
+        }
+
+        @media (max-width: 35em) {
+            .lab-top {
+                grid-template-columns: 1fr;
+
+            }
+
+            .lab-toolbar-left,
+            .lab-toolbar-right {
+                flex-direction: unset;
+            }
+
+            .toolbar-item {
+                width: 5em;
+
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+    <section class="primary-layout flex">
+        <section class="page">
+            <main>
+                <div class="wrapper flow">
+                    <div class="lab-area">
+                        <div class="lab-timer">66s</div>
+                        <div class="lab">
+                            <div class="lab-top">
+                                <div class="lab-top-left">
+                                    <ul class="lab-toolbar-left">
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="lab-top-center">
+                                    <div class="lab-video">
+                                        lab-top-center
+                                    </div>
+                                </div>
+                                <div class="lab-top-right">
+                                    <ul class="lab-toolbar-right">
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                        <li class="toolbar-item">
+                                            <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                            <div class="toolbar-title">Beaker</div>
+                                        </li>
+                                        <li class="toolbar-item" title="Round Bottom Flask">
+                                            <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                            <div class="toolbar-title">Round Bottom Flask</div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="lab-bottom">
+                                <ul class="lab-toolbar-bottom">
+                                    <li class="toolbar-item">
+                                        <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                        <div class="toolbar-title">Beaker</div>
+                                    </li>
+                                    <li class="toolbar-item" title="Round Bottom Flask">
+                                        <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                        <div class="toolbar-title">Round Bottom Flask</div>
+                                    </li>
+                                    <li class="toolbar-item">
+                                        <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                        <div class="toolbar-title">Beaker</div>
+                                    </li>
+                                    <li class="toolbar-item" title="Round Bottom Flask">
+                                        <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                        <div class="toolbar-title">Round Bottom Flask</div>
+                                    </li>
+                                    <li class="toolbar-item">
+                                        <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                        <div class="toolbar-title">Beaker</div>
+                                    </li>
+                                    <li class="toolbar-item" title="Round Bottom Flask">
+                                        <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                        <div class="toolbar-title">Round Bottom Flask</div>
+                                    </li>
+                                    <li class="toolbar-item">
+                                        <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                        <div class="toolbar-title">Beaker</div>
+                                    </li>
+                                    <li class="toolbar-item" title="Round Bottom Flask">
+                                        <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                        <div class="toolbar-title">Round Bottom Flask</div>
+                                    </li>
+                                    <li class="toolbar-item">
+                                        <img class="toolbar-icon" src="default.png" alt="Beaker" title="Beaker">
+                                        <div class="toolbar-title">Beaker</div>
+                                    </li>
+                                    <li class="toolbar-item" title="Round Bottom Flask">
+                                        <img class="toolbar-icon" src="default.png" alt="Round Bottom Flask">
+                                        <div class="toolbar-title">Round Bottom Flask</div>
+                                    </li>
+
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </section>
+    </section>
+
+    <script src="js/base.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

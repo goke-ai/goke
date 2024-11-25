@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vlab</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+        .lab-area * {
+            /*outline: solid orangered 1px;*/
+        }
+
+        .lab-area {
+            height: 90vh;
+            outline: solid orangered 1px;
+        }
+    </style>
+</head>
+
+<body>
+    <section class="primary-layout flex">
+        <section class="page">
+            <main>
+                <div class="wrapper flow">
+                    <div class="lab-area">
+                        <div class="lab-timer">66s</div>
+                        <div class="lab">
+                            <div class="lab-left">
+                                lab-left
+                            </div>
+                            <div class="lab-center">
+                                <div class="lab-instructions">
+                                    lab-instructions
+                                </div>
+                                <div class="lab-input">
+                                    HCl + NaOH --> NaCl + H2O
+                                </div>
+                                <div class="lab-main">
+                                    <div class="lab-video">
+                                        <video src="beaker.mp4" controls></video>
+                                    </div>
+                                </div>
+
+                                <div class="lab-bottom">lab-bottom
+                                </div>
+                            </div>
+                            <div class="lab-right">lab-right
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </section>
+    </section>
+
+    <script src="js/base.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

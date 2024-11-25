@@ -1,5 +1,6 @@
 ﻿@page "/games/chemistry"
 @using Goke.Razor.Components
+@using Goke.Web.Shared.Experiments.Models
 @using Goke.Web.Shared.Models
 
 <PageTitle>Chemistry Game</PageTitle>
@@ -185,7 +186,7 @@
                             foreach (var p in _apparatuses)
                             {
                                 <div class="tile" style="cursor: pointer;"
-                                     @onclick="@(()=>_selected = p.Item)"
+                                     @onclick="@(()=>_selected = p.Type)"
                                      @ondragstart="@((e) => HandleDragStart(e, p))"
                                      draggable="true">
                                     <div>
@@ -251,17 +252,17 @@
     bool _isGameOn;
     GameStatus _gameStatus;
 
-    Titration titration = new();
+    AcidBaseModel titration = new();
     List<Apparatus> _apparatuses = default!;
 
-    ApparatusItem _selected;
-    ApparatusItem _target;
-    ApparatusItem _previousTarget;
+    ApparatusType _selected;
+    ApparatusType _target;
+    ApparatusType _previousTarget;
     string _action = @"<div>Drag and Drop Apparatus here.</div>";
     int _actionTime, _minTimeInSeconds;
     int _order;
 
-    Queue<ApparatusItem>? queueItems;
+    Queue<ApparatusType>? queueItems;
 
     static System.Timers.Timer _timer = new(1000);
     string _clock = default!;
@@ -320,10 +321,10 @@
 
     void NextSequence(int index)
     {
-        if (index < titration.Sequences.Count)
+        if (index < AcidBaseModel.Sequences.Count)
         {
-            queueItems = new(titration.Sequences[index]);
-            _target = ApparatusItem.None;
+            queueItems = new(AcidBaseModel.Sequences[index]);
+            _target = ApparatusType.None;
 
             if (queueItems?.Count() > 0)
             {
@@ -337,9 +338,9 @@
 
     void OnLaboratoryTable()
     {
-        if (_target == _selected && _target != ApparatusItem.None && _selected != ApparatusItem.None)
+        if (_target == _selected && _target != ApparatusType.None && _selected != ApparatusType.None)
         {
-            var selectedApparatus = titration.Apparatuses.First(w => w.Item == _selected);
+            var selectedApparatus = titration.Apparatuses.First(w => w.Type == _selected);
             if (selectedApparatus.Update is not null)
             {
                 selectedApparatus.Update(titration.Apparatuses, _target, _previousTarget);
@@ -384,10 +385,10 @@
 
     void HandleDrop(DragEventArgs e)
     {
-        _selected = _selectedApparatus!.Item;
+        _selected = _selectedApparatus!.Type;
         if (_target == _selected)
         {
-            if (_target == ApparatusItem.Titration)
+            if (_target == ApparatusType.Titration)
             {
                 _showTitrationTimer = true;
             }

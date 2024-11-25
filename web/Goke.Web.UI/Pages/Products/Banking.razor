@@ -1,4 +1,5 @@
 ﻿@page "/products/banking"
+@using Goke.Web.Shared.Models.Banks
 
 @inject ILogger<Banking> Logger
 
@@ -266,11 +267,11 @@
     
     Bank bank = Bank.GetSampleBank("Goke Oladokun");
 
-    Bank.Account? Savings => bank.InterestEarnings?.FirstOrDefault();
-    Bank.Account? GiftCards => bank.GiftCards?.FirstOrDefault();
-    Bank.Account? LineOfCredits => bank.LineOfCredits?.FirstOrDefault();
+    Account? Savings => bank.InterestEarnings?.FirstOrDefault();
+    Account? GiftCards => bank.GiftCards?.FirstOrDefault();
+    Account? LineOfCredits => bank.LineOfCredits?.FirstOrDefault();
 
-    Bank.Account? account;
+    Account? account;
 
     PageToShow accountsPrevPage = PageToShow.Accounts;
     PageToShow accountsCurrentPage = PageToShow.Accounts;
@@ -280,7 +281,7 @@
         accountsCurrentPage = accountsPrevPage;
     }
 
-    private void OnAllTransactions(Bank.Account account)
+    private void OnAllTransactions(Account account)
     {
         this.account = account;
         accountsPrevPage = accountsCurrentPage;
